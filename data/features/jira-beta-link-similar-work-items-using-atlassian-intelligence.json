@@ -1,0 +1,29 @@
+{
+  "id": "jira-beta-link-similar-work-items-using-atlassian-intelligence",
+  "title": "Beta: Link similar work items using Atlassian Intelligence",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "This Atlassian Intelligence (AI) feature is in beta. Read more about Atlassian Intelligence features Use AI to surface and link work items that are similar to yours. Linking similar work items that have been worked on in the past can help you understand the complexity of planning and be a great resource for referring to prior art when coding. To find and link similar work items using AI:",
+  "announced_date": "2025-12-01",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-12-01",
+  "last_seen_week": "2025-12-01",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025",
+  "history": [
+    {
+      "date": "2025-12-01",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

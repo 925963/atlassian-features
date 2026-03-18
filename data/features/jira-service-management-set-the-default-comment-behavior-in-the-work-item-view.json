@@ -1,0 +1,29 @@
+{
+  "id": "jira-service-management-set-the-default-comment-behavior-in-the-work-item-view",
+  "title": "Set the default comment behavior in the work item view",
+  "product": "Jira Service Management",
+  "status": "rollout_complete",
+  "description": "We're introducing the ability for admins to set the default behavior for comments on the work item view (in addition to transition screens, which has already been released). Admins can now configure the default comment behavior at the instance level, ensuring that the setting aligns with their organization's communication preferences. As part of this change, admins can choose whether comments default to 'Internal note' or 'Reply to customer' in both the transition screen and the work item view, ",
+  "announced_date": "2025-11-10",
+  "rollout_start_date": "2025-11-03",
+  "rollout_end_date": "2025-11-10",
+  "last_seen_week": "2025-11-10",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025",
+  "history": [
+    {
+      "date": "2025-11-10",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2025-11-03",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

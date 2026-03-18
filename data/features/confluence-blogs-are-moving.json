@@ -1,0 +1,24 @@
+{
+  "id": "confluence-blogs-are-moving",
+  "title": "Blogs are moving",
+  "product": "Confluence",
+  "status": "rollout_complete",
+  "description": "To help you keep your spaces clean and tidy, we're hiding blogs for new spaces and current spaces where blogs aren't being used. For all other spaces, we're moving blogs into the content tree so they're close to the rest of your work. You can find them in their own section, below Content. To turn blogs back on, or turn them off if you're no longer using them:",
+  "announced_date": "2025-12-22",
+  "rollout_start_date": "2025-12-22",
+  "rollout_end_date": "2025-12-22",
+  "last_seen_week": "2025-12-22",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-22-to-dec-29-2025",
+  "history": [
+    {
+      "date": "2025-12-22",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-22-to-dec-29-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

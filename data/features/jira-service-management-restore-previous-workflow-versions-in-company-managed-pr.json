@@ -1,0 +1,34 @@
+{
+  "id": "jira-service-management-restore-previous-workflow-versions-in-company-managed-pr",
+  "title": "Restore previous workflow versions in company-managed projects",
+  "product": "Jira Service Management",
+  "status": "rollout_complete",
+  "description": "Earlier versions of a workflow can now be restored directly from the workflow editor in company-managed projects. Previous versions are available for up to a month, allowing you to recover recent configuration and undo changes if needed. To restore a previous workflow version from the workflow editor: Select the More actions menu, then Restore workflow to an earlier version.\n\tChoose the version you want to restore and select Restore.",
+  "announced_date": "2025-12-29",
+  "rollout_start_date": "2025-12-15",
+  "rollout_end_date": "2025-12-29",
+  "last_seen_week": "2025-12-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026",
+  "history": [
+    {
+      "date": "2025-12-29",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026"
+    },
+    {
+      "date": "2025-12-15",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

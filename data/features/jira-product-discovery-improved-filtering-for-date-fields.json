@@ -1,0 +1,29 @@
+{
+  "id": "jira-product-discovery-improved-filtering-for-date-fields",
+  "title": "Improved filtering for date fields",
+  "product": "Jira Product Discovery",
+  "status": "rollout_complete",
+  "description": "Efficiently organize and find ideas using improved filtering options for the date fields in Jira Product Discovery. Filter ideas by fixed dates for specific timeframes, rolling dates for dynamic periods, or identify ideas with missing dates. This enhanced filtering helps product teams better track idea progress, manage discovery backlogs, and quickly access relevant ideas during planning sessions.\nMore about filters",
+  "announced_date": "2026-01-05",
+  "rollout_start_date": "2025-12-29",
+  "rollout_end_date": "2026-01-05",
+  "last_seen_week": "2026-01-05",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026",
+  "history": [
+    {
+      "date": "2026-01-05",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2025-12-29",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

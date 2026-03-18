@@ -1,0 +1,24 @@
+{
+  "id": "jira-project-delete-improvements",
+  "title": "Project delete improvements",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "We’re making the project deletion process easier to follow. When a project is moved to trash and marked for deletion, you have a 60 day window in which to restore a project. After that, the project will be permanently deleted. With this change, if you don’t require the 60 day grace period, you can select 'Delete now' from the project trash list menu. A ‘Deleting now’ message confirms the project deletion process is underway.",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

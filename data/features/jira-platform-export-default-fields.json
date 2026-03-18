@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-export-default-fields",
+  "title": "Export default fields",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "We’ve made exporting your data even easier by making improvements to Jira’s CSV export functionality. This streamlines the process of exporting work items by using your preferred settings. To use your default fields with a saved filter: Select a saved filter in All work view, or select a saved filter under Filters in the sidebar.\n\tSelect More actions (…) menu at the top-right.\n\tChoose Export.\n\tSelect Export CSV (my defaults) or Export Excel CSV (my defaults).\n\tYour exported file will contain onl",
+  "announced_date": "2025-12-29",
+  "rollout_start_date": "2025-12-15",
+  "rollout_end_date": "2025-12-29",
+  "last_seen_week": "2025-12-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026",
+  "history": [
+    {
+      "date": "2025-12-29",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026"
+    },
+    {
+      "date": "2025-12-15",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

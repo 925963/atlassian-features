@@ -1,0 +1,29 @@
+{
+  "id": "atlassian-administration-limit-mobile-app-sessions-for-users",
+  "title": "Limit mobile app sessions for users",
+  "product": "Atlassian Administration",
+  "status": "rollout_complete",
+  "description": "You can now control when a mobile app session expires from an authentication policy. You’re able to update the mobile app session setting with the number of days for a session. This setting applies only to managed accounts in an authentication policy. To ensure uninterrupted access to the mobile app, we prompt users to re-authenticate before their session expires. Mobile app session applies to these mobile apps:\nJira Cloud \nConfluence Cloud \nOpsgenie (Atlassian Accounts only)",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-17",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2025-11-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "confluence-accessibility-improvements-for-embedding-databases",
+  "title": "Accessibility improvements for embedding databases",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "We've updated the design for embedding a database to improve accessibility.",
+  "announced_date": "2026-02-09",
+  "rollout_start_date": "2026-02-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-02-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-9-to-feb-16-2026",
+  "history": [
+    {
+      "date": "2026-02-09",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-9-to-feb-16-2026"
+    }
+  ]
+}

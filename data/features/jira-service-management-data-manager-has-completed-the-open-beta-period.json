@@ -1,0 +1,24 @@
+{
+  "id": "jira-service-management-data-manager-has-completed-the-open-beta-period",
+  "title": "Data Manager has completed the Open Beta period",
+  "product": "Jira Service Management",
+  "status": "coming_soon",
+  "description": "Data Manager has completed the Open Beta period We’re pleased to announce that Data Manager has now completed the Open Beta period and will be available as a standard feature to all users with an Atlassian Cloud Premium or Enterprise instance of Assets.",
+  "announced_date": "2026-01-26",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-01-26",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026",
+  "history": [
+    {
+      "date": "2026-01-26",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026"
+    }
+  ]
+}

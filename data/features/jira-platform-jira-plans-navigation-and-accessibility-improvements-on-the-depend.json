@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-jira-plans-navigation-and-accessibility-improvements-on-the-depend",
+  "title": "Jira Plans: Navigation and accessibility improvements on the Dependencies view",
+  "product": "Jira platform",
+  "status": "released",
+  "description": "We've added extra keyboard navigation and accessibility features on the Dependencies view in Plans. With this release, you can now: use your mouse or trackpad's scroll function to either pan across the view or zoom in or out. You can switch between these using the Zoom on scroll checkbox in the view menu where you usually select the zoom level.\n\tquickly view linked work items using Highlight linked work item in a card's ••• menu\n\tgo to different sections of your dependencies view using the Skip ",
+  "announced_date": "2025-11-03",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-11-03",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025",
+  "history": [
+    {
+      "date": "2025-11-03",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    }
+  ]
+}

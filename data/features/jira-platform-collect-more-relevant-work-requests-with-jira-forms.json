@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-collect-more-relevant-work-requests-with-jira-forms",
+  "title": "Collect more relevant work requests with Jira forms",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "Collect only the relevant details from your stakeholders. By creating conditions, you can now show specific questions based on responses to previous questions. To begin creating conditions on a form, you’ll need project admin access: Open a Jira project and navigate to Forms in the project navigation.\n\tSelect an existing form or select + Create form.\n\tAdd a priority field, or any custom multi-select or single-select fields to the form builder.\n\tSelect that field from the form builder to edit.\n\tS",
+  "announced_date": "2025-11-10",
+  "rollout_start_date": "2025-11-03",
+  "rollout_end_date": "2025-11-10",
+  "last_seen_week": "2025-11-10",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025",
+  "history": [
+    {
+      "date": "2025-11-10",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2025-11-03",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

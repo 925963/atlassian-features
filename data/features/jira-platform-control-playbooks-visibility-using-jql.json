@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-control-playbooks-visibility-using-jql",
+  "title": "Control playbooks visibility using JQL",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "You can now use JQL in the playbook details section to control playbook visibility. This helps agents see only the most relevant playbooks, improving process efficiency and reducing noise. Read more about playbook details.",
+  "announced_date": "2026-01-05",
+  "rollout_start_date": "2025-12-29",
+  "rollout_end_date": "2026-01-05",
+  "last_seen_week": "2026-01-05",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026",
+  "history": [
+    {
+      "date": "2026-01-05",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2025-12-29",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

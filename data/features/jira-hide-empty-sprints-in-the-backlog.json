@@ -1,0 +1,24 @@
+{
+  "id": "jira-hide-empty-sprints-in-the-backlog",
+  "title": "Hide empty sprints in the backlog",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "You can now hide empty sprints from the backlog in software projects that use scrum. This helps you focus on sprints with active work and keeps your backlog organized. To hide empty sprints in your backlog: Select Backlog.\n\tSelect View settings.\n\tSelect the toggle next to Empty sprints to hide sprints that don’t contain any work items.\n\tSelect the toggle again to show empty sprints.",
+  "announced_date": "2025-11-17",
+  "rollout_start_date": "2025-11-17",
+  "rollout_end_date": "2025-11-17",
+  "last_seen_week": "2025-11-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025",
+  "history": [
+    {
+      "date": "2025-11-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "atlassian-administration-fix-broken-links-after-migrating-from-one-cloud-site-to",
+  "title": "Fix broken links after migrating from one cloud site to another",
+  "product": "Atlassian Administration",
+  "status": "rollout_complete",
+  "description": "When migrating Jira Cloud or Confluence Cloud to a different site, some links between individual entities may break due to changes in the URL. This typically includes: Links to Jira work items that users have pasted as URLs in comments and descriptions. Links from other instances to the migrated site, such as links from Confluence pages to your Jira work items.",
+  "announced_date": "2025-12-08",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-12-08",
+  "last_seen_week": "2025-12-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025",
+  "history": [
+    {
+      "date": "2025-12-08",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

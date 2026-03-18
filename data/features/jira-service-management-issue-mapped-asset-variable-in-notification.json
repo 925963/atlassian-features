@@ -1,0 +1,24 @@
+{
+  "id": "jira-service-management-issue-mapped-asset-variable-in-notification",
+  "title": "Issue mapped asset variable in notification",
+  "product": "Jira Service Management",
+  "status": "rollout_complete",
+  "description": "We've added an asset object variable directly to a work item, allowing you and your team to easily view when a work item is updated or created. To add an asset object variables to your work items: From your service project, select Project settings then Notification.\n\tUnder Notification, navigate to Customer notifications and select a notification you want to edit.\n\tIn the Content field, select Asset object under Insert variable.\n\tSelect Save to confirm your changes.",
+  "announced_date": "2025-10-27",
+  "rollout_start_date": "2025-10-27",
+  "rollout_end_date": "2025-10-27",
+  "last_seen_week": "2025-10-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025",
+  "history": [
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

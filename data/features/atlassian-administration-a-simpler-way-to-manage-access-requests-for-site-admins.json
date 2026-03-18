@@ -1,0 +1,29 @@
+{
+  "id": "atlassian-administration-a-simpler-way-to-manage-access-requests-for-site-admins",
+  "title": "A simpler way to manage access requests for site admins",
+  "product": "Atlassian Administration",
+  "status": "rollout_complete",
+  "description": "The site-level access requests page is being retired. Now, when site admins need to manage access requests, they will be directed to the User request management page for a more streamlined experience. To manage access requests as a site admin: Go to Atlassian Administration.\n\tSelect User requests from the menu.\n\tReview and manage all pending access requests from this central location.",
+  "announced_date": "2025-11-10",
+  "rollout_start_date": "2025-11-03",
+  "rollout_end_date": "2025-11-10",
+  "last_seen_week": "2025-11-10",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025",
+  "history": [
+    {
+      "date": "2025-11-10",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2025-11-03",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

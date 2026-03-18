@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-manage-work-types-when-creating-issues-in-team-managed-projects",
+  "title": "Manage work types when creating issues in team-managed projects",
+  "product": "Jira platform",
+  "status": "released",
+  "description": "To help keep your work types updated as your needs change, we’ve added the ability to manage work types when creating issues in team-managed software and business projects. When creating an issue from the top navigation bar, admins can now create and edit work types, or navigate to the work type settings page for more options. You must be a project admin to be able to add and edit work types when creating issues.",
+  "announced_date": "2025-10-27",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-10-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025",
+  "history": [
+    {
+      "date": "2025-10-27",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    }
+  ]
+}

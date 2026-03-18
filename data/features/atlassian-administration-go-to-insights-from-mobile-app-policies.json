@@ -1,0 +1,29 @@
+{
+  "id": "atlassian-administration-go-to-insights-from-mobile-app-policies",
+  "title": "Go to insights from mobile app policies",
+  "product": "Atlassian Administration",
+  "status": "rollout_complete",
+  "description": "We added a link to mobile usage insights on the mobile app policies page. You can now navigate to mobile insights easily after creating or updating a mobile app policy. To view mobile app usage information: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Security > Insights.\n\tSelect the Mobile usage tab.",
+  "announced_date": "2025-12-15",
+  "rollout_start_date": "2025-12-08",
+  "rollout_end_date": "2025-12-15",
+  "last_seen_week": "2025-12-15",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025",
+  "history": [
+    {
+      "date": "2025-12-15",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

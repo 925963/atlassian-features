@@ -2,7 +2,7 @@
   "id": "jira-service-management-a-better-way-to-improve-descriptions-with-google-docs-li",
   "title": "A better way to improve descriptions with Google Docs links",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rolling_out_new",
   "description": "You can now use Google Docs links when improving work item descriptions. This update makes it easier to bring in content from your favorite document tool to help you write better work item descriptions. To use Google Docs links in the description improver: Open a work item where you want to improve the description.\n\tPaste a Google Docs link into the description field.\n\tSelect Improve description.\n\tFollow the prompts to generate an improved description using your linked Google Doc.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2025-11-03",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
     }
   ]
 }

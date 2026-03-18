@@ -2,10 +2,10 @@
   "id": "jira-service-management-jira-introducing-an-improvement-to-attachment-previews",
   "title": "Jira: Introducing an improvement to attachment previews",
   "product": "Jira Service Management",
-  "status": "coming_soon",
+  "status": "rolling_out",
   "description": "Introducing Grid view for attachments. This change improves the organization and visualization of attachments. Attachments appear in a grid view rather than the strip view and list view. You'll still be able to switch to another view, and save that as the default if you prefer.",
   "announced_date": "2026-02-16",
-  "rollout_start_date": null,
+  "rollout_start_date": "2025-10-27",
   "rollout_end_date": null,
   "last_seen_week": "2026-02-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026",
@@ -14,6 +14,11 @@
       "date": "2026-02-16",
       "status": "coming_soon",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
     }
   ]
 }

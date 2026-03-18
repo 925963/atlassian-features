@@ -1,0 +1,24 @@
+{
+  "id": "focus-mercurywebenableuserpreferencesstore",
+  "title": "mercury_web_enable_user_preferences_store",
+  "product": "Focus",
+  "status": "rolling_out_new",
+  "description": "Focus now saves the columns you turn on or off, so your view stays the same when you come back—no need to set it up again each time. To get started with this change: Go to Focus and open your Sub-focus areas, Goals, or Work.\n\tSelect Customize and choose the columns you want to see.\n\tLeave the page or refresh your browser, then return to the table. Your column preferences will still be applied.",
+  "announced_date": "2026-01-19",
+  "rollout_start_date": "2026-01-12",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-01-19",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026",
+  "history": [
+    {
+      "date": "2026-01-19",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026"
+    },
+    {
+      "date": "2026-01-12",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    }
+  ]
+}

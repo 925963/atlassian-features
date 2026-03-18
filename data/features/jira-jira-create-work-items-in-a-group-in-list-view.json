@@ -1,0 +1,24 @@
+{
+  "id": "jira-jira-create-work-items-in-a-group-in-list-view",
+  "title": "Jira: Create work items in a group in list view",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "You can now create work items directly within a group in the list view. This feature automatically adds the group field (such as assignee) to the new work item, streamlining your workflow. To create a work item in a group: Go to the list view in your project.\n\tSelect the group where you want to create the work item.\n\tSelect Create to add a new work item, which will automatically include the group field.",
+  "announced_date": "2025-11-10",
+  "rollout_start_date": "2025-11-10",
+  "rollout_end_date": "2025-11-10",
+  "last_seen_week": "2025-11-10",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025",
+  "history": [
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

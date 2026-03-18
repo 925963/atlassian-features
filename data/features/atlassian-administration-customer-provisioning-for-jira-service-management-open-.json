@@ -2,7 +2,7 @@
   "id": "atlassian-administration-customer-provisioning-for-jira-service-management-open-",
   "title": "Customer Provisioning for Jira Service Management – open beta now available",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "coming_soon",
   "description": "We’re excited to announce that customer provisioning for Jira Service Management is now available as an open beta feature. This powerful new capability allows you to seamlessly sync and manage portal-only customers and customer organizations directly from your external identity provider (IdP) using SCIM 2.0. You can automate customer account creation, updates, and deactivation, streamlining customer management and improving security across Jira Service Management spaces. Support for leading iden",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2025-11-03",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
     }
   ]
 }

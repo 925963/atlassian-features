@@ -2,7 +2,7 @@
   "id": "jira-platform-access-media-assets-securely-with-ip-allowlist-restrictions",
   "title": "Access media assets securely with IP allowlist restrictions",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rolling_out_new",
   "description": "We’re introducing IP allowlist restrictions for media asset domains. Only IP addresses on your organization’s allowlist will be able to access media assets (attachments, images, and videos) hosted on media-cdn.atlassian.com and api.media.atlassian.com. If you use third-party security tools like Zscaler, make sure to allowlist [Source IP Anchoring|https://help.zscaler.com/zia/understanding-source-ip-anchoring] *.atlassian.com to avoid disruptions. The cache invalidation takes effect 29 days after",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
     }
   ]
 }

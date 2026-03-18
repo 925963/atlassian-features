@@ -1,0 +1,24 @@
+{
+  "id": "jira-map-data-to-jira-issue-types-to-organize-your-project-better",
+  "title": "Map data to Jira issue types to organize your project better",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "In the new import experience, we're adding a capability for administrators to set up[ issue types|https://support.atlassian.com/jira-cloud-administration/docs/what-are-issue-types/] and hierarchies. This can help you categorize and organize your team’s work by either assigning Jira issue types (epic, task, story, bug, and/or subtask) or creating custom issue types before importing. When importing data, map column headers from your CSV file to issue type, issue ID, and parent fields. In the next ",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

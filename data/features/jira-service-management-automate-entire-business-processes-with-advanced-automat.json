@@ -1,0 +1,29 @@
+{
+  "id": "jira-service-management-automate-entire-business-processes-with-advanced-automat",
+  "title": "Automate entire business processes with advanced automation rules",
+  "product": "Jira Service Management",
+  "status": "rollout_complete",
+  "description": "Add more functionality to your automation rule, allowing you to link multiple connected processes together in a single rule. This can help reduce the number of rules you need to maintain. We’re beginning with Advanced components such as Branch at the same time, which enables execution of multiple components in parallel. Rule groups enable execution of multiple components in specific segments. Available for Cloud Premium and Enterprise editions only. Find the new Advanced component type available",
+  "announced_date": "2026-01-12",
+  "rollout_start_date": "2026-01-05",
+  "rollout_end_date": "2026-01-12",
+  "last_seen_week": "2026-01-12",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026",
+  "history": [
+    {
+      "date": "2026-01-12",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

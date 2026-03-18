@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-jira-easier-status-updates-for-work-items",
+  "title": "Jira: Easier status updates for work items",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "The status field now appears directly under the work item’s summary, making it easier and faster to find and update the status of your work. To update the status of a work item: Open a work item in your project.\n\tFind the Status field, directly below the Summary field.\n\tSelect the status field to update the state of your work item.",
+  "announced_date": "2025-12-08",
+  "rollout_start_date": "2025-10-27",
+  "rollout_end_date": "2025-12-08",
+  "last_seen_week": "2025-12-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025",
+  "history": [
+    {
+      "date": "2025-12-08",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-see-the-premium-features-in-product-before-starting-a-trial",
+  "title": "See the Premium features in-product before starting a trial",
+  "product": "Jira platform",
+  "status": "released",
+  "description": "We're introducing a new and faster way to understand and upgrade to Jira Service Management Premium trial. Whenever you choose to upgrade to Premium or start a trial, you will see a modal which lists all new features available to you.",
+  "announced_date": "2025-12-08",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-12-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025",
+  "history": [
+    {
+      "date": "2025-12-08",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    }
+  ]
+}

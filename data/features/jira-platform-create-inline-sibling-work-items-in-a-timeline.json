@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-create-inline-sibling-work-items-in-a-timeline",
+  "title": "Create inline sibling work items in a timeline",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "You can add sibling work items directly in your timeline using the Create work item inline, making it easier for you to manage related work items in one place. To create an inline sibling work item in your timeline: Find a work item in your timeline where you want to add a sibling work item.\n\tHover in-between two work items in your plan and select the Create work item inline that appears.\n\tFill in the details of your sibling work item and select Create to save you changes.",
+  "announced_date": "2026-01-26",
+  "rollout_start_date": "2026-01-19",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-01-26",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026",
+  "history": [
+    {
+      "date": "2026-01-26",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026"
+    }
+  ]
+}

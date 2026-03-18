@@ -1,0 +1,24 @@
+{
+  "id": "jira-unlocking-another-level-of-help-center-customization",
+  "title": "Unlocking another level of help center customization",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "The Jira Service Management help center is getting a sleek and modern design update across all its pages, offering new opportunities for customization. Admins will be able customize the help center navigation and manage background and text color for sections in their home page. To customize the navigation: 1. Go to the help center of your choice. 2. Select Customize, then Customize look and feel from the navigation. 3. Scroll down the side panel to find the navigation color settings. To manage s",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-compact-format-in-the-all-work-tab-for-team-managed-and-company-ma",
+  "title": "Compact format in the All work tab for team-managed and company-managed projects",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "Introducing a single row height layout and reduced scrolling, making it easier to scan and manage your work at a glance. Go to your project\n\tSelect the All work tab to view the work in a single row height format.",
+  "announced_date": "2025-11-17",
+  "rollout_start_date": "2025-11-10",
+  "rollout_end_date": "2025-11-17",
+  "last_seen_week": "2025-11-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025",
+  "history": [
+    {
+      "date": "2025-11-17",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

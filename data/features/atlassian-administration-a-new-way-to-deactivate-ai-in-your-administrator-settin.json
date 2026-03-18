@@ -1,0 +1,34 @@
+{
+  "id": "atlassian-administration-a-new-way-to-deactivate-ai-in-your-administrator-settin",
+  "title": "A new way to deactivate AI in your administrator settings",
+  "product": "Atlassian Administration",
+  "status": "rollout_complete",
+  "description": "We have updated the experience for deactivating AI in your administrator settings. This change introduces a new flow that makes it clearer and easier to manage AI deactivation for your organization. To try the new AI deactivation flow: Go to your administrator settings.\n\tFind the section for AI features.\n\tSelect Deactivate AI and follow the updated steps.",
+  "announced_date": "2025-12-08",
+  "rollout_start_date": "2025-12-01",
+  "rollout_end_date": "2025-12-08",
+  "last_seen_week": "2025-12-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025",
+  "history": [
+    {
+      "date": "2025-12-08",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    },
+    {
+      "date": "2025-12-01",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    },
+    {
+      "date": "2025-11-03",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

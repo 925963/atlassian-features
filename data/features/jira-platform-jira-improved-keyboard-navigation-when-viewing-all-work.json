@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-jira-improved-keyboard-navigation-when-viewing-all-work",
+  "title": "Jira: Improved keyboard navigation when viewing All work",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "When you’re viewing work items in Jira’s All work tab, you’ll notice an improved keyboard navigation experience that enhances accessibility for all users. To navigate work items with the keyboard: Use arrow keys to move between cells.\n\tEdit a cell by pressing return (Mac) or enter (Windows). Exit edit mode by pressing esc (Mac and Windows).\n\tUse home and end keys to jump to the start or end of a row.\n\tUse page up and page down to quickly move through your list.",
+  "announced_date": "2026-02-02",
+  "rollout_start_date": "2025-11-10",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-02-02",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-2-to-feb-9-2026",
+  "history": [
+    {
+      "date": "2026-02-02",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-2-to-feb-9-2026"
+    },
+    {
+      "date": "2025-11-17",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    }
+  ]
+}

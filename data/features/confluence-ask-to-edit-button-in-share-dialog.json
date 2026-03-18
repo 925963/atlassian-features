@@ -2,7 +2,7 @@
   "id": "confluence-ask-to-edit-button-in-share-dialog",
   "title": "'Ask to edit' button in Share dialog",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rolling_out_new",
   "description": "You can now easily request editing access to any Confluence content when you have view-only permissions. You'll see a new Ask to edit button in the Share dialog, making it simple to request edit rights for pages, live docs, whiteboards, databases, and blogs. This update helps you understand your current access level and streamlines the process of collaborating with your team. For Confluence content you can view but not edit: Navigate to the Confluence content you want to edit.\n\tSelect the Share ",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
     }
   ]
 }

@@ -1,0 +1,34 @@
+{
+  "id": "focus-inline-editing-for-focus-area-information",
+  "title": "Inline editing for Focus area information",
+  "product": "Focus",
+  "status": "rollout_complete",
+  "description": "You can now make inline edits directly in the focus areas directory and sub-focus areas tables in Focus. This update streamlines editing, saving you time and reducing the number of steps needed to update information. Go to the list of all your Focus areas or your sub-focus areas.\n\tSelect the field (name, type, status, date, owner) you want to edit and make your changes directly in the table.\n\tSave your changes to update the information instantly.",
+  "announced_date": "2026-01-12",
+  "rollout_start_date": "2026-01-05",
+  "rollout_end_date": "2026-01-12",
+  "last_seen_week": "2026-01-12",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026",
+  "history": [
+    {
+      "date": "2026-01-12",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2025-12-15",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

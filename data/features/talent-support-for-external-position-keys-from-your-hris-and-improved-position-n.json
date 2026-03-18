@@ -1,0 +1,34 @@
+{
+  "id": "talent-support-for-external-position-keys-from-your-hris-and-improved-position-n",
+  "title": "Support for external position keys from your HRIS and improved position naming in Talent",
+  "product": "Talent",
+  "status": "rollout_complete",
+  "description": "You can now upload an optional external position key field to Talent as a standard field and use it to refer to positions in your external human resources information system (HRIS) data source, such as Workday. You can search and sort by this field, and re-order or hide this column in Talent. The Position ID field has also been renamed to Position key to make it more readable. To add and use the external position key in Talent: Add the externalPositionKey field to your data source mapping so Tal",
+  "announced_date": "2025-11-17",
+  "rollout_start_date": "2025-11-10",
+  "rollout_end_date": "2025-11-17",
+  "last_seen_week": "2025-11-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025",
+  "history": [
+    {
+      "date": "2025-11-17",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}
