@@ -99,12 +99,14 @@ function parseWeekRange(title) {
   const mo1 = months[m1.toLowerCase()];
   const mo2 = months[m2.toLowerCase()];
 
-  // Handle year boundary (e.g. Dec 29 to Jan 5)
-  const y1 = mo1 === '01' && mo2 === '12' ? String(Number(year) - 1) : year;
+  // Handle year boundary: "Dec 29 to Jan 5, 2026" — year refers to the end month (Jan),
+  // so the start month (Dec) belongs to the previous year.
+  const endYear = parseInt(year, 10);
+  const startYear = (mo1 === '12' && mo2 === '01') ? endYear - 1 : endYear;
 
   return {
-    start: `${y1}-${mo1}-${d1.padStart(2, '0')}`,
-    end: `${year}-${mo2}-${d2.padStart(2, '0')}`,
+    start: `${startYear}-${mo1}-${d1.padStart(2, '0')}`,
+    end: `${endYear}-${mo2}-${d2.padStart(2, '0')}`,
   };
 }
 

@@ -163,8 +163,23 @@ ${rows || '| _None currently_ | | | |'}
 }
 
 function generateNewThisWeekPage(features) {
-  const newFeatures = features.filter(f => f.status === 'rolling_out_new')
-    .sort((a, b) => (b.announced_date || '').localeCompare(a.announced_date || ''));
+  // "New this week" = features whose rolling_out_new status was set in the
+  // most recently scraped week. Find that week first.
+  const allNewFeatures = features.filter(f => f.status === 'rolling_out_new');
+
+  // Find the most recent week date across all rolling_out_new features
+  const latestWeek = allNewFeatures
+    .map(f => f.last_seen_week)
+    .filter(Boolean)
+    .sort()
+    .reverse()[0];
+
+  // Only show features that were last seen in that most recent week
+  const newFeatures = latestWeek
+    ? allNewFeatures.filter(f => f.last_seen_week === latestWeek)
+    : allNewFeatures;
+
+  newFeatures.sort((a, b) => (a.product || '').localeCompare(b.product || ''));
 
   // Group by product
   const byProduct = {};
@@ -181,14 +196,12 @@ function generateNewThisWeekPage(features) {
     return `### ${product}\n\n${items}`;
   }).join('\n\n');
 
-  const latestDate = newFeatures[0]?.announced_date;
-
   return `---
 title: New This Week
 description: Features marked as "Rolling Out — New This Week" in the latest Atlassian Cloud release notes.
 ---
 
-${latestDate ? `**Week of ${formatDate(latestDate)}** — ${newFeatures.length} new feature(s)` : '_No new features this week._'}
+${latestWeek ? `**Week of ${formatDate(latestWeek)}** — ${newFeatures.length} new feature(s)` : '_No new features this week._'}
 
 ${sections || '_Nothing new this week._'}
 `;
