@@ -1,0 +1,24 @@
+{
+  "id": "jira-avoid-accidentally-deleting-work-items",
+  "title": "Avoid accidentally deleting work items",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "We’re changing the way users delete work items to help avoid accidental deletions. When you attempt to delete a work item, you must complete a two-step process to confirm the action. To delete a work item: Select the work item you want to delete.\n\tSelect More actions (•••), then select Delete.\n\tTo go ahead with deleting the work item, type “delete” in the text box.\n\tSelect Delete (this option will only be available after you type “delete” in the text box).",
+  "announced_date": "2025-12-01",
+  "rollout_start_date": "2025-12-01",
+  "rollout_end_date": "2025-12-01",
+  "last_seen_week": "2025-12-01",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025",
+  "history": [
+    {
+      "date": "2025-12-01",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

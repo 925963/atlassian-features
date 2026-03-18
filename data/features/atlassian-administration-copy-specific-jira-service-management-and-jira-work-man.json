@@ -1,0 +1,24 @@
+{
+  "id": "atlassian-administration-copy-specific-jira-service-management-and-jira-work-man",
+  "title": "Copy specific Jira Service Management and Jira Work Management projects to your sandbox",
+  "product": "Atlassian Administration",
+  "status": "rolling_out",
+  "description": "Copy only the projects you need to save time setting up your Jira Service Management and Jira Work Management sandbox. Understand how to select data to copy To copy specific Jira Service Management and Jira Work Management projects from your production to its sandbox: Go to admin.atlassian.com. Select your organization if you have more than one.\n\tSelect Products > Sandbox.\n\tSelect Copy production data for the Jira Service Management or Jira Work Management product.\n\tSelect Specific projects.\n\tSe",
+  "announced_date": "2026-12-29",
+  "rollout_start_date": "2025-12-22",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-12-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026",
+  "history": [
+    {
+      "date": "2026-12-29",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026"
+    },
+    {
+      "date": "2025-12-22",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-22-to-dec-29-2025"
+    }
+  ]
+}

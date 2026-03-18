@@ -1,0 +1,19 @@
+{
+  "id": "jira-summary-view-now-available-in-software-projects",
+  "title": "Summary view now available in software projects",
+  "product": "Jira",
+  "status": "coming_soon",
+  "description": "Project summaries are now available across all Jira Cloud software projects! The _s_ummary view helps you monitor your project's progress by giving you a high-level overview of your team’s work. It includes a snapshot of your project's status, recent activity, priorities, team workload distribution, and epic progress. All Jira software projects have the summary view enabled by default. To view a project summary, navigate to your project, and then select Summary. Read more about the summary view",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    }
+  ]
+}

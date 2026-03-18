@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-see-suggested-search-terms-in-jira-cloud-before-you-start-typing",
+  "title": "See suggested search terms in Jira Cloud before you start typing",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "When performing a search using in Jira using the Quick find, you’ll now see suggested search terms before you enter any text. These suggestions, such as “Show me all of my in-progress work items” and “Recent open items assigned to me,” help you quickly find relevant issues and get started faster. Go to Jira Cloud.\n\tSelect Quick find (the search bar at the top of the screen).",
+  "announced_date": "2025-12-08",
+  "rollout_start_date": "2025-12-08",
+  "rollout_end_date": "2025-12-08",
+  "last_seen_week": "2025-12-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025",
+  "history": [
+    {
+      "date": "2025-12-08",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

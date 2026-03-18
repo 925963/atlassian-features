@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-jira-consolidated-actions-in-the-work-item-view",
+  "title": "Jira: Consolidated actions in the work item view",
+  "product": "Jira platform",
+  "status": "released",
+  "description": "In Jira’s work item view, we’ve moved the Vote and Feedback actions into the More actions (•••) menu. Previously, these actions were available outside of the menu. This change simplifies the work item view and makes it easier to focus on key actions. To see this change, navigate to your Jira project. Select a work item to open the work item view, then select More actions (•••).",
+  "announced_date": "2025-10-27",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-10-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025",
+  "history": [
+    {
+      "date": "2025-10-27",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    }
+  ]
+}

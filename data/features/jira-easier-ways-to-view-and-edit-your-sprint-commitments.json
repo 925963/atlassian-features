@@ -1,0 +1,24 @@
+{
+  "id": "jira-easier-ways-to-view-and-edit-your-sprint-commitments",
+  "title": "Easier ways to view and edit your sprint commitments",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "This change makes it easier for you to spot and adjust sprint commitments in your backlog. Now you can: Quickly understand if the sprint is over or undercommitted, with new icons and recommended improvements. The up arrow shows if the sprint is overcommitted, the down arrow shows it's undercommitted, and the tick indicates it’s just right!Automatically view the related sprint in the insights panel by selecting the sprint commitment icon in the backlog.Turn the sprint commitment icons on or off, ",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

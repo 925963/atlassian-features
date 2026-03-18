@@ -1,0 +1,24 @@
+{
+  "id": "confluence-confluence-enable-2p-toolbar-apps",
+  "title": "confluence enable 2p toolbar apps",
+  "product": "Confluence",
+  "status": "rollout_complete",
+  "description": "You can now see Forge (confluence:contextMenu) and Connect (page.view.selection/action-panel) extension points in the Confluence cloud editor toolbar. This update makes it easier to access and use your favorite apps while working on your content. Open the Confluence cloud editor.\n\tHighlight some content in the editor.\n\tIf your site has toolbar apps installed, you will see them displayed in your editor toolbar for quick access.",
+  "announced_date": "2026-01-12",
+  "rollout_start_date": "2026-01-12",
+  "rollout_end_date": "2026-01-12",
+  "last_seen_week": "2026-01-12",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026",
+  "history": [
+    {
+      "date": "2026-01-12",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

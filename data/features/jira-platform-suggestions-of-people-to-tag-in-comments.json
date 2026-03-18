@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-suggestions-of-people-to-tag-in-comments",
+  "title": "Suggestions of people to tag in comments",
+  "product": "Jira platform",
+  "status": "released",
+  "description": "When adding a comment in a work item, you will now see suggested people to tag, making it easier to involve the right people in discussions.",
+  "announced_date": "2025-12-01",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-12-01",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025",
+  "history": [
+    {
+      "date": "2025-12-01",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    }
+  ]
+}

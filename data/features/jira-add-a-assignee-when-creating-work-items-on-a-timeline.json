@@ -1,0 +1,24 @@
+{
+  "id": "jira-add-a-assignee-when-creating-work-items-on-a-timeline",
+  "title": "Add a assignee when creating work items on a timeline",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "Using the timeline in software projects, you can now add a assignee straightaway when creating a work item. To create a work item with an assignee: Select + Create Epic, or hover over a parent work item and select Create a child work item ( ).\n\tGive the work item a name.\n\tChoose a work type from the dropdown (if your project has more than one work type).\n\tSelect the assignee icon and choose an assignee.\n\tPress enter or return on your keyboard to create your work item.",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

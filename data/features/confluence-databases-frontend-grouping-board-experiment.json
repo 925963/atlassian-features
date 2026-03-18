@@ -1,0 +1,24 @@
+{
+  "id": "confluence-databases-frontend-grouping-board-experiment",
+  "title": "databases-frontend-grouping-board-experiment",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Confluence databases now offer enhanced board layout features, including grouping by user fields, subgrouping, and sorting groups. These improvements help you organize and visualize your data more effectively. To explore this change: Create a new database.\n\tChange the view to board layout by selecting Table layout, then choose Board layout.\n\tOpen the Group panel in the top toolbar to group by a field, add subgroups, or sort groups.",
+  "announced_date": "2026-01-26",
+  "rollout_start_date": "2026-01-26",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-01-26",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026",
+  "history": [
+    {
+      "date": "2026-01-26",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jira-more-historical-data-available-in-velocity-charts",
+  "title": "More historical data available in velocity charts",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "Velocity charts in Jira now show data from more sprints, giving you a clearer picture of your team's productivity over a longer period of time. We've also added an average line so you can easily track your team's average output at a glance. Read more about the velocity chart To view the velocity chart: Start in your Jira software project.\n\tSelect Reports.\n\tSelect Velocity report if you're in a team-managed project, or Velocity chart in a company-managed project.",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

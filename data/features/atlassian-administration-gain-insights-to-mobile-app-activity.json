@@ -2,7 +2,7 @@
   "id": "atlassian-administration-gain-insights-to-mobile-app-activity",
   "title": "Gain insights to mobile app activity",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rolling_out_new",
   "description": "You can now understand mobile app usage for users in your organization. To see mobile app usage in your organization: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Security > Device security > Mobile app policies.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
     }
   ]
 }

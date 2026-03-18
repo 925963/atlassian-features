@@ -1,0 +1,29 @@
+{
+  "id": "jira-template-bundles-in-the-project-create-page",
+  "title": "Template bundles in the project create page",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "Effortlessly create between 2 to 6 projects at once, with bundles. We're helping streamline your project creation process and minimizing the need for repetitive manual tasks. Whether you're working in Jira or Jira Service Management, bundles guarantee a smooth project creation experience. Choose from two pre-set bundles: the Marketing or the IT team bundle. And if they don't fit your requirements, you have the flexibility to customize and create your own bundle. There are a few ways you can crea",
+  "announced_date": "2025-12-01",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-12-01",
+  "last_seen_week": "2025-12-01",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025",
+  "history": [
+    {
+      "date": "2025-12-01",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

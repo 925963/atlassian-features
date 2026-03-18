@@ -1,0 +1,24 @@
+{
+  "id": "jira-more-functionality-in-the-new-workflow-editor-plus-its-becoming-the-default",
+  "title": "More functionality in the new workflow editor, plus it's becoming the default experience",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "This release has two small improvements which means the New workflow editor can do everything that the old workflow editor could do. These changes are: You can set a name for your transitions when you create them, and rename existing transitions.\n\tWhen you change the name of a status that's included in a transition, the transition automatically updates to match the new name. And with those changes, the New Workflow Editor is a worthy successor to the old one, and we're excited for it to become t",
+  "announced_date": "2025-10-27",
+  "rollout_start_date": "2025-10-27",
+  "rollout_end_date": "2025-10-27",
+  "last_seen_week": "2025-10-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025",
+  "history": [
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

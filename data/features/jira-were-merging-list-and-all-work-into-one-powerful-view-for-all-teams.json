@@ -1,0 +1,24 @@
+{
+  "id": "jira-were-merging-list-and-all-work-into-one-powerful-view-for-all-teams",
+  "title": "We’re merging List and All work into one powerful view for all teams",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "Jira now combines the List and All work views into one powerful, unified view for managing work items. It's simply called List. Learn more about the change in our Community announcement. To use the new merged experience: Open your project in Jira.\n\tGo to the main navigation and select the “List” tab (previously “List” or “All work”).\n\tExplore the combined features, including hierarchy, grouping, inline editing, and more — all in one place.",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "bitbucket-manage-how-you-delete-your-account",
+  "title": "Manage how you delete your account",
+  "product": "Bitbucket",
+  "status": "rollout_complete",
+  "description": "When you chose to delete your Bitbucket account, you'll be redirected to your account preferences to complete the process. To delete your Bitbucket account: Select Personal Bitbucket settings then Account settings.\n\tSelect Delete account. You'll be redirected to Atlassian account preferences to confirm your change.",
+  "announced_date": "2026-01-12",
+  "rollout_start_date": "2026-01-05",
+  "rollout_end_date": "2026-01-12",
+  "last_seen_week": "2026-01-12",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026",
+  "history": [
+    {
+      "date": "2026-01-12",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2025-11-03",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

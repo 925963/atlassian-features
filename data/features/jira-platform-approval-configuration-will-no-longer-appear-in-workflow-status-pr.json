@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-approval-configuration-will-no-longer-appear-in-workflow-status-pr",
+  "title": "Approval configuration will no longer appear in workflow status properties",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "We'll move the configuration for Jira Service Management approvals in company-managed projects from status properties to a new approval configuration property. The following endpoints will be affected: • Bulk get workflows",
+  "announced_date": "2026-01-05",
+  "rollout_start_date": "2026-12-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-12-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026",
+  "history": [
+    {
+      "date": "2026-01-05",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2026-12-29",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "confluence-summarize-changes-to-a-page-or-blog-post",
+  "title": "Summarize changes to a page or blog post",
+  "product": "Confluence",
+  "status": "rollout_complete",
+  "description": "Now when Premium and Enterprise customers visit a page for the first time in a while, they can use Atlassian Intelligence to generate a brief summary of changes since their last visit. Use this feature to quickly catch up on changes to a project plan after an important review, or to get a sense of what you missed while you were on vacation. Atlassian Intelligence will only generate a summary if someone has edited the page since your last visit. If there aren't any changes to summarize, it will p",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-10",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

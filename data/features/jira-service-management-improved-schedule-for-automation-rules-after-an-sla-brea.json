@@ -1,0 +1,24 @@
+{
+  "id": "jira-service-management-improved-schedule-for-automation-rules-after-an-sla-brea",
+  "title": "Improved schedule for automation rules after an SLA breach",
+  "product": "Jira Service Management",
+  "status": "rolling_out",
+  "description": "This update fixes how automation rules are scheduled when a service level agreement (SLA) breach occurs in Jira Service Management. Now, any time the SLA is paused after a breach, this paused time will also be included in the automation schedule, making the timing of automation more accurate and predictable.",
+  "announced_date": "2026-02-09",
+  "rollout_start_date": "2026-02-02",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-02-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-9-to-feb-16-2026",
+  "history": [
+    {
+      "date": "2026-02-09",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-9-to-feb-16-2026"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-2-to-feb-9-2026"
+    }
+  ]
+}

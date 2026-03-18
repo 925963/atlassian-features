@@ -2,10 +2,10 @@
   "id": "jira-platform-a-more-stable-way-to-display-media-in-jiras-work-item-view-editor",
   "title": "A more stable way to display media in Jira’s work item view editor",
   "product": "Jira platform",
-  "status": "released",
+  "status": "rolling_out",
   "description": "Media in Jira’s work item view editor will now use pixel widths instead of relative sizing. This change helps prevent media from resizing unexpectedly while content loads, providing a more consistent experience. Resize using the new handle: Resize your images using the drag handle located on the sides of the images. Your image will proportionally grow or shrink based on how much you drag it in and out. Resize using the new pixel entry: Select the image, enter the size in pixels you want, and hit",
   "announced_date": "2026-02-16",
-  "rollout_start_date": null,
+  "rollout_start_date": "2026-02-09",
   "rollout_end_date": null,
   "last_seen_week": "2026-02-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026",
@@ -14,6 +14,11 @@
       "date": "2026-02-16",
       "status": "released",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026"
+    },
+    {
+      "date": "2026-02-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-9-to-feb-16-2026"
     }
   ]
 }

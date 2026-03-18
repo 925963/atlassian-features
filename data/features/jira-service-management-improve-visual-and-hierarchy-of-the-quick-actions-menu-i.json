@@ -1,0 +1,29 @@
+{
+  "id": "jira-service-management-improve-visual-and-hierarchy-of-the-quick-actions-menu-i",
+  "title": "Improve visual and hierarchy of the Quick actions menu in the work item",
+  "product": "Jira Service Management",
+  "status": "rollout_complete",
+  "description": "We’ve improved the Quick actions menu in the work item with a cohesive visual look, and better action hierarchy and grouping, making it easier for you to find and use the tools you need. We’ve also added Goals and recommendations to the menu. Open a work item and select the Add button under the summary.",
+  "announced_date": "2025-12-08",
+  "rollout_start_date": "2025-12-01",
+  "rollout_end_date": "2025-12-08",
+  "last_seen_week": "2025-12-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025",
+  "history": [
+    {
+      "date": "2025-12-08",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    },
+    {
+      "date": "2025-12-01",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

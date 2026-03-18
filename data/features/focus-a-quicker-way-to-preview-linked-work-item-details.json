@@ -1,0 +1,29 @@
+{
+  "id": "focus-a-quicker-way-to-preview-linked-work-item-details",
+  "title": "A quicker way to preview linked work item details",
+  "product": "Focus",
+  "status": "rolling_out_new",
+  "description": "Now, when you hover over a work item's linked work item, you’ll see a quick summary of its key details without having to open a new tab or leave your current view. To preview linked work item details: Go to a Focus area.\n\tFind a work item with linked work items.\n\tHover over the linked work items.\n\tView the details that appear.",
+  "announced_date": "2026-01-05",
+  "rollout_start_date": "2026-12-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-12-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026",
+  "history": [
+    {
+      "date": "2026-01-05",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2026-12-29",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026"
+    },
+    {
+      "date": "2025-12-15",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    }
+  ]
+}

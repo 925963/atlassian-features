@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-weve-simplified-creating-child-work-items-in-the-work-item-view",
+  "title": "We've simplified creating child work items in the work item view",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "We’ve decluttered and simplified the work item view. To create a child work item or add any related work, you can: Open any type of work item (not a subtask).\n\tSelect the plus icon  below your work item’s name.\n\tSelect Create child work item.\n\tEnter a summary for your child work item, and select Create or press enter.",
+  "announced_date": "2026-01-26",
+  "rollout_start_date": "2026-01-26",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-01-26",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026",
+  "history": [
+    {
+      "date": "2026-01-26",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026"
+    }
+  ]
+}

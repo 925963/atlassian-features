@@ -1,0 +1,24 @@
+{
+  "id": "atlassian-administration-site-admins-can-now-access-audit-log-in-atlassian-admin",
+  "title": "Site admins can now access Audit log in Atlassian Administration",
+  "product": "Atlassian Administration",
+  "status": "rolling_out",
+  "description": "We’re excited to announce that site admins now have direct access to Audit log within Atlassian administration. This update provides site admins with greater visibility into site-level activities, supporting improved governance, compliance, and troubleshooting. To view your site’s Audit log: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Apps and then select your site*.*\n\tUnder Site settings, select Audit log.",
+  "announced_date": "2026-01-05",
+  "rollout_start_date": "2026-12-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-12-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026",
+  "history": [
+    {
+      "date": "2026-01-05",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2026-12-29",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026"
+    }
+  ]
+}

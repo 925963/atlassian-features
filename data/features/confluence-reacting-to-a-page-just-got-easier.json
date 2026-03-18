@@ -1,0 +1,29 @@
+{
+  "id": "confluence-reacting-to-a-page-just-got-easier",
+  "title": "Reacting to a page just got easier",
+  "product": "Confluence",
+  "status": "rollout_complete",
+  "description": "When you're finished reading a page on Confluence, you'll now see a flag in the bottom-left corner that will let you react to your teammate's page quickly and easily, so you can let them know you appreciate their hard work. This feature is now being released to more users, so even more teams can enjoy this easy way to engage! To try out this new way to react: Open any published content in Confluence.\n\tIf you have not created, edited, commented, or reacted before, stay on the content for at least",
+  "announced_date": "2026-01-19",
+  "rollout_start_date": "2026-01-12",
+  "rollout_end_date": "2026-01-19",
+  "last_seen_week": "2026-01-19",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026",
+  "history": [
+    {
+      "date": "2026-01-19",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026"
+    },
+    {
+      "date": "2026-01-12",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

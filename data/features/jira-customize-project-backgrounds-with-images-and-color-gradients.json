@@ -1,0 +1,24 @@
+{
+  "id": "jira-customize-project-backgrounds-with-images-and-color-gradients",
+  "title": "Customize project backgrounds with images and color gradients",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "Jira admins can add different colors and images to project backgrounds. To change the background, you must be a Jira project admin using the new navigation. To set a theme in a company-managed project:",
+  "announced_date": "2026-01-05",
+  "rollout_start_date": "2026-01-05",
+  "rollout_end_date": "2026-01-05",
+  "last_seen_week": "2026-01-05",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026",
+  "history": [
+    {
+      "date": "2026-01-05",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

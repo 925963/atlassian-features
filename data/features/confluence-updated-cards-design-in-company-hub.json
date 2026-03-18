@@ -1,0 +1,29 @@
+{
+  "id": "confluence-updated-cards-design-in-company-hub",
+  "title": "Updated cards design in Company Hub",
+  "product": "Confluence",
+  "status": "rollout_complete",
+  "description": "We've updated the cards in your Company Hub to make it visually appealing and easier to scan for information. To see the refreshed cards: Go to your Company Hub.\n\tType /cards and select Cards from the menu to add new cards to your page.",
+  "announced_date": "2026-01-19",
+  "rollout_start_date": "2026-01-12",
+  "rollout_end_date": "2026-01-19",
+  "last_seen_week": "2026-01-19",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026",
+  "history": [
+    {
+      "date": "2026-01-19",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026"
+    },
+    {
+      "date": "2026-01-12",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

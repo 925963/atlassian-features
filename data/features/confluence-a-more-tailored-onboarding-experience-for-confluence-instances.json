@@ -2,7 +2,7 @@
   "id": "confluence-a-more-tailored-onboarding-experience-for-confluence-instances",
   "title": "A more tailored onboarding experience for Confluence instances",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rolling_out_new",
   "description": "We are updating the setup and landing experiences in Confluence to better highlight relevant use cases, making it easier for people to discover how Confluence can help them from the start. These updates are tailored to each person, helping everyone get value from Confluence right away. To experience the improved onboarding and setup flow: Sign in to your Confluence instance.\n\tFollow the prompts on the setup and landing screens.\n\tExplore the suggested use cases and select the ones that match your",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
     }
   ]
 }

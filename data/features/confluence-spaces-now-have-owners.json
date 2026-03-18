@@ -1,0 +1,24 @@
+{
+  "id": "confluence-spaces-now-have-owners",
+  "title": "Spaces now have owners",
+  "product": "Confluence",
+  "status": "rollout_complete",
+  "description": "You can now assign an owner to a space. Space owners can be one user or a user group. While a space can have many admins, it can only have one user or group set as the owner. Space owners or anyone in a group assigned as space owner are granted all permissions on a space.",
+  "announced_date": "2025-12-15",
+  "rollout_start_date": "2025-12-15",
+  "rollout_end_date": "2025-12-15",
+  "last_seen_week": "2025-12-15",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025",
+  "history": [
+    {
+      "date": "2025-12-15",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}
