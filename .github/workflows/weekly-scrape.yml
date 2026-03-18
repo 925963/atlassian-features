@@ -9,9 +9,9 @@ on:
   workflow_dispatch:
     inputs:
       backfill:
-        description: 'Backfill all historical weeks (true/false)'
+        description: 'Number of weeks to backfill (e.g. 4). Leave empty for incremental only.'
         required: false
-        default: 'false'
+        default: ''
 
   # Also run when pushing to main (for initial setup / config changes)
   push:
@@ -49,10 +49,11 @@ jobs:
 
       - name: Run scraper
         run: |
-          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
-            npm run scrape:backfill
+          WEEKS="${{ github.event.inputs.backfill }}"
+          if [ -n "$WEEKS" ]; then
+            node scripts/scrape.mjs --backfill --weeks "$WEEKS"
           else
-            npm run scrape
+            node scripts/scrape.mjs
           fi
 
       - name: Generate Astro pages from scraped data
@@ -70,6 +71,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ src/content/docs/
           git commit -m "chore: weekly scrape $(date -u '+%Y-%m-%d')"
+          git pull --rebase origin main
           git push
 
       - name: Build Astro site

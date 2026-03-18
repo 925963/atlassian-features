@@ -352,8 +352,15 @@ function markCompletedFeatures(allFeatures, recentWeeks) {
 
 async function main() {
   const isBackfill = process.argv.includes('--backfill');
+  const weeksArg = process.argv.indexOf('--weeks');
+  const maxWeeks = weeksArg !== -1 ? parseInt(process.argv[weeksArg + 1], 10) : null;
+
   console.log(`\n🔍 Atlassian Cloud Feature Scraper`);
-  console.log(`Mode: ${isBackfill ? 'BACKFILL (all weeks)' : 'INCREMENTAL (new weeks only)'}\n`);
+  if (isBackfill) {
+    console.log(`Mode: BACKFILL (${maxWeeks ? `last ${maxWeeks} weeks` : 'all weeks'})\n`);
+  } else {
+    console.log(`Mode: INCREMENTAL (new weeks only)\n`);
+  }
 
   mkdirSync(DATA_DIR, { recursive: true });
 
@@ -366,9 +373,14 @@ async function main() {
   console.log(`Found ${weeks.length} weekly posts.\n`);
 
   // Filter to only new weeks (unless backfilling)
-  const weeksToProcess = isBackfill
+  let weeksToProcess = isBackfill
     ? weeks
     : weeks.filter(w => !processedWeeks.has(w.url));
+
+  // If --weeks N is specified, limit to the N most recent weeks
+  if (isBackfill && maxWeeks) {
+    weeksToProcess = weeksToProcess.slice(0, maxWeeks);
+  }
 
   if (weeksToProcess.length === 0) {
     console.log('No new weeks to process. Everything is up to date! ✅');
