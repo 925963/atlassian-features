@@ -16,6 +16,10 @@ const ROOT = join(__dirname, '..');
 const DATA_DIR = join(ROOT, 'data', 'features');
 const DOCS_DIR = join(ROOT, 'src', 'content', 'docs');
 
+// Base path for GitHub Pages subpath deployment.
+// Change to '' when using a custom domain without a subpath.
+const BASE = '/atlassian-features';
+
 const STATUS_LABELS = {
   coming_soon: '🔜 Coming Soon',
   rolling_out_new: '🆕 Rolling Out — New This Week',
@@ -112,7 +116,7 @@ function generateIndexPage(features) {
     .map(f => {
       const statusLabel = STATUS_LABELS[f.status] || f.status;
       const slug = `features/${slugifyProduct(f.product)}/${f.id}`;
-      return `| [${f.title}](/${slug}/) | ${f.product} | ${statusLabel} | ${formatDate(f.announced_date)} | ${formatDate(f.rollout_start_date)} | ${formatDate(f.rollout_end_date)} |`;
+      return `| [${f.title}](${BASE}/${slug}/) | ${f.product} | ${statusLabel} | ${formatDate(f.announced_date)} | ${formatDate(f.rollout_start_date)} | ${formatDate(f.rollout_end_date)} |`;
     })
     .join('\n');
 
@@ -146,7 +150,7 @@ function generateStatusPage(features, status, title, description) {
 
   const rows = filtered.map(f => {
     const slug = `features/${slugifyProduct(f.product)}/${f.id}`;
-    return `| [${f.title}](/${slug}/) | ${f.product} | ${formatDate(f.announced_date)} | ${formatDate(f.rollout_start_date)} |`;
+    return `| [${f.title}](${BASE}/${slug}/) | ${f.product} | ${formatDate(f.announced_date)} | ${formatDate(f.rollout_start_date)} |`;
   }).join('\n');
 
   return `---
@@ -191,7 +195,7 @@ function generateNewThisWeekPage(features) {
   const sections = Object.entries(byProduct).map(([product, feats]) => {
     const items = feats.map(f => {
       const slug = `features/${slugifyProduct(f.product)}/${f.id}`;
-      return `- [**${f.title}**](/${slug}/)${f.description ? ` — ${f.description.substring(0, 120)}` : ''}`;
+      return `- [**${f.title}**](${BASE}/${slug}/)${f.description ? ` — ${f.description.substring(0, 120)}` : ''}`;
     }).join('\n');
     return `### ${product}\n\n${items}`;
   }).join('\n\n');
