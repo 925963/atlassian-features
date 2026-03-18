@@ -1,0 +1,16 @@
+{
+  "id": "rovo-rovo-responses-now-include-information-from-the-web",
+  "title": "Rovo responses now include information from the web",
+  "product": "Rovo",
+  "status": "rolling_out",
+  "description": "Get responses that use general knowledge and information from the web by turning on the Web search toggle when chatting with Rovo. This allows Rovo to use the internet as a source for responses, giving you richer, more up-to-date information alongside internal knowledge.",
+  "announced_date": "2026-01-26",
+  "rollout_start_date": "2026-01-26",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-26-to-feb-2-2026",
+  "history": [
+    { "date": "2026-01-26", "status": "rolling_out_new", "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-26-to-feb-2-2026" },
+    { "date": "2026-02-02", "status": "rolling_out", "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-2-to-feb-9-2026" }
+  ]
+}

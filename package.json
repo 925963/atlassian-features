@@ -1,0 +1,20 @@
+{
+  "name": "atlassian-features",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bijgehouden overzicht van Atlassian Cloud feature uitrolling",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "scrape": "node scripts/scrape.mjs",
+    "scrape:backfill": "node scripts/scrape.mjs --backfill"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.38.1",
+    "astro": "^6.0.5",
+    "cheerio": "^1.2.0",
+    "date-fns": "^4.1.0",
+    "node-fetch": "^3.3.2"
+  }
+}

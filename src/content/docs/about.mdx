@@ -1,0 +1,35 @@
+---
+title: How this works
+description: About this Atlassian Cloud feature tracker.
+---
+
+This site automatically tracks features published in the [Atlassian Cloud weekly release notes](https://confluence.atlassian.com/cloud/blog).
+
+## What gets tracked
+
+Every week, Atlassian publishes a page listing changes to their cloud products. Features appear in three stages:
+
+| Label | Meaning |
+|-------|---------|
+| **COMING SOON** | Announced, not yet rolling out |
+| **ROLLING OUT** | Gradually being deployed to sites |
+| **ROLLING OUT — NEW THIS WEEK** | Just started rolling out this week |
+| _(no label)_ | Fully released to all sites |
+
+## How deduplication works
+
+Features often appear across many consecutive weekly pages while rolling out. This tracker:
+
+1. **Detects** each feature by a stable ID derived from its title and product
+2. **Records** the first week it appeared as the *announced date*
+3. **Tracks** status changes (e.g. Coming Soon → Rolling Out)
+4. **Marks** a feature as *Rollout Complete* once it disappears from 4 consecutive weeks
+
+## Update schedule
+
+The scraper runs every Monday via GitHub Actions, after Atlassian publishes their weekly notes.
+
+## Source
+
+Data sourced from [confluence.atlassian.com/cloud/blog](https://confluence.atlassian.com/cloud/blog).  
+Built by [Brainboss](https://brainboss.nl) — Atlassian partner consultancy.

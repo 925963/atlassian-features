@@ -1,0 +1,32 @@
+---
+title: Atlassian Cloud Feature Tracker
+description: Bijgehouden overzicht van alle Atlassian Cloud feature uitrolling — ontdubbeld, met aankondigings- en uitroldatums.
+template: splash
+hero:
+  tagline: Track every Atlassian Cloud feature — deduplicated, with announcement and rollout dates. Updated automatically every week.
+  actions:
+    - text: View all features
+      link: /features/
+      icon: right-arrow
+      variant: primary
+    - text: New this week
+      link: /new-this-week/
+      icon: star
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<CardGrid>
+  <Card title="🆕 New this week" icon="star">
+    Features that just started rolling out in the latest release notes.
+  </Card>
+  <Card title="🔜 Coming soon" icon="rocket">
+    Announced features not yet in rollout.
+  </Card>
+  <Card title="⏳ Rolling out" icon="setting">
+    Features currently being gradually deployed to Atlassian Cloud sites.
+  </Card>
+  <Card title="✅ Completed" icon="approve-check">
+    Features whose rollout is complete — with start and end dates.
+  </Card>
+</CardGrid>

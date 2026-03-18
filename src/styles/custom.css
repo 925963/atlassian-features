@@ -1,0 +1,213 @@
+/* ============================================================
+   Atlassian Cloud Features — Custom Starlight Theme
+   A refined, editorial design with a strong status color system
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* ── Color system ──────────────────────────────────────────── */
+:root {
+  --sl-font: 'Sora', system-ui, sans-serif;
+  --sl-font-mono: 'JetBrains Mono', monospace;
+
+  /* Atlassian blue as primary accent */
+  --sl-color-accent-low:   #dbeafe;
+  --sl-color-accent:       #2684ff;
+  --sl-color-accent-high:  #0052cc;
+
+  /* Status colors */
+  --c-new:       #00b8d9;
+  --c-coming:    #ff8b00;
+  --c-rolling:   #6554c0;
+  --c-complete:  #36b37e;
+  --c-released:  #36b37e;
+}
+
+:root[data-theme='dark'] {
+  --sl-color-accent-low:   #1e3a5f;
+  --sl-color-accent:       #4c9aff;
+  --sl-color-accent-high:  #85b8ff;
+
+  --c-new:       #00c7e6;
+  --c-coming:    #ffab00;
+  --c-rolling:   #998dd9;
+  --c-complete:  #57d9a3;
+}
+
+/* ── Typography ────────────────────────────────────────────── */
+.sl-markdown-content h1,
+.sl-markdown-content h2,
+.sl-markdown-content h3 {
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+
+.sl-markdown-content h1 { font-size: 2rem; }
+.sl-markdown-content h2 {
+  font-size: 1.25rem;
+  border-bottom: 1px solid var(--sl-color-gray-5);
+  padding-bottom: 0.4rem;
+  margin-top: 2.5rem;
+}
+
+/* ── Site header ───────────────────────────────────────────── */
+header.header {
+  border-bottom: 2px solid var(--sl-color-accent);
+  background: var(--sl-color-bg-nav);
+}
+
+/* Site title with a subtle gradient */
+.site-title {
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  background: linear-gradient(135deg, var(--sl-color-accent) 0%, var(--sl-color-accent-high) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Sidebar ───────────────────────────────────────────────── */
+.sidebar-content {
+  border-right: 1px solid var(--sl-color-gray-6);
+}
+
+/* Sidebar group labels */
+.group-label span {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--sl-color-gray-3);
+}
+
+/* Active sidebar item */
+a[aria-current='page'] {
+  background: var(--sl-color-accent-low) !important;
+  color: var(--sl-color-accent-high) !important;
+  font-weight: 600;
+  border-left: 3px solid var(--sl-color-accent);
+  padding-left: calc(var(--sl-sidebar-item-padding-inline) - 3px);
+}
+
+/* ── Status badges ─────────────────────────────────────────── */
+
+/* Override Starlight badge colors with status-specific colors */
+.sl-badge[data-variant='tip'],
+sl-badge[data-variant='tip'] {
+  --sl-badge-bg: color-mix(in srgb, var(--c-new) 15%, transparent);
+  --sl-badge-border: var(--c-new);
+  --sl-badge-text: var(--c-new);
+}
+
+.sl-badge[data-variant='caution'] {
+  --sl-badge-bg: color-mix(in srgb, var(--c-coming) 15%, transparent);
+  --sl-badge-border: var(--c-coming);
+  --sl-badge-text: var(--c-coming);
+}
+
+.sl-badge[data-variant='note'] {
+  --sl-badge-bg: color-mix(in srgb, var(--c-rolling) 15%, transparent);
+  --sl-badge-border: var(--c-rolling);
+  --sl-badge-text: var(--c-rolling);
+}
+
+.sl-badge[data-variant='success'] {
+  --sl-badge-bg: color-mix(in srgb, var(--c-complete) 15%, transparent);
+  --sl-badge-border: var(--c-complete);
+  --sl-badge-text: var(--c-complete);
+}
+
+/* ── Tables ────────────────────────────────────────────────── */
+.sl-markdown-content table {
+  font-size: 0.875rem;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.sl-markdown-content th {
+  background: var(--sl-color-gray-6);
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.6rem 0.8rem;
+  text-align: left;
+}
+
+.sl-markdown-content td {
+  padding: 0.55rem 0.8rem;
+  border-bottom: 1px solid var(--sl-color-gray-6);
+  vertical-align: top;
+}
+
+.sl-markdown-content tr:hover td {
+  background: var(--sl-color-gray-7, rgba(0,0,0,0.03));
+}
+
+/* ── Hero landing accent ───────────────────────────────────── */
+.hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  top: -60px;
+  right: -80px;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  background: radial-gradient(circle, color-mix(in srgb, var(--sl-color-accent) 20%, transparent), transparent 70%);
+  pointer-events: none;
+}
+
+/* ── Feature status inline indicators ─────────────────────── */
+
+/* In tables, color-code status text */
+td:has(> span.status-new)       { color: var(--c-new); font-weight: 600; }
+td:has(> span.status-coming)    { color: var(--c-coming); font-weight: 600; }
+td:has(> span.status-rolling)   { color: var(--c-rolling); font-weight: 600; }
+td:has(> span.status-complete)  { color: var(--c-complete); }
+
+/* ── Code / mono ───────────────────────────────────────────── */
+code {
+  font-size: 0.82em;
+  background: var(--sl-color-gray-6);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+/* ── Scrollbar (Webkit) ────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb {
+  background: var(--sl-color-gray-5);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--sl-color-gray-4); }
+
+/* ── Subtle page entry animation ──────────────────────────── */
+@media (prefers-reduced-motion: no-preference) {
+  .sl-markdown-content {
+    animation: page-enter 0.25s ease-out;
+  }
+
+  @keyframes page-enter {
+    from {
+      opacity: 0;
+      transform: translateY(6px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* ── Footer ────────────────────────────────────────────────── */
+footer {
+  border-top: 1px solid var(--sl-color-gray-6);
+  font-size: 0.8rem;
+  color: var(--sl-color-gray-3);
+}
