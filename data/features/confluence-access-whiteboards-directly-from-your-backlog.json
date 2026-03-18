@@ -1,0 +1,19 @@
+{
+  "id": "confluence-access-whiteboards-directly-from-your-backlog",
+  "title": "Access Whiteboards directly from your backlog",
+  "product": "Confluence",
+  "status": "released",
+  "description": "Teams can now create Confluence whiteboards directly from their Jira backlog and import backlog issues, making it easier to plan and prioritize work. This update helps teams quickly access in-context visual collaboration spaces without leaving their planning workflow. Go to your Jira backlog. If you’re an admin and your site doesn’t have Confluence yet, you’ll see a prompt to add Confluence and start a whiteboard.\n\tIf you have at least three issues and Whiteboards is enabled, you’ll see a prompt",
+  "announced_date": "2026-02-16",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-02-16",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026",
+  "history": [
+    {
+      "date": "2026-02-16",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026"
+    }
+  ]
+}

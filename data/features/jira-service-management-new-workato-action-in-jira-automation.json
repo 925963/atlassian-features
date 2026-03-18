@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-new-workato-action-in-jira-automation",
+  "title": "New Workato action in Jira Automation",
+  "product": "Jira Service Management",
+  "status": "rolling_out",
+  "description": "We’ve built a new integration with Workato. The integration connects your enterprise stack with Jira Service Management, unlocking powerful use cases for both IT and business teams. With the new Workato integration you can connect and run Workato recipes, allowing you to fetch information and take actions across hundreds of applications directly from Jira Automation via the Trigger Workato recipe action in your automation rule. Before using the Trigger Workato recipe step or action for the first",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

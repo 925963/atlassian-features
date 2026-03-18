@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-create-a-new-space-when-starting-a-plan",
+  "title": "Create a new space when starting a plan",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "When you start a plan, you can now create a new space, streamlining how you plan and track work. To create a new space in your plan: In the Space name dropdown, select Create new space.\n\tFill in details for your new space.\n\tSelect Create to confirm your changes.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

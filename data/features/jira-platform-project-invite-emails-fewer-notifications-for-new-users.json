@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-project-invite-emails-fewer-notifications-for-new-users",
+  "title": "Project invite emails: Fewer notifications for new users",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "When admins add new people directly to a Jira space, new users without existing Jira access now receive a single combined invite email instead of separate Jira and space invitations. This reduces email clutter and gives new users a clearer path to get started in Jira.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

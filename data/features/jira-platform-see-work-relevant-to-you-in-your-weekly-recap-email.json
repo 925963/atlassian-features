@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-see-work-relevant-to-you-in-your-weekly-recap-email",
+  "title": "See work relevant to you in your weekly recap email",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Your weekly recap email now displays more relevant recommendations and highlights, including mentions from work item descriptions. This helps you stay informed on important updates in your space.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026"
+    }
+  ]
+}

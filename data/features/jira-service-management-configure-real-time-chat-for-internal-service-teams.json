@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-configure-real-time-chat-for-internal-service-teams",
+  "title": "Configure real-time chat for internal service teams",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "We're excited to announce Live chat, a real-time chat channel to assist internal support teams. This new capability lets admins to turn on real-time chat from their space settings, configure how conversations route to agents, and manage all interaction in a dedicated live chat inbox. To configure live chat for your team: From your service space, select Space settings, then Channel & self service, then Live chat.\n\tCreate a Rovo agent with a live chat skill or update an existing agent to work with",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

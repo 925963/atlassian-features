@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-rovo-responses-now-include-information-from-the-web",
+  "title": "Rovo responses now include information from the web",
+  "product": "Jira Service Management",
+  "status": "rolling_out",
+  "description": "Get responses that use general knowledge and information from the web by turning on the Web search toggle when you're chatting with Rovo. When enabled, this feature allows Rovo to use the internet as a source for your responses, giving you richer, more up-to-date information alongside your internal knowledge. In a new chat with Rovo:",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

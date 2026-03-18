@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-org-insights-now-with-better-organization",
+  "title": "Org insights, now with better organization",
+  "product": "Atlassian Administration",
+  "status": "rolling_out",
+  "description": "We’ve updated the Insights page so there’s less scrolling to find the right user and activity charts. There are now tabs on the page to group related charts. To view your organization’s refreshed Insights page: Go to admin.atlassian.com. Select your organization if you have more than one.\n\tSelect Security > Insights.\n\tSelect a tab to see your charts.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

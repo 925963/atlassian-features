@@ -1,0 +1,19 @@
+{
+  "id": "bitbucket-deprecation-of-promotions-in-bitbucket-pipelines-deployments",
+  "title": "Deprecation of Promotions in Bitbucket Pipelines deployments",
+  "product": "Bitbucket",
+  "status": "released",
+  "description": "The Promotion feature in Bitbucket Pipelines deployments is being deprecated. This change simplifies the deployments experience and improves reliability by reducing complexity and technical debt in Bitbucket Pipelines, paving the way for future enhancements to deployments. (You can still deploy the same way you do today from pipelines, but you will no longer be able to promote an existing deployment between environments from the Deployments dashboard.) Explore more about upcoming changes to the ",
+  "announced_date": "2026-02-16",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-02-16",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026",
+  "history": [
+    {
+      "date": "2026-02-16",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026"
+    }
+  ]
+}

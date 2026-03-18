@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-development-feature-for-software-projects-in-jira-is-now-generally",
+  "title": "Development feature for software projects in Jira is now generally available",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "We’re excited to announce the general availability of the Development feature in Jira. It will be gradually made available in software spaces for all Jira sites. Development in Jira unifies data from your connected code, CI/CD, and security apps into a single view, giving you clear visibility into your team's work and engineering health. With key software development metrics and proactive work suggestions, you can quickly spot and address delivery bottlenecks, helping your team stay productive a",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-02",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026"
+    }
+  ]
+}

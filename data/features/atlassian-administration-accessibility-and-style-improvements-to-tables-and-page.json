@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-accessibility-and-style-improvements-to-tables-and-page",
+  "title": "Accessibility and style improvements to tables and page layouts",
+  "product": "Atlassian Administration",
+  "status": "rolling_out",
+  "description": "We restyled tables and updated the layout of pages. This improves accessibility and readability in Atlassian Administration. You can see the changes on most pages in admin.atlassian.com.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

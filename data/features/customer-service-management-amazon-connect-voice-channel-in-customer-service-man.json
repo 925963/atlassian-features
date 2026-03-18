@@ -1,0 +1,19 @@
+{
+  "id": "customer-service-management-amazon-connect-voice-channel-in-customer-service-man",
+  "title": "Amazon Connect voice channel in Customer Service Management",
+  "product": "Customer Service Management",
+  "status": "rolling_out",
+  "description": "You can now add voice call support via Amazon Connect in Customer Service Management. With the Amazon Connect integration, your team can: offer voice alongside existing channels like email, forms, and chat",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}
