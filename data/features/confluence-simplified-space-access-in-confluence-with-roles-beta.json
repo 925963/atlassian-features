@@ -1,0 +1,19 @@
+{
+  "id": "confluence-simplified-space-access-in-confluence-with-roles-beta",
+  "title": "Simplified space access in Confluence with roles (beta)",
+  "product": "Confluence",
+  "status": "coming_soon",
+  "description": "Say goodbye to the complex permissions table in Confluence. We're introducing a new way to manage space access using roles. This change makes managing permissions more consistent, predictable, and scalable by allowing you to assign preset roles to individuals or groups. To get the full story, check out the Community post. To manage space access with roles in your Confluence instance:",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

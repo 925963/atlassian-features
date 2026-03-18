@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-create-a-work-item-with-a-filter-applied",
+  "title": "Create a work item with a filter applied",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "When you create a work item in the List tab (previously List view or All work view), any filters you've applied in basic search will be automatically applied to the new work item. This means your created work item will stay visible in the list, making it easier to find and edit without adjusting your filters. Discover more about the merge with List view and All work view. To create a work item with a filter applied:",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "confluence-editor-nested-tables-in-confluence",
+  "title": "Editor: Nested tables in Confluence",
+  "product": "Confluence",
+  "status": "released",
+  "description": "We are introducing support for nested tables in Confluence to address a key limitation in the cloud editor. You can now insert tables within tables up to one-level deep. This aims to assist migrations from the legacy editor to cloud, and improve content creation. What's new: Nested table insertion: In the cloud editor you can now insert tables within tables, up to one level deep.\n\tMigration support: This feature aids in migrating content from the legacy editor, allowing pages with nested tables ",
+  "announced_date": "2026-02-16",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-02-16",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026",
+  "history": [
+    {
+      "date": "2026-02-16",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026"
+    }
+  ]
+}

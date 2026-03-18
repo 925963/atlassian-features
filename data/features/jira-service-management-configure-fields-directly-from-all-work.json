@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-configure-fields-directly-from-all-work",
+  "title": "Configure fields directly from All work",
+  "product": "Jira Service Management",
+  "status": "rolling_out",
+  "description": "Introducing inline field configuration in All work, giving you greater flexibility and control over how you use and manage your view. Now, it’s more intuitive and efficient to add, edit, and create fields directly from the All work tab. Navigate to the All work tab.\n\tHover between columns. Select Add  to include new fields.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

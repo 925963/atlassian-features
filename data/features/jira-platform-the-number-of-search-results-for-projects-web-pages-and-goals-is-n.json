@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-the-number-of-search-results-for-projects-web-pages-and-goals-is-n",
+  "title": "The number of search results for projects, web pages and goals is now visible across Atlassian apps",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "When using the search feature in Atlassian apps, such as Jira and Confluence, you can now view the specific number of results for projects, goals, and web pages. This update brings consistency and clarity to your search experience, helping you to easily categorize your search results. To get started: Locate the search bar in Confluence, Jira, or any other Atlassian app that displays search results in the right panel.\n\tEnter a question, name or keyword into the search bar.\n\tView the right panel t",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

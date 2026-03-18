@@ -1,0 +1,24 @@
+{
+  "id": "rovo-rovo-onboarding-modal-jira-chat",
+  "title": "Rovo Onboarding Modal Jira Chat",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "A new onboarding mini-modal for Rovo Chat introduces a guided experience to help you get started with Chat. The mini-modal matches the look and feel of Rovo Chat and encourages you to try out its features. To get started with this change: Navigate to your Jira site, and navigate to any board.\n\tAfter a few seconds, the onboarding mini-modal will show up. Follow the prompts in it to explore Chat features.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026"
+    }
+  ]
+}

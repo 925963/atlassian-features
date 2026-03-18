@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-configure-your-workflow-with-clearer-rules",
+  "title": "Configure your workflow with clearer rules",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "We've redesigned how rules are added to transitions, streamlining how you build your workflow. Now, when you select a rule, you'll see four different categories: Restrict transition, Request input, Validate details, and Perform actions. To configure a rule to your workflow: Open the workflow editor and select a transition.\n\tSelect the Add rule  button in a category and choose a rule.\n\tConfigure your rule and select Add.\n\tIf you need to manage a rule, select the dropdown in the category to make c",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-02",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026"
+    }
+  ]
+}

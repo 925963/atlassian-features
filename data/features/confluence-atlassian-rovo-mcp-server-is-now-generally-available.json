@@ -1,0 +1,19 @@
+{
+  "id": "confluence-atlassian-rovo-mcp-server-is-now-generally-available",
+  "title": "Atlassian Rovo MCP Server is now generally available",
+  "product": "Confluence",
+  "status": "rolling_out",
+  "description": "The Atlassian Rovo Model Context Protocol (MCP) Server is now GA for Jira, Confluence, and Compass. It lets AI tools and IDEs securely read and write Atlassian Cloud data using the MCP, with enterprise‑grade controls, including domain allowlists, IP allowlist support, and audit logs. To start using Atlassian Rovo MCP Server: Configure MCP settings in Atlassian Administration. This includes Atlassian-supported domains, trusted domains added by admins, and security policies. For more details, see ",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

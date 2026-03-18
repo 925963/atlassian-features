@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-access-rovo-from-anywhere-in-jira",
+  "title": "Access Rovo from anywhere in Jira",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "The Rovo button is now visible on all Jira views, allowing you to access Rovo capabilities anywhere in Jira. To access Rovo capabilities in Jira, open any Jira view and look for the Rovo button in the bottom right of your screen.",
+  "announced_date": "2026-02-23",
+  "rollout_start_date": "2026-02-16",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-02-23",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026",
+  "history": [
+    {
+      "date": "2026-02-23",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026"
+    },
+    {
+      "date": "2026-02-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-billing-preview-page-usability-and-performance-improvem",
+  "title": "Billing Preview page usability and performance improvements",
+  "product": "Atlassian Administration",
+  "status": "rolling_out",
+  "description": "The Billing Preview page in Atlassian Administration has been updated to deliver a more intuitive experience and faster performance. These improvements help administrators manage billing details more efficiently and with greater ease. To explore this change: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Billing, then choose Preview to view the updated page.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

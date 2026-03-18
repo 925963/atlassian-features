@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-a-cleaner-activity-timeline-in-all-work",
+  "title": "A cleaner activity timeline in All work",
+  "product": "Jira Service Management",
+  "status": "coming_soon",
+  "description": "We’ve updated the activity timeline in All work (previously Issue view). This improves readability and reduces clutter. It's easier to scan and understand updates, at a glance: Entry grouping: Similar updates are now grouped together to reduce clutter.\n\tModern UI: Improved alignment, formatting, and date presentation for a cleaner look.\n\tProgressive disclosure: Long descriptions and details are now collapsible, reducing excessive scrolling.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

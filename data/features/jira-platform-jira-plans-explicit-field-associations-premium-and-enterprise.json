@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-jira-plans-explicit-field-associations-premium-and-enterprise",
+  "title": "Jira Plans - Explicit field associations (Premium and Enterprise)",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "Fields will no longer be editable in plans if they’re not configured for a space and work item type. This helps you avoid errors when editing and ensures the right fields are used. This change applies to both team and company-managed spaces. To configure fields for a company-managed space: Navigate to the Jira admin panel to review which fields are available.\n\tTo make a custom field available, add it to the relevant space and work item type.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-02",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026"
+    }
+  ]
+}

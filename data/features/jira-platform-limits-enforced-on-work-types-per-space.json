@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-limits-enforced-on-work-types-per-space",
+  "title": "Limits enforced on work types per space",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "We've now enforced a limit on the number of work types that can be associated with each space to ensure fast and reliable performance. This enforcement helps keep your space configuration manageable and performance predictable as your organization scales. Discover more on work type limits in your space To view and manage limits on work types:",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

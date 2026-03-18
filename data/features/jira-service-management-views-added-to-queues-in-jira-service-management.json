@@ -1,0 +1,24 @@
+{
+  "id": "jira-service-management-views-added-to-queues-in-jira-service-management",
+  "title": "Views added to queues in Jira Service Management",
+  "product": "Jira Service Management",
+  "status": "rolling_out",
+  "description": "We're introducing the ability to choose how you view work items (issues) in your Queues in Jira Service Management. Providing more flexibility to support how your team likes to track and manage their work, this upgrade means there are now three ways to view each of your queues: as a list, a board, or a calendar. The current default view of your queues will be renamed to 'list view' and will become just one of the ways you can view the work items in each queue. You can have different views on eac",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-02",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026"
+    }
+  ]
+}
