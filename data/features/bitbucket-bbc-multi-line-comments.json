@@ -1,0 +1,19 @@
+{
+  "id": "bitbucket-bbc-multi-line-comments",
+  "title": "BBC Multi Line Comments",
+  "product": "Bitbucket",
+  "status": "coming_soon",
+  "description": "Multi-line comments can now be created by clicking the add comment icon on a diff line (as you currently do for single-line comments) and dragging your mouse (up or down, either works). As you select additional lines, they will be highlighted with a blue line and you can create the comment upon releasing your mouse. If you want to create a multi-line code suggestion, create a multi-line comment and then add a code suggestion to replace, add, or remove multiple lines of code. As an important note",
+  "announced_date": "2025-12-01",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-12-01",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025",
+  "history": [
+    {
+      "date": "2025-12-01",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    }
+  ]
+}

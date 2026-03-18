@@ -1,0 +1,29 @@
+{
+  "id": "confluence-ai-writing-improvements-use-adf-format-for-communication",
+  "title": "AI writing improvements use ADF format for communication",
+  "product": "Confluence",
+  "status": "rollout_complete",
+  "description": "When using AI-powered writing improvements in Confluence, communication with the AI service now uses the Atlassian Document Format (ADF) instead of Markdown. This change helps ensure more accurate formatting and better compatibility for your content.",
+  "announced_date": "2026-02-16",
+  "rollout_start_date": "2026-02-09",
+  "rollout_end_date": "2026-02-16",
+  "last_seen_week": "2026-02-16",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026",
+  "history": [
+    {
+      "date": "2026-02-16",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026"
+    },
+    {
+      "date": "2026-02-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-9-to-feb-16-2026"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

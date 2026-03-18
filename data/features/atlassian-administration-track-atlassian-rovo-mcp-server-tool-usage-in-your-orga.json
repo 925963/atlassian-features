@@ -1,0 +1,24 @@
+{
+  "id": "atlassian-administration-track-atlassian-rovo-mcp-server-tool-usage-in-your-orga",
+  "title": "Track Atlassian Rovo MCP server tool usage in your organization’s audit logs",
+  "product": "Atlassian Administration",
+  "status": "rollout_complete",
+  "description": "You can now track every time a tool is used through the Atlassian Rovo MCP server in your organization’s audit logs. This update gives admins more transparency and helps meet security and compliance requirements by recording each tool invocation event. To review Atlassian Rovo MCP server tool invocation logs in your audit logs: Go to admin.atlassian.com.\n\tSelect your organization.\n\tIn the left navigation, select Insights > Audit log.\n\tFilter for “Rovo MCP User Actions” to see tool invocation eve",
+  "announced_date": "2026-01-12",
+  "rollout_start_date": "2026-01-12",
+  "rollout_end_date": "2026-01-12",
+  "last_seen_week": "2026-01-12",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026",
+  "history": [
+    {
+      "date": "2026-01-12",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

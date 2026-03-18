@@ -1,0 +1,24 @@
+{
+  "id": "atlassian-administration-migrate-api-tokens-faster-using-recommendations",
+  "title": "Migrate API tokens faster using recommendations",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "We've introduced a new Token type column in the API token activity page to help you identify API tokens. This allows you to see their details and access recommendations when migrating tokens. To see token details and recommendations: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Insights > API token activity.\n\tSelect a token from the Token type column to view migration recommendations.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026"
+    }
+  ]
+}

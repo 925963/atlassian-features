@@ -1,0 +1,24 @@
+{
+  "id": "bitbucket-atlassian-is-changing-the-term-products-to-apps",
+  "title": "Atlassian is changing the term 'products' to 'apps'",
+  "product": "Bitbucket",
+  "status": "rollout_complete",
+  "description": "In support of Atlassian’s System of Work and our evolution toward a unified Atlassian platform, Atlassian is shifting how we think about and refer to our suite of individual products, now called ‘Atlassian apps’, or ‘apps’ for short. This is a naming update only and won’t affect how you use the apps.",
+  "announced_date": "2026-01-26",
+  "rollout_start_date": "2026-01-26",
+  "rollout_end_date": "2026-01-26",
+  "last_seen_week": "2026-01-26",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026",
+  "history": [
+    {
+      "date": "2026-01-26",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

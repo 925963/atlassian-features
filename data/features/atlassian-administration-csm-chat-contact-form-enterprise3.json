@@ -1,0 +1,24 @@
+{
+  "id": "atlassian-administration-csm-chat-contact-form-enterprise3",
+  "title": "csm-chat-contact-form-enterprise3",
+  "product": "Atlassian Administration",
+  "status": "rollout_complete",
+  "description": ".",
+  "announced_date": "2025-10-27",
+  "rollout_start_date": "2025-10-27",
+  "rollout_end_date": "2025-10-27",
+  "last_seen_week": "2025-10-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025",
+  "history": [
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

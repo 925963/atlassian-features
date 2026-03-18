@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-plans-in-jira-more-program-boards-per-plan",
+  "title": "Plans in Jira - More Program boards per plan!",
+  "product": "Jira platform",
+  "status": "released",
+  "description": "In Plans, you can now have up to ten active Program boards at one time in a plan. A Program board is considered 'active' if it has an end date in the future. Previously, you could only have two.",
+  "announced_date": "2025-12-08",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-12-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025",
+  "history": [
+    {
+      "date": "2025-12-08",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    }
+  ]
+}

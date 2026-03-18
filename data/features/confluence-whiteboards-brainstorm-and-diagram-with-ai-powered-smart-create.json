@@ -1,0 +1,24 @@
+{
+  "id": "confluence-whiteboards-brainstorm-and-diagram-with-ai-powered-smart-create",
+  "title": "Whiteboards Brainstorm and diagram with AI-powered Smart Create",
+  "product": "Confluence",
+  "status": "rolling_out",
+  "description": "You can now use AI-powered Smart Create in Confluence whiteboards to instantly generate brainstorming cards, flowcharts, and mind maps from a simple prompt. Ensure AI is turned on for the instance.\n\tOpen a whiteboard.\n\tSelect the Smart Create button from the right hand toolbar.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-02",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026"
+    }
+  ]
+}

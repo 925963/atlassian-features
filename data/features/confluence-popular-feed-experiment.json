@@ -1,0 +1,24 @@
+{
+  "id": "confluence-popular-feed-experiment",
+  "title": "Popular feed experiment",
+  "product": "Confluence",
+  "status": "rollout_complete",
+  "description": "Release notes not needed as this is a minor change to email logic.",
+  "announced_date": "2025-12-01",
+  "rollout_start_date": "2025-12-01",
+  "rollout_end_date": "2025-12-01",
+  "last_seen_week": "2025-12-01",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025",
+  "history": [
+    {
+      "date": "2025-12-01",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

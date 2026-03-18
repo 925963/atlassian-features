@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-due-date-notifications-now-available",
+  "title": "Due date notifications now available",
+  "product": "Jira platform",
+  "status": "released",
+  "description": "As the assignee of work items that are overdue or due today, you'll now receive daily notifications within Jira and via email. Each notification links to a pre-filtered page showing your overdue and due work items. Manage your due date notification preferences by: 1. Select Settings. 2. Select Personal Jira Settings, then Digests.",
+  "announced_date": "2026-01-05",
+  "rollout_start_date": "2026-12-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-12-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026",
+  "history": [
+    {
+      "date": "2026-01-05",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2026-12-29",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026"
+    },
+    {
+      "date": "2025-12-01",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    }
+  ]
+}

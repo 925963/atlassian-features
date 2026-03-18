@@ -1,0 +1,19 @@
+{
+  "id": "confluence-use-ai-powered-brainstorming-in-confluence-whiteboards",
+  "title": "Use AI-powered brainstorming in Confluence whiteboards",
+  "product": "Confluence",
+  "status": "rolling_out",
+  "description": "You can now use smart creation on your Confluence whiteboard to summarize content, generate ideas and explore topics directly on your whiteboard. This feature is informed by the content you have access to in the Teamwork Graph, and follow-up ideas, making it easier to brainstorm solo or with your team. To access smart create: Open a whiteboard in Confluence.\n\tSelect the smart create button on the right hand action toolbar\n\tEnter a prompt or topic you want to brainstorm, including any relevant li",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

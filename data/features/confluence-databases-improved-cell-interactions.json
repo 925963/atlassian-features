@@ -1,0 +1,24 @@
+{
+  "id": "confluence-databases-improved-cell-interactions",
+  "title": "Databases: Improved cell interactions",
+  "product": "Confluence",
+  "status": "coming_soon",
+  "description": "We're making it easier to interact with database cells by improving drag and drop functionality, updating styling for easier editing, and fixing bugs related to clearing behavior and menu interactions.",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2025-11-17",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025"
+    }
+  ]
+}

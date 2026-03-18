@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-jiras-full-screen-mode-now-delivers-a-more-consistent-and-immersiv",
+  "title": "Jira's full screen mode now delivers a more consistent and immersive experience",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "We’re extending and refining Jira’s full screen mode, introducing a more consistent, immersive, and productive experience across all major Jira views. To try the updated full screen experience in Jira: Open any major view in Jira, such as a board, backlog, or work item view.\n\tSelect the full screen icon in the top right corner of the view.\n\tExplore the updated layout and navigation in full screen mode.",
+  "announced_date": "2026-02-23",
+  "rollout_start_date": "2026-02-16",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-02-23",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026",
+  "history": [
+    {
+      "date": "2026-02-23",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026"
+    },
+    {
+      "date": "2026-02-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026"
+    }
+  ]
+}

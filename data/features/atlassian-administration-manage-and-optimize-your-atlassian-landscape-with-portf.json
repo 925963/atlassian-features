@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-manage-and-optimize-your-atlassian-landscape-with-portf",
+  "title": "Manage and optimize your Atlassian landscape with Portfolio insights",
+  "product": "Atlassian Administration",
+  "status": "rolling_out",
+  "description": "We’re excited to announce the open beta of Portfolio insights – a feature set within Atlassian Administration that enhances how you discover, view, and manage your Atlassian portfolio. Here are the main building blocks: Discover and manage:* Get a centralized view of your Atlassian portfolio, with automatic detection of Data Center instances and Cloud sites.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

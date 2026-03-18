@@ -1,0 +1,29 @@
+{
+  "id": "confluence-weve-simplified-space-creation",
+  "title": "We've simplified space creation",
+  "product": "Confluence",
+  "status": "rollout_complete",
+  "description": "With just two kinds of pre-set spaces, each made to suit a specific purpose, creating a space is easier than ever before. Choose between Knowledge base and Collaboration, add a description to the overview, and dive into content creation faster than ever before with one of our suggested templates. Or, if you know you want something really specific, choose Custom to manually configure the features and settings for your space. To read about these changes in more detail, check out the Community post",
+  "announced_date": "2026-01-12",
+  "rollout_start_date": "2026-01-05",
+  "rollout_end_date": "2026-01-12",
+  "last_seen_week": "2026-01-12",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026",
+  "history": [
+    {
+      "date": "2026-01-12",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

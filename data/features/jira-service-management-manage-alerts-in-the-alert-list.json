@@ -1,0 +1,24 @@
+{
+  "id": "jira-service-management-manage-alerts-in-the-alert-list",
+  "title": "Manage alerts in the alert list",
+  "product": "Jira Service Management",
+  "status": "rollout_complete",
+  "description": "We have updated the unified alert list to make it easier to see and manage all your alerts and alert groups in one place. This change brings a clearer layout and improved organization to help you quickly find and act on important alerts. We have improved minor bugs on the alert list as part of this release",
+  "announced_date": "2025-12-01",
+  "rollout_start_date": "2025-12-01",
+  "rollout_end_date": "2025-12-01",
+  "last_seen_week": "2025-12-01",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025",
+  "history": [
+    {
+      "date": "2025-12-01",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

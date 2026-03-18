@@ -1,0 +1,29 @@
+{
+  "id": "rovo-identify-your-agent-across-multiple-tabs",
+  "title": "Identify your agent across multiple tabs",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "To minimize confusion when switching between multiple agents, we've updated the tab icon in your browser. This allows you to quickly identify your agent and return to another open chat.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-02",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    }
+  ]
+}

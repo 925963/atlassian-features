@@ -1,0 +1,19 @@
+{
+  "id": "confluence-a-new-way-to-access-and-create-automations-in-confluence",
+  "title": "A new way to access and create automations in Confluence",
+  "product": "Confluence",
+  "status": "rolling_out",
+  "description": "Use automations from the Rovo button in Confluence. Now everyone can see and interact with automation rules directly from the Rovo button panel, making it easier to manage and create automations in your space. To find and use the new Automations feature in Confluence: Open any content type where the Rovo button is present, such as pages, live docs, or whiteboards.\n\tSelect the Rovo button.\n\tSelect the Automations button to view all admin-created automation rules.\n\tSpace admins can select the Crea",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

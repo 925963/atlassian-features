@@ -1,0 +1,24 @@
+{
+  "id": "atlassian-administration-expiry-dates-added-to-api-tokens",
+  "title": "Expiry dates added to API tokens",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Expiry dates have been added to SCIM API keys. Administrators will receive notifications when their API tokens are approaching expiry. This helps ensure you have time to renew tokens, avoid disruptions, and improve security.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    }
+  ]
+}

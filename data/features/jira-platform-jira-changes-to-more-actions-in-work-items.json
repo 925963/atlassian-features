@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-jira-changes-to-more-actions-in-work-items",
+  "title": "Jira: Changes to More actions in work items",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "We’re making it easier for you to find what you use the most e.g. Move, Delete, Log work. We’ve removed actions that aren’t frequently used from More actions. This includes Take a Tour, Add/Change parent, Configure, Find your field, Find out more. Select a work item.\n\tSelect More actions (•••).\n\tExplore the streamlined experience.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jira-jira-collapsible-sections-in-work-items",
+  "title": "Jira: Collapsible sections in work items",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "You can now collapse sections in a work item view to reduce scrolling and highlight key information. To use collapsible sections: Open a work item in Jira.\n\tFind the section you want to collapse, such as Description or Activity.\n\tSelect the chevron or section title to collapse or expand it.",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

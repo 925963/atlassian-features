@@ -1,0 +1,24 @@
+{
+  "id": "jira-a-cleaner-all-activity-tab-in-work-items",
+  "title": "A cleaner All activity tab in work items",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "We’ve updated the All tab in the activity section of each work item. This improves readability and reduces clutter. It's easier to scan and understand updates in a work item’s history, at a glance: Entry grouping: Similar updates are now grouped together to reduce clutter.",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

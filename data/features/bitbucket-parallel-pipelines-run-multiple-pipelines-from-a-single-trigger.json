@@ -1,0 +1,34 @@
+{
+  "id": "bitbucket-parallel-pipelines-run-multiple-pipelines-from-a-single-trigger",
+  "title": "Parallel pipelines: Run multiple pipelines from a single trigger",
+  "product": "Bitbucket",
+  "status": "rollout_complete",
+  "description": "Bitbucket Pipelines now supports running multiple pipelines in parallel from a single trigger event. This update helps teams decouple large, monolithic pipelines into smaller, independent ones, improving speed, maintainability, and scalability for Bitbucket Cloud users. Update your bitbucket-pipelines.yml file to use the new triggers section and define conditions for each trigger event.Associate one or more pipelines with each condition to run them in parallel when the condition is met.Push your",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-10",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2025-11-03",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

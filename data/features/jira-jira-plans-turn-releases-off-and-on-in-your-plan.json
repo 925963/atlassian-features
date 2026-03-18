@@ -1,0 +1,24 @@
+{
+  "id": "jira-jira-plans-turn-releases-off-and-on-in-your-plan",
+  "title": "Jira Plans - Turn releases off and on in your plan",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "Releases are a powerful tool for planning work for software teams, but for Marketing or Design teams? Not so much. For planners who don't need to see releases information from their plans, you can now hide it for a simpler planning experience. When you turn releases off in your plan, you’ll no longer see: the Releases tab\n\tthe Releases field from the timeline as well as any filters that use it\n\trelease markers on the timeline, calendar, and program board\n\tthe option to group work items by assign",
+  "announced_date": "2025-11-03",
+  "rollout_start_date": "2025-11-03",
+  "rollout_end_date": "2025-11-03",
+  "last_seen_week": "2025-11-03",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025",
+  "history": [
+    {
+      "date": "2025-11-03",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "confluence-recent-smart-links-now-findable-in-quick-find",
+  "title": "Recent Smart Links now findable in Quick Find",
+  "product": "Confluence",
+  "status": "coming_soon",
+  "description": "To see the new Smartlink results in Quick Find: Open Confluence and go to the home page.\n\tSelect the search bar.\n\tLook for your recently viewed items, which now include Smartlink results.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

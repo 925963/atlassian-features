@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-export-work-item-details-to-excel-directly-from-the-work-item-view",
+  "title": "Export work item details to Excel directly from the work item view",
+  "product": "Jira platform",
+  "status": "coming_soon",
+  "description": "You can now export work item details directly from the work item view in Jira to Excel. To export a work item's detail to Excel: Open the desired work item in Jira.\n\tSelect on the More actions menu.\n\tSelect the Export option in the work item view.\n\tChoose Excel to download the work item details.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

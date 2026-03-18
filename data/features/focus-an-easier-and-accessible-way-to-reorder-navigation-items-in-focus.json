@@ -1,0 +1,34 @@
+{
+  "id": "focus-an-easier-and-accessible-way-to-reorder-navigation-items-in-focus",
+  "title": "An easier and accessible way to reorder navigation items in Focus",
+  "product": "Focus",
+  "status": "rollout_complete",
+  "description": "You can now reorder and hide items in the Focus sidebar using drag-and-drop or a keyboard-accessible menu. Organize your workspace in the way that works best for you, so you can quickly access your most important items. Go to your Focus app.\n\tIn the sidebar, select and drag any navigation item to reorder it.\n\tTo hide or reorder items using your keyboard:\n\t\n\t\tSelect ••• (More actions menu) next to a navigation item.\n\t\tSelect the option to hide or reorder.",
+  "announced_date": "2026-01-12",
+  "rollout_start_date": "2026-01-05",
+  "rollout_end_date": "2026-01-12",
+  "last_seen_week": "2026-01-12",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026",
+  "history": [
+    {
+      "date": "2026-01-12",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-01-05",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2025-12-15",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jira-prevent-people-from-downloading-attached-files",
+  "title": "Prevent people from downloading attached files",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "Data security policies allow you to use rules to control how users, apps, and people outside the organization interact with content in Confluence and Jira. We’re extending the data export rule to also block the downloading of files attached to Confluence and Jira. After this rule takes effect, users will no longer find a download button in sections like the attachment list, macros, and file previews. We opted to extend the data export rule rather than introduce a new one because of the considera",
+  "announced_date": "2025-12-08",
+  "rollout_start_date": "2025-12-08",
+  "rollout_end_date": "2025-12-08",
+  "last_seen_week": "2025-12-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025",
+  "history": [
+    {
+      "date": "2025-12-08",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

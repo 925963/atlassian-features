@@ -1,0 +1,29 @@
+{
+  "id": "jira-product-discovery-threaded-comments",
+  "title": "Threaded comments",
+  "product": "Jira Product Discovery",
+  "status": "rollout_complete",
+  "description": "The new threaded comments bring a massive improvement over the previous flat structure. Your team will have clear visibility into team discussions, the ability to highlight key decisions, and access to a structured feedback collection.",
+  "announced_date": "2025-11-03",
+  "rollout_start_date": "2025-10-27",
+  "rollout_end_date": "2025-11-03",
+  "last_seen_week": "2025-11-03",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025",
+  "history": [
+    {
+      "date": "2025-11-03",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

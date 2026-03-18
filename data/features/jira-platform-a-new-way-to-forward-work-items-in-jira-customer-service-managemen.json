@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-a-new-way-to-forward-work-items-in-jira-customer-service-managemen",
+  "title": "A new way to forward work items in Jira Customer Service Management",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "You can now forward work items directly within Jira Customer Service Management. This feature streamlines the process for teams to flag and prioritize work items that need developer attention, making it easier to manage escalations without leaving the app. To forward a work item in Jira Customer Service Management: Open a work item in Jira Customer Service Management.\n\tLook for the new Forward option in the work item actions.\n\tSelect Forward and follow the prompts to complete the escalation.",
+  "announced_date": "2026-02-02",
+  "rollout_start_date": "2026-01-19",
+  "rollout_end_date": "2026-02-02",
+  "last_seen_week": "2026-02-02",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-2-to-feb-9-2026",
+  "history": [
+    {
+      "date": "2026-02-02",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-2-to-feb-9-2026"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

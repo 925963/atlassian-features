@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-record-a-loom-directly-from-a-task-in-jira",
+  "title": "Record a Loom directly from a task in Jira",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "If you are in a Jira business project and open a task, you might see a small banner recommending Loom. Loom is a screen recording tool that integrates with other Atlassian apps, such as Jira. Screen recordings and videos are the best way to show people what you mean or explain something in visual detail. You will have the option to add Loom quickly from the banner and record your screen directly within Jira. So, you can explain what your task comment or description means in clear detail.",
+  "announced_date": "2025-11-17",
+  "rollout_start_date": "2025-11-10",
+  "rollout_end_date": "2025-11-17",
+  "last_seen_week": "2025-11-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025",
+  "history": [
+    {
+      "date": "2025-11-17",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

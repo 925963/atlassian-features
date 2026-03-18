@@ -1,0 +1,24 @@
+{
+  "id": "jira-create-and-reorder-work-items-faster-in-the-all-work-tab",
+  "title": "Create and reorder work items faster in the All work tab",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "You can now quickly create a new work item at the same level (a sibling), and re-rank work items by using drag and drop (select and move) when sorted by rank. Now available for both team-managed and company-managed projects in the All work tab. Key benefits:",
+  "announced_date": "2025-11-10",
+  "rollout_start_date": "2025-11-10",
+  "rollout_end_date": "2025-11-10",
+  "last_seen_week": "2025-11-10",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025",
+  "history": [
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

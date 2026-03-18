@@ -1,0 +1,29 @@
+{
+  "id": "rovo-new-action-shortcuts-menu-for-rovo-in-confluence",
+  "title": "New action shortcuts menu for Rovo in Confluence",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "We've added a new menu of action shortcuts which you can access by hovering over the Rovo button in Confluence. This update helps users discover and access Rovo features more easily, making it easier to use it in Confluence. To get started: Navigate to a page in Confluence where the Rovo button is available.\n\tHover over the Rovo button.\n\tSelect a shortcut from the menu to execute an action.",
+  "announced_date": "2026-02-23",
+  "rollout_start_date": "2026-02-16",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-02-23",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026",
+  "history": [
+    {
+      "date": "2026-02-23",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026"
+    },
+    {
+      "date": "2026-02-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-2-to-feb-9-2026"
+    }
+  ]
+}

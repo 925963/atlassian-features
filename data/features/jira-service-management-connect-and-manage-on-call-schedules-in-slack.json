@@ -1,0 +1,29 @@
+{
+  "id": "jira-service-management-connect-and-manage-on-call-schedules-in-slack",
+  "title": "Connect and manage on-call schedules in Slack",
+  "product": "Jira Service Management",
+  "status": "rollout_complete",
+  "description": "You can now connect on-call team schedules to your team's Slack channel and receive notifications about any changes to on-call shift changes. While connecting the on-call schedule to Slack, you can also set up an alias like !Hello that can be used to tag or @mention the current on-call member in a message. It lets you easily see who's on call and notifies the on-call member. To link a schedule to your team's Slack channel,",
+  "announced_date": "2025-12-08",
+  "rollout_start_date": "2025-11-24",
+  "rollout_end_date": "2025-12-08",
+  "last_seen_week": "2025-12-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025",
+  "history": [
+    {
+      "date": "2025-12-08",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    },
+    {
+      "date": "2025-11-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

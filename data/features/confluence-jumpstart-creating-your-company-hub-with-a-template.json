@@ -1,0 +1,29 @@
+{
+  "id": "confluence-jumpstart-creating-your-company-hub-with-a-template",
+  "title": "Jumpstart creating your Company Hub with a template",
+  "product": "Confluence",
+  "status": "rollout_complete",
+  "description": "We've introduced a new default template that appears when you first onboard to the Company Hub. This template is designed to better showcase visual elements, communicate Company Hub's value propositions more clearly, and make it easier to get started with a beautiful design, out of the box. To find and use the new default template in Company Hub: Open your Company Hub in Confluence on an account that has not created a hub before.\n\tFollow the onboarding steps and give your Company Hub a name of y",
+  "announced_date": "2025-11-17",
+  "rollout_start_date": "2025-11-10",
+  "rollout_end_date": "2025-11-17",
+  "last_seen_week": "2025-11-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025",
+  "history": [
+    {
+      "date": "2025-11-17",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

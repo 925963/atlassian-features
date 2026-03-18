@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-a-clearer-way-to-see-new-comments-in-work-item-view",
+  "title": "A clearer way to see new comments in work item view",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "This update introduces visual indicators for unread comments when new comments arrive while you are viewing a work item. You will now see a floating button and an unread dot to help you quickly spot new activity without needing to refresh the page. To see the new unread comment indicators in action: Open any work item in Jira.\n\tKeep the work item open while someone adds a new comment.\n\tIf the Activity panel is below your field of view on the screen, a floating button will appear to alert you to ",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-the-external-assets-platform-custom-field-is-shutting-down",
+  "title": "The 'External Assets Platform' Custom Field is shutting down",
+  "product": "Jira platform",
+  "status": "released",
+  "description": "The ‘External Assets Platform’ is shutting down as part of our ongoing efforts to deliver the most streamlined and integrated service management solution. Learn more about the shutdown of the 'External Assets Platform'. If you’re a customer currently using the ‘External Assets Platform’ to add context to your Jira issues, we recommend you consider adopting Assets in Jira Service Management, available to Premium and Enterprise customers. Assets allows you to use the Assets objects custom field to",
+  "announced_date": "2025-11-17",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-11-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025",
+  "history": [
+    {
+      "date": "2025-11-17",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025"
+    }
+  ]
+}

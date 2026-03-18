@@ -1,0 +1,29 @@
+{
+  "id": "jira-service-management-manage-your-on-call-contact-methods",
+  "title": "Manage your on-call contact methods",
+  "product": "Jira Service Management",
+  "status": "rollout_complete",
+  "description": "You can now choose and manage which primary contact methods appear on your on-call schedule card. This gives you more control over your privacy and ensures the right people can reach you during on-call shifts. To manage your on-call contact methods: From Settings, select Notification settings, then Alerts.Choose your preferred contact method, select More actions (...), and set it as Primary.Adjust the visibility settings to control who can see your contact method:Select Visible for non-admins to",
+  "announced_date": "2025-12-15",
+  "rollout_start_date": "2025-12-08",
+  "rollout_end_date": "2025-12-15",
+  "last_seen_week": "2025-12-15",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025",
+  "history": [
+    {
+      "date": "2025-12-15",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

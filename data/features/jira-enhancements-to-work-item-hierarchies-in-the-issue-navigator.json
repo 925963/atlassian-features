@@ -1,0 +1,24 @@
+{
+  "id": "jira-enhancements-to-work-item-hierarchies-in-the-issue-navigator",
+  "title": "Enhancements to work item hierarchies in the issue navigator",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "We've introduced the ability to view work item hierarchies, providing a clear and concise overview of related tasks at a glance. Additionally, you can now easily add work items directly from the list. This update improves clarity, structure, and scalability. It allows you and your teams to efficiently manage tasks in both team-managed and company-managed projects. Prefer a flat list view?",
+  "announced_date": "2025-11-10",
+  "rollout_start_date": "2025-11-10",
+  "rollout_end_date": "2025-11-10",
+  "last_seen_week": "2025-11-10",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025",
+  "history": [
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-jirataskofftrackexperimentpopup",
+  "title": "jira_task_off_track_experiment_popup",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "In Jira, you can now add a comment whenever you flag a work item, no matter where you do it. Previously, you could only add a comment from views like the board, backlog, or the command palette in the work item view. This update adds the same comment prompt when you add or remove a flag from the More actions (•••) menu in the work item view, giving your team consistent context about why work is flagged as at risk. To get started with this change: In Jira, open the work item you want to flag.Add o",
+  "announced_date": "2026-02-02",
+  "rollout_start_date": "2026-02-02",
+  "rollout_end_date": "2026-02-02",
+  "last_seen_week": "2026-02-02",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-2-to-feb-9-2026",
+  "history": [
+    {
+      "date": "2026-02-02",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-2-to-feb-9-2026"
+    },
+    {
+      "date": "2026-01-26",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

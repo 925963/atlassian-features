@@ -1,0 +1,24 @@
+{
+  "id": "rovo-rovo-agents-can-now-use-web-search",
+  "title": "Rovo Agents can now use web search",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "Agent creators can now configure web search at the scenario level, allowing Rovo Agents to search public websites for information. This is either in lieu of organizational knowledge or in addition to the scope you define. Web search is available in all scenarios. It also reflects your web search settings in Atlassian Administration - if web search is turned off an the organizational level, scenarios cannot use it even if configured. To get started:",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-02-02",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-2-to-feb-9-2026"
+    }
+  ]
+}

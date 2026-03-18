@@ -1,0 +1,34 @@
+{
+  "id": "jira-platform-improved-performance-and-loading-times-when-using-the-development-",
+  "title": "Improved performance and loading times when using the development panel",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "We’ve improved the development panel so that it now appears in its own context group. The development panel will automatically expand when development data is present and collapse when there isn’t, improving performance and loading time.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-12-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-01-12",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-12-29",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-dec-29-to-jan-5-2026"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    }
+  ]
+}

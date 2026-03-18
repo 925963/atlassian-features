@@ -1,0 +1,29 @@
+{
+  "id": "atlassian-administration-conditional-delays-available-in-atlassian-automation",
+  "title": "Conditional delays available in Atlassian Automation",
+  "product": "Atlassian Administration",
+  "status": "rollout_complete",
+  "description": "We're supporting conditional delays to our growing automation advanced components. You can set a longer delay, or set to delay until certain conditions are met. Available for Cloud Premium and Enterprise editions only. To use conditional branching: Open Automation from your Atlassian app and create a rule\n\tSelect Advanced components after you've added a trigger to your ule\n\tSelect the Delay until component",
+  "announced_date": "2025-11-03",
+  "rollout_start_date": "2025-10-27",
+  "rollout_end_date": "2025-11-03",
+  "last_seen_week": "2025-11-03",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025",
+  "history": [
+    {
+      "date": "2025-11-03",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

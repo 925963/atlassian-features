@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-create-and-manage-email-templates-for-stakeholder-notifications",
+  "title": "Create and manage email templates for stakeholder notifications",
+  "product": "Jira platform",
+  "status": "released",
+  "description": "Jira Service Management Premium and Enterprise users can now save time and customize stakeholder notifications on the go with email templates. Email templates provide an easy and efficient way to customize stakeholder notifications. They eliminate the need to draft new emails from scratch, especially when teams are responding to incidents, allowing for quick customization and notification. Templates ensure consistent messaging by structuring emails to include all necessary information. You can a",
+  "announced_date": "2025-12-08",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-12-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025",
+  "history": [
+    {
+      "date": "2025-12-08",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    }
+  ]
+}

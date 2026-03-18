@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-authorization-changes-are-coming-to-the-azure-devops-for-jira-app",
+  "title": "Authorization changes are coming to the Azure DevOps for Jira app",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "Microsoft is deprecating the Azure DevOps OAuth platform and requiring all apps to use Microsoft Entra ID for authorization by 2026. To ensure your Azure DevOps data continues to appear in Jira without interruption, Jira admins must reauthorize the Azure DevOps for Jira app with Microsoft Entra ID. If authorization isn’t completed before the deprecation deadline, your Azure DevOps data will stop syncing with Jira until reauthorization is complete. Read details about authorizing Azure DevOps for ",
+  "announced_date": "2025-11-17",
+  "rollout_start_date": "2025-11-17",
+  "rollout_end_date": "2025-11-17",
+  "last_seen_week": "2025-11-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025",
+  "history": [
+    {
+      "date": "2025-11-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-17-to-nov-24-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

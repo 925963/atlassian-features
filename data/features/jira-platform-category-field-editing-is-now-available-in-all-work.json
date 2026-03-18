@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-category-field-editing-is-now-available-in-all-work",
+  "title": "Category field editing is now available in All work",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "You can now create, delete, and update the Category field options directly in Jira's All work view in both company-managed and team-managed projects. This gives project administrators more flexibility to manage categories without leaving the All work view. To edit Category options in All work: Make sure you are a project administrator.Ensure the Category column is visible in your All work view.Navigate to the header cell for the Category column.Select the \"More actions for Category\" button to op",
+  "announced_date": "2025-11-24",
+  "rollout_start_date": "2025-11-10",
+  "rollout_end_date": "2025-11-24",
+  "last_seen_week": "2025-11-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025",
+  "history": [
+    {
+      "date": "2025-11-24",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2025-11-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

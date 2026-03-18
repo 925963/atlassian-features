@@ -1,0 +1,19 @@
+{
+  "id": "confluence-a-new-way-to-discover-and-join-atlassian-apps-your-company-uses",
+  "title": "A new way to discover and join Atlassian apps your company uses",
+  "product": "Confluence",
+  "status": "released",
+  "description": "You can now see Atlassian apps that your company uses and are available for you to join, directly via the Atlassian app switcher button (the grid icon near the top navigation bar). This makes it easier to find and join apps that your teammates are already using. Read more about the Atlassian app switcher button. To discover and join available apps:",
+  "announced_date": "2025-12-01",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-12-01",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025",
+  "history": [
+    {
+      "date": "2025-12-01",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    }
+  ]
+}

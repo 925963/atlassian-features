@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-themed-backgrounds-automatically-applied-to-new-software-projects",
+  "title": "Themed backgrounds automatically applied to new software projects",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "When you create a new software project, a default themed background will now be applied automatically. This update brings a consistent and visually engaging look to every new software project from the start. To change your default background: Go to your space in Jira. Then:\n\t\n\t\tIn team-managed spaces: Select ••• (more) next to the space name.\n\t\tIn company-managed spaces: Go to your board, then select ••• (more) next to the board name.\n\t\n\t\n\tSelect Set space background.\n\tChoose your color preferen",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

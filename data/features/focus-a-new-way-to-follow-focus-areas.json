@@ -1,0 +1,29 @@
+{
+  "id": "focus-a-new-way-to-follow-focus-areas",
+  "title": "A new way to follow Focus Areas",
+  "product": "Focus",
+  "status": "rolling_out_new",
+  "description": "We have introduced a new follower feature in Focus, which is consistent in experience with the current share feature. It is now easier to manage your Focus Area followers. To use the new followers feature in Focus: Open any Focus Area where you can manage followers.\n\tSelect + (plus icon) next to the followers section.\n\tAdd new followers or remove existing followers.\n\tSearch for and select people to follow the content.\n\tConfirm your changes.",
+  "announced_date": "2026-03-02",
+  "rollout_start_date": "2026-02-16",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-02",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026",
+  "history": [
+    {
+      "date": "2026-03-02",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026"
+    },
+    {
+      "date": "2026-02-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026"
+    },
+    {
+      "date": "2025-12-15",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    }
+  ]
+}

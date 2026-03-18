@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-making-it-easier-to-find-and-add-fields-to-the-all-work-view",
+  "title": "Making it easier to find and add fields to the All work view",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "We’ve updated the All work view so fields now follow the configuration of the space you’re in. The column selector, visible columns, and CSV exports now hide fields that aren’t part of your current Jira space, reducing noise and keeping you focused on the work that’s actually relevant to you. To view this change: Open a space in Jira.\n\tSelect the All work tab.\n\tSelect Configure columns (three vertical columns icon).\n\tOnly columns that are associated with your space will now be appear in the list",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2025-12-08",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    }
+  ]
+}

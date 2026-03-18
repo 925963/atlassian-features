@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-intent-based-navigation-in-jira-search-experience",
+  "title": "Intent-based navigation in Jira search experience",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Jira Cloud now uses intent detection in the search experience to automatically choose and visually highlight the best destination based on your search query. This helps users find relevant information faster and more efficiently. To get started with this change: Go to Jira Cloud.\n\tType your query into the search bar.\n\tReview the highlighted destination in the search header and select it to continue.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026"
+    }
+  ]
+}

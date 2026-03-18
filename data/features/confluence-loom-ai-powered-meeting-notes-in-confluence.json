@@ -1,0 +1,19 @@
+{
+  "id": "confluence-loom-ai-powered-meeting-notes-in-confluence",
+  "title": "Loom AI-powered meeting notes in Confluence",
+  "product": "Confluence",
+  "status": "released",
+  "description": "When AI-powered meeting notes is enabled in Loom, a Confluence page containing the meeting recap, links shared in the meeting chat, and a recording link is automatically generated for each meeting recording and can be found in the user's personal Confluence space. The page is available when the meeting has ended, and is restricted to only meeting invitees. If meeting recordings is enabled, users can turn on AI-powered meeting notes by toggling the \"Generate meeting notes in Confluence\" in their ",
+  "announced_date": "2025-11-03",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2025-11-03",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025",
+  "history": [
+    {
+      "date": "2025-11-03",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    }
+  ]
+}

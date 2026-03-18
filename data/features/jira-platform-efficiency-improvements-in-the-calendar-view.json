@@ -1,0 +1,24 @@
+{
+  "id": "jira-platform-efficiency-improvements-in-the-calendar-view",
+  "title": "Efficiency improvements in the calendar view",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "• Load more issues without pagination — We’ve replaced the page numbers at the bottom of the calendar with a single Load more button. Selecting this will keep currently loaded issues in view while loading the next 50. • Real-time updates — If you create, update, or delete an issue, other team members viewing the calendar will see those changes in real-time without reloading the page. • Hide done items via URL — If you switch on the toggle to hide done items, the parameter hideDone=true will be a",
+  "announced_date": "2025-10-27",
+  "rollout_start_date": "2025-10-27",
+  "rollout_end_date": "2025-10-27",
+  "last_seen_week": "2025-10-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025",
+  "history": [
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "jira-platform-create-child-work-items-in-the-timeline-view",
+  "title": "Create child work items in the timeline view",
+  "product": "Jira platform",
+  "status": "rollout_complete",
+  "description": "You can now create child work items directly from the parent work item, allowing you to build out your plan in the timeline view. To create a child work item in the timeline view: In the Timeline view, select the parent work item where you want to create a child work item.\n\tSelect the plus icon  next to the summary of the parent work item.\n\tFill in details for your child work item and select Create.",
+  "announced_date": "2026-01-26",
+  "rollout_start_date": "2026-01-19",
+  "rollout_end_date": "2026-01-26",
+  "last_seen_week": "2026-01-26",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026",
+  "history": [
+    {
+      "date": "2026-01-26",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026"
+    },
+    {
+      "date": "2026-01-19",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "atlassian-administration-new-side-panel-for-access-requests",
+  "title": "New side panel for access requests",
+  "product": "Atlassian Administration",
+  "status": "rolling_out",
+  "description": "The access request experience in Atlassian Administration now uses either a modal or a new side panel, depending on your organization view. This update provides a more consistent and intuitive interface for managing user access requests, and makes it easier for admins to review and respond to requests. To see the new experience: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Apps > User requests.\n\tSelect the Access requests tab and open any access req",
+  "announced_date": "2026-02-23",
+  "rollout_start_date": "2026-02-16",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-02-23",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026",
+  "history": [
+    {
+      "date": "2026-02-23",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026"
+    },
+    {
+      "date": "2026-02-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026"
+    }
+  ]
+}

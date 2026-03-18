@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-get-more-work-done-in-less-time-with-suggestions-in-jira",
+  "title": "Get more work done in less time with suggestions in Jira Service Management",
+  "product": "Jira Service Management",
+  "status": "rolling_out",
+  "description": "We’re introducing suggestions on the issue view to help your teams gather context and start working on issues quickly based on a list of actions. Powered by Atlassian Intelligence, this feature is currently available for service requests and incidents only. To turn on suggestions for a project: From your service project, select Project settings, then Features.\n\tTurn on Suggestions.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

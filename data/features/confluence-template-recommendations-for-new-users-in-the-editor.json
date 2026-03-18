@@ -1,0 +1,24 @@
+{
+  "id": "confluence-template-recommendations-for-new-users-in-the-editor",
+  "title": "Template recommendations for new users in the editor",
+  "product": "Confluence",
+  "status": "rolling_out",
+  "description": "When new users are added to a Confluence site without a lot of content, they will now land directly in the editor with relevant template recommendations. This helps new users start collaborating faster and more effectively in Confluence. If your site has fewer than 10 users: Add a new user to your Confluence site.\n\tThe new user will be directed to the editor with template suggestions to help them begin working right away.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-02",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-02",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026"
+    }
+  ]
+}

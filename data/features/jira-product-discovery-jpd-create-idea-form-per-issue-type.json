@@ -1,0 +1,24 @@
+{
+  "id": "jira-product-discovery-jpd-create-idea-form-per-issue-type",
+  "title": "jpd-create-idea-form-per-issue-type",
+  "product": "Jira Product Discovery",
+  "status": "rollout_complete",
+  "description": "With improved flexibility, space admins can now manage which types of work contributors can create and customize the create form template for each type of work. This reduces clutter and helps maintain an organized workflow in Jira Product Discovery spaces. To manage the types of work for contributors and configure the create form per type: Go to your Jira Product Discovert space.\n\tFrom the upper navigation bar, select +Create, then select Configure form.\n\tUnder Allow contributors to create ideas",
+  "announced_date": "2025-10-27",
+  "rollout_start_date": "2025-10-27",
+  "rollout_end_date": "2025-10-27",
+  "last_seen_week": "2025-10-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025",
+  "history": [
+    {
+      "date": "2025-10-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}

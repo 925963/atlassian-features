@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-smart-links-available-in-more-fields",
+  "title": "Smart Links available in more fields",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "Add and view Smart Links in URL and short text fields. This will apply to your issue, list, board, and backlog views. From your list or issue view, copy a valid URL link into a URL or short text field.",
+  "announced_date": "2026-03-09",
+  "rollout_start_date": "2026-03-09",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-09",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jira-jira-create-work-items-inline-in-the-backlog-with-ai-beta",
+  "title": "Jira: Create work items inline in the Backlog with AI (beta)",
+  "product": "Jira",
+  "status": "rollout_complete",
+  "description": "You can now use AI to generate multiple work items directly inline in the Backlog, based on content from a Confluence link. AI analyzes the linked Confluence page and suggests relevant work items for you to review and create—all without switching context. It supports cross-site linking and respects your existing access permissions to Confluence content. AI-powered work creation helps you save time, reduce manual effort, and streamline backlog management by quickly turning documentation into acti",
+  "announced_date": "2025-11-03",
+  "rollout_start_date": "2025-11-03",
+  "rollout_end_date": "2025-11-03",
+  "last_seen_week": "2025-11-03",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025",
+  "history": [
+    {
+      "date": "2025-11-03",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2026-02-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
+    }
+  ]
+}
