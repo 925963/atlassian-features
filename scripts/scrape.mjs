@@ -159,8 +159,29 @@ async function parseWeekPage(url) {
   const html = await fetchPage(url);
   const $ = cheerio.load(html);
 
-  // Extract week date range from page title
-  const titleText = $('h1').first().text().trim();
+  // Extract week date range — find the h1 that contains "Atlassian Cloud changes",
+  // not the site nav header which is also an h1.
+  let titleText = '';
+  $('h1').each((_, el) => {
+    const t = $(el).text().trim();
+    if (t.toLowerCase().includes('atlassian cloud changes')) {
+      titleText = t;
+      return false; // break cheerio loop
+    }
+  });
+
+  // Fallback: derive dates directly from the URL slug (always reliable)
+  // e.g. atlassian-cloud-changes-mar-9-to-mar-16-2026
+  if (!titleText) {
+    const slugMatch = url.match(/atlassian-cloud-changes-(.+)$/);
+    if (slugMatch) {
+      titleText = 'Atlassian Cloud changes ' + slugMatch[1]
+        .replace(/-to-/, ' to ')
+        .replace(/-(\d{4})$/, ', $1')
+        .replace(/-/g, ' ');
+    }
+  }
+
   const weekRange = parseWeekRange(titleText);
   if (!weekRange) {
     console.warn(`  Could not parse week range from: ${titleText}`);
@@ -186,8 +207,10 @@ async function parseWeekPage(url) {
     // Product section headings (h1/h2/h3 that are NOT the page title and NOT status labels)
     if (['h1', 'h2', 'h3'].includes(tag)) {
       const isPageTitle = text.toLowerCase().includes('atlassian cloud changes');
+      const isNavHeader = text === 'Atlassian Cloud Support' || text.toLowerCase().includes('atlassian support');
       const isStatusLabel = Object.keys(STATUS_MAP).some(k => text.toUpperCase().includes(k));
-      if (!isPageTitle && !isStatusLabel && text.length > 0) {
+      const isJumpTo = text.toLowerCase().startsWith('jump to');
+      if (!isPageTitle && !isNavHeader && !isStatusLabel && !isJumpTo && text.length > 2) {
         currentProduct = text;
       }
       return;
