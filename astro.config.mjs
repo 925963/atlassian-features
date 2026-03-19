@@ -2,8 +2,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  ssite: 'https://925963.github.io',
-  base: '/atlassian-features',
+  site: 'https://atlassian-releasenotes.valk.nu',
   integrations: [
     starlight({
       title: 'Atlassian Cloud Features',

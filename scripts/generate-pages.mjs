@@ -18,7 +18,7 @@ const DOCS_DIR = join(ROOT, 'src', 'content', 'docs');
 
 // Base path for GitHub Pages subpath deployment.
 // Change to '' when using a custom domain without a subpath.
-const BASE = '/atlassian-features';
+const BASE = '';
 
 const STATUS_LABELS = {
   coming_soon: '🔜 Coming Soon',
