@@ -2,11 +2,11 @@
   "id": "jira-platform-improved-commit-message-for-git-commands-in-software-projects",
   "title": "Improved commit message for Git commands in software projects",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We've updated the Git commit message to include the work item summary, making it easier to create commits without manually adding work item details. To use the updated commit message: Go to your Jira software project.\n\tOpen a work item.\n\tIn the development field, select Create commit.\n\tSelect Copy to copy the updated Git command, which now includes the work item summary.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "atlassian-administration-monitor-usage-types-in-your-organization",
   "title": "Monitor usage types in your organization",
   "product": "Atlassian Administration",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "We've added Rovo credits and indexed objects to give you greater visibility into usage types being consumed across your organization. Tell me more about Platform usage To view these usage types: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Insights > Platform usage.",
   "announced_date": "2026-01-19",
   "rollout_start_date": "2026-01-12",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-01-19",
   "last_seen_week": "2026-01-19",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2025-11-03",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

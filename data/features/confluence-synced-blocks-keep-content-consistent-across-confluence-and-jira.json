@@ -2,12 +2,12 @@
   "id": "confluence-synced-blocks-keep-content-consistent-across-confluence-and-jira",
   "title": "Synced blocks: Keep content consistent across Confluence and Jira",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Synced blocks let you create a reusable content block in Confluence and use it across Confluence pages and Jira work items. When you update the source block, changes automatically appear everywhere it’s used, helping teams maintain a single source of truth and reduce manual copy-paste errors. To get started with this change: In Confluence, select content you want to reuse or type /sync to create a new synced block.\n\tUse the block menu or toolbar to turn selected content into a synced block.\n\tCop",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-02-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

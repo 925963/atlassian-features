@@ -2,12 +2,12 @@
   "id": "confluence-preview-panels-for-smartlinks-in-whiteboards",
   "title": "Preview panels for Smartlinks in whiteboards",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Confluence now lets you open preview panels for supported Smartlinks (such as Goals, Projects, Teams, Jira Work Items, and Confluence pages) directly in whiteboards. This gives you a quick, focused view of linked content without leaving your whiteboard or opening a new tab, helping you stay in context and work more efficiently. To get started with this change: Add a Goals, Project, Team, Jira Work Item, or Confluence page Smartlink to a Confluence whiteboard.\n\tSelect the Smartlink card, then cho",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2025-11-24",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

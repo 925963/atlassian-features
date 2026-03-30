@@ -2,11 +2,11 @@
   "id": "jira-product-discovery-add-sections-for-roadmap-views-premium-only",
   "title": "Add sections for roadmap views (Premium only)",
   "product": "Jira Product Discovery",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "Organizing your roadmap views into logical sections can help you navigate and maintain your roadmap structure more easily. You can create sections to group related views, then drag and drop existing views into these sections, or add new views directly where needed. To create a section in the roadmap: Go to Jira Product Discovery.\n\tOn the left sidebar, select Roadmaps > View all roadmaps.\n\tSelect the needed roadmap from the list.\n\tOn the left sidebar near the roadmap name, select + > Section, and",
   "announced_date": "2026-02-16",
   "rollout_start_date": "2026-02-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-02-16",
   "last_seen_week": "2026-02-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2025-12-01",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

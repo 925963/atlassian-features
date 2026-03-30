@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-plans-plan-settings-refresh",
+  "title": "Plans - Plan Settings refresh",
+  "product": "Jira platform",
+  "status": "released",
+  "description": "We've redesigned the Plans settings pages to be easier to use and prettier to look at. There's no new functionality with this release. This improvement focuses on rewriting settings for clarity and framing your plan configuration in a more useful way. The notes below outline what's changed.",
+  "announced_date": "2026-03-16",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-16",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
+  "history": [
+    {
+      "date": "2026-03-16",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    }
+  ]
+}

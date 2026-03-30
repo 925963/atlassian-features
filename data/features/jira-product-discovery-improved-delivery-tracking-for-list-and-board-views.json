@@ -2,11 +2,11 @@
   "id": "jira-product-discovery-improved-delivery-tracking-for-list-and-board-views",
   "title": "Improved delivery tracking for list and board views",
   "product": "Jira Product Discovery",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "Updated visual cues for the delivery progress and delivery status fields provide more delivery-tracking information in the list and board views in Jira Product Discovery. The delivery progress field now displays both a progress bar and a percentage, regardless of whether it’s set to track work items or story points. Hover over either field to open a card with more details about the work item or story point count, completion percentage, and quick actions to link or create Jira work items. Discove",
   "announced_date": "2026-02-23",
   "rollout_start_date": "2026-02-16",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-02-23",
   "last_seen_week": "2026-02-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2025-12-01",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-1-to-dec-8-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "jira-team-managed-projects-currency-and-percentage-formatting-now-available-on-n",
   "title": "Team-managed projects: Currency and percentage formatting now available on number fields",
   "product": "Jira",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We’ve added new formatting options for number fields in team-managed projects. You can now format any number field to show a number, currency symbol, or percentage symbol. This feature enhances the presentation of numerical data and provides an easy way to track information like budgets, estimates, costs, and more. You must be an admin to edit fields. To try out a number field with currency or percentage formatting:",
   "announced_date": "2026-01-19",
   "rollout_start_date": "2026-01-19",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-01-19",
   "last_seen_week": "2026-01-19",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-01-19",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

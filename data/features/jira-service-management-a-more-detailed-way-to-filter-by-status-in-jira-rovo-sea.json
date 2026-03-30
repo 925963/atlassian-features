@@ -2,12 +2,12 @@
   "id": "jira-service-management-a-more-detailed-way-to-filter-by-status-in-jira-rovo-sea",
   "title": "A more detailed way to filter by status in Jira Rovo search",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "You can now filter work items in Jira search using more granular status options. This update gives you finer control when narrowing down your search results by status. To use the new granular status filter in Jira search: Go to Jira and open the search experience for work items.\n\tFind the Status filter in the search options.\n\tSelect from the expanded list of status options to refine your search results.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2025-11-03",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-3-to-nov-10-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

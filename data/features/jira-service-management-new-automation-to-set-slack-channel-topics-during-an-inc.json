@@ -2,12 +2,12 @@
   "id": "jira-service-management-new-automation-to-set-slack-channel-topics-during-an-inc",
   "title": "New automation to set Slack channel topics during an incident",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We're adding a new automation action that lets you set the topic of the Slack channel linked to an incident, helping your team keep incident channels up to date with relevant information. This automation is available for Premium and Enterprise plans. To use the new automation:",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2025-12-15",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

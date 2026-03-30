@@ -2,11 +2,11 @@
   "id": "jira-platform-accessibility-and-style-improvements-when-creating-inline-work-ite",
   "title": "Accessibility and style improvements when creating inline work items",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "We've redesigned the appearance to improve accessibility when you create inline work items. There's no new functionality with this release.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

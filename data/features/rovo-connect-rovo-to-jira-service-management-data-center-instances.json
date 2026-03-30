@@ -2,11 +2,11 @@
   "id": "rovo-connect-rovo-to-jira-service-management-data-center-instances",
   "title": "Connect Rovo to Jira Service Management Data Center instances",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Rovo Search now supports connecting Jira Service Management Data Center instances to your Atlassian Cloud site. This enables organizations to synchronize and index Service Desk project types, allowing Service Desk work items to appear alongside Jira Software data in Rovo Search for more comprehensive results. To connect Rovo to Jira Service Management Data Center instances: Create an application tunnel or configure an allowlist (for private networks).\n\tCreate an incoming application link.\n\tSet u",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

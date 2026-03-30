@@ -2,11 +2,11 @@
   "id": "confluence-new-icons-for-confluence-content-types-when-viewing-search-results",
   "title": "New icons for Confluence content types when viewing search results",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We've updated the icons shown for Confluence content types in search results. Now, you will see the correct icon for each Confluence entity—such as published page, live page, blog post, or comment—when searching across Jira, Confluence, Mercury, Compass, and Atlas.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

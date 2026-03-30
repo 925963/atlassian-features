@@ -2,11 +2,11 @@
   "id": "jira-service-management-search-all-apps-from-jira",
   "title": "Search all apps from Jira",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now use the \"All\" tab and a new \"Search all apps\" option in Jira quick search. This update makes it easier to find content from multiple Atlassian apps in one place. Open Jira and select the search bar at the top of your screen.\n\tFind and select the new \"All\" tab in the search dropdown.\n\tUse the \"Search all apps\" option to expand your search beyond Jira.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

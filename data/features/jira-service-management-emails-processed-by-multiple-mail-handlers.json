@@ -2,12 +2,12 @@
   "id": "jira-service-management-emails-processed-by-multiple-mail-handlers",
   "title": "Emails processed by multiple mail handlers",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Jira Service Management now allows a single email sent to multiple project email addresses to be processed by each relevant mail handler. This means a separate request is created in each service project, helping teams capture and track requests across multiple projects for improved collaboration and visibility. Send an email to multiple Jira Service Management project email addresses by including several service project addresses in the “To” field.\n\tCheck each relevant service project to confirm",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2025-12-08",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-8-to-dec-15-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

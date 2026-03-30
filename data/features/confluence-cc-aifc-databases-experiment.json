@@ -2,11 +2,11 @@
   "id": "confluence-cc-aifc-databases-experiment",
   "title": "cc-aifc-databases-experiment",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "The Create with Rovo feature now allows you to create and edit databases using natural language prompts, making it easier to quickly generate and manage structured information within your Confluence workspace. Open Confluence and navigate to Create, then Create with Rovo.\n\tAsk Rovo to create a database by submitting a prompt using natural language. It could contain your recent projects or Jira work items.\n\tEdit your database once Rovo has created it, and add it to your Confluence space.",
   "announced_date": "2026-01-26",
   "rollout_start_date": "2026-01-26",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-01-26",
   "last_seen_week": "2026-01-26",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2025-12-15",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

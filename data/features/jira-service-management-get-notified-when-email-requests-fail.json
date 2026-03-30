@@ -2,11 +2,11 @@
   "id": "jira-service-management-get-notified-when-email-requests-fail",
   "title": "Get notified when email requests fail",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Project admins now receive notifications right in their inbox whenever emailed requests are not processed successfully. This proactive means of communication ensures that admins are informed timely of failed email requests or connection issues with email accounts connected to their project. By default, notifications are sent to all listed admins of a project. There is also an option to send these notifications to a specific email address instead of all admins. In cases where self-signup is disab",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

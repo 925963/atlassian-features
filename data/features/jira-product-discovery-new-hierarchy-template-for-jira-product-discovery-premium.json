@@ -2,12 +2,12 @@
   "id": "jira-product-discovery-new-hierarchy-template-for-jira-product-discovery-premium",
   "title": "New Hierarchy template for Jira Product Discovery (Premium only)",
   "product": "Jira Product Discovery",
-  "status": "rolling_out_new",
+  "status": "released",
   "description": "We've added a new Hierarchy template for Jira Product Discovery, inspired by the opportunity solution tree practice. This template helps you connect opportunities, solutions, and ideas to see how your work drives business outcomes. The structured approach reduces setup time and ensures you're building the right things. To use the Hierarchy template: In the left sidebar, select + next to the Space.\n\tUnder Space templates, select Product management > Hierarchy.\n\tSelect Use template.\n\tAdd your proj",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-01-05",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

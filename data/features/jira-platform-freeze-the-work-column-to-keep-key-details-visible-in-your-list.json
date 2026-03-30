@@ -2,11 +2,11 @@
   "id": "jira-platform-freeze-the-work-column-to-keep-key-details-visible-in-your-list",
   "title": "Freeze the work column to keep key details visible in your list",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "The work column is now frozen by default in the list view. This ensures that key details such as the work item’s type, key, and summary are always visible while scrolling. You can freeze and unfreeze this column at any time, as long as your list width is over 960px. Your preference is saved per user and per project — the column will appear frozen to you and not anyone else. To get started with this change, navigate to your project’s list view by selecting List in the project navigation.",
   "announced_date": "2026-03-02",
   "rollout_start_date": "2026-03-02",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-02",
   "last_seen_week": "2026-03-02",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-01-12",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

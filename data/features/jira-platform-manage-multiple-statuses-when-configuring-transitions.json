@@ -2,11 +2,11 @@
   "id": "jira-platform-manage-multiple-statuses-when-configuring-transitions",
   "title": "Manage multiple statuses when configuring transitions",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We've made several improvements on how you manage statuses when configuring transitions in your workflow. Previously, when you removed statuses in the From status dropdown, it wasn't clear that statuses can be added. To address this, each status (including the last status) in your transition will have a cross  appear, giving more flexibility as you configure your workflow. Please note, you can't delete the last status as a transition needs at least one 'from' status.",
   "announced_date": "2026-02-09",
   "rollout_start_date": "2026-02-02",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-02-09",
   "last_seen_week": "2026-02-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-9-to-feb-16-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-02-02",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-2-to-feb-9-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "confluence-a-smarter-way-to-preview-recommended-confluence-content-in-email",
   "title": "A smarter way to preview recommended Confluence content in email",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We are testing a new experience where some people will see an AI-generated summary of recommended Confluence content in their email, instead of the usual first 200 characters. This aims to make it easier to understand what the content is about at a glance. To see if you are part of this experiment and view the new AI-generated summaries in your recommended Confluence content emails: Check your inbox for emails recommending Confluence content.\n\tLook for a summary under the recommended content. If",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-01-12",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

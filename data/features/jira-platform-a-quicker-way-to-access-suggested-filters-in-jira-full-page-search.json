@@ -2,11 +2,11 @@
   "id": "jira-platform-a-quicker-way-to-access-suggested-filters-in-jira-full-page-search",
   "title": "A quicker way to access suggested filters in Jira full page search",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "When you use full page search in Jira and no filters are applied, you will now see suggested filters for the current primary app, making it easier to find what you need faster. To see and use the new suggested filters in Jira full page search: Open Jira.\n\tOpen Search dialog from top navigation bar and select Search all apps to open full page search.\n\tIf you have not applied any filters, look for the suggested filters at the top of your search results.\n\tSelect a suggested filter to quickly narrow",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

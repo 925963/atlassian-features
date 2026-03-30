@@ -2,12 +2,12 @@
   "id": "atlassian-administration-idle-session-duration-and-session-expiration-settings-f",
   "title": "Idle session duration and session expiration settings for Atlassian Government Cloud authentication policies",
   "product": "Atlassian Administration",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Administrators can now configure Idle session duration and Session expiration in authentication policies for Atlassian Government Cloud environments using Atlassian Administration. Previously, these settings were fixed at 24 hours. This update helps organizations meet their government compliance requirements by allowing more control over session security. To get started with this change: Go to Atlassian Administration at admin.atlassian.com.\n\tSelect your organization.\n\tNavigate to Security, User",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-02-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

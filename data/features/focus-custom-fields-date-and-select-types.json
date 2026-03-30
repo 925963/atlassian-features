@@ -2,11 +2,11 @@
   "id": "focus-custom-fields-date-and-select-types",
   "title": "Custom fields: Date and Select Types",
   "product": "Focus",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "Administrators can now add new custom field types—Date, Single select, and Multi select—to Focus areas in the Focus app. This update gives teams more flexibility to capture and organize data that matches their unique business processes. To get started with this change: Go to the Focus app as an administrator.\n\tSelect Settings, then choose Custom fields.\n\tSelect Create custom field and choose from the new field types: Date, Single select, or Multi select.\n\tConfigure your custom field and save you",
   "announced_date": "2026-02-23",
   "rollout_start_date": "2026-02-23",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-02-23",
   "last_seen_week": "2026-02-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-02-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

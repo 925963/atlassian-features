@@ -2,11 +2,11 @@
   "id": "jira-service-management-edit-your-help-centers-home-page-layout-and-add-rich-con",
   "title": "Edit your help center's home page layout and add rich content to it",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "With this release, admins will have more control over their help center's home page, allowing them to tailor it to fit the needs of their audiences. They will be able to: hide and reorder sections on the home page to create a more organized experience - add layouts, images, and rich content to make the help center visually engaging and user-friendly. This will help admins create a more customized and appealing help center for their different audiences.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

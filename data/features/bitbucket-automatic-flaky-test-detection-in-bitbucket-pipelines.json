@@ -1,0 +1,19 @@
+{
+  "id": "bitbucket-automatic-flaky-test-detection-in-bitbucket-pipelines",
+  "title": "Automatic flaky test detection in Bitbucket Pipelines",
+  "product": "Bitbucket",
+  "status": "rolling_out_new",
+  "description": "Building on the foundation of Bitbucket Tests, Bitbucket now added Automatic Flaky Test Detection which automatically scans your test results and flags flaky tests and auto quarantines them no extra scripts, plugins, or dashboards required. Just run your pipelines as usual, and Bitbucket does the rest: To get started with this change Run your pipelines as usual.\n\tOpen the Tests tab in your repo to see the Flaky score column and flagged tests.\n\tAdjust detection and auto-quarantine under Repositor",
+  "announced_date": "2026-03-16",
+  "rollout_start_date": "2026-03-16",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-16",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
+  "history": [
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    }
+  ]
+}

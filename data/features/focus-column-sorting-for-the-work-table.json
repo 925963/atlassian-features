@@ -2,12 +2,12 @@
   "id": "focus-column-sorting-for-the-work-table",
   "title": "Column sorting for the work table",
   "product": "Focus",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "You can now sort columns in the work table, making it easier to organize and find information. This improvement helps you quickly arrange your data in the way that works best for you. Open the Focus app.\n\tNavigate to your focus area.\n\tSelect the work tab\n\tSelect the sort icon in any column header on the work table to sort the data.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2025-12-15",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

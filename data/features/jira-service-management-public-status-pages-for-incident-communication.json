@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-public-status-pages-for-incident-communication",
+  "title": "Public status pages for incident communication",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Create and manage branded, public status pages directly within Jira Service Management Enterprise. These pages help you communicate service health and incident updates to your stakeholders. You can also have Atlassian Intelligence automatically suggest titles and messages for status page updates (open beta). Manage and customize your status pages To set up a status page:",
+  "announced_date": "2026-03-16",
+  "rollout_start_date": "2026-03-16",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-16",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
+  "history": [
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    }
+  ]
+}

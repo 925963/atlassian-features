@@ -2,11 +2,11 @@
   "id": "bitbucket-pipeline-variables-sent-to-pre-parsing-endpoint",
   "title": "Pipeline variables sent to pre-parsing endpoint",
   "product": "Bitbucket",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "When you enable the feature flag, Bitbucket Pipelines now sends custom pipeline variables to the pre-parsing endpoint. This gives you more flexibility to inspect and shape your CI/CD workflows before they run. To get started with this change: Enable the relevant feature flag for your Bitbucket workspace.\n\tRun a pipeline that uses custom variables.\n\tYour custom variables are now included in the request to the pre-parsing endpoint.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

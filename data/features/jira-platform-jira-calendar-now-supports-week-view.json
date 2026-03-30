@@ -2,11 +2,11 @@
   "id": "jira-platform-jira-calendar-now-supports-week-view",
   "title": "Jira calendar now supports week view",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "The calendar view in Jira software projects and business projects now has a Week view. The calendar will remember your selected view, making it easy to return to your preferred setup. To use the new week view in your calendar: Open your project in Jira.\n\tSelect Calendar from the navigation menu.\n\tChoose the Week option to display your work items in a weekly grid format.\n\tYour selected view range will be saved in the URL for easy access next time.",
   "announced_date": "2026-02-16",
   "rollout_start_date": "2026-02-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-02-16",
   "last_seen_week": "2026-02-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-16-to-feb-23-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-02-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-feb-9-to-feb-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

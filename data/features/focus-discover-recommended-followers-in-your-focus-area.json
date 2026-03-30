@@ -2,11 +2,11 @@
   "id": "focus-discover-recommended-followers-in-your-focus-area",
   "title": "Discover recommended followers in your focus area",
   "product": "Focus",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "When building your focus areas, you'll now see recommended followers - making it easier to connect with the right people. To add recommended followers to your focus area: Open any focus area.\n\tSelect the plus button next to Followers.\n\tAdd followers from the Recommended tab.",
   "announced_date": "2026-03-02",
   "rollout_start_date": "2026-02-16",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-02",
   "last_seen_week": "2026-03-02",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2025-12-15",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

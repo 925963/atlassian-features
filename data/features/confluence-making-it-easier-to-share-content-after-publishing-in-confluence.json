@@ -2,11 +2,11 @@
   "id": "confluence-making-it-easier-to-share-content-after-publishing-in-confluence",
   "title": "Making it easier to share content after publishing in Confluence",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We’re testing an updated publish success flag in Confluence. Some people will now see collaborator avatars and a copy link button after publishing content. Others will also see a new share button that opens the share dialog, making it easier to share with your team. To see and use the improved share link experience after publishing content in Confluence: Publish any content type in Confluence.\n\tLook for the flag that appears at the bottom of your screen after publishing.\n\tIf you have collaborato",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

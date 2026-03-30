@@ -2,11 +2,11 @@
   "id": "jira-platform-jira-plans-easier-setup-when-creating-new-plans",
   "title": "Jira Plans - Easier setup when creating new plans",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We've redesigned the setup experience when you create a new plan. This guided flow makes it easier for you to choose work sources, teams, and field columns so your plan is aligned with how your teams work from the start. To create a new plan: Select the plus icon + next to Plans in your navigation.\n\tFollow the steps and add relevant details to complete your plan set up.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

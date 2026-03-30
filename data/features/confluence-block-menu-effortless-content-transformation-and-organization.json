@@ -2,12 +2,12 @@
   "id": "confluence-block-menu-effortless-content-transformation-and-organization",
   "title": "Block Menu: Effortless content transformation and organization",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "The Block Menu in Confluence helps you quickly transform, move, and share content by opening a context menu from any block’s drag handle. This menu streamlines structural changes and collaboration, making it easier to manage content across paragraphs, lists, and more—without interrupting your workflow. To get started with this change: Open a page in the Confluence full page editor.\n\tHover over any block (such as a paragraph or list) to reveal the drag handle.\n\tSelect the drag handle to open the ",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-02-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-feb-23-to-mar-2-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

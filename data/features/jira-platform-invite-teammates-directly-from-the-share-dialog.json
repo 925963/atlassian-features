@@ -2,11 +2,11 @@
   "id": "jira-platform-invite-teammates-directly-from-the-share-dialog",
   "title": "Invite teammates directly from the share dialog",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now invite new users to your Jira site directly from the share dialog. This update lets admins send invitations right when sharing content, making it easier for new people to join and get started without waiting for separate account approval. To invite someone from the share dialog: Open any Jira work item or content type you want to share.\n\tSelect the Share button.\n\tEnter the email address of the person you want to invite.\n\tIf they are not already part of your Jira site, click Share wil",
   "announced_date": "2026-01-19",
   "rollout_start_date": "2026-01-12",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-01-19",
   "last_seen_week": "2026-01-19",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-19-to-jan-26-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-01-12",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-12-to-jan-19-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

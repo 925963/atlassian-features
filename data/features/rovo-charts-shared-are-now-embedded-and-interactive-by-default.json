@@ -2,12 +2,12 @@
   "id": "rovo-charts-shared-are-now-embedded-and-interactive-by-default",
   "title": "Charts shared are now embedded and interactive by default",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "released",
   "description": "When you share a Rovo-generated data chart in your content, it will now automatically appear as an embedded chart instead of a simple link. This makes it easier for everyone to view and interact with shared charts directly in their content. To see embedded charts: Prompt Rovo with a task to visualize a chart with data.\n\tSelect Copy link from the Rovo-generated chart.\n\tPaste the link into your content. It will automatically display as an embedded, interactive chart.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-02",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2025-11-24",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-nov-24-to-dec-1-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

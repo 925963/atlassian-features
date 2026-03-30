@@ -2,12 +2,12 @@
   "id": "atlassian-administration-find-all-users-and-managed-accounts-in-one-place",
   "title": "Find all users and managed accounts in one place",
   "product": "Atlassian Administration",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We’re moving all your organization’s managed accounts into your Users list in Administration, and adding extra information to the user profile of your managed accounts. This addresses the confusion when some accounts appear in both your organization’s Users list and your Managed accounts list, accompanied by different profiles. With these changes, you only have to use the Users list to manage everyone, with filters to help you narrow your results. What are managed accounts? With this update, the",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2025-12-15",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/12/atlassian-cloud-changes-dec-15-to-dec-22-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

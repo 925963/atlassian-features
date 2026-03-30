@@ -2,12 +2,12 @@
   "id": "jira-service-management-a-more-secure-way-to-connect-apps-to-jira-cloud-and-conf",
   "title": "A more secure way to connect apps to Jira Cloud and Confluence Cloud using OAuth 2.0",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We are excited to announce OAuth 2.0 as a new authentication type for Cloud Application Links. This authentication type offers an industry-standard authentication protocol that enables secure, modern, and reliable connections between Atlassian products. To start using OAuth 2.0 Application Links in Jira and Confluence: Go to Jira or Confluence.\n\tGo to the Jira/Confluence settings.\n\tFind Application links.\n\tFollow the prompts to create a new Application Link using OAuth 2.0.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2025-10-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-oct-27-to-nov-3-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "confluence-more-ways-to-find-people-using-email-addresses",
   "title": "More ways to find people using email addresses",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "There are now more ways you can search for people using email addresses. This makes it easier to find the right people when multiple users have the same name or if you only know someone's email address. Any Confluence surface with a user search field has this updated behavior, including share, change owner, content manager, and more. Go to any user search field in Confluence, such as share, change owner, or content manager.\n\tEnter an email address into the user search field.\n\tSelect the right pe",
   "announced_date": "2026-03-02",
   "rollout_start_date": "2026-03-02",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-02",
   "last_seen_week": "2026-03-02",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2025-11-10",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

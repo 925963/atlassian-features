@@ -2,11 +2,11 @@
   "id": "jira-service-management-asset-object-variable-available-in-customer-notification",
   "title": "Asset object variable available in customer notifications",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We've added an asset object variable directly to a work item, allowing you and your team to easily view when a work item is updated or created. To add an asset object variables to your work items: From your service project, select Project settings then Notification.\n\tUnder Notification, navigate to Customer notifications and select a notification you want to edit.\n\tIn the Content field, select Asset object under Insert variable.\n\tSelect Save to confirm your changes.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-09",
   "last_seen_week": "2026-03-09",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-09",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026"
+    },
+    {
+      "date": "2026-03-16",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }
