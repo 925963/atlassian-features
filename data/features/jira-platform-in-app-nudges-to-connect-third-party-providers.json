@@ -2,12 +2,12 @@
   "id": "jira-platform-in-app-nudges-to-connect-third-party-providers",
   "title": "In-app nudges to connect third-party providers",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Confluence and Jira now display in-app notifications encouraging users to connect third-party providers when they interact with unsupported smart links. This helps users unlock richer features and a more comprehensive experience by integrating external data sources. Paste a Smart Link from a third-party provider (such as Google Drive) in Confluence or Jira.\n\tIf you have not yet connected the provider, an in-app notification will prompt you to authenticate and connect your account.\n\tFollow the st",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

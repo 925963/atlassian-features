@@ -2,12 +2,12 @@
   "id": "jira-product-discovery-add-global-fields-from-any-view",
   "title": "Add global fields from any view",
   "product": "Jira Product Discovery",
-  "status": "rolling_out",
+  "status": "released",
   "description": "Adding global fields to your Jira Product Discovery spaces is now faster and more intuitive. You can add global fields directly from any view to achieve consistency across spaces and reduce setup time. When creating new space fields, you can see suggestions for existing global fields you can reuse. To add a global field: In your Jira Product Discovery space, go to any view.\n\tIn the right sidebar, select Fields > Add a global field.\n\tSelect Discovery fields or Jira fields, or search by a field na",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

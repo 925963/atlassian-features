@@ -2,12 +2,12 @@
   "id": "jira-platform-improved-filters-in-list-view",
   "title": "Improved filters in List view",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We’ve made it easier to find and focus on the work that matters in Jira with a simplified filter experience. Now, when you’re in the All work tab (soon to be merged into a single List view), you’ll see a streamlined filter option that brings quick filters and advanced options like JQL into a single, modern component. Filters are now grouped into three search modes: Basic, Advanced, and JQL. This update makes it easier to find and organize work items, helping Jira users quickly focus on what matt",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "jira-platform-whiteboards-smart-sections-update-multiple-jira-fields-at-once",
   "title": "Whiteboards smart sections: update multiple Jira fields at once",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Confluence whiteboards now let you update multiple Jira fields in a single smart section. This makes it easier to manage and organize Jira work items directly from your whiteboard, saving time and reducing manual effort. To get started with this change: Open a premium-enabled Confluence whiteboard.\n\tCreate a section on your whiteboard.\n\tSelect the section.\n\tFrom the toolbar, choose Jira integrations, then select Create action (or click the Create action label).\n\tIn the side drawer, configure the",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

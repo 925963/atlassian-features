@@ -2,12 +2,12 @@
   "id": "jira-service-management-create-unique-customizable-pages-in-your-help-centers",
   "title": "Create unique, customizable pages in your help centers",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira Service Management Premium and Enterprise users can create and design landing pages in their help centers. Admins can use landing pages to curate and efficiently organize help resources for specific subjects or audiences in a visually appealing manner. These stand-alone pages have customizable layouts to which admins can add rich content, images, videos, links, and more. To create a landing page:",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

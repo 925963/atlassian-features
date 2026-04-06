@@ -2,11 +2,11 @@
   "id": "jira-platform-add-new-or-existing-statuses-from-one-place-in-the-workflow-editor",
   "title": "Add new or existing statuses from one place in the workflow editor",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "In the new workflow editor, you can now create a new status or add an existing one from the same field. This consolidated flow replaces the experience to switch between tabs, so you can search for a status, reuse it, or create another on the spot. To use this consolidated flow: Open the new workflow editor and select Add status from the toolbar.\n\tEnter the status name in the search field.\n\tChoose an existing status from the list, or create a new status.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

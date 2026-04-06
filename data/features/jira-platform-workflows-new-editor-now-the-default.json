@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-workflows-new-editor-now-the-default",
+  "title": "Workflows: New editor now the default",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "The new workflow editor is now the default experience for all admins in Jira. While you can still access the old editor from within the new experience, the option to set the old editor as your default preference has been removed to help you prepare for the sunset of the legacy editor in June 2026. Default Experience: New Workflow Editor To get started with this change:",
+  "announced_date": "2026-03-23",
+  "rollout_start_date": "2026-03-23",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-23",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
+  "history": [
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    }
+  ]
+}

@@ -2,11 +2,11 @@
   "id": "atlassian-administration-atlassian-projects-is-now-a-standalone-app",
   "title": "Atlassian Projects is now a standalone app",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Projects is now available as a platform app, meaning it's no longer a part of Atlassian Home. You can access it directly from the App Switcher in the top-left corner of any Atlassian app and add it to your app shortcuts. To find and use the Projects app: Select the app switcher (grid icon) in the top navigation bar.\n\tChoose Projects from the list of apps.\n\tOr, open Projects from the app directory in Atlassian Home.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "confluence-confluence-lovability-survey",
   "title": "Confluence lovability survey",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We'd love to get user feedback via a contextual survey asking their opinion on Confluence lovability. You may be part of a group of users who have the change to rate Confluence. If selected, you will see this message when you view a page: To what extent do you agree or disagree with the following statement?\n\t\n\t\tConfluence is a product I love using.\n\t\n\t\n\tYou will then have a chance to answer in a range of 1 to 7.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

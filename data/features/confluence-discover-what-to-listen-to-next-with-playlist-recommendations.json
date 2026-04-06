@@ -2,11 +2,11 @@
   "id": "confluence-discover-what-to-listen-to-next-with-playlist-recommendations",
   "title": "Discover what to listen to next with playlist recommendations",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "When you don't have audio briefings in your playlist, you'll now see recommended popular content from your organization - making it easier to discover what to listen to next. To discover what to listen to next: Look for the headphone icon on a Confluence page.\n\tSelect Playlist to view recommended popular content that appears.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

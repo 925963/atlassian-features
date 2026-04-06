@@ -2,12 +2,12 @@
   "id": "jira-platform-invite-teammates-faster-with-auto-filled-and-customizable-email-do",
   "title": "Invite teammates faster with auto-filled and customizable email domains",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "When inviting someone to Jira using the assignee field, the invite modal will be pre-populated with their email domain - making it quicker and easier to bring new teammates into your Jira projects. You can also change the domain if needed. To invite a new teammate with the improved experience: Open any Jira issue where you want to assign work.\n\tIn the Assignee field, start typing the name or email of someone not yet in your Jira site.\n\tSelect the new invite option that appears.\n\tReview the pre-f",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

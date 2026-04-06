@@ -2,12 +2,12 @@
   "id": "confluence-ai-generated-snippets-for-smart-links-and-related-content",
   "title": "AI-generated snippets for Smart Links and related content",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Confluence now uses AI-generated snippets in Smart Links and related content. This helps you quickly understand the content of linked or related Confluence pages without needing to open them, making it easier to find relevant information and decide which pages to view. Hover over a smart link to a Confluence page that is set to inline or appears in related content.\n\tView the AI-generated snippet that summarizes the linked page’s content.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "jira-service-management-prompt-for-jira-users-to-return-to-confluence-after-inac",
   "title": "Prompt for Jira users to return to Confluence after inactivity",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "If someone has access to both Jira and Confluence but has not used Confluence in the last 28 days, they will now see a flag in Jira encouraging them to rejoin their team in Confluence. This flag includes a direct link to Confluence Home and an option to dismiss the message. To see and interact with this new flag in Jira: Log in to Jira with an account that also has access to Confluence.\n\tIf you have not been active in Confluence for at least 28 days, look for a flag at the top of your Jira scree",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

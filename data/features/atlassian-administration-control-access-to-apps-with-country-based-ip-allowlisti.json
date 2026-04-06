@@ -2,11 +2,11 @@
   "id": "atlassian-administration-control-access-to-apps-with-country-based-ip-allowlisti",
   "title": "Control access to apps with country-based IP allowlisting",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Admins can now create IP allowlist policies that restrict access to Atlassian apps by approved countries, as well as IP addresses. This enhancement helps organizations strengthen security and support compliance and migration needs by limiting access based on country of origin across Jira, Confluence, Atlassian Analytics, Compass, and Rovo. Discover how to create IP allowlist policies to access your apps. To control access to apps with country-based IP allowlisting:",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

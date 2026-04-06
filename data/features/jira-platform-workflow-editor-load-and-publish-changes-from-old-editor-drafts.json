@@ -2,11 +2,11 @@
   "id": "jira-platform-workflow-editor-load-and-publish-changes-from-old-editor-drafts",
   "title": "Workflow editor: Load and publish changes from old editor drafts",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "The new workflow editor in Jira now allows you to load changes from your old editor drafts, which you can review and publish without leaving the new editor. You can then continue making changes directly to the active workflow in the new editor without needing to manage separate drafts. What is the new workflow editor? Open a workflow in the new editor that has a pending draft from the old editor.\n\tSelect Apply changes in the Load draft from old editor? message.\n\tSelect Update workflow to publish",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

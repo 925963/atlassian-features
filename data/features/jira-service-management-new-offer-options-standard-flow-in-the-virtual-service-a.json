@@ -2,12 +2,12 @@
   "id": "jira-service-management-new-offer-options-standard-flow-in-the-virtual-service-a",
   "title": "New 'offer options' standard flow in the virtual service agent",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We heard your feedback about the escalate standard flow creating too many work items, so we've introduced a new standard flow, called offer options. Depending on the situation and the channel, offer options is sometimes used instead of escalate. Offer options is configurable, and lets you choose 1–3 options to present to your customers. These appear as buttons: Raise a request starts the escalate standard flow, which lets the customer know a request has been raised and creates a work item. - See",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

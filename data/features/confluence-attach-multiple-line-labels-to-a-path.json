@@ -2,11 +2,11 @@
   "id": "confluence-attach-multiple-line-labels-to-a-path",
   "title": "Attach multiple line labels to a path",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now attach multiple line labels to a path and drag labels off paths in Confluence whiteboards. This update gives you more flexibility to organize and clarify your diagrams, making it easier to communicate complex ideas visually. Open a whiteboard in Confluence.\n\tSelect a path on your diagram.\n\tAdd or edit line labels as needed. You can now attach more than one label to the same path and drag existing labels off paths.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "confluence-bulk-actions-in-the-content-tree",
+  "title": "Bulk actions in the content tree",
+  "product": "Confluence",
+  "status": "coming_soon",
+  "description": "Space admins can now manage content more efficiently by performing bulk actions directly from the content tree in the sidebar. This update to Confluence simplifies your workflow, allowing you to quickly organize spaces by archiving or deleting multiple pages at once. To get started with this change: Open the space where you have space admin permissions.\n\tSelect the Bulk actions button (multi-select icon) at the top of the content tree in the sidebar.\n\tSelect the checkboxes next to the pages you ",
+  "announced_date": "2026-03-23",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-23",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
+  "history": [
+    {
+      "date": "2026-03-23",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    }
+  ]
+}

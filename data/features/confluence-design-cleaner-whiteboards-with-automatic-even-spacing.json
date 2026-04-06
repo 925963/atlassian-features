@@ -2,11 +2,11 @@
   "id": "confluence-design-cleaner-whiteboards-with-automatic-even-spacing",
   "title": "Design cleaner whiteboards with automatic even spacing",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "As you drag elements near three or more aligned items, visual guides appear to help you quickly space them evenly. This helps your whiteboard stay clean and consistent. To evenly space the elements in your whiteboard: Select one or more elements such as stickies, frames, or shapes.\n\tDrag them near three or more aligned items so they’re close to evenly spaced.\n\tWhen you see the visual guides appear, drop the element into place.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

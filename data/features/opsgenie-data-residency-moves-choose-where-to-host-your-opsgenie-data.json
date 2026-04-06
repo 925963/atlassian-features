@@ -2,12 +2,12 @@
   "id": "opsgenie-data-residency-moves-choose-where-to-host-your-opsgenie-data",
   "title": "Data residency moves: Choose where to host your Opsgenie data",
   "product": "Opsgenie",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Opsgenie data residency gives you control over where your Opsgenie account data is hosted. We support data residency moves (moving data across locations) for all Standard, Premium, and Enterprise plans for Opsgenie. To request a data residency move in Opsgenie, go to Settings > App settings > Data residency. Learn more about data residency in Opsgenie",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

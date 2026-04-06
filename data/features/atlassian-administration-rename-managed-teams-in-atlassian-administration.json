@@ -2,12 +2,12 @@
   "id": "atlassian-administration-rename-managed-teams-in-atlassian-administration",
   "title": "Rename managed teams in Atlassian Administration",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Earlier this year, we introduced Managed Teams as a new type of team that is synced to a group with the caveat that the team would have to share the name of the group. In June, the team names could be changed from the Team profile but with this release, we've made it so managed teams can now be renamed in Atlassian Administration as well. To rename managed teams in Atlassian Administration, both new and existing teams can be named when being connected to a group. For teams that have already been",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

@@ -2,18 +2,23 @@
   "id": "jira-service-management-ai-powered-risk-assessment-for-change-requests",
   "title": "AI-powered risk assessment for change requests",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Jira Service Management now features an AI-powered risk assessment for change requests. This improvement analyzes change descriptions, history, linked incidents, and other technical signals to provide an overall risk level, narrative explanation, and mitigation steps. This helps change approvers make faster, more consistent decisions by replacing manual evaluation with automated, explainable insights. To get started with this change: Open a change request issue in your service project.\n\tLocate t",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
     {
       "date": "2026-03-16",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "confluence-visually-organize-ideas-with-mind-maps-in-confluence-whiteboards",
   "title": "Visually organize ideas with mind maps in Confluence whiteboards",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Mind map elements are now available in Confluence whiteboards. These are branching connectors between nodes that help you and your team visualize relationships between different aspects or subtopics of a central idea to brainstorm and structure information more effectively. To use mind maps in Confluence whiteboards: Open a Confluence whiteboard.\n\tSelect the \"Mind maps\" feature from the more (plus) menu in the main toolbar.\n\tStart adding nodes and branches to create your mind map.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

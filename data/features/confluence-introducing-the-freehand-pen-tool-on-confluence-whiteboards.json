@@ -2,12 +2,12 @@
   "id": "confluence-introducing-the-freehand-pen-tool-on-confluence-whiteboards",
   "title": "Introducing the freehand pen tool on Confluence Whiteboards",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "The new pen tool in Confluence Whiteboards lets you draw freely on your digital canvas, making it easier to express your ideas visually. You can now create, edit, and format drawings directly on your whiteboard. To use the new pen tool: Select the pen icon from the main toolbar.\n\tBegin drawing by clicking and holding your mouse or stylus. Release to finish your line.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

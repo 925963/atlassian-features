@@ -2,12 +2,12 @@
   "id": "jira-platform-more-details-in-quick-find-recent-searches",
   "title": "More details in Quick find recent searches",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Quick find in Jira now displays more metadata for your recent searches, making it easier to identify and select the right work item from your search history. To see the updated metadata in your recent searches: Open Jira.\n\tSelect Quick find (the search bar at the top of your screen).\n\tReview your recent searches to see additional details for each work item.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

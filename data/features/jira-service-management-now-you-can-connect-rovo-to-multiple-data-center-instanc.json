@@ -2,12 +2,12 @@
   "id": "jira-service-management-now-you-can-connect-rovo-to-multiple-data-center-instanc",
   "title": "Now you can connect Rovo to multiple Data Center instances",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Rovo Search now allows you to connect up to three Jira Data Center (Jira Data Center or Jira Service Management Data Center) instances to a single Atlassian Cloud site. This means organizations with multiple Jira Data Center environments can unify search and insights across all connected instances, making it easier to access and analyze data from different sources in one place. Create an application tunnel or configure an allowlist (for private networks).\n\tCreate an incoming application link.\n\tS",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

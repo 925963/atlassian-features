@@ -2,18 +2,23 @@
   "id": "jira-platform-notification-for-upcoming-jira-seasonal-releases",
   "title": "Notification for upcoming Jira seasonal releases",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We’re introducing a new seasonal release cadence for Jira to make app updates more predictable and easier to coordinate across your environments. A new notification banner in Atlassian Administration provides details about how these changes will roll out to your release tracks. Jira seasonal releases and Release tracks: What Cloud admins need to know To get started with this change:",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
     {
       "date": "2026-03-16",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "jira-service-management-new-onboarding-experience-and-shortcut-for-automation-in",
   "title": "New onboarding experience and shortcut for Automation in Jira Service Management",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "New Jira Service Management customers will now see a prominent onboarding prompt and a navigation shortcut to Automation. This update helps new customers discover and set up automations more easily, so they can experience the value of automations early in their journey. To get started: Sign in to your Jira Service Management site as a new customer.\n\tLook for the shortcut to Automation on your Getting Started page.\n\tSelect the prompt or shortcut to start setting up your first automation rule.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

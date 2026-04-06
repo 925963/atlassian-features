@@ -2,11 +2,11 @@
   "id": "jira-platform-drag-to-re-order-work-items-in-the-list-view",
   "title": "Drag to re-order work items in the list view",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "The new list view (previously 'All work' in Jira) can now be sorted manually with drag-and-drop. This update lets you drag-and-drop to reorder items in the list, making it easier to prioritize and organize work. You can still sort by any field; drag-and-drop will be temporarily disabled while sorting is applied. To return to manual ordering, you can either clear your applied sorting or clear your filters to re-enable drag-and-drop and move work items up or down the list.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

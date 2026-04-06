@@ -1,0 +1,19 @@
+{
+  "id": "confluence-new-teammates-in-small-confluence-sites-now-follow-teammates-automati",
+  "title": "New teammates in small Confluence sites now follow teammates automatically",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "When someone joins a Confluence site with 10 or fewer people, they’ll now automatically follow their teammates. This means their feed will immediately show relevant team activity, helping new joiners get up to speed and start collaborating faster. To experience this update, users must be enrolled in the experiment. After joining a small Confluence site, new teammates will automatically follow existing members.\n\tTheir feed will instantly display updates and activity from their team.",
+  "announced_date": "2026-03-23",
+  "rollout_start_date": "2026-03-23",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-23",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
+  "history": [
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    }
+  ]
+}

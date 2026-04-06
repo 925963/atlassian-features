@@ -2,12 +2,12 @@
   "id": "atlassian-administration-manage-access-to-analytics-for-all-apps",
   "title": "Manage access to analytics for all apps",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We're introducing a new setting for analytics, which enables admins to choose whether or not the apps they're using can send data to third-party analytics tools. Check the documentation for the permissions you may need to access the new setting. By default, this setting is enabled, which allows data sharing for all new app installations. However, admins can choose to enable or disable this setting at any time from the Connected apps page, even before a new app is installed on to a site. Admins c",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

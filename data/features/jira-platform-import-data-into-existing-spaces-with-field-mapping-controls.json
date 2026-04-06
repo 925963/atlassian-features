@@ -2,11 +2,11 @@
   "id": "jira-platform-import-data-into-existing-spaces-with-field-mapping-controls",
   "title": "Import data into existing spaces with field mapping controls",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now import data into an existing space using CSV. The field mapping screen only shows fields available in the selected space, and restricts the creation of new custom fields. Work items are appended to already existing work in your space. To explore this change: From the navigation bar, select Spaces > Create a new space.\n\tFrom the sidebar, go to More > Import data.\n\tSelect CSV from the list of apps.\n\tUpload the CSV file.\n\tSelect the existing space you want to import data into from the d",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

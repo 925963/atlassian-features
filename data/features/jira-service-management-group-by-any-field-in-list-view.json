@@ -2,12 +2,12 @@
   "id": "jira-service-management-group-by-any-field-in-list-view",
   "title": "Group by any field in list view",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "You can now group work items in the list view by a wider range of fields, and quickly find your preferred grouping options with a new searchable dropdown that highlights your most recent choices. To group work items by any supported field in the list view: Go to any Jira list view.\n\tSelect the Group by dropdown at the top of the list.\n\tUse the search bar to find the field you want to group by, or pick from your five most recently used options.\n\tSelect your preferred field to instantly group your",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

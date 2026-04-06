@@ -2,12 +2,12 @@
   "id": "jira-platform-prompt-inactive-confluence-users-to-create-content-from-work-items",
   "title": "Prompt inactive Confluence users to create content from work items",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We're introducing a feature that encourages inactive Confluence users to create content directly from Jira work items. This feature targets users who haven't been active in Confluence for the past 28 days and belong to sites that have had Confluence for more than 14 days. When these users view certain Jira work items, they'll see a suggestion to create a relevant project document in Confluence. To start using this feature: Open a Jira issue of type epic, story, or bug.\n\tLook for the Confluence c",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "bitbucket-search-for-code-changes-when-reviewing-pull-requests",
   "title": "Search for code changes when reviewing pull requests",
   "product": "Bitbucket",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Now you can filter the list of files in a pull request – or search for specific code changes – when doing code reviews in Bitbucket Cloud. These new features make it easier to find specific changes without scrolling through the entire pull request. To search for code changes in a pull request: Open a pull request in Bitbucket.\n\tSelect the files changed tab.\n\tTo filter the list of files, select the new Filter files button and enter a search term. Start your search with ! to exclude files.\n\tTo sea",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "jira-platform-introducing-a-brand-new-way-to-complete-bulk-actions-in-the-issue-",
   "title": "Introducing a brand new way to complete bulk actions in the issue navigator",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We’re introducing a toolbar in the issue navigator so users can update multiple issues even more seamlessly. To use the new toolbar: Select multiple issues from the list view in the issue navigator. You can either:\n\t\n\t\tUse the issue checkboxes.\n\t\tHold Ctrl (Windows) or Command (Mac) while selecting issues\n\t\thold the Shift key to select a group of adjacent issues\n\t\n\t\n\tThe new toolbar will appear. You can either select Edit fields to make edits to fields in your issues or Change status to transiti",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

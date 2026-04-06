@@ -2,12 +2,12 @@
   "id": "jira-platform-a-simpler-left-sidebar-for-new-jira-users",
   "title": "A simpler left sidebar for new Jira users",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We're simplifying the left sidebar for people who are new to Jira. This update reduces the number of items shown in the sidebar, making it easier to get started and find what you need. To see the simplified sidebar: Sign in to Jira as a new customer.\n\tLook at the left side of your screen to view the updated sidebar.\n\tExplore the available options to start your work.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

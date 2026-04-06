@@ -2,11 +2,11 @@
   "id": "jira-service-management-set-a-custom-start-processing-emails-from-date-for-mail-",
   "title": "Set a custom start processing emails from date for mail channels",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Project admins in Jira Service Management company-managed projects can now set a custom date to start processing emails for IMAP and OAuth mail channels. This self-service option lets you control which emails are converted into requests, reducing the need to contact Atlassian support and helping you manage incoming requests more efficiently. Go to your service project and select Project settings.\n\tSelect Channels and self-service, then select Email.\n\tFor an existing IMAP or OAuth email address, ",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

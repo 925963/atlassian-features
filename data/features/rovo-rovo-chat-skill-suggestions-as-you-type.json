@@ -2,18 +2,23 @@
   "id": "rovo-rovo-chat-skill-suggestions-as-you-type",
   "title": "Rovo Chat: Skill suggestions as you type",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Atlassian Rovo now provides real-time skill suggestions as you type in chat. This improvement helps you quickly discover and use relevant Rovo agents and skills, saving you time and effort when writing prompts. To get started with this change: Open Rovo Chat.\n\tBegin typing your prompt in the input field.\n\tSelect a suggested skill or agent from the list that appears to add it to your chat.",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
     {
       "date": "2026-03-16",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

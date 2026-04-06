@@ -2,11 +2,11 @@
   "id": "confluence-banner-in-mobile-web-to-promote-the-mobile-app",
   "title": "Banner in mobile web to promote the mobile app",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Confluence mobile web users will now see a banner encouraging them to try the Confluence mobile app. This change aims to help users discover the benefits of the app, such as faster access and richer features, leading to a better experience on the go. To get started with this change: Open Confluence in your mobile web browser.\n\tLook for the new banner promoting the Confluence mobile app.\n\tSelect the Open app option.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

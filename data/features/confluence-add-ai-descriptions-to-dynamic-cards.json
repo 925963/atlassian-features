@@ -2,12 +2,12 @@
   "id": "confluence-add-ai-descriptions-to-dynamic-cards",
   "title": "Add AI descriptions to dynamic cards",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "Dynamic cards now feature AI-generated descriptions. When you use dynamic cards in Company Hub or Confluence, you can now have a summary of the content added to the card. AI-generated summaries can contain errors or inaccuracies. The use of AI in dynamic cards is optional and can be turned off. Descriptions are now enabled by default on new dynamic cards elements. To remove the AI-generated descriptions, select the element, then the pencil icon to edit settings. Turn the Description toggle off.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

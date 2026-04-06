@@ -2,11 +2,11 @@
   "id": "atlassian-administration-create-and-manage-multiple-external-user-security-polic",
   "title": "Create and manage multiple external user security policies",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now create and manage external user security policies in Atlassian Administration. This lets you set different security rules for groups of external users by email domain. To create and manage multiple external user security policies: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Security > User security > External users.\n\tSelect the Create new policy button to add a new policy.\n\tSpecify the Domains each policy should apply to and select Upda",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

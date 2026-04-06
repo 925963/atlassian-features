@@ -2,11 +2,11 @@
   "id": "rovo-rovo-skills-are-now-generally-available-in-rovo-chat",
   "title": "Rovo Skills are now generally available in Rovo Chat",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Rovo Skills are now available for all customers using Rovo Chat. Skills help Rovo understand the steps it needs to take to complete a task, and what an example of ‘good’ would look like for that task. Skills also transform a natural language prompt into consistent, reliable action. For example, instead of asking Rovo to “write me something about this release”, you can use the skill /summarize-release that understands releases, work items, and how to talk about those ideas to your stakeholders. A",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

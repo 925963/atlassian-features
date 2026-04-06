@@ -2,12 +2,12 @@
   "id": "atlassian-administration-control-what-content-gets-synced-to-rovo-from-microsoft",
   "title": "Control what content gets synced to Rovo from Microsoft Sharepoint",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You can now control how Microsoft SharePoint content is synced into Rovo directly from the Admin Hub. This update lets you decide which files to include (by date) and how often they should be updated — giving you more flexibility and helping you keep data fresh with less manual work. To limit or schedule Microsoft SharePoint content updates in the Admin Hub: Go to Atlassian Administration\n\tGo to Settings, and then Rovo.\n\tWhen adding a new Microsoft SharePoint connector:\n\t\n\t\tClick Choose content ",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

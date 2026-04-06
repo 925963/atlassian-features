@@ -2,11 +2,11 @@
   "id": "jira-platform-timeline-updates-roll-up-and-sticky-fixed-columns",
   "title": "Timeline updates: Roll-up and sticky (fixed) columns",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We’re excited to announce the rollout of the new roll-up and sticky (fixed) column features for the timeline in business spaces. This update is all about making space tracking smoother, more intuitive, and less manual—so you can focus on what matters most. To explore this change: Go to your business space's timeline.\n\tCreate or open a parent work item with child work items.\n\tAssign start and due dates to child work items to see roll-up values on the parent.\n\tUse the new assignee and status colum",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

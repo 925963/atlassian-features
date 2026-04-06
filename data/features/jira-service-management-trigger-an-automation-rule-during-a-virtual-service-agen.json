@@ -2,12 +2,12 @@
   "id": "jira-service-management-trigger-an-automation-rule-during-a-virtual-service-agen",
   "title": "Trigger an Automation rule during a virtual service agent conversation",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Use the new run Automation rule step to trigger Automation rules during virtual service agent conversations! Your customers won’t notice when an Automation rule is run – it all happens in the background while they're chatting with the virtual service agent. Find out how to run an Automation rule in a conversation flow",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-email-logs-access-all-notifications-from-one-page",
+  "title": "Email logs: Access all notifications from one page",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Jira Service Management project admins can now view both outbound customer notifications and inbound email logs from a single Email logs page. This unified experience eliminates the need to switch between the notification settings and the email channel configuration to diagnose delivery issues, saving you time when troubleshooting communication with your help seekers. Go to your service project and select Project settings, then Email logs.\n\tSelect the Customer notifications tab to view outbound ",
+  "announced_date": "2026-03-23",
+  "rollout_start_date": "2026-03-23",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-23",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
+  "history": [
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    }
+  ]
+}

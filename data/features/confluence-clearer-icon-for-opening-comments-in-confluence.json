@@ -2,12 +2,12 @@
   "id": "confluence-clearer-icon-for-opening-comments-in-confluence",
   "title": "Clearer icon for opening comments in Confluence",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We’ve updated the icon used to open the comment panel in Confluence. The new icon makes it easier to understand how to open and close comments on your content. To get started with this change: Open any Confluence content type, such as a published page or blog post.\n\tFind the inline comment panel icon in the inline comment component.\n\tSelect the icon to open or close the comment panel as usual.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

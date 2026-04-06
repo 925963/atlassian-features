@@ -2,12 +2,12 @@
   "id": "jira-platform-find-work-faster-with-the-command-palette",
   "title": "Find work faster with the command palette",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "We've added new navigation items to the command palette to help you quickly access your work items. You can now view your open work items and work items reported by you more easily. To access the new navigation items: Open the command palette:\n\t\n\t\tMac: Command + K\n\t\tWindows: Ctrl + K\n\t\n\t\n\tSearch for the command View my open work items or View work items reported by me.\n\tSelect the command to navigate to view those work items.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

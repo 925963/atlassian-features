@@ -2,12 +2,12 @@
   "id": "jira-platform-new-and-updated-virtual-agent-channel-management",
   "title": "New and updated virtual agent Channel management",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "This update simplifies channel management and enhances the visibility and usage of the virtual agent across your Jira Service Management projects. Streamlined configuration: For a more efficient admin experience, manage all channel configurations from a single Jira Service Management channel home. Centralized channel visibility: View all connected channels with the virtual agent in one place.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

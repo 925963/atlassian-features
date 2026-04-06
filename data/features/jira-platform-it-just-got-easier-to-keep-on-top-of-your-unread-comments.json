@@ -2,12 +2,12 @@
   "id": "jira-platform-it-just-got-easier-to-keep-on-top-of-your-unread-comments",
   "title": "It just got easier to keep on top of your unread comments",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We’re introducing an unread badge in the Comments column in the list view to help you easily identify work items with unread comments. This allows you to stay on top of important discussion and collaborate with your team. To make sure you get to try this feature, we’ll be automatically adding the Comments column to all list views. Join the conversation and give us early feedback",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

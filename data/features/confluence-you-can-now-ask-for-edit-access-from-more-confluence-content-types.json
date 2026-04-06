@@ -2,12 +2,12 @@
   "id": "confluence-you-can-now-ask-for-edit-access-from-more-confluence-content-types",
   "title": "You can now ask for edit access from more Confluence content types",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "The “Ask to edit” option in the overflow menu is now available on databases, whiteboards, and blogs, along with published pages and live docs. This makes it easier to ask for edit access directly from wherever you’re working in Confluence. To ask for edit access: Open a database, whiteboard, blog, published page, or live doc in Confluence.\n\tSelect the ••• more actions menu in the top right corner.\n\tSelect Ask to edit.\n\tYour request will be sent to the content owner, and you’ll be notified when t",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

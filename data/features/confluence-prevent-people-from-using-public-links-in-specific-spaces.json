@@ -2,12 +2,12 @@
   "id": "confluence-prevent-people-from-using-public-links-in-specific-spaces",
   "title": "Prevent people from using public links in specific spaces",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Data security policies allow you to use rules to control how users, apps, and people outside the organization can interact with content such as Confluence pages and Jira issues. You can now use the public links rule to prevent people creating and accessing public links in particularly sensitive Confluence spaces. Previously, this was only available for policies that covered classification levels or entire Confluence instances. How the public links rule works The public links rule requires Atlass",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

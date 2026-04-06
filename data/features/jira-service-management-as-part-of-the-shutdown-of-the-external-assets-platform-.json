@@ -2,12 +2,12 @@
   "id": "jira-service-management-as-part-of-the-shutdown-of-the-external-assets-platform-",
   "title": "As part of the shutdown of the \"External Assets Platform\", the ability to create, add, or modify \"External Assets Platform\" custom fields has now been removed",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "As part of our ongoing efforts to deliver the most streamlined and integrated service management solution, the ‘External Asset Platform’ will be shut down. Learn more about the shutdown of the 'External Assets Platform'. This change will take place in two stages: currently, we are removing the ability to create new \"External Assets Platform\" custom fields, add these fields to projects, or modify the contents of existing \"External Assets Platform\" custom fields.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-09",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

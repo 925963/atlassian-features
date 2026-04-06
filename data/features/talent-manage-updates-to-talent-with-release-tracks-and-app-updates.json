@@ -2,18 +2,23 @@
   "id": "talent-manage-updates-to-talent-with-release-tracks-and-app-updates",
   "title": "Manage updates to Talent with release tracks and app updates",
   "product": "Talent",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Talent can now be put on the bundled release track, so you can have more time to prepare and plan for changes to the Talent app. What are release tracks? To schedule monthly changes for Talent: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Apps > Release management > Release tracks.\n\tLook for Talent in the list of supported apps and select the change track option.\n\tChoose the bundled release track to schedule monthly updates.",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
     {
       "date": "2026-03-16",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "jira-product-discovery-browse-view-examples-and-learn-how-to-implement-them-in-j",
   "title": "Browse view examples and learn how to implement them in Jira Product Discovery",
   "product": "Jira Product Discovery",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now discover the view examples directly within your Jira Product Discovery space. These examples cover various use cases such as scoring and prioritizing ideas, creating quarterly roadmaps, and tracking Jira delivery progress. Browse and preview these examples to quickly identify approaches that fit your workflow. To get the view example: Go to your Jira Product Discovery.\n\tNext to the space name, select +.\n\tUnder Explore examples, select any view from the list to open its image.\n\tSelect",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-16",
   "last_seen_week": "2026-03-16",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026"
+    },
+    {
+      "date": "2026-03-23",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }
