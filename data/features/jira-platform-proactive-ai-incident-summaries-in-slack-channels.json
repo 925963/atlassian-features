@@ -2,12 +2,12 @@
   "id": "jira-platform-proactive-ai-incident-summaries-in-slack-channels",
   "title": "Proactive AI incident summaries in Slack channels",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira Service Management ChatOps now proactively sends an AI-generated incident summary as soon as you join a Slack channel linked to an incident. This removes the need to manually request a summary, helping teams get up to speed faster. Create an incident in Jira Service Management, then either create a new Slack channel for the incident or link an existing channel. For this feature to work, only one incident should be linked to any given Slack channel.\n\tJoin the Slack channel. The ChatOps bot w",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

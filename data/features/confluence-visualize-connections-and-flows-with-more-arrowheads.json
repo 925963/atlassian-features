@@ -2,11 +2,11 @@
   "id": "confluence-visualize-connections-and-flows-with-more-arrowheads",
   "title": "Visualize connections and flows with more arrowheads",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We've expanded the selection of arrowheads when creating diagrams in whiteboards, giving you more ways to visualize connections and flows. This improvement also allows you to create advanced and expressive diagrams. To use the new arrow in your whiteboard: Create a blank whiteboard and insert a line.\n\tSelect the line to open the toolbar.\n\tSelect the arrow dropdown and choose from the expanded range of arrowheads to create your diagram.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-09",
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

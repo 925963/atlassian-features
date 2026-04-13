@@ -2,11 +2,11 @@
   "id": "jira-platform-bulk-operations-on-timelines-in-business-spaces",
   "title": "Bulk operations on timelines in business spaces",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Timelines in business spaces now support bulk operations, allowing you to select multiple work items and apply actions to all selected work items at once. This update brings the familiar bulk actions experience from list and backlog views to business timelines, making it easier to manage work at scale. To get started with this change: Open the timeline view in your business space.\n\tSelect multiple work items using the checkboxes next to each item.\n\tUse the toolbar that appears to apply bulk acti",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

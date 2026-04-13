@@ -2,12 +2,12 @@
   "id": "confluence-content-access-requests-now-stored-on-content-items-themselves",
   "title": "Content access requests now stored on content items themselves",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "released",
   "description": "We've made it easier to manage access requests to content items by storing them directly in Confluence. Instead of relying on fleeting (or ignored) in-app notifications and emails, you can now view all pending access requests for a specific content item in the Share window. This helps you keep track of requests more efficiently. To view and take action on content access requests in Confluence: Open any content item in Confluence.\n\tSelect Share.\n\tIf there are pending access requests to that conte",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-09",
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

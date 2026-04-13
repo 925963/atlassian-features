@@ -2,11 +2,11 @@
   "id": "focus-expand-all-work-items-from-sub-focus-areas",
   "title": "Expand all work items from sub-focus areas",
   "product": "Focus",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "When you are looking for work items that roll up to a focus area, you can drill down into the detailed information on the Work tab of that focus area. The table shows you the work items that were added to that focus area and all the work items in its sub-focus areas. Depending on the number of sub-focus areas and work items, you might need to expand several sections to see them all. To make this easier, a toggle was added to the table's More actions (•••) menu to always expand the work items. Th",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-09",
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

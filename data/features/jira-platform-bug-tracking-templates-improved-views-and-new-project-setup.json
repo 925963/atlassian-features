@@ -2,12 +2,12 @@
   "id": "jira-platform-bug-tracking-templates-improved-views-and-new-project-setup",
   "title": "Bug tracking templates: Improved views and new project setup",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira Cloud offers an improved bug tracking experience with updates to the company-managed project bug tracking template and a new team-managed project bug tracking template. These changes provide clearer, more useful default views, making it easier to set up and manage bug tracking projects. To get started with this change: Select Create project in Jira Cloud.\n\tChoose the Software development category.\n\tFind and select the Bug tracking template.\n\tSelect Use template to create your project.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

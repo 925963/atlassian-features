@@ -1,0 +1,19 @@
+{
+  "id": "confluence-editor-ai-suggested-actions-when-pasting-content",
+  "title": "Editor: AI-suggested actions when pasting content",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "We've replaced the floating toolbar in the Atlassian editor in Confluence with a new menu that appears when you paste content. This menu uses Atlassian AI to suggest relevant actions based on the content you've pasted, helping you format and organize your work more efficiently across Atlassian apps. To get started with this change: Open any Confluence.\n\tPaste text or content into the editor.\n\tSelect the new menu that appears to view and apply AI-suggested actions.",
+  "announced_date": "2026-03-30",
+  "rollout_start_date": "2026-03-30",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-30",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026",
+  "history": [
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
+    }
+  ]
+}

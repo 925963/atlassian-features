@@ -2,11 +2,11 @@
   "id": "atlassian-administration-reactivate-your-inactive-custom-domains",
   "title": "Reactivate your inactive custom domains",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now reactivate your previously suspended custom domain. Instead of remaining suspended, your custom domain will be marked as inactive, allowing you the option to activate it whenever you want. If you're unable to activate your custom domain you may see an Error status, Provisioned status, or an error notification next to your CNAME records. To fix this, you can troubleshoot your custom domain. To activate your custom domain:",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-09",
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

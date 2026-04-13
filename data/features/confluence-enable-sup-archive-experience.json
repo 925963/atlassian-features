@@ -2,18 +2,23 @@
   "id": "confluence-enable-sup-archive-experience",
   "title": "enable-sup-archive-experience",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We’re making it clear, across Confluence, when a team is archived. From the share dialog to space access, teams will now include an Archived label when they’ve been archived in the teams app, helping you distinguish between active and inactive participants. Note: Archiving a team doesn’t remove or revoke any access the team had. To revoke access, you will need to remove the team’s access from the space, content, etc. To get started with this change:",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
       "date": "2026-03-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

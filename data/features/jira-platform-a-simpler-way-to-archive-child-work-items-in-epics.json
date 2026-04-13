@@ -2,12 +2,12 @@
   "id": "jira-platform-a-simpler-way-to-archive-child-work-items-in-epics",
   "title": "A simpler way to archive child work items in epics",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "This update introduces the ability to archive an epic's child work items when you're archiving the epic. You can now easily manage and tidy up your epics by archiving related work items that are no longer active or needed. To archive child work items in your epics (ensure you have archive permissions): Open an epic containing child work items.\n\tSelect Archive for the epic (either on the board, or within the work item view).\n\tSelect the option to archive child work items.\n\tSelect Archive again.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "atlassian-administration-set-a-maximum-session-lifetime-for-managed-accounts",
   "title": "Set a maximum session lifetime for managed accounts",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "You can now set a maximum session lifetime for managed accounts. This lets you enforce a fixed session duration, regardless of user activity, to help meet your organization’s security and compliance requirements. To set a maximum session lifetime for managed accounts: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Security > User security > Authentication policies.\n\tEdit or create a policy to set a maximum session lifetime for managed accounts.\n\tSave ",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

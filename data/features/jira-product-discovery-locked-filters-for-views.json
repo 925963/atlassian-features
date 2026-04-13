@@ -2,12 +2,12 @@
   "id": "jira-product-discovery-locked-filters-for-views",
   "title": "Locked filters for views",
   "product": "Jira Product Discovery",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "View filters in Jira Product Discovery are now automatically locked to prevent accidental changes and maintain consistency. Contributors can no longer edit or remove these locked filters, but can add temporary filters that reset upon refresh. Lock icons in the filter side panel indicate which filters are protected, keeping the original view intact for everyone.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

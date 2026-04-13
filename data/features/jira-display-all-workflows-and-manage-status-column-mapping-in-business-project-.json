@@ -2,11 +2,11 @@
   "id": "jira-display-all-workflows-and-manage-status-column-mapping-in-business-project-",
   "title": "Display all workflows and manage status column mapping in business project boards",
   "product": "Jira",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "This update introduces the ability to merge board workflows, making it easier for teams to align and manage work across multiple boards. By streamlining workflow management, teams can collaborate more efficiently and reduce manual effort. All boards by default will adopt the new changes with merged workflows in single board",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-09",
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

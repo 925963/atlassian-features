@@ -2,11 +2,11 @@
   "id": "atlassian-administration-admins-can-now-see-rovo-indexed-objects-for-each-third-",
   "title": "Admins can now see Rovo indexed objects for each third-party connector",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organization admins can now see the number of indexed objects against each Rovo third-party connector. To find out more about indexed objects and Rovo quotas, see Rovo usage quotas. To see the object count: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Settings > Rovo.\n\tExpand the site where you’ve connected a third-party app.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-09",
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

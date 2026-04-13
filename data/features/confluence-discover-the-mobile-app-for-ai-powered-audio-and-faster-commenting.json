@@ -2,12 +2,12 @@
   "id": "confluence-discover-the-mobile-app-for-ai-powered-audio-and-faster-commenting",
   "title": "Discover the mobile app for AI-powered audio and faster commenting",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "When you view pages on the web using your mobile, you'll see a prompt to discover the mobile app. With the app, you can catch-up on missed content using AI-powered audio features and quickly comment on pages your team members are working on. To download the Confluence mobile app, select Open in the banner on the page you're viewing in the mobile web.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

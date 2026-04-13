@@ -2,12 +2,12 @@
   "id": "jira-service-management-a-more-flexible-way-to-share-requests",
   "title": "A more flexible way to share requests",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "The customer sharing option now supports separate sharing settings for participants and organizations, addressing different requirements. You can also disable customer sharing for both participants and organizations. To use the updated sharing options: Go to your Jira Service Management space.\n\tSelect Space settings from the side menu.\n\tSelect Customer permissions.\n\tReview the new sharing options for participants and organizations, and adjust them as needed.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

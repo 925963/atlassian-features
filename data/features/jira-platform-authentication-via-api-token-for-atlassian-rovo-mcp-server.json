@@ -2,12 +2,12 @@
   "id": "jira-platform-authentication-via-api-token-for-atlassian-rovo-mcp-server",
   "title": "Authentication via API token for Atlassian Rovo MCP Server",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Authentication via API token is now supported for Atlassian Rovo MCP. While OAuth remains the best fit for end‑user, interactive scenarios, this new optional authentication helps MCP clients authenticate without a browser‑based OAuth consent screen – which is specifically designed for machine‑to‑machine and automated use cases. To enable authentication using API token access with the Atlassian Rovo MCP Server:",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

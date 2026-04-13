@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-manage-app-access-to-rovo-with-blocklists",
+  "title": "Manage app access to Rovo with blocklists",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can choose which apps shouldn’t have access to Rovo features, using the new Rovo access page in Atlassian Administration. This update replaces the allowlist approach in the AI-enabled apps page with a blocklist, making it easier to see and manage where Rovo features are disabled across your organization. How to manage Rovo access To get started with this change:",
+  "announced_date": "2026-03-30",
+  "rollout_start_date": "2026-03-30",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-30",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026",
+  "history": [
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
+    }
+  ]
+}

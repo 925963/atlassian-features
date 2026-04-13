@@ -2,12 +2,12 @@
   "id": "confluence-a-faster-way-to-narrow-your-search-with-more-filters",
   "title": "A faster way to narrow your search with more filters",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You can now use more filters in the search field to help you narrow your search results. This update introduces additional filtering options, making it easier to find the content you need. To use the new filters in Confluence's main search field: Open Confluence.\n\tSelect the main search field from the top navigation bar.\n\tUse the new filter options that appear to refine your search results.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

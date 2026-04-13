@@ -2,12 +2,12 @@
   "id": "confluence-prompt-to-create-database-when-pasting-external-product-links",
   "title": "Prompt to create database when pasting external product links",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "When you paste a link to an external product such as Google Sheets, Smartsheet, or Airtable into a Confluence page, live edit page, or blog, Confluence will prompt you to use the native database feature. This helps you organize and manage your data more effectively within Confluence. To get started with this change: Open a Confluence page, live edit page, or blog post.\n\tPaste a link to an external product that resolves to a valid Smart Link (such as Google Sheets, Smartsheet, or Airtable).\n\tLook",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

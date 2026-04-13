@@ -2,11 +2,11 @@
   "id": "jira-platform-jira-plans-sprint-capacity-calculations-now-includes-completed-spr",
   "title": "Jira Plans - Sprint capacity calculations now includes completed sprints",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Completed sprints are now included in capacity calculations on the timeline and program board in Plans. This ensures a more accurate reflection of the team's velocity. How to view capacity in your plan",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-09",
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

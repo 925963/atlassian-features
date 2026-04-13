@@ -2,18 +2,23 @@
   "id": "jira-service-management-help-center-improved-knowledge-base-search-relevance",
   "title": "Help center: Improved knowledge base search relevance",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "The Jira Service Management help center has been updated to improve how knowledge base articles are ranked when help seekers search for information. This update ensures that the most relevant content, including articles from third-party sources, is prioritized, helping your customers find the right answers faster and reducing the need for them to raise a request. To get started with this change: Go to your Jira Service Management help center.\n\tEnter a query in the search bar.\n\tReview the search ",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
       "date": "2026-03-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

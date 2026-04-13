@@ -2,12 +2,12 @@
   "id": "confluence-enjoy-up-to-10-active-whiteboards-on-a-confluence-standard-plan",
   "title": "Enjoy up to 10 active whiteboards on a Confluence Standard plan",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Confluence Standard now allows you to have up to 10 active, editable whiteboards. To take advantage of the new whiteboard limit in Confluence Standard: Open Confluence and navigate to your workspace.\n\tCreate or edit whiteboards as needed. You can now have up to 10 active, editable whiteboards. Additional whiteboards will then be view-only.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

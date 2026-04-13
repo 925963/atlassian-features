@@ -2,18 +2,23 @@
   "id": "bitbucket-execute-essential-tasks-with-a-final-step-in-your-pipelines",
   "title": "Execute essential tasks with a final step in your pipelines",
   "product": "Bitbucket",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "You can now introduce a final step that always executes at the end of your pipeline, even if previous steps fail or are skipped. This ensures that critical post-pipeline activities like resource cleanup, log collection, and notifications are completed reliably every time. To add a final step to your pipelines: Open your bitbucket-pipelines.yml file.\n\tAdd a final step at the end of your pipeline configuration\n\tDefine the script and properties you want to run as the last action.\n\tCommit and push y",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
       "date": "2026-03-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

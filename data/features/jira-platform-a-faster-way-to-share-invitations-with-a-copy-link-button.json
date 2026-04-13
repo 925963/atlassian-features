@@ -2,12 +2,12 @@
   "id": "jira-platform-a-faster-way-to-share-invitations-with-a-copy-link-button",
   "title": "A faster way to share invitations with a copy link button",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "This update introduces a new Copy link button in the invitation screen, making it easier to quickly copy and share invitation links with others. To use the new Copy link button: Open the invitation screen where you invite others to your workspace or content.\n\tLook for the new Copy link button.\n\tSelect Copy link to copy the invitation link to your clipboard.\n\tShare the copied link with anyone you want to invite.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

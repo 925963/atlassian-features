@@ -2,11 +2,11 @@
   "id": "atlassian-administration-personalize-reliability-monitoring-with-system-health",
   "title": "Personalize reliability monitoring with System health",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We've introduced System health, a dashboard that shows the operational status and incident history of your Atlassian apps. This dashboard is free for all organization admins. To start using System health: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Insights then System health to view Atlassian app statuses and active incidents.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-09",
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "confluence-notification-emails-for-first-page-views",
   "title": "Notification emails for first page views",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "Confluence content creators will now receive a one-time email notification for the first ever view of a page or blog. This update helps you stay informed about engagement with your content as soon as it reaches its first reader. To get started with this change You don't need to take any action to enable this feature. When someone views a page or blog you created that hasn't been viewed before, Confluence will automatically send a notification to your associated email address. This will only happ",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-03-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

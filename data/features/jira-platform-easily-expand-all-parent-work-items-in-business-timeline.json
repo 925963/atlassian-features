@@ -2,18 +2,23 @@
   "id": "jira-platform-easily-expand-all-parent-work-items-in-business-timeline",
   "title": "Easily expand all parent work items in Business Timeline",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We've added the Expand parent work items button to Business Timeline, which lets you expand all root-level work items at once to help you review, evaluate and plan more effectively.",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
       "date": "2026-03-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "confluence-create-instantly-polished-high-quality-work-with-rovo",
   "title": "Create instantly polished, high-quality work with Rovo",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Create with Rovo is a new AI-powered Labs feature (currently in Beta) that allows you to go from idea to shareable content in Confluence in a matter of clicks. Use natural language prompting to generate pages, live docs, or whiteboards that leverage the power of your company knowledge. Select Create with Rovo from the Create menu.\n\tEnter a prompt describing what you want to create, or choose an example from the library that’s available below the prompt window. Add files, links, or templates for ",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

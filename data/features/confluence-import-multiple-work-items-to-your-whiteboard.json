@@ -2,11 +2,11 @@
   "id": "confluence-import-multiple-work-items-to-your-whiteboard",
   "title": "Import multiple work items to your whiteboard",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We’ve improved how you import work items to your whiteboards. You can now important multiple work items, including their linked and child work items, and filter them based on the state of your whiteboard. This streamlines how you collaborate and map out ideas with your team. To import work items to your whiteboard, select Import from Jira in the main toolbar, then search for the work items you want to import.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-09",
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

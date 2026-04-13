@@ -2,11 +2,11 @@
   "id": "jira-platform-keep-track-on-your-due-and-overdue-work-items-in-slack",
   "title": "Keep track on your due and overdue work items in Slack",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "When you’re assigned a work item with a due date, you’ll receive daily notifications in Slack to help you manage and track your work. You’ll get these notifications by default when digest notifications via email or the Jira web app are enabled for due and overdue work items in Jira, and You’re the assignee is turned on in the Jira app in Slack. To stop receiving these notifications, select Turn off from the Jira app in Slack.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-09",
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

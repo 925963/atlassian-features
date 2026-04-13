@@ -2,18 +2,23 @@
   "id": "confluence-generate-header-images-using-ai",
   "title": "Generate header images using AI",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Polish your Confluence pages faster and make them more visually engaging with AI-generated header images. Confluence can now suggest a relevant image based on your page content or propose a high-quality prompt to help you produce the perfect header. To get started with this change: Open a page that does not have a header image.\n\tSelect the header image entry point to open the generation dialog.\n\tEnter your own description or click the “Suggest” button to be recommend a description\n\tSelect Genera",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
       "date": "2026-03-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

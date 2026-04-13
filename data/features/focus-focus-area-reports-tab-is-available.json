@@ -1,0 +1,19 @@
+{
+  "id": "focus-focus-area-reports-tab-is-available",
+  "title": "Focus area reports tab is available",
+  "product": "Focus",
+  "status": "rolling_out_new",
+  "description": "When visiting a Focus area summary page, you will see a new tab titled Reports which is currently in beta. When selecting the Reports tab the first time, you will see an empty state with the ability to add a report. Once you select the add button, you’ll be offered some suggestions to add. Navigate to a Focus area in your organization.\n\tVisit the Focus area summary page.\n\tSelect the Reports tab.\n\tGenerate an OKR report or link a Confluence document/page.\n\tAdd an optional title or leave it blank ",
+  "announced_date": "2026-03-30",
+  "rollout_start_date": "2026-03-30",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-30",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026",
+  "history": [
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
+    }
+  ]
+}

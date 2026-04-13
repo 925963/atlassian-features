@@ -2,18 +2,23 @@
   "id": "talent-bulk-update-multiple-positions-at-once",
   "title": "Bulk update multiple positions at once",
   "product": "Talent",
-  "status": "rolling_out_new",
+  "status": "released",
   "description": "Managers and admins can now save time by updating focus area allocations for multiple positions at once. This update provides greater flexibility for workforce planning, allowing you to select several positions and assign them to a focus area in a single action, rather than updating each one individually. To bulk update multiple positions at once: Select Manage positions from the left navigation.\n\tSelect the checkboxes next to the positions you want to update.\n\tSelect Allocate from the action ba",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
       "date": "2026-03-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

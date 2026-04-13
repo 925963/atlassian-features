@@ -2,11 +2,11 @@
   "id": "jira-platform-allow-slack-apps-to-trigger-on-call-alias-responses",
   "title": "Allow Slack apps to trigger on-call alias responses",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now allow Slack apps, workflows, or webhooks to trigger Jira Service Management ChatOps responses using schedule aliases. Previously, ChatOps only responded to alias messages sent by users. Now, when an app posts a message with an alias, you can allowlist it directly from the message shortcut menu. Once allowlisted, ChatOps will respond just like it does for user messages, making it easier to integrate bots, monitoring tools, and workflows into your on-call process. To allow an app: Hove",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-09",
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

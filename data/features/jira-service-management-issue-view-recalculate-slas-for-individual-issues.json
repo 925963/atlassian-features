@@ -2,11 +2,11 @@
   "id": "jira-service-management-issue-view-recalculate-slas-for-individual-issues",
   "title": "Issue view: Recalculate SLAs for individual issues",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Admins can now recalculate service-level agreements (SLAs) for a single issue directly from the issue view in Jira Service Management. This update provides a quick way to repair SLAs that may have started at the incorrect time or displayed inaccurate values without needing to use a REST API or change global configurations. This feature is currently available for company-managed projects. To get started with this change: Open an issue in a company-managed project.\n\tLocate the SLA panel in the iss",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

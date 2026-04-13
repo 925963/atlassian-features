@@ -2,12 +2,12 @@
   "id": "confluence-download-the-mobile-app-from-email-notifications",
   "title": "Download the mobile app from email notifications",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "When you receive email notifications from Confluence, you'll see an option to download the mobile app. By downloading the Confluence mobile app, you'll have full access to features when you're on the go.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

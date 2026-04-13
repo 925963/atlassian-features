@@ -2,18 +2,23 @@
   "id": "jira-service-management-error-messages-improved-clarity-for-project-access-issue",
   "title": "Error messages: Improved clarity for project access issues",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Jira Service Management now provides clearer, more accurate error messages when users or agents try to add an email address that doesn’t have access to a service project. These improved messages help admins and agents quickly identify if an issue is caused by project permissions or configuration settings rather than a generic system error. To get started with this change: Go to your service project and select an existing request.\n\tSelect Share or go to the Request participants field.\n\tEnter an e",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
       "date": "2026-03-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

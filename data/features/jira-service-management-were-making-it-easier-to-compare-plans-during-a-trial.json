@@ -2,11 +2,11 @@
   "id": "jira-service-management-were-making-it-easier-to-compare-plans-during-a-trial",
   "title": "We're making it easier to compare plans during a trial",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "When you're in a trial, you can now click on the trial button in the top navigation and see the plan options available to you. This way, it'll be easier for you to understand the plan that is best for your team based on the features that plan includes. You can also easily upgrade and pay from the plans page.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-09",
+  "rollout_end_date": "2026-03-23",
   "last_seen_week": "2026-03-23",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-03-23",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

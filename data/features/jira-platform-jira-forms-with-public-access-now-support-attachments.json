@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-jira-forms-with-public-access-now-support-attachments",
+  "title": "Jira forms with public access now support attachments",
+  "product": "Jira platform",
+  "status": "released",
+  "description": "Attachments are now supported in forms set to public access. This means that when someone submits a response to a public form, they can also upload an attachment, such as an image or video, to add more context. The attachment can then be viewed and accessed via the work item created from the form submission. There is a limit of 100MB per attachment.",
+  "announced_date": "2026-03-30",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-03-30",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026",
+  "history": [
+    {
+      "date": "2026-03-30",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
+    }
+  ]
+}

@@ -2,12 +2,12 @@
   "id": "atlassian-administration-include-rovo-in-your-mobile-security-policies",
   "title": "Include Rovo in your mobile security policies",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You can now select Rovo as a mobile app in all Mobile Application Management (MAM) security policies, including both regular and Intune policies, regardless of any other settings in place. To include Rovo in your mobile security policies: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Security > Device security > Mobile app policies.\n\tSelect Rovo from the list of available mobile apps.\n\tApply or update your policy as needed.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

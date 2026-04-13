@@ -2,18 +2,23 @@
   "id": "jira-platform-next-best-action-emails-for-new-jira-users",
   "title": "Next best action emails for new Jira users",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "New Jira users who create work on their first day will now receive a personalized email on next business day. This email highlights one of their incomplete work items and provides up to five tailored suggestions to help them enrich work with greater context, so that it’s more actionable. This change aims to guide new users and improve their onboarding experience. To get started with this change: Create a new work item in Jira as a new user on your first day. The work item needs to be missing at ",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
       "date": "2026-03-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

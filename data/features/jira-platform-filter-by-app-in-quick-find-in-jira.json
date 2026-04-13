@@ -2,12 +2,12 @@
   "id": "jira-platform-filter-by-app-in-quick-find-in-jira",
   "title": "Filter by app in Quick Find in Jira",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "The new App filter in Jira’s Quick Find search lets you quickly narrow your search results by selecting either Jira or another app. When you select an app other than Jira, you’ll be redirected to full page search, allowing for more advanced search functionalities such as search functionalities such as filtering across different apps. To use the new App filter in Quick Find search: Open Quick Find** in Jira.\n\tSelect the new App filter at the top of the search panel.\n\tChoose Jira to see Jira resul",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-16",
-  "last_seen_week": "2026-03-16",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-23",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }

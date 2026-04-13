@@ -2,18 +2,23 @@
   "id": "jira-platform-rovo-dev-in-jira-build-and-iterate-on-code-directly-in-jira",
   "title": "Rovo Dev in Jira: Build and iterate on code directly in Jira",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Pair up with Rovo Dev to transform your Jira work items into working code. Start coding instantly in a secure, cloud-based session in a dedicated, sandbox environment. Rovo Dev in Jira uses your work item and your team’s knowledge from Jira, Confluence, your codebase, and more to generate code. When you’re happy with the result, create a pull request directly from the sandbox to merge your changes. Find out more about Rovo Dev in Jira You can also use Rovo Dev actions in automations to automatic",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
       "date": "2026-03-23",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026"
+    },
+    {
+      "date": "2026-03-30",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
     }
   ]
 }
