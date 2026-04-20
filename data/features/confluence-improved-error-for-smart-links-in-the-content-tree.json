@@ -2,12 +2,12 @@
   "id": "confluence-improved-error-for-smart-links-in-the-content-tree",
   "title": "Improved error for Smart Links in the content tree",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out_new",
   "description": "When we can’t render the link you’ve inserted as an embedded Smart Link in the content tree, you’ll see why it can’t be displayed, and you can navigate you to the original link.",
   "announced_date": "2026-01-26",
   "rollout_start_date": "2026-01-19",
   "rollout_end_date": "2026-01-26",
-  "last_seen_week": "2026-01-26",
+  "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/02/atlassian-cloud-changes-jan-26-to-feb-2-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-03-16",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
     }
   ]
 }

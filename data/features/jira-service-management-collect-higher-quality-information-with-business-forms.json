@@ -2,12 +2,12 @@
   "id": "jira-service-management-collect-higher-quality-information-with-business-forms",
   "title": "Collect higher quality information with business forms",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Gather better quality information with new functionality for business forms. Choose from more fields including parent, category and people. Have more control by making fields optional or required to submit when building a form. You can also add more detailed guidance for people submitting a form, by adding field descriptions. Manage your form fields",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-23",
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-30",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
     }
   ]
 }

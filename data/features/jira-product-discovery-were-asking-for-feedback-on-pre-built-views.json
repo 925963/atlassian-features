@@ -2,12 +2,12 @@
   "id": "jira-product-discovery-were-asking-for-feedback-on-pre-built-views",
   "title": "We're asking for feedback on pre-built views",
   "product": "Jira Product Discovery",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We're introducing a feedback collector to understand how you like and use the pre-built templates.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-23",
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-03-30",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
     }
   ]
 }

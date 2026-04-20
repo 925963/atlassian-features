@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-highlighted-search-terms-in-in-product-help",
+  "title": "Highlighted search terms in in-product help",
+  "product": "Jira Service Management",
+  "status": "rolling_out",
+  "description": "When you search in in-product help, we'll highlight your search terms in results so you can quickly see how the results relate to the terms you've entered. To search in in-product help, select the help (question mark) icon in the navigation and enter your query in the search field. Note: In-product help is available in many screens in Jira, including in software, service desk, and work management projects. There may be some screens where in-product help isn't available yet.",
+  "announced_date": "2026-04-06",
+  "rollout_start_date": "2026-04-06",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-06",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
+  "history": [
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    }
+  ]
+}

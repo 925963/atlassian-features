@@ -2,12 +2,12 @@
   "id": "jira-service-management-navigation-customizable-labels",
   "title": "Navigation: Customizable labels",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Space admins can now rename navigation items in the sidebar for Jira Service Management spaces. This change allows teams to align the app terminology with their specific workflows, such as changing Queues to Cases or Requests to better reflect HR or business team language. To get started with this change: Navigate to your Jira Service Management space.\n\tLocate the item you want to rename in the left navigation sidebar, such as Queues, Summary, or Knowledge base.\n\tHover over the item and select R",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
   "rollout_end_date": "2026-03-23",
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-03-30",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
     }
   ]
 }

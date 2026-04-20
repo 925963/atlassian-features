@@ -2,12 +2,12 @@
   "id": "confluence-new-reaction-animations-on-pages",
   "title": "New reaction animations on pages",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "When you return to a page in Confluence that has received new reactions since your last visit, you'll now see a fun animation highlighting those reactions. This update makes it easier to stay engaged with your team's feedback and quickly identify which content is resonating with others. To get started with this change Open a Confluence page that you have previously visited.\n\tLook at the reactions section of the page.\n\tObserve the animation if new reactions have been added since your last visit.",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
   "rollout_end_date": "2026-03-23",
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-03-30",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
     }
   ]
 }

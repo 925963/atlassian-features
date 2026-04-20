@@ -2,18 +2,23 @@
   "id": "rovo-create-with-rovo-choose-your-content-type",
   "title": "Create with Rovo: Choose your content type",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Confluence users can now specify exactly what kind of content they want to generate when using Atlassian AI. Use the new content type picker in the Create with Rovo dialog to select between a live doc, whiteboard, or database. This ensures that the AI-generated output matches your intended format from the start. To get started with this change Select Create in the top navigation bar of Confluence.\n\tSelect Create with Rovo.\n\tChoose a content type from the selector buttons: Live Doc, Whiteboard, o",
   "announced_date": "2026-03-30",
   "rollout_start_date": "2026-03-30",
   "rollout_end_date": null,
-  "last_seen_week": "2026-03-30",
+  "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026",
   "history": [
     {
       "date": "2026-03-30",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "rovo-use-rovo-new-automation-action",
+  "title": "Use Rovo: New automation action",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "You can now use a free-form AI prompt in your automation rules across Atlassian apps. This new action allows you to send instructions to Rovo to process data, generate content, or summarize information as part of your automated workflows. The AI-generated response is captured as a smart value, rovoResponse, which you can use in subsequent steps of your rule, such as adding a comment to a work item or sending a notification. This feature includes built-in moderation and adheres to your organizati",
+  "announced_date": "2026-04-06",
+  "rollout_start_date": "2026-04-06",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-06",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
+  "history": [
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    }
+  ]
+}

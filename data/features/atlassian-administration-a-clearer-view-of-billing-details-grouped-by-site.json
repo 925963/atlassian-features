@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-a-clearer-view-of-billing-details-grouped-by-site",
+  "title": "A clearer view of billing details grouped by site",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "We have updated the billing preview table in Atlassian Admin to group billing details by site and load entitlements only when you need them. This makes it easier to review and manage billing information for each site. To view and use the new grouped billing preview table in Atlassian Admin: Go to Atlassian Admin in your Atlassian app.\n\tSelect Billing from the navigation menu.\n\tFind the Billing preview section to see billing details grouped by site.\n\tSelect a site to load and review its entitleme",
+  "announced_date": "2026-04-06",
+  "rollout_start_date": "2026-04-06",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-06",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
+  "history": [
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    }
+  ]
+}

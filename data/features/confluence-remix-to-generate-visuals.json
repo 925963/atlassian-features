@@ -1,0 +1,19 @@
+{
+  "id": "confluence-remix-to-generate-visuals",
+  "title": "Remix to generate visuals",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Introducing Remix with Rovo, the new content transformation tool from Confluence. Remix allows you to turn text or tables into custom content like charts, infographics, diagrams, and more. Remix in Live Docs and Pages: You can now generate custom charts, infographics, and more.\n\tEasy entry points: Find Remix in the in-line editor toolbar, elements toolbar, and the right side block action on hover.\n\tFlexible outputs: Pick from 19 high-quality output types, or ask Rovo to create your own custom ou",
+  "announced_date": "2026-04-06",
+  "rollout_start_date": "2026-04-06",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-06",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
+  "history": [
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "assets-import-data-manager-objects-directly-into-a-schema-in-assets",
+  "title": "Import Data Manager objects directly into a schema in Assets",
+  "product": "Assets",
+  "status": "rolling_out",
+  "description": "Import Data Manager objects directly into a schema in Assets Create a new import and select “Data Manager import”, then select a Saved Search from a Data Manager object class. Run your import to bring Data Manager objects into a schema in Assets. Learn more about importing objects from Data Manager into a schema in Assets. We've also made improvements to how we handle fields that contain secured information in Adapters:",
+  "announced_date": "2026-04-06",
+  "rollout_start_date": "2026-04-06",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-06",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
+  "history": [
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    }
+  ]
+}

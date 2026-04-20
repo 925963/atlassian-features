@@ -2,11 +2,11 @@
   "id": "rovo-rovo-extension-download-banner-in-chat",
   "title": "Rovo extension: Download banner in chat",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Atlassian Rovo now displays a banner above the chat input in both the sidebar and full-page chat views. This banner allows you to download the Rovo extension if you haven't already, making it easier to use Rovo from any webpage or app. To get started with this change: Open Rovo chat in the side panel or full-page view.\n\tSend at least one message.\n\tLook for the banner above the chat input.\n\tSelect the button on the banner to install the Rovo extension, or choose to dismiss it.",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-03-30",
   "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-03-30",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

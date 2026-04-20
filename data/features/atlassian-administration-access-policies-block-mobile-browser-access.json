@@ -2,11 +2,11 @@
   "id": "atlassian-administration-access-policies-block-mobile-browser-access",
   "title": "Access policies: Block mobile browser access",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Atlassian Guard now allows organization admins to block access to Atlassian apps from mobile browsers. This new condition-based policy helps you enhance security by ensuring users only access organization content through approved methods, such as Atlassian mobile apps or desktop browsers. To get started with this change: Go to admin.atlassian.com. Select your organization if you have more than one.\n\tSelect Security > User security > Access policies.\n\tSelect Create policy.\n\tEnter a name and descr",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-16",
+  "rollout_end_date": "2026-03-30",
   "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-03-30",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

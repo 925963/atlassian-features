@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-a-smarter-way-to-manage-and-view-confluence-content",
+  "title": "A smarter way to manage and view Confluence content",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "We updated the Pages experience in Jira to make managing Confluence content smarter and more modern. You can now search, filter, and sort your connected content directly within Jira, and we added support for whiteboards and folders. These improvements help you find the right information faster and collaborate more effectively across your apps. Go to your Jira Software or Jira Work Management space.\n\tSelect the Docs tab (previously named Pages) from the sidebar.\n\tConnect to a Confluence space or ",
+  "announced_date": "2026-04-06",
+  "rollout_start_date": "2026-04-06",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-06",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
+  "history": [
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    }
+  ]
+}

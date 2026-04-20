@@ -2,12 +2,12 @@
   "id": "jira-platform-native-teams-support-in-jira-automation",
   "title": "Native Teams support in Jira automation",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Admins can now use Atlassian Teams natively within Jira automation rules. This update allows you to select teams directly in the Assign work item action and the User condition, removing the need for manual JSON workarounds or team ID lookups. Jira automation actions To get started with this change:",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
   "rollout_end_date": "2026-03-23",
-  "last_seen_week": "2026-03-23",
+  "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-03-30",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
     }
   ]
 }

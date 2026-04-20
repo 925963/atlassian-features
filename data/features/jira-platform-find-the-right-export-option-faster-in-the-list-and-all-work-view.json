@@ -2,11 +2,11 @@
   "id": "jira-platform-find-the-right-export-option-faster-in-the-list-and-all-work-view",
   "title": "Find the right export option faster in the List and All work view",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Finding the right export format is now clearer. In the All work and List view, export options are grouped more logically and ordered by what’s used most, so you can choose the format best for you. We’ve also simplified the header to reduce visual noise while you manage and export your work. To see the updated export options: Open the All work or List view.\n\tSelect More actions (...) then Export to choose from the reorganized export options.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-16",
+  "rollout_end_date": "2026-03-30",
   "last_seen_week": "2026-03-30",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -34,6 +34,11 @@
       "date": "2026-03-30",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026"
+    },
+    {
+      "date": "2026-04-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }
