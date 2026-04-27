@@ -2,12 +2,12 @@
   "id": "rovo-refreshed-chat-history-experience",
   "title": "Refreshed chat history experience",
   "product": "Rovo",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Identify and track your conversations more effectively with an updated chat history in Rovo. Agent information and icons for web search and Deep Research help you distinguish among different conversation types. New read and unread indicators, along with progress spinners, provide immediate feedback on your conversation status. To get started with this change: Open Rovo Chat in any supported Atlassian app.\n\tIn the header, select the Menu icon to display the sidebar.\n\tIn the Chats section, use the",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": "2026-03-30",
-  "last_seen_week": "2026-03-30",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-04-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

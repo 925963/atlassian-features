@@ -2,12 +2,12 @@
   "id": "rovo-search-filters-connect-third-party-apps-from-the-rovo-browser-extension",
   "title": "Search filters: Connect third-party apps from the Rovo browser extension",
   "product": "Rovo",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You can now connect and authenticate third-party apps directly from the search filters in the Atlassian Rovo browser extension. This update allows you to quickly access data from apps like Google Drive or Slack that your administrator has already connected to your organization, without needing to navigate away from your current page. To get started with this change: Open the Rovo browser extension from your browser toolbar.\n\tSelect the Search tab.\n\tSelect an app filter that hasn't been authentic",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": "2026-03-30",
-  "last_seen_week": "2026-03-30",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-04-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

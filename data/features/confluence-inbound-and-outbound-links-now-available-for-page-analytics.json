@@ -2,11 +2,11 @@
   "id": "confluence-inbound-and-outbound-links-now-available-for-page-analytics",
   "title": "Inbound and Outbound links now available for page analytics",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Confluence page analytics now feature inbound and outbound link click analytics. Inbound link analytics show pages that link to the current page and how often users arrive through those links. Outbound link analytics show click counts and click-through rates for links included on the page. Analytics data includes Confluence active pages and blogs after Jan 31, 2025. Deleted and archived aren't included. To access page analytics:",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-23",
+  "rollout_end_date": "2026-04-06",
   "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -34,6 +34,11 @@
       "date": "2026-04-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

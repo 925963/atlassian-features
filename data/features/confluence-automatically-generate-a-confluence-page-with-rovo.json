@@ -2,18 +2,23 @@
   "id": "confluence-automatically-generate-a-confluence-page-with-rovo",
   "title": "Automatically generate a Confluence page with Rovo",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "When you create a page in Confluence using the Create with Rovo flow, an relevant header image is now automatically generated and applied based on your content. This update helps you save time on page formatting by providing high-quality, context-aware visuals with zero manual prompting. Select Create in the top navigation bar of Confluence.\n\tSelect Create with Rovo.\n\tEnter your prompt and generate your page content.\n\tObserve the automatically applied header image at the top of your new page.\n\tH",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
     {
       "date": "2026-04-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

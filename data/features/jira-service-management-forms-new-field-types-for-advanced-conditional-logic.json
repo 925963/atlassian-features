@@ -2,11 +2,11 @@
   "id": "jira-service-management-forms-new-field-types-for-advanced-conditional-logic",
   "title": "Forms: New field types for advanced conditional logic",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Jira Service Management now supports Date, Date/Time, Time, Number, Text, User, and Users field types in advanced conditional logic for forms. This allows you to create more dynamic forms by showing or hiding fields based on specific dates or numerical values provided by users. Open the form you want to edit in Jira Service Management.\n\tSelect a field that supports advanced conditional logic, such as a Date or Number field.\n\tSelect the Rules tab to define conditions based on the values entered i",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
-  "rollout_end_date": "2026-03-23",
+  "rollout_end_date": "2026-04-06",
   "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-04-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

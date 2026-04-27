@@ -2,12 +2,12 @@
   "id": "jira-platform-a-new-way-to-view-sprint-dates-in-the-program-board-premium-and-en",
   "title": "A new way to view sprint dates in the Program board (Premium and Enterprise only)",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "The Program board within Plans now displays column headers using the earliest start and latest end dates from the sprints in each column. To explore the updated Program board date headers: 1. Open the Program board in Jira Plans (Premium and Enterprise only). 2. Look at the column headers to see the new date ranges, which now reflect the earliest start and latest end dates of the sprints in each column. 3. Select a column header to see details about how these dates are determined.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-30",
-  "last_seen_week": "2026-03-30",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -39,6 +39,11 @@
       "date": "2026-04-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

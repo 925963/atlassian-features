@@ -1,0 +1,19 @@
+{
+  "id": "bitbucket-merge-queues-automate-merges-and-maintain-stable-branches",
+  "title": "Merge queues: Automate merges and maintain stable branches",
+  "product": "Bitbucket",
+  "status": "rolling_out_new",
+  "description": "Bitbucket Cloud is introducing merge queues to help teams maintain stable, deployable branches in high-traffic repositories. Instead of merging pull requests directly, Bitbucket adds them to a merge queue that sequences pull requests to be merged into a branch one by one, ensuring each change is compatible with the latest code. This keeps the target branch green and reduces failed builds by validating combinations of changes before they land. To get started with this change: Go to Repository set",
+  "announced_date": "2026-04-13",
+  "rollout_start_date": "2026-04-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
+  "history": [
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    }
+  ]
+}

@@ -2,18 +2,23 @@
   "id": "confluence-qr-codes-in-email-footers-for-mobile-app-downloads",
   "title": "QR codes in email footers for mobile app downloads",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Confluence email notifications now include a QR code in the footer when viewed on your desktop. This change allows you to quickly download the Confluence mobile app by scanning the code with your phone's camera, removing the need to manually search app stores or copy links between devices. Open a Confluence email notification on your desktop computer.\n\tScroll to the footer of the email to find the QR code.\n\tScan the QR code using your mobile phone's camera.\n\tFollow the link to your device's app ",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
     {
       "date": "2026-04-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

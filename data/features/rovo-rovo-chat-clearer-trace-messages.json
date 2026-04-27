@@ -1,0 +1,19 @@
+{
+  "id": "rovo-rovo-chat-clearer-trace-messages",
+  "title": "Rovo Chat: Clearer trace messages",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "Rovo Chat trace messages have been redesigned to provide a faster and more transparent experience while Rovo is thinking. You can now see exactly which Atlassian apps and third-party apps are being searched, along with a preview of the sources used to generate your response. To get started with this change: Open Rovo Chat and enter a prompt that requires searching across multiple apps.\n\tObserve the traces returned to see real-time progress.\n\tLook for product-specific icons to identify which apps",
+  "announced_date": "2026-04-13",
+  "rollout_start_date": "2026-04-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
+  "history": [
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    }
+  ]
+}

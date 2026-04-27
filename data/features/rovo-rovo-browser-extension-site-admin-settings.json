@@ -1,0 +1,19 @@
+{
+  "id": "rovo-rovo-browser-extension-site-admin-settings",
+  "title": "Rovo browser extension: Site admin settings",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "Site admins can now access and manage settings for the Rovo browser extension. This update ensures that people with site admin permissions have the necessary access to configure extension options and view announcements, even if they aren't organization admins. This change helps site admins better support their teams by allowing them to manage Rovo settings directly within the browser extension. To get started with this change: Open the Rovo browser extension.\n\tSelect Settings to open the extensi",
+  "announced_date": "2026-04-13",
+  "rollout_start_date": "2026-04-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
+  "history": [
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    }
+  ]
+}

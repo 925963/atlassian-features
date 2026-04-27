@@ -1,0 +1,19 @@
+{
+  "id": "loom-connect-loom-meeting-recordings-to-jira-spaces-for-work-item-suggestions",
+  "title": "Connect Loom meeting recordings to Jira spaces for work item suggestions",
+  "product": "Loom",
+  "status": "rolling_out_new",
+  "description": "You can now connect recurring Loom meeting recordings to Jira spaces via the Meetings tab. This integration generates work item update suggestions after your meetings, helping you capture important discussions and keep your Jira work items up to date. To get started with this change: Open the Loom web app and go to the Meetings tab.\n\tSelect a recurring meeting that is on your calendar.\n\tChoose the option to connect the meeting to a Jira space.\n\tFollow the prompts to select the Jira space you wan",
+  "announced_date": "2026-04-13",
+  "rollout_start_date": "2026-04-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
+  "history": [
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    }
+  ]
+}

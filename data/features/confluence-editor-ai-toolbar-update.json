@@ -2,12 +2,12 @@
   "id": "confluence-editor-ai-toolbar-update",
   "title": "Editor: AI toolbar update",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We're updating the editor toolbar in Confluence to provide an improved AI-first experience. AI actions are more visible and accessible, streamlining how you can interact with Rovo for content creation and editing. What's new Redesigned toolbar: Ask Rovo to the left lets you quickly make a request\n\tAI quick actions such as Translate and Change tone available via the Ask Rovo dropdown.\n\tUpdated icons: Refreshed icons consistent with our visual design system\n\tNo removed functionality: All previous ",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-30",
-  "last_seen_week": "2026-03-30",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -39,6 +39,11 @@
       "date": "2026-04-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

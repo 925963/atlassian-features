@@ -2,11 +2,11 @@
   "id": "jira-service-management-request-sharing-enhanced-security-for-mentions-and-parti",
   "title": "Request sharing: Enhanced security for mentions and participants",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Jira Service Management has updated how request sharing settings are enforced when searching for users to mention or add as participants. This change ensures that privacy and sharing configurations are strictly followed across all parts of the app, including when using search and participant APIs. To get started with this change: Go to a request in Jira Service Management.\n\tSelect the Share button or use the \"@\" symbol to mention a user in a comment.\n\tNotice that the list of available users now ",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
-  "rollout_end_date": "2026-03-23",
+  "rollout_end_date": "2026-04-06",
   "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-04-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

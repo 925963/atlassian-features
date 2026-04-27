@@ -2,12 +2,12 @@
   "id": "confluence-automation-triggers-for-teams-user-added-or-removed",
   "title": "Automation triggers for Teams: User added or removed",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "This change introduces new automation triggers in Confluence that let you create automation rules when a user is added to or removed from a team. These triggers help teams streamline processes and keep information up to date automatically. Go to the automation settings in Confluence.\n\tCreate a new automation rule and select the trigger for when a user is added to or removed from a team.\n\tConfigure the actions you want to automate and save your rule.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-30",
-  "last_seen_week": "2026-03-30",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -39,6 +39,11 @@
       "date": "2026-04-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

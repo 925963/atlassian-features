@@ -2,18 +2,23 @@
   "id": "jira-service-management-knowledge-base-improved-scrolling-for-articles-on-the-po",
   "title": "Knowledge base: Improved scrolling for articles on the portal",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We've fixed an issue in Jira Service Management where help seekers would encounter a double scroll bar when viewing knowledge base articles from Confluence. This improvement ensures a smoother reading experience on the portal by removing the extra scroll bar, making it easier for your customers to find the information they need. To get started with this change There are no admin setup steps required for this fix. To see the improvement:",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
     {
       "date": "2026-04-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

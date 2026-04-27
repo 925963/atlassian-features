@@ -2,18 +2,23 @@
   "id": "jira-service-management-rovo-for-service-feedback-and-interest-banner",
   "title": "Rovo for Service: Feedback and interest banner",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We're adding a feedback banner to the Rovo for Service settings page in Jira Service Management. This new banner allows you to share your thoughts on the experience and express interest in participating in future outreach or research regarding the resolution panel. Go to the Rovo for Service settings page in Jira Service Management.\n\tLocate the Unlock the power of Rovo Service! feedback banner at the top of the page.\n\tSelect I'm interested on the banner to provide your feedback or register your ",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
     {
       "date": "2026-04-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "jira-service-management-simplified-navigation-after-creating-your-first-service-",
   "title": "Simplified navigation after creating your first service space",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We’ve simplified the navigation experience to help you get started faster. When you create your first service space using the IT service management (ITSM) basic, ITSM advanced, general service management, or blank service management templates, the sidebar now displays only the most relevant items based on your specific goals. This reduces clutter and makes it easier to find the essential features you need to deliver value to your customers. To view any hidden navigation items, select the More se",
   "announced_date": "2026-03-30",
   "rollout_start_date": "2026-03-30",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-04-06",
   "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-04-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

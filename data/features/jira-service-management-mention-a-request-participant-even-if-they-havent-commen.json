@@ -2,12 +2,12 @@
   "id": "jira-service-management-mention-a-request-participant-even-if-they-havent-commen",
   "title": "Mention a request participant even if they haven't commented before",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Agents and administrators can now mention any request participant in a work item or comment, even if the participant has not previously commented. This makes it easier to collaborate and keep all relevant people informed. To get started with this change: As an agent or admin, open a Jira Service Management work item.\n\tIn the work item's description or comment, type @ followed by the name of any request participant to mention them.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-30",
-  "last_seen_week": "2026-03-30",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-04-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

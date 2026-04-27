@@ -2,12 +2,12 @@
   "id": "confluence-automation-verified-agents-tab-in-the-agent-browser",
   "title": "Automation: Verified agents tab in the agent browser",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Confluence now includes a Verified agents tab within the agent browser in your automation settings. This update helps you quickly identify and select reliable, verified agents to use in your automation rules, ensuring a more trustworthy experience when setting up workflows. To get started with this change: Go to Space settings, then Automation.\n\tSelect Create rule or edit an existing one.\n\tNavigate to the agent section and select switch agent.\n\tSelect the Verified agents tab to view and choose f",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": "2026-03-30",
-  "last_seen_week": "2026-03-30",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-04-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

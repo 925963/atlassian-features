@@ -2,12 +2,12 @@
   "id": "loom-loom-enhanced-summary-block-in-slack",
   "title": "Loom: Enhanced summary block in Slack",
   "product": "Loom",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Loom has improved how video summaries appear when sharing links in Slack. By updating the summary block in the Slack unfurl experience, you can now see more relevant information at a glance, making it easier for your team to understand the context of a video without leaving the conversation. To get started with this change Paste a Loom video link into any Slack channel or direct message.\n\tView the automatically generated summary block that appears below the link.\n\tRead the enhanced summary to qu",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": "2026-03-30",
-  "last_seen_week": "2026-03-30",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-04-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

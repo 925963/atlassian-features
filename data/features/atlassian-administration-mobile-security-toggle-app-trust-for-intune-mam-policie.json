@@ -2,18 +2,23 @@
   "id": "atlassian-administration-mobile-security-toggle-app-trust-for-intune-mam-policie",
   "title": "Mobile Security: Toggle App Trust for Intune MAM policies",
   "product": "Atlassian Administration",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Organization admins can now enable App Trust when creating or editing Microsoft Intune mobile app management (MAM) policies in Atlassian Administration. This change allows you to manage IP access requirements alongside your existing mobile security settings, providing more granular control over how managed users access Atlassian apps on mobile devices. To get started with this change: Log in to admin.atlassian.com.\n\tSelect your organization, then go to Security and Mobile security.\n\tChoose Intun",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
     {
       "date": "2026-04-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

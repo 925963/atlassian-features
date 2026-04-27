@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-new-jira-beta-features-page",
+  "title": "New Jira beta features page",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Jira admins can now manage experimental features from a new Jira Beta Features page in Jira Admin Settings. This update centralizes feature management by moving control from individual user settings to a dedicated admin interface in Jira Cloud, ensuring consistent experiences across your site. To get started with this change: Go to Settings.\n\tSelect System.\n\tSelect Beta Features to view and manage available beta features.",
+  "announced_date": "2026-04-13",
+  "rollout_start_date": "2026-04-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
+  "history": [
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    }
+  ]
+}

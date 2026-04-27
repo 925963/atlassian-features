@@ -2,18 +2,23 @@
   "id": "atlassian-administration-checkbox-custom-fields-for-focus-areas-and-change-propo",
   "title": "Checkbox custom fields for Focus Areas and Change Proposals",
   "product": "Atlassian Administration",
-  "status": "rolling_out_new",
+  "status": "released",
   "description": "Standardize your data and track simple yes or no information by adding checkbox custom fields to your Focus Areas and Change Proposals. This new field type in the Focus app allows you to model data more accurately to fit your business processes and workflows. To get started with this change: Go to Atlassian Administration, then select your Focus workspace.\n\tSelect Custom fields from the configuration menu.\n\tSelect Create custom field and select Checkbox as the field type.\n\tEnter a name and descr",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
     {
       "date": "2026-04-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

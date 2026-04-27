@@ -2,18 +2,23 @@
   "id": "jira-service-management-a-dedicated-assets-entry-point-in-the-jira-sidebar-for-f",
   "title": "A dedicated Assets entry point in the Jira sidebar for Free plans",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We’re adding an Assets navigation item to the Jira sidebar for customers on the Free plan. This update provides a direct way to access the Assets landing page, helping you explore how to manage your objects and discover the advanced tracking capabilities available in Jira Service Management. To find the new Assets navigation item: Open your Jira Service Management app.\n\tLook at the sidebar on the left side of your screen.\n\tSelect Assets to open the landing page and learn more about managing your",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
     {
       "date": "2026-04-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

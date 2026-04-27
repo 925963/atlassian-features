@@ -2,18 +2,23 @@
   "id": "rovo-rovo-connect-your-third-party-apps-with-smart-link-nudges",
   "title": "Rovo: Connect your third-party apps with smart link nudges",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Improve your search results and AI responses in Atlassian Rovo by connecting your third-party apps. When you paste a smart link from an app you haven't authenticated yet into a Confluence page, Rovo will now provide a helpful nudge to help you connect that account. To get started with this change: Paste a link from a third-party app (such as Google Drive, Slack, or GitHub) into a Confluence page.\n\tIf you haven't connected that app to Atlassian yet, a nudge will appear explaining that your teamma",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
     {
       "date": "2026-04-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

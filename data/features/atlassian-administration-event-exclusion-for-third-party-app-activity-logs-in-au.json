@@ -2,12 +2,12 @@
   "id": "atlassian-administration-event-exclusion-for-third-party-app-activity-logs-in-au",
   "title": "Event exclusion for third-party app activity logs in audit log settings",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We are introducing a new event exclusion toggle for third-party app activity logs in your audit log settings. This feature gives organization admins more granular control over which events are stored in the audit log, helping reduce unnecessary data and ensuring only relevant logs are collected. Release Date: November 3, 2025 Action Required By: December 1, 2025 If you want to continue receiving third-party app Confluence and Jira API request logs, turn the toggle on in your audit log settings b",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-30",
-  "last_seen_week": "2026-03-30",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -39,6 +39,11 @@
       "date": "2026-04-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

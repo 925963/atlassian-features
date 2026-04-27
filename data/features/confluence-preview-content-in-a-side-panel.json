@@ -1,0 +1,19 @@
+{
+  "id": "confluence-preview-content-in-a-side-panel",
+  "title": "Preview content in a side panel",
+  "product": "Confluence",
+  "status": "rolling_out",
+  "description": "You can now view content from other Atlassian apps in a side panel without leaving your current page in Confluence. This change allows you to quickly glance at related information, cross-reference content, and take actions while staying in your workflow. View content in a side panel To get started with this change:",
+  "announced_date": "2026-04-13",
+  "rollout_start_date": "2026-04-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
+  "history": [
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    }
+  ]
+}

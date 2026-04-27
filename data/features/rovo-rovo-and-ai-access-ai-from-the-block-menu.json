@@ -1,0 +1,19 @@
+{
+  "id": "rovo-rovo-and-ai-access-ai-from-the-block-menu",
+  "title": "Rovo and AI: Access AI from the block menu",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "You can now use Atlassian AI and Rovo directly from the block menu in your Atlassian apps. This integration allows you to quickly generate content or invoke AI capabilities while you’re writing, without having to search through different menus or change your workflow. To get started with this change: In the editor of your Atlassian app, type a forward slash / or select the plus + icon to open the block menu.\n\tSelect AI from the list of options.\n\tChoose an action or enter a prompt to generate con",
+  "announced_date": "2026-04-13",
+  "rollout_start_date": "2026-04-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
+  "history": [
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    }
+  ]
+}

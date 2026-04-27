@@ -2,11 +2,11 @@
   "id": "jira-service-management-surveys-for-employee-feedback-now-available-standard-pre",
   "title": "Surveys for employee feedback now available (Standard, Premium, Enterprise)",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Create, send, and manage employee feedback surveys directly within Jira Service Management spaces. This provides teams a native method to collect and analyze feedback during key service and lifecycle employee events, such as onboarding, offboarding, and end-of-service. (Only available on paid plans; excludes Free plans.) To use surveys: Navigate to Space settings.\n\tSelect Features, then select the toggle next to Surveys.\n\tGo to your service project and select Surveys from the navigation on the l",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
-  "rollout_end_date": "2026-03-23",
+  "rollout_end_date": "2026-04-06",
   "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-04-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-plans-deactivated-users-now-display-correctly",
+  "title": "Plans: Deactivated users now display correctly",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Issues assigned to deactivated or suspended users now display correctly in Jira plans. Previously, these issues appeared as unassigned, which caused confusion and created extra unassigned swimlanes when grouping by assignee. Deactivated users now show with their name and a (Deactivated) label, consistent with how the Jira issue view handles inactive users. To get started with this change: Open a plan in Jira.\n\tSelect Group by, then Assignee.\n\tView the swimlanes for deactivated users, which now d",
+  "announced_date": "2026-04-13",
+  "rollout_start_date": "2026-04-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
+  "history": [
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    }
+  ]
+}

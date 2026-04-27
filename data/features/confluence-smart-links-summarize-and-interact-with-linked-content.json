@@ -2,18 +2,23 @@
   "id": "confluence-smart-links-summarize-and-interact-with-linked-content",
   "title": "Smart Links: Summarize and interact with linked content",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We’ve added Summarize and Ask Rovo buttons to the Smart Links toolbar in the Confluence editor. This update helps you quickly understand the context of linked content from Atlassian and third-party apps with a single click, helping you stay focused without leaving your page. To get started with this change: Select any Smart Link within the editor.\n\tSelect the Summarize button from the toolbar.\n\tReview the summary of the linked content.",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
     {
       "date": "2026-04-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

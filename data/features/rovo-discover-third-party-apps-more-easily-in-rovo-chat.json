@@ -2,18 +2,23 @@
   "id": "rovo-discover-third-party-apps-more-easily-in-rovo-chat",
   "title": "Discover third-party apps more easily in Rovo Chat",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Connect and discover third-party apps more effectively within Rovo Chat. This update introduces a new label, helpful tips, and a streamlined connect option to help you find and integrate the tools you need to enhance your Rovo experience. Open Rovo Chat from the app switcher or your browser extension.\n\tSelect the apps icon to view available integrations.\n\tLook for the New label to identify recently enabled third-party apps by your organization’s IT admin.\n\tFollow the prompts or tips provided to ",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
     {
       "date": "2026-04-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
     }
   ]
 }

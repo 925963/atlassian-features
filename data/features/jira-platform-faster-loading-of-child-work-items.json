@@ -2,11 +2,11 @@
   "id": "jira-platform-faster-loading-of-child-work-items",
   "title": "Faster loading of child work items",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "Within the work item view, only 20 child work items will load at a time, speeding up the loading time and then allowing you to view more as you wish. To get started with this change: Open a work item with more than 20 child work items.\n\tNavigate to the child work items section, and view the first 20 child work items (which will render automatically).\n\tSelect Load more to load the next batch of child work items.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-16",
+  "rollout_end_date": "2026-04-06",
   "last_seen_week": "2026-04-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -34,6 +34,11 @@
       "date": "2026-04-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026"
+    },
+    {
+      "date": "2026-04-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }
