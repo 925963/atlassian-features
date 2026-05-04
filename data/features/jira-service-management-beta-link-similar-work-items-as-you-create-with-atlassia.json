@@ -2,12 +2,12 @@
   "id": "jira-service-management-beta-link-similar-work-items-as-you-create-with-atlassia",
   "title": "Beta: Link similar work items as you create with Atlassian Intelligence",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Use AI to find and link similar work items or spot duplicates before they’re created. When you create a new work item, Jira uses AI to automatically find and surface work items with a similar summary. You can then link the existing work items to the one you’re creating. It helps you quickly build context, connect past work, and understand complexity from the start. Read more about Atlassian Intelligence features",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-04-06",
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -39,6 +39,11 @@
       "date": "2026-04-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

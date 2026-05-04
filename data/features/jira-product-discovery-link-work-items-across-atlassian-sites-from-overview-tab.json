@@ -2,18 +2,23 @@
   "id": "jira-product-discovery-link-work-items-across-atlassian-sites-from-overview-tab",
   "title": "Link work items across Atlassian sites from Overview tab",
   "product": "Jira Product Discovery",
-  "status": "rolling_out_new",
+  "status": "released",
   "description": "To improve visibility and tracking of work across your organization, you can now link work items across different Atlassian sites directly from the Overview tab in Jira Product Discovery. Once your admin sets up application links to remote Cloud sites, a new Site field appears when linking work items to ideas. To link a work item: In Jira Product Discovery, go to the target space and select the idea where you want to link a work item.\n\tIn the Overview panel on the right, select Link work item.\n\t",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

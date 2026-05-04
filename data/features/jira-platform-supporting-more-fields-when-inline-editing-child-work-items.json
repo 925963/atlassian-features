@@ -2,11 +2,11 @@
   "id": "jira-platform-supporting-more-fields-when-inline-editing-child-work-items",
   "title": "Supporting more fields when inline editing child work items",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can inline edit more fields in a child work item, saving you time from opening them separately when making changes. To make an inline edit to a field: Open a work item that has child work items.\n\tFrom the child work items panel, select and edit any fields.\n\tSelect Enter to save your edits.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-30",
+  "rollout_end_date": "2026-04-13",
   "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -44,6 +44,11 @@
       "date": "2026-04-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

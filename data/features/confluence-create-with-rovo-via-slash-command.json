@@ -1,0 +1,19 @@
+{
+  "id": "confluence-create-with-rovo-via-slash-command",
+  "title": "Create with Rovo via Slash Command",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Generate content directly from the quick insert menu in Confluence using Create with Rovo feature. This update brings discoverability to this feature and allows the user to quickly create content from the Confluence editor. To get started with this change: Open a page or blog in Confluence.\n\tType / on your keyboard to open the quick insert menu.\n\tSelect Create with Rovo from the list of options.\n\tEnter a prompt to generate your content.",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

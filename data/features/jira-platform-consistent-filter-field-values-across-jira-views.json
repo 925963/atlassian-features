@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-consistent-filter-field-values-across-jira-views",
+  "title": "Consistent filter field values across Jira views",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "We're unifying how filter field values are determined across Jira team-managed boards, backlogs, and list views. This change ensures that the options you see in filter dropdowns are consistent and predictable, regardless of which view you're using. By aligning these views, you'll have a more reliable experience when searching for and organizing your work. Open a team-managed board, backlog, or list view in Jira.\n\tSelect a filter, such as Status, Priority, or Assignee.\n\tBrowse the available value",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

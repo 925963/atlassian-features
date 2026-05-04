@@ -1,0 +1,19 @@
+{
+  "id": "teams-team-type-permissions-delegate-team-management",
+  "title": "Team type permissions: Delegate team management",
+  "product": "Teams",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now delegate team management permissions to other users based on team types. This change allows users who aren't organization admins to create, manage, or delete teams of a specific type in the Teams app, helping to distribute administrative tasks and improve team autonomy. To get started with this change: Go to Team Settings in the Teams app.\n\tSelect Team types.\n\tSelect Edit for the team type you want to manage.\n\tGrant the Create teams, Manage teams, or Delete teams perm",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

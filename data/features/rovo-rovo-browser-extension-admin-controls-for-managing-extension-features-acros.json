@@ -2,18 +2,23 @@
   "id": "rovo-rovo-browser-extension-admin-controls-for-managing-extension-features-acros",
   "title": "Rovo Browser Extension: Admin controls for managing extension features across your site",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Organization admins can now manage Rovo browser extension features for all users across their site directly from the extension's settings page. These new admin controls allow to activate or deactivate key extension features, giving admins centralized governance over how Rovo is used in their organization. To get started with this change: Open the Rovo browser extension.\n\tNavigate to the Settings page (accessible from the extension's settings).\n\tIf you are an organization admin, you will see the ",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

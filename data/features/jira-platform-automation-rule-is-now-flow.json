@@ -2,18 +2,23 @@
   "id": "jira-platform-automation-rule-is-now-flow",
   "title": "Automation: \"Rule\" is now \"Flow\"",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We've updated the terminology in Jira automation to better reflect how you build and manage your automated processes. The term Rule has been replaced with Flow throughout the automation experience to provide a more intuitive understanding of the end-to-end automation journey. To get started with this change: Go to Project settings, then Automation.\n\tView your existing automations, which are now referred to as flows.\n\tSelect Create flow to build a new automation.",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "rovo-rovo-chat-create-prompts-for-quick-actions",
+  "title": "Rovo Chat: Create prompts for quick actions",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "Rovo now provides personalized prompt suggestions within the quick actions section of Rovo Chat. By identifying users who are most likely to benefit from automated workflows, Confluence helps you discover new ways to accelerate your work and improve team productivity. To get started with this change: Open Rovo Chat from the view/edit/live page, whiteboard, database or the top sidebar in Confluence.\n\tSelect the Rovo button to open the chat interface.\n\tView the suggested prompts in the quick actio",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

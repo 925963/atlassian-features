@@ -2,11 +2,11 @@
   "id": "rovo-rovo-dev-is-now-available",
   "title": "Rovo Dev is now available",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "Rovo Dev is intelligent, context-aware AI for software teams, designed to accelerate your development workflow from idea to deployment. Rovo Dev enhances code planning, generation, and pull request reviews by leveraging your team's organizational knowledge, business context, and existing codebase. It works with your Atlassian apps (like Jira, Confluence, and Bitbucket) and third-party apps like GitHub. And it meets developers where they're already working:",
   "announced_date": "2026-01-05",
   "rollout_start_date": "2026-01-05",
-  "rollout_end_date": "2026-01-05",
+  "rollout_end_date": "2026-04-13",
   "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/01/atlassian-cloud-changes-jan-5-to-jan-12-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

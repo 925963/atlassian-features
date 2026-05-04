@@ -2,11 +2,11 @@
   "id": "confluence-notifications-auto-open-for-new-users",
   "title": "Notifications: Auto-open for new users",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Confluence now automatically opens the notification view for new users who have unread notifications. This change helps people discover and engage with important updates as they begin their journey in the app. To get started with this change: Log in to your Confluence site.\n\tIf you are a new user with unread notifications, the notifications drawer will automatically open during your session.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-30",
+  "rollout_end_date": "2026-04-13",
   "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -44,6 +44,11 @@
       "date": "2026-04-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

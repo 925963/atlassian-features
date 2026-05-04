@@ -2,12 +2,12 @@
   "id": "confluence-a-unified-commenting-experience-across-pages-live-docs-whiteboards-an",
   "title": "A unified commenting experience across pages, live docs, whiteboards, and databases",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We’ve introduced a unified comments panel across pages, live docs, whiteboards, and databases in Confluence. This provides a consistent experience that makes it easier for teams to collaborate and manage feedback, no matter where they work. Open a page, live doc, whiteboard, or database in Confluence.\n\tSelect the comments icon on the action bar at the bottom right of the screen to open the new comments panel.\n\tUse the panel to view, reply, resolve, and manage comment threads.\n\tComments are now v",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-04-06",
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -39,6 +39,11 @@
       "date": "2026-04-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

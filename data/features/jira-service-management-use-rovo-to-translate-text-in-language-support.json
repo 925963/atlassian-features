@@ -2,18 +2,23 @@
   "id": "jira-service-management-use-rovo-to-translate-text-in-language-support",
   "title": "Use Rovo to translate text in Language support",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Save time and provide a better experience for your global teams by using AI to translate content in Jira Service Management. Space admins can now auto-generate translations for portal content and customer notifications, making it easier to support help seekers in their preferred language without manual effort. Go to your service space, then select Space settings.\n\tSelect Language support.\n\tChoose a language from the list to open the translation page.\n\tSelect Translate next to an empty field to g",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

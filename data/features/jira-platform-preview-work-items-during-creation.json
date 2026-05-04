@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-preview-work-items-during-creation",
+  "title": "Preview work items during creation",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "In Jira, you can now view a preview of your work item as you create it. When you create a single work item from the top navigation, instead of showing the success toast, the preview panel automatically appears so you can review and refine details quickly without searching for the work item you just created. Select Create from the top navigation bar.\n\tEnter details for your new work item.\n\tSelect Create to save your changes. Once created, you'll see a preview panel on the right side of the modal ",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

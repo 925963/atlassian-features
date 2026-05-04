@@ -2,18 +2,23 @@
   "id": "jira-service-management-progress-tracking-journey-panel-for-work-items",
   "title": "Progress tracking: Journey panel for work items",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "A new progress panel in Jira Service Management helps you track the status of a journey for a work item. When you view a journey parent work item, you can now see exactly how much work has been completed and what is still in progress. To get started with this change: Open a work item that serves as a journey parent.\n\tLocate the new journey panel within the work item view.\n\tReview the progress of all steps in that journey.",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

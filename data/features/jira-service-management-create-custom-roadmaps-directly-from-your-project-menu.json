@@ -2,12 +2,12 @@
   "id": "jira-service-management-create-custom-roadmaps-directly-from-your-project-menu",
   "title": "Create custom roadmaps directly from your project menu",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira Product Discovery is an Atlassian app that allows people to create custom roadmaps. You can add or edit information such as dates, assignees, and more. You may now see a recommendation in your project menu about Jira Product Discovery roadmaps. You can select this recommendation, add Jira Product Discovery, and create a new project with a custom roadmap template. Only admins will see this recommendation. It is being rolled out to people on Free Jira plans first, then it will roll out to Sta",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-04-06",
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -39,6 +39,11 @@
       "date": "2026-04-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

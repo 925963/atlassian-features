@@ -1,0 +1,19 @@
+{
+  "id": "confluence-confluence-send-text-to-trello",
+  "title": "Confluence: Send text to Trello",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "You can now highlight text on a Confluence page and send it directly to your Trello inbox as a new card. This makes it easier to capture action items, ideas, or follow-up tasks without leaving your Confluence page. To get started with this change: Open a Confluence page and highlight the text you want to capture.\n\tSelect More actions (•••) from the floating toolbar.\n\tSelect Send to Trello Inbox.\n\tLook for the Trello card created message at the bottom of your screen to confirm the card was sent.",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

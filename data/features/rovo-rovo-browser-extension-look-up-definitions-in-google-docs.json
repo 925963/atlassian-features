@@ -2,18 +2,23 @@
   "id": "rovo-rovo-browser-extension-look-up-definitions-in-google-docs",
   "title": "Rovo browser extension: Look up definitions in Google Docs",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "If you frequently use Rovo to look up definitions in Confluence and Jira, you can now get a reminder to install the Rovo browser extension when working in Google Docs. This makes it easier to access your organization's specialized terms and definitions across more of your work apps. To get started with this change: Look for the prompt to install the Rovo browser extension while you're working in a Google Doc.\n\tSelect the button in the prompt to go to your browser's extension store.\n\tFollow the i",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

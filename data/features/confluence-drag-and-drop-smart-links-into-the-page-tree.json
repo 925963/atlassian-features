@@ -1,0 +1,19 @@
+{
+  "id": "confluence-drag-and-drop-smart-links-into-the-page-tree",
+  "title": "Drag and drop smart links into the page tree",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Confluence now includes a spotlight that shows you how to drag and drop smart links directly into your page tree. This improvement helps you quickly organize external content and relevant links alongside your pages, making it easier to keep all your project information in one place. To get started with this change: Open the Editor on any Confluence page.\n\tInsert a smart link into your content.\n\tSelect and drag the smart link from the editor.\n\tDrop the link into the desired location within the pa",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

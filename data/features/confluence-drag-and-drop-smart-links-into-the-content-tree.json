@@ -2,12 +2,12 @@
   "id": "confluence-drag-and-drop-smart-links-into-the-content-tree",
   "title": "Drag and drop Smart Links into the content tree",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time and organize your workspace more efficiently by dragging Smart Links directly from Confluence pages, blogs, and live documents into the content tree. This feature allows Confluence users to quickly pin references, such as Jira tickets or external website links, to the sidebar for easy access and better context. Duplicate names are handled automatically, and you can undo your changes. To get started with this change: Go to a Confluence page, blog, or live doc that contains a Smart Link.",
   "announced_date": "2026-03-30",
   "rollout_start_date": "2026-03-30",
   "rollout_end_date": "2026-04-06",
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-04-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

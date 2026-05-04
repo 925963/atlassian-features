@@ -2,18 +2,23 @@
   "id": "jira-service-management-help-center-updated-header-experience",
   "title": "Help center: Updated header experience",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We've updated the header in the Jira Service Management help center to provide a more consistent and modern experience for help seekers. This change improves navigation and ensures that your customers can easily find the resources they need when visiting your help center management page. To get started with this change Go to your Jira Service Management help center management page.\n\tView the updated header layout at the top of the page.\n\tYou can navigate to different products associated with the",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

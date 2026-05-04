@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-improve-writing-enhance-incident-comments",
+  "title": "Improve writing: Enhance incident comments",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Save time and communicate more clearly by using artificial intelligence to improve your incident comments in Jira Service Management. This feature helps you refine your language and ensure your updates are professional and easy to understand for all responders. To get started with this change Open an incident in your service project.\n\tGo to the comment section in the work item view.\n\tSelect Improve writing to see AI-generated suggestions for your text.",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

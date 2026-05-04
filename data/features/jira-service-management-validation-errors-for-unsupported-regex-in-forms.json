@@ -2,12 +2,12 @@
   "id": "jira-service-management-validation-errors-for-unsupported-regex-in-forms",
   "title": "Validation errors for unsupported regex in forms",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira Service Management now displays an error flag in the form builder when a form contains regex patterns that are not supported by the RE2 engine. This change prevents saving forms with invalid patterns to ensure that your field validations work reliably for your customers and agents. To get started with this change Open the form builder in Jira Service Management.\n\tAdd or edit a question that uses a regex pattern for validation.\n\tEnter your regex pattern in the Regex pattern field.\n\tIf the pa",
   "announced_date": "2026-03-30",
   "rollout_start_date": "2026-03-30",
   "rollout_end_date": "2026-04-06",
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-04-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

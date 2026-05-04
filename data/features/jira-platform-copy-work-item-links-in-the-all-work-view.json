@@ -2,11 +2,11 @@
   "id": "jira-platform-copy-work-item-links-in-the-all-work-view",
   "title": "Copy work item links in the All work view",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now quickly copy work item links directly from the All work view so it's easier to share work items with your team. To copy a work item link in the All work view: Hover over the work item key you want to copy.\n\tSelect Copy link to copy the work item link to your clipboard.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-30",
+  "rollout_end_date": "2026-04-13",
   "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -44,6 +44,11 @@
       "date": "2026-04-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

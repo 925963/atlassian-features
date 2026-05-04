@@ -2,11 +2,11 @@
   "id": "confluence-content-tree-retry-button-for-loading-errors",
   "title": "Content tree: Retry button for loading errors",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "If the content tree fails to load in Confluence, you'll now see an updated error view with a Retry button. This improvement makes it easier to refresh the navigation sidebar without reloading the entire page. To get started with this change: Navigate to any Confluence space.\n\tIf the sidebar fails to load, locate the error message in the content tree area.\n\tSelect Retry to attempt to load your pages and folders again.",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
-  "rollout_end_date": "2026-03-30",
+  "rollout_end_date": "2026-04-13",
   "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-04-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "rovo-rovo-improved-navigation-for-ai-controls-in-atlassian-administration",
   "title": "Rovo: Improved navigation for AI controls in Atlassian Administration",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Rovo AI settings have been reorganized in Atlassian Administration to help organization admins find and manage features more efficiently. This update groups key Rovo AI capabilities into a single, dedicated section in the sidebar. To get started with this change: Log in to admin.atlassian.com.\n\tSelect your organization if you manage more than one.\n\tSelect the new Rovo section in the sidebar.\n\tAccess and manage your Rovo access, Atlassian MCP server, Rovo settings, and Insights from the updated n",
   "announced_date": "2026-03-30",
   "rollout_start_date": "2026-03-30",
-  "rollout_end_date": "2026-03-30",
+  "rollout_end_date": "2026-04-13",
   "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-04-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

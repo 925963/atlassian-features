@@ -2,18 +2,23 @@
   "id": "confluence-upgraded-create-menu-experience",
   "title": "Upgraded Create menu experience",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We've upgraded the Create menu in Confluence to help you find what you need faster. The new experience separates how you create from what you create, making it easier to start a new page or record a Loom video directly from the top navigation. To get started with this change: Select Create from the top navigation.\n\tChoose the type of content you want to create, such as a page or a Loom video.\n\tIf you have many creation options, select More to see the full list in the overflow menu.",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

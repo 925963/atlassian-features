@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-manage-atlassian-rovo-mcp-server-permissions",
+  "title": "Manage Atlassian Rovo MCP server permissions",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now control Atlassian Rovo MCP server permissions across their organization using the new Permissions tab in Atlassian Administration. This change provides granular control over how the MCP server interacts with your data, allowing you to allow or block access by intent and app. To get started with this change: Go to Atlassian Administration, then Rovo.\n\tSelect Rovo MCP server, then the Permissions tab.\n\tReview the permissions and use the table to allow or block access by",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

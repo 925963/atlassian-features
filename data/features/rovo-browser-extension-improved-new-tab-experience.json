@@ -2,11 +2,11 @@
   "id": "rovo-browser-extension-improved-new-tab-experience",
   "title": "Browser extension: Improved new tab experience",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "The Rovo browser extension now offers a smoother and more consistent experience when you work with Search and Chat in a new tab. Updates include more responsive interface elements and improved management of keyboard focus (for example, when you open Chat in the sidebar). How to install the Rovo browser extension To get started with this change, open a new tab in your browser with the Rovo extension enabled.",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-04-13",
   "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-04-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-space-invites-for-linked-teams",
+  "title": "Space invites for linked teams",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "In Jira, you can automatically send space invites to team members when their team is linked to a Jira space. New team members also receive invitations to any linked projects. This ensures everyone has the access they need to collaborate effectively from day one To get started with this change: Navigate to your Jira space.\n\tFrom the top navigation, select Link contributing teams.\n\tOnce the team is linked, project invites will be sent to all team members to grant them access.\n\tAlternatively, go to",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

@@ -2,18 +2,23 @@
   "id": "jira-platform-similar-issues-improved-suggestions-when-creating-issues",
   "title": "Similar issues: Improved suggestions when creating issues",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Save time and reduce duplicate work with more relevant suggestions in Jira. We’ve updated how similar issues are identified when you create a new issue. Instead of suggesting issues while you type, Jira now provides a more accurate list of similar issues once you finish entering the summary and move to the next field. To get started with this change: Select Create in the navigation bar to open the Create issue dialog.\n\tEnter a summary for your new issue.\n\tSelect the next field or click outside t",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

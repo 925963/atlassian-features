@@ -2,12 +2,12 @@
   "id": "atlassian-administration-default-mobile-app-policy-created-for-organizations",
   "title": "Default mobile app policy created for organizations",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "released",
   "description": "Organizations with Atlassian Guard Standard and a verified domain will now automatically have a default mobile app policy created for them if one doesn't already exist. To view or manage your default mobile app policy: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Security > Device Security > Mobile app policies to review or adjust your default mobile app policy.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-03-30",
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-04-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

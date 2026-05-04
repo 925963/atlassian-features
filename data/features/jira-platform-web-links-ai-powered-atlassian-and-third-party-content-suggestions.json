@@ -2,18 +2,23 @@
   "id": "jira-platform-web-links-ai-powered-atlassian-and-third-party-content-suggestions",
   "title": "Web links: AI-powered Atlassian and third-party content suggestions",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Gather context in Jira with AI-powered content suggestions from across your connected apps. When you add a web link to a work item, Jira now suggests relevant Confluence pages, whiteboards, and Loom videos, alongside files from third-party apps like Google Drive, Microsoft OneDrive, and Figma. To get started with this change: Open a work item in Jira.\n\tSelect the plus icon (+), then select Add web link.\n\tIn the Web links section, select View suggestions.\n\tTo add a suggested link to your work ite",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

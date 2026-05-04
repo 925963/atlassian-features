@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-independent-customer-access-settings-for-customer-servi",
+  "title": "Independent customer access settings for Customer Service Management",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Admins can now manage customer access settings for Customer Service Management separately from Jira Service Management. This change allows you to enable public signup and anonymous access for your Customer Service Management help center while keeping your Jira Service Management projects restricted to internal or specific external customers. By decoupling these settings, you have more flexibility to tailor the signup experience and help center visibility to the specific needs of each app. Manage",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

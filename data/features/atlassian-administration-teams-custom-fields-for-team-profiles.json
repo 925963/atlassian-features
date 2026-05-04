@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-teams-custom-fields-for-team-profiles",
+  "title": "Teams: Custom fields for team profiles",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now define and manage custom fields for team profiles in Atlassian Administration. This update allows organizations to capture specific metadata—such as cost centers, locations, or divisions—making it easier to organize, find, and report on teams across the organization. These fields are also searchable and filterable within the teams directory. To get started with this change: Go to Teams Settings from Teams app.\n\tSelect Create field and choose a field type, such as Text",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

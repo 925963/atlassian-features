@@ -2,18 +2,23 @@
   "id": "loom-a-centralized-dashboard-for-workspace-health",
   "title": "A centralized dashboard for workspace health",
   "product": "Loom",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Loom workspace admins on Premium and Enterprise plans now have access to a centralized Overview dashboard. This new landing page provides immediate visibility into key workspace health metrics, such as ROI data, license allocation, and active user trends, helping admins optimize seat allocation and drive engagement across the app. Log in to your Loom workspace.\n\tFrom the admin tools menu, select Overview.\n\tReview the Overview, License allocation, and Most active users sections.\n\tSelect Download ",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
       "date": "2026-04-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

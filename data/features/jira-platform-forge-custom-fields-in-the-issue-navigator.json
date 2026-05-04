@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-forge-custom-fields-in-the-issue-navigator",
+  "title": "Forge custom fields in the issue navigator",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Forge custom fields now appear as first-class columns in the issue navigator in Jira Software. This allows you to search, sort, and export Forge custom fields just like native fields, making it easier to manage your work and migrate from server to cloud. To get started with this change: Go to your Space, then select the All work tab to open the issue navigator.\n\tSelect Columns to add your Forge custom fields to the view.\n\tSearch, sort, or export your work items using these fields as you would wi",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

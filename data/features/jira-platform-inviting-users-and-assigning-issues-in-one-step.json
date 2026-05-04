@@ -2,12 +2,12 @@
   "id": "jira-platform-inviting-users-and-assigning-issues-in-one-step",
   "title": "Inviting users and assigning issues in one step",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira now lets you invite new users and assign them to issues in a single step, making it easier to add people to your team and keep work moving. This update removes the extra invite step, reducing friction and saving time for users. To get started with this change: Select Assignee on an issue.\n\tEnter the email address of a person who is not yet a user.\n\tSelect Invite and assign to complete both actions in one step.",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
   "rollout_end_date": "2026-04-06",
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-04-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

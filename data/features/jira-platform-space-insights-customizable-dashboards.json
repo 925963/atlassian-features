@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-space-insights-customizable-dashboards",
+  "title": "Space Insights: Customizable dashboards",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Visualize your team's progress more effectively with customizable dashboards in Jira. The Reports tab now defaults to Space Insights, an interactive dashboard where you can create and resize charts, lists, and activity streams scoped to your specific space. This change helps teams gain immediate insights into their work while keeping existing reports easily accessible. To get started with this change: Open any Jira Software or Jira Business space.\n\tSelect the Reports tab from the space navigatio",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

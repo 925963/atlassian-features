@@ -1,0 +1,19 @@
+{
+  "id": "talent-hris-sync-track-your-progress",
+  "title": "HRIS sync: Track your progress",
+  "product": "Talent",
+  "status": "rolling_out_new",
+  "description": "Admins can now monitor the real-time status of their HRIS data synchronization within Talent. This visibility helps ensure your people and position data are accurately reflected, providing a smoother onboarding experience when connecting your external HRIS source to the Talent app. To get started with this change: Go to Settings, then select HRIS Connector.\n\tLocate your active HRIS connection to view the new progress tracker.\n\tMonitor the status bar to see the live update of your data synchroniz",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

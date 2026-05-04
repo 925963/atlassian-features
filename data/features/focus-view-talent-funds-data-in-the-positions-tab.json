@@ -2,11 +2,11 @@
   "id": "focus-view-talent-funds-data-in-the-positions-tab",
   "title": "View Talent funds data in the positions tab",
   "product": "Focus",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organizations using Focus and Talent can now view Talent funds and labor rate data directly in the Positions tab of Focus. This feature requires labor rates to be configured in Talent, and provides greater visibility into funds data for improved workforce planning. Explore more about connecting Atlassian apps to Focus. To get started with this change Configure labor rates in the Talent app if not already set up.\n\tEnable the feature for Focus in Focus admin settings under App connections for Tale",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-30",
+  "rollout_end_date": "2026-04-13",
   "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -44,6 +44,11 @@
       "date": "2026-04-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

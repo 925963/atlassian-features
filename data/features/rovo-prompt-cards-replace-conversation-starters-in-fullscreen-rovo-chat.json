@@ -2,11 +2,11 @@
   "id": "rovo-prompt-cards-replace-conversation-starters-in-fullscreen-rovo-chat",
   "title": "Prompt cards replace conversation starters in fullscreen Rovo Chat",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "The first three prompt cards from Rovo's prompt library now appear in fullscreen Rovo Chat, replacing the previous conversation starters. This update makes it easier for users to discover and use helpful prompts when starting a conversation with Rovo. To get started with this change: Open Rovo fullscreen chat.\n\tView the first three prompt cards displayed at the top of the chat window.\n\tSelect a prompt card to start a conversation with a suggested prompt.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-30",
+  "rollout_end_date": "2026-04-13",
   "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -44,6 +44,11 @@
       "date": "2026-04-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "jira-platform-find-and-add-responders-in-the-incident-search-bar",
   "title": "Find and add responders in the incident search bar",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now find and add responders in the incident search bar. The incident sidebar introduces advanced search and filtering options, along with an intuitive interface to help you quickly find and add the right responders. To find and add responders in the incident sidebar: Open an incident where you want to add responders.\n\tGo to the sidebar and select Add responder.\n\tUse the search bar to find people, teams, or services by name or filter options.\n\tSelect the responder you want to add from the",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-30",
+  "rollout_end_date": "2026-04-13",
   "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -44,6 +44,11 @@
       "date": "2026-04-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

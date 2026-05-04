@@ -2,12 +2,12 @@
   "id": "confluence-improved-subject-lines-for-email-notifications",
   "title": "Improved subject lines for email notifications",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Email notifications now feature improved subject lines for mention, digest, batched, and recommended emails. These updates make subject lines more concise and descriptive, helping users quickly identify the purpose of each email. To get started with this change: Trigger a notification by performing an action in Confluence (such as mentioning a user).\n\tCheck user's email inbox to see the updated subject lines for Confluence notifications.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-04-06",
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -39,6 +39,11 @@
       "date": "2026-04-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }

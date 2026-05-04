@@ -2,11 +2,11 @@
   "id": "jira-platform-a-new-way-to-run-team-stand-ups-directly-in-jira",
   "title": "A new way to run team stand-ups directly in Jira",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We are adding the option to facilitate a standup with your team inside Jira. This feature lets you run team standups without leaving Jira, making it easier to keep everyone in sync and focused on work items. The stand-up feature in Jira now offers a more robust experience, including participant persistence, a redesigned interface, new customization settings, and a built-in feedback collector. These updates help teams run stand-ups more efficiently and tailor the experience to their needs. To try",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
-  "rollout_end_date": "2026-03-30",
+  "rollout_end_date": "2026-04-13",
   "last_seen_week": "2026-04-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -44,6 +44,11 @@
       "date": "2026-04-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

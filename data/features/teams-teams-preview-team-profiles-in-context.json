@@ -1,0 +1,19 @@
+{
+  "id": "teams-teams-preview-team-profiles-in-context",
+  "title": "Teams: Preview team profiles in context",
+  "product": "Teams",
+  "status": "rolling_out_new",
+  "description": "We've integrated a new preview panel into the Teams app to help you stay in flow while browsing. Now, when you select a team from the directory or a user profile, a preview panel opens on the right instead of navigating you to a new tab. This change provides a consistent experience across Atlassian apps and makes it easier to explore teams without losing your place. To get started with this change Open the Teams app.\n\tGo to the teams directory or a user profile.\n\tSelect a team card.\n\tView the te",
+  "announced_date": "2026-04-20",
+  "rollout_start_date": "2026-04-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
+  "history": [
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
+    }
+  ]
+}

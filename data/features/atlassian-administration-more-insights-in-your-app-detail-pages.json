@@ -2,12 +2,12 @@
   "id": "atlassian-administration-more-insights-in-your-app-detail-pages",
   "title": "More insights in your app detail pages",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Your app detail pages have been updated to include more information. This change applies to customers who have the centralized user management experience. The Total users for an app counts anyone who holds a role for the app, including roles that don’t grant access and any non-billable roles. Licensed users continues to count users who hold a billable role for the app. In the Groups table, we now indicate if a group grants roles to apps other than the current app, to give you a better idea of wh",
   "announced_date": "2026-03-02",
   "rollout_start_date": "2026-03-16",
   "rollout_end_date": "2026-04-06",
-  "last_seen_week": "2026-04-06",
+  "last_seen_week": "2026-04-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-2-to-mar-9-2026",
   "history": [
     {
@@ -39,6 +39,11 @@
       "date": "2026-04-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026"
     }
   ]
 }
