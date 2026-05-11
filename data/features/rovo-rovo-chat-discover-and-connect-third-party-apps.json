@@ -1,0 +1,19 @@
+{
+  "id": "rovo-rovo-chat-discover-and-connect-third-party-apps",
+  "title": "Rovo Chat: Discover and connect third-party apps",
+  "product": "Rovo",
+  "status": "rolling_out",
+  "description": "Discover and connect third‑party apps right from Rovo Chat. When a Confluence page in your chat context includes Smart Links to sources you haven’t connected yet (for example, Google Drive, Slack, or SharePoint), Rovo recommends the relevant connector and lets you authenticate inline—without leaving the conversation. To get started with this change: Open Rovo Chat in your Atlassian app.\n\tView a Confluence page added as context.\n\t\n\t\tIf the page contains Smart Links to a third-party source you hav",
+  "announced_date": "2026-04-27",
+  "rollout_start_date": "2026-04-27",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
+  "history": [
+    {
+      "date": "2026-04-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    }
+  ]
+}

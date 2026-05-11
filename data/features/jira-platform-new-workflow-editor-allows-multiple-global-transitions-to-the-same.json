@@ -2,12 +2,12 @@
   "id": "jira-platform-new-workflow-editor-allows-multiple-global-transitions-to-the-same",
   "title": "New workflow editor: allows multiple global transitions to the same status",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "The new workflow editor in Jira now supports multiple global transitions to the same status. This means that workflows with this configuration that were created in the old editor (which had inconsistent functionality around this) can now be edited in the new editor without needing a change in process. The editor will warn that multiple global transitions the the same status can be confusing for users when they are available at the same. If you use multiple global transitions, we recommend making",
   "announced_date": "2026-03-23",
   "rollout_start_date": "2026-03-23",
   "rollout_end_date": "2026-04-13",
-  "last_seen_week": "2026-04-13",
+  "last_seen_week": "2026-04-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-23-to-mar-30-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-04-20",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-04-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
     }
   ]
 }

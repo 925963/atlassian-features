@@ -1,0 +1,19 @@
+{
+  "id": "rovo-triggers-available-for-rovo-agents-in-studio",
+  "title": "Triggers available for Rovo agents in Studio",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "We're introducing triggers to Studio to allow you to automate more actions in your Rovo agents. Only people with access to Automation will be able to create triggers in Studio. To use triggers in your agent, Navigate to Agents and select an existing Rovo agent or create a new one.\n\tSelect Triggers.\n\tSelect Add automation trigger to configure and complete your automation.",
+  "announced_date": "2026-04-27",
+  "rollout_start_date": "2026-04-27",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
+  "history": [
+    {
+      "date": "2026-04-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    }
+  ]
+}

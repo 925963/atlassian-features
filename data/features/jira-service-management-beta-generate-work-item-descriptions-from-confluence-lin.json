@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-beta-generate-work-item-descriptions-from-confluence-lin",
+  "title": "Beta: Generate work item descriptions from Confluence links using AI",
+  "product": "Jira Service Management",
+  "status": "rolling_out",
+  "description": "AI can assist in generating work item descriptions when you simply paste Confluence links into Jira. By using the context from the Confluence link placed in the description field of the work item, AI creates structured content to generate and improve the description. To generate work item descriptions: Paste a Confluence link in a work item’s description field. If a Confluence link is already present, edit the description field.\n\tSelect Improve description.\n\tOnce the description is generated, se",
+  "announced_date": "2026-04-27",
+  "rollout_start_date": "2026-04-27",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
+  "history": [
+    {
+      "date": "2026-04-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    }
+  ]
+}

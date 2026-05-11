@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-audit-log-export-logs-for-jira-and-confluence",
+  "title": "Audit log: Export logs for Jira and Confluence",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "App admins can now export and download audit logs for Jira and Confluence. This change allows Jira and Confluence app admins to generate a record of important events and receive a download link via email, which directs them to Atlassian Administration to retrieve the file. This provides more granular control for different types of admins and helps them troubleshoot problems or maintain records of important changes. To get started with this change: Go to the audit log page in your Jira or Conflue",
+  "announced_date": "2026-04-27",
+  "rollout_start_date": "2026-04-27",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
+  "history": [
+    {
+      "date": "2026-04-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    }
+  ]
+}

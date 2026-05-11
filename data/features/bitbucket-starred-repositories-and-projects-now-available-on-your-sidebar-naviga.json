@@ -1,0 +1,19 @@
+{
+  "id": "bitbucket-starred-repositories-and-projects-now-available-on-your-sidebar-naviga",
+  "title": "Starred repositories and projects now available on your sidebar navigation",
+  "product": "Bitbucket",
+  "status": "rolling_out_new",
+  "description": "We have added starred repositories and projects to the left sidebar navigation. Now, you can mark important repositories or projects as starred, and then access them quickly from the left sidebar navigation.",
+  "announced_date": "2026-04-27",
+  "rollout_start_date": "2026-04-27",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-04-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
+  "history": [
+    {
+      "date": "2026-04-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    }
+  ]
+}
