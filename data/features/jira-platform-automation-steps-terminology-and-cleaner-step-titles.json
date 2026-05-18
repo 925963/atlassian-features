@@ -2,12 +2,12 @@
   "id": "jira-platform-automation-steps-terminology-and-cleaner-step-titles",
   "title": "Automation: Steps terminology and cleaner step titles",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We've updated Jira automation terminology and UI to use “steps” instead of components. Condition steps no longer display noisy title prefixes like IF, resulting in clearer, more scannable flows. To get started with this change: Go to Project settings, then Automation.\n\tOpen a flow/rule to see the updated step design.\n\tCreate a new flow/rule and add “steps” (triggers, conditions, actions) to try the changes.",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": "2026-04-20",
-  "last_seen_week": "2026-04-20",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-04-27",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

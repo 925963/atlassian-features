@@ -2,11 +2,11 @@
   "id": "loom-loom-slack-integration-automatic-discoverability-updates-when-sharing",
   "title": "Loom Slack integration: Automatic discoverability updates when sharing",
   "product": "Loom",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "The Loom Slack integration now automatically updates the discoverability of any Loom video when it is shared in a direct message, group direct message, or private or public Slack channel. This ensures that recipients can easily discover shared Loom videos within Slack. To get started with this change: Connect your Loom account to Slack using the Loom Slack integration.\n\tShare a Loom video link in any Slack direct message, group direct message, or channel.\n\tThe discoverability of the Loom video w",
   "announced_date": "2026-04-20",
   "rollout_start_date": "2026-04-20",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-04-27",
   "last_seen_week": "2026-04-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-04-27",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

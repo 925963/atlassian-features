@@ -2,18 +2,23 @@
   "id": "rovo-mobile-app-policy-allow-access-from-any-ip-address-for-all-supported-apps",
   "title": "Mobile app policy: Allow access from any IP address for all supported apps",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Organization administrators can allow users of the Rovo mobile app to securely access organization data from any IP address. This change extends the existing mobile capabilities for Jira and Confluence to Rovo, ensuring that users can stay productive on the go even if your organization uses IP allowlists to limit access. Go to admin.atlassian.com.\n\tSelect Security, then Device Security, then Mobile app policies.\n\tSelect Create mobile app policy or edit an existing policy.\n\tSelect Allow access fr",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

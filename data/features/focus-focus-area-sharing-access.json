@@ -1,0 +1,19 @@
+{
+  "id": "focus-focus-area-sharing-access",
+  "title": "Focus area sharing access",
+  "product": "Focus",
+  "status": "rolling_out_new",
+  "description": "The Focus app now lets focus area owners control who can edit a focus area. Owners can add or remove editors and followers, giving them more control over collaboration, security, and compliance. To get started with this change: In the Focus app, go to Focus areas in the left menu.\n\tSelect a focus area you own.\n\tSelect the Share button in the header.\n\tIn the share modal, add users in the Search and invite people field.\n\tChoose Can edit to grant edit access, or use the Add followers checkbox to ad",
+  "announced_date": "2026-05-04",
+  "rollout_start_date": "2026-05-04",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-04",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026",
+  "history": [
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
+    }
+  ]
+}

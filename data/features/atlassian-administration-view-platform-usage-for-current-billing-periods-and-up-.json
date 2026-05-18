@@ -2,18 +2,23 @@
   "id": "atlassian-administration-view-platform-usage-for-current-billing-periods-and-up-",
   "title": "View platform usage for current billing periods and up to 30 days ago",
   "product": "Atlassian Administration",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "You can now review your organization’s platform usage during the current billing period and in the past 30 days. This gives you a greater period of time to spot usage trends in. What is platform usage? We also now email you to tell you when your organization unlocks your first platform usage allowance, such as Rovo credits, so you can start monitoring usage against your allowance. To monitor your platform usage:",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

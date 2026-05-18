@@ -2,18 +2,23 @@
   "id": "confluence-layouts-resize-columns-with-interactive-dividers",
   "title": "Layouts: Resize columns with interactive dividers",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Save time and customize your content by resizing column widths in multi-column layouts within the Confluence editor. Confluence Cloud now includes interactive dividers between columns, allowing you to freely adjust proportions to suit your design needs instead of being limited to preset layouts. Open a page in edit mode.\n\tInsert a multi-column layout using the /layout command or the toolbar.\n\tHover over the divider between two columns and drag it to resize them.\n\tSelect and drag the divider left",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

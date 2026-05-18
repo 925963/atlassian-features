@@ -2,12 +2,12 @@
   "id": "jira-product-discovery-invite-users-directly-from-views",
   "title": "Invite users directly from views",
   "product": "Jira Product Discovery",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Project admins can now invite new users to Jira Product Discovery without leaving their current view. This change makes it easier to add collaborators and stakeholders to your project as you work, removing the need to navigate away to project settings or sharing menus. To get started with this change: Open any view in your Jira Product Discovery project.\n\tLocate the visitors stack in the view header.\n\tSelect Invite next to the visitors stack.\n\tEnter the details of the users you want to add in th",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": "2026-04-20",
-  "last_seen_week": "2026-04-20",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-04-27",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

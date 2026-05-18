@@ -2,18 +2,23 @@
   "id": "atlassian-administration-access-requests-view-job-title-department-and-location",
   "title": "Access requests: View job title, department, and location",
   "product": "Atlassian Administration",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Organization admins can now view a user's job title, department, and location directly within access requests in Atlassian Administration. This additional context helps admins make more informed decisions when approving or denying requests for product access, reducing the likelihood of requests being ignored due to a lack of information. To get started with this change: Go to Administration at admin.atlassian.com.\n\tSelect your organization if you have more than one.\n\tGo to Apps, then Access requ",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

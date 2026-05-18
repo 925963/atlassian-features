@@ -2,18 +2,23 @@
   "id": "atlassian-administration-improved-tables-enhanced-accessibility-and-features",
   "title": "Improved tables: Enhanced accessibility and features",
   "product": "Atlassian Administration",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Atlassian Administration tables now support column resizing, reordering, and pinning. These updates make it easier for admins to manage users, groups, teams, and service accounts across 15 table experiences in Atlassian Administration. To get started with this change: Go to admin.atlassian.com. Select your organization if you have more than one.\n\tColumn controls are available across several table experiences in Atlassian Administration, including:\n\t\n\t\tDirectory > Groups (list and group detail vi",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

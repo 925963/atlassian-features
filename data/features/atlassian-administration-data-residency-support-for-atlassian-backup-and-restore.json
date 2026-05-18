@@ -2,18 +2,23 @@
   "id": "atlassian-administration-data-residency-support-for-atlassian-backup-and-restore",
   "title": "Data residency: Support for Atlassian Backup and Restore",
   "product": "Atlassian Administration",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Atlassian Backup and Restore now supports data residency. When an app is pinned to a data residency region, all new backups (including product data, media, and user and group data) are stored in the pinned region. Admins can view the storage region for each backup in the backup details panel. Restore operations enforce region matching: the destination app must be unpinned or in the same region as the backup. Existing backups created before pinning are not moved and expire per normal retention. B",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

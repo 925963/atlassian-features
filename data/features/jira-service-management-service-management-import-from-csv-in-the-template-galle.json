@@ -2,12 +2,12 @@
   "id": "jira-service-management-service-management-import-from-csv-in-the-template-galle",
   "title": "Service management: Import from CSV in the template gallery",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira Service Management now includes an Import into JSM (CSV) option directly within the Service management and Jira Service Management template gallery. This update allows teams to quickly set up a realistic project by importing historical tickets, users, and configurations from other service management tools. To get started with this change: Go to the Service management or Jira Service Management category in the template gallery.\n\tSelect Import into JSM (CSV).\n\tFollow the prompts in the import",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
   "rollout_end_date": "2026-04-20",
-  "last_seen_week": "2026-04-20",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-04-27",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

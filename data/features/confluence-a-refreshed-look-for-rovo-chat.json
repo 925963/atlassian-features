@@ -2,11 +2,11 @@
   "id": "confluence-a-refreshed-look-for-rovo-chat",
   "title": "A refreshed look for Rovo Chat",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "We are introducing a new, refreshed look for Rovo Chat. This update brings a modern design and improved experience to your conversations. To experience the new Rovo Chat design: Open Rovo Chat in your Atlassian app.\n\tIf you do not see the new look, ensure your workspace is included in the rollout or check with your administrator.\n\tStart a conversation or continue an existing one to explore the updated design.",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-04-27",
   "last_seen_week": "2026-04-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

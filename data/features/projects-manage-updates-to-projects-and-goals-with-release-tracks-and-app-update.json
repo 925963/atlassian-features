@@ -1,0 +1,19 @@
+{
+  "id": "projects-manage-updates-to-projects-and-goals-with-release-tracks-and-app-update",
+  "title": "Manage updates to Projects and Goals with release tracks and app updates",
+  "product": "Projects",
+  "status": "rolling_out_new",
+  "description": "Projects and Goals can now be put on the bundled release track, so you can have more time to prepare and plan for changes to the Projects and Goals apps. What are release tracks? To schedule monthly changes for Projects and Goals: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Apps > Release management > Release tracks.\n\tLook for Projects or Goals in the list of supported apps and select the change track option.\n\tChoose the bundled release track to sc",
+  "announced_date": "2026-05-04",
+  "rollout_start_date": "2026-05-04",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-04",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026",
+  "history": [
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
+    }
+  ]
+}

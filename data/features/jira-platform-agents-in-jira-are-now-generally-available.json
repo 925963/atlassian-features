@@ -2,18 +2,23 @@
   "id": "jira-platform-agents-in-jira-are-now-generally-available",
   "title": "Agents in Jira are now Generally Available",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Agents in Jira introduces the ability to work alongside AI agents directly within Jira. You can assign agents to work items, @mention agents in comments to invoke them in the context of work, and leverage Jira's workflow engine to trigger agents on status transitions. To get started with this change Before you get started, you’ll need to be a site admin to enable Rovo, AI features, or MCP agents. Read more\n\tYou’ll need to enable Rovo on your site. See: Manage Rovo access\n\tYou'll also need to hav",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "atlassian-administration-data-contribution-settings-will-be-available-soon",
   "title": "Data contribution settings will be available soon",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Atlassian is introducing new data contribution settings to help you manage how Atlassian uses your organization’s metadata and in-app data to improve apps and AI experiences for all customers. More about data contribution settings Before you update your data contribution settings, we recommend that you: - review our documentation - read our updated terms - visit our Trust Center for more resources Available defaults and settings vary based on the highest active plan in your Atlassian organizatio",
   "announced_date": "2026-04-20",
   "rollout_start_date": "2026-04-20",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-04-27",
   "last_seen_week": "2026-04-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-04-27",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

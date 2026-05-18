@@ -2,18 +2,23 @@
   "id": "jira-platform-revamped-reports-for-work-item-analysis",
   "title": "Revamped reports for work item analysis",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Jira Cloud has updated three classic reports to improve date formatting and provide a more consistent experience. The Average Age, Created vs Resolved, and Recently Created Work Items reports now use the latest interface, resolving previous issues with how dates were displayed for different regions. To get started with this change: Go to your company-managed space in Jira.\n\tSelect Reports from the sidebar.\n\tChoose Average Age, Created vs Resolved, or Recently Created Work Items.\n\tUse the in-page",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

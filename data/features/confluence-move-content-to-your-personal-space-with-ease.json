@@ -2,18 +2,23 @@
   "id": "confluence-move-content-to-your-personal-space-with-ease",
   "title": "Move content to your personal space with ease",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "When you create content using the global create dropdown in Confluence, you'll now see a nudge suggesting you move it to your personal space. This helps you keep your work organized and ensures content doesn't accidentally end up in a shared space before it's ready. To get started with this change: Select Create from the global navigation.\n\tChoose a content type, such as a page, blog post, whiteboard, or database.\n\tAfter the content is created in a shared space, look for the nudge flag.\n\tSelect ",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

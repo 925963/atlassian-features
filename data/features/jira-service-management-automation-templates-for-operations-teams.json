@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-automation-templates-for-operations-teams",
+  "title": "Automation templates for operations teams",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Atlassian Rovo now includes pre-configured automation templates specifically designed for operations teams to automate tasks such as incident triage and PIR creation. These templates help you quickly set up automation rules to manage repetitive tasks and streamline your operations workflows across Atlassian apps. A new section on the Rovo Ops settings page lists the available templates. You can select a template to open it in Jira Service Management automation, from there you can edit the templa",
+  "announced_date": "2026-05-04",
+  "rollout_start_date": "2026-05-04",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-04",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026",
+  "history": [
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
+    }
+  ]
+}

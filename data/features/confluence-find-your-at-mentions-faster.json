@@ -2,18 +2,23 @@
   "id": "confluence-find-your-at-mentions-faster",
   "title": "Find your at mentions faster",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Stay on top of the conversations that matter most. You can now filter the comments panel in Confluence to surface only the comments where you’ve been mentioned. This gives you a focused view of the discussions that require your attention, whether you were mentioned in the original comment or a reply. Open the Comments panel on any page.\n\tSelect the filter menu at the top of the panel.\n\tSelect Mentions me to filter for your mentions.",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

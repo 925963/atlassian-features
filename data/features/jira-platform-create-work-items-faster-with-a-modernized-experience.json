@@ -2,18 +2,23 @@
   "id": "jira-platform-create-work-items-faster-with-a-modernized-experience",
   "title": "Create work items faster with a modernized experience",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We’re updating the way you create work in Jira to make it faster and simpler. When you select the Create button, you’ll see a compact create window with essential fields so you can capture ideas quickly and stay in your flow. We're introducing this experience gradually, so it may not be available in your site right away. As we learn from feedback and usage, we may continue to refine the experience. To get started with this change: To create a work item with the modernized experience:",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

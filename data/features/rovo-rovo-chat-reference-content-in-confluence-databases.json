@@ -2,18 +2,23 @@
   "id": "rovo-rovo-chat-reference-content-in-confluence-databases",
   "title": "Rovo Chat: Reference content in Confluence databases",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "When you select a field, entry, card, or cell, Rovo Chat now visually indicates what content is being referenced in your prompt, giving you more context and control over your AI-powered work in Confluence. To get started with this change: Navigate to a database in Confluence.\n\tOpen the Rovo Chat sidebar or modal.\n\tSelect the content you want to reference, such as a field, entry, card, or cell.\n\tEnter your prompt in Rovo Chat and see the referenced content visually indicated in the chat interface",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-04-27",
+  "last_seen_week": "2026-05-04",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026"
     }
   ]
 }

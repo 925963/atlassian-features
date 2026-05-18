@@ -2,11 +2,11 @@
   "id": "atlassian-administration-start-a-free-trial-of-teamwork-collection-in-your-organ",
   "title": "Start a free trial of Teamwork Collection in your organization",
   "product": "Atlassian Administration",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "You can now sign up for Teamwork Collection in Atlassian Administration. It includes Jira, Confluence, Loom, and Rovo agents. Organization admins can use the Add app flow to start a free 30-day Teamwork Collection Premium trial. With Teamwork Collection, you can create all new apps on a new site or bundle your existing Jira, Confluence, or Loom instances into the collection to simplify the way you subscribe. If you want to bundle your Jira Enterprise or Confluence Enterprise apps into a collecti",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-04-27",
   "last_seen_week": "2026-04-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-04-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026"
+    },
+    {
+      "date": "2026-05-04",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }
