@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-track-your-usage-with-the-new-platform-usage-page",
+  "title": "Track your usage with the new platform usage page",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now monitor their consumption-based pricing and usage through a dedicated platform usage page in Atlassian Administration. This new experience provides a centralized view of how your organization consumes resources like AI credits and indexed objects across Atlassian apps, helping you manage costs and plan for future needs. Go to Atlassian Administration at admin.atlassian.com.\n\tSelect your organization if you have more than one.\n\tGo to Settings, then Platform usage.\n\tSel",
+  "announced_date": "2026-05-11",
+  "rollout_start_date": "2026-05-11",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-11",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
+  "history": [
+    {
+      "date": "2026-05-11",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    }
+  ]
+}

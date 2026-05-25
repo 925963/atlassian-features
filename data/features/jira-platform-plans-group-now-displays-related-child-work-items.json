@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-plans-group-now-displays-related-child-work-items",
+  "title": "Plans Group now displays related child work items",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "When grouping, child issues will now appear under their parent’s group, regardless of their assigned group. This change to the plan timeline behaviour aligns with the list view and project timeline.",
+  "announced_date": "2026-05-11",
+  "rollout_start_date": "2026-05-11",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-11",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
+  "history": [
+    {
+      "date": "2026-05-11",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    }
+  ]
+}

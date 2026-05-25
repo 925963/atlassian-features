@@ -1,0 +1,19 @@
+{
+  "id": "loom-interact-with-embedded-loom-videos-without-leaving-the-page",
+  "title": "Interact with embedded Loom videos without leaving the page",
+  "product": "Loom",
+  "status": "rolling_out_new",
+  "description": "We've redesigned the signup experience for Loom videos embedded in other apps to make it easier for you to engage with content. When you try to comment or react to an embedded video while logged out, you'll now see a redesigned signup window directly in the player instead of being redirected to a new tab. This change helps you stay in your workflow and quickly join the conversation. To get started with this change:",
+  "announced_date": "2026-05-11",
+  "rollout_start_date": "2026-05-11",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-11",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
+  "history": [
+    {
+      "date": "2026-05-11",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    }
+  ]
+}

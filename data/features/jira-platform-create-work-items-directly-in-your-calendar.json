@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-create-work-items-directly-in-your-calendar",
+  "title": "Create work items directly in your calendar",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "When you create and schedule work directly in your calendar, you’ll notice some small visual improvements. Days on the calendar are highlighted as you hover over them, and a plus sign appears in the top right corner. How to create, edit, and delete work items in your calendar To create a work item in your calendar:",
+  "announced_date": "2026-05-11",
+  "rollout_start_date": "2026-05-11",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-11",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
+  "history": [
+    {
+      "date": "2026-05-11",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    }
+  ]
+}

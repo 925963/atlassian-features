@@ -1,0 +1,19 @@
+{
+  "id": "bitbucket-new-apis-for-retrieving-merge-conflicts",
+  "title": "New APIs for retrieving merge conflicts",
+  "product": "Bitbucket",
+  "status": "rolling_out_new",
+  "description": "The Bitbucket Cloud team just released two new APIs that can be used to retrieve merge conflicts. One of the new APIs is for any commit spec, refer to https://developer.atlassian.com/cloud/bitbucket/rest/api-group-commits/#api-group-commits for more details, and the other API we've added is for pull requests, refer to https://developer.atlassian.com/cloud/bitbucket/rest/api-group-pullrequests/#api-group-pullrequests for more details.",
+  "announced_date": "2026-05-11",
+  "rollout_start_date": "2026-05-11",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-11",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
+  "history": [
+    {
+      "date": "2026-05-11",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    }
+  ]
+}

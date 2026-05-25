@@ -1,0 +1,19 @@
+{
+  "id": "talent-talent-enable-starred-views",
+  "title": "talent-enable-starred-views",
+  "product": "Talent",
+  "status": "rolling_out_new",
+  "description": "Save time and stay organized in the Talent app by starring your most-used views. This new feature allows you to favorite specific views, making them easily discoverable and available through both the Views tab in the Positions page and the Starred page. To star views: Open the Talent app, then select Positions from the left sidebar, then navigate to the Views tab.\n\tFind the view you want to favorite. You'll see a new Star column in the Views table.\n\tSelect Star this view in that column to star t",
+  "announced_date": "2026-05-11",
+  "rollout_start_date": "2026-05-11",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-11",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
+  "history": [
+    {
+      "date": "2026-05-11",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    }
+  ]
+}

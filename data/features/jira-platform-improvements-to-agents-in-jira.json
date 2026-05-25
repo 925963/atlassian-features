@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-improvements-to-agents-in-jira",
+  "title": "Improvements to Agents in Jira",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "We’ve updated the agent session experience in Jira to make it faster and more intuitive. You can now click anywhere on an agent’s header to open or close agent sessions, and enjoy smoother scrolling and animations when interacting with agents. These changes help you stay focused on your work while delegating tasks to AI. To get started with this change:",
+  "announced_date": "2026-05-11",
+  "rollout_start_date": "2026-05-11",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-11",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
+  "history": [
+    {
+      "date": "2026-05-11",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    }
+  ]
+}

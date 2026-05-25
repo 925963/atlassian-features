@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-add-whiteboards-to-your-work-items",
+  "title": "Add whiteboards to your work items",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "You can now add a Confluence whiteboard to your work item using a slash command. By adding a whiteboard to your work item, it makes brainstorming and visualizing ideas more easier. To add a whiteboard to a work item: Select the Description or Comment section in a work item.\n\tType / to open the menu and select Whiteboard from the list of options.",
+  "announced_date": "2026-05-11",
+  "rollout_start_date": "2026-05-11",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-11",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
+  "history": [
+    {
+      "date": "2026-05-11",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    }
+  ]
+}

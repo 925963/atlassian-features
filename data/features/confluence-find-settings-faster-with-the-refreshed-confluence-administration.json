@@ -1,0 +1,19 @@
+{
+  "id": "confluence-find-settings-faster-with-the-refreshed-confluence-administration",
+  "title": "Find settings faster with the refreshed Confluence administration",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Confluence administration has a new look and feel to help you find the tools and settings you need more efficiently. We've reorganized the sidebar into logical, functional sections, and updated the names of several tools to better reflect their purpose. These changes make it easier to manage access and discover the right settings in Confluence. To get started with this change: Go to Confluence administration.\n\tFollow the 3-step guided tour to see where your tools and settings have moved.\n\tFrom t",
+  "announced_date": "2026-05-11",
+  "rollout_start_date": "2026-05-11",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-11",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
+  "history": [
+    {
+      "date": "2026-05-11",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    }
+  ]
+}

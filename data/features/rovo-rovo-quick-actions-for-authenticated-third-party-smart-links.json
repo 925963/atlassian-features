@@ -1,0 +1,19 @@
+{
+  "id": "rovo-rovo-quick-actions-for-authenticated-third-party-smart-links",
+  "title": "Rovo: Quick actions for authenticated third-party Smart Links",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "Rovo now provides faster ways to interact with third-party apps directly from your content. When you hover over a third-party Smart Link that you’ve connected, you'll see new action prompts taking you directly to Rovo Chat on the same page to process information from that link. This helps you stay in your workflow without switching between different apps. Navigate to any page or work item containing a resolved third-party Smart Link.\n\tHover your cursor over a Smart Link with a blue chat icon ind",
+  "announced_date": "2026-05-11",
+  "rollout_start_date": "2026-05-11",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-11",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
+  "history": [
+    {
+      "date": "2026-05-11",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    }
+  ]
+}

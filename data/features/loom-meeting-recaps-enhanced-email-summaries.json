@@ -1,0 +1,19 @@
+{
+  "id": "loom-meeting-recaps-enhanced-email-summaries",
+  "title": "Meeting recaps: Enhanced email summaries",
+  "product": "Loom",
+  "status": "rolling_out_new",
+  "description": "Loom meeting recap emails now include more context and interactive elements to help you stay informed after your meetings. These enhancements provide a clearer view of who attended, what was shared, and offer a way to provide feedback on the accuracy of your AI-generated recaps. This change is available for users on Enterprise, Business + AI, or trial plans with AI enabled. Record a meeting using Loom.\n\tWait for the meeting recording to finish processing.\n\tOpen the meeting recap email sent to yo",
+  "announced_date": "2026-05-11",
+  "rollout_start_date": "2026-05-11",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-11",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
+  "history": [
+    {
+      "date": "2026-05-11",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    }
+  ]
+}
