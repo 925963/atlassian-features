@@ -1,0 +1,19 @@
+{
+  "id": "confluence-confluence-whiteboards-custom-font-sizing",
+  "title": "Confluence whiteboards: Custom font sizing",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Customize the look of your Confluence whiteboards with precise font sizing. This update gives you more flexibility to create visual hierarchy and ensure your text fits perfectly within sticky notes, shapes, and text boxes. To get started with this change: Open a whiteboard in Confluence.\n\tSelect an element containing text, such as a sticky note or shape.\n\tSelect Text styles (Tt icon) in the toolbar.\n\tEnter a number in the font size input box to set the size of your text.",
+  "announced_date": "2026-05-18",
+  "rollout_start_date": "2026-05-18",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-18",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
+  "history": [
+    {
+      "date": "2026-05-18",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026"
+    }
+  ]
+}

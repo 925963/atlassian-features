@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-invite-drawer-improved-group-selection",
+  "title": "Invite drawer: Improved group selection",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now use an updated group selection experience when inviting users to Atlassian apps. This improvement makes it easier to find and select the correct groups, especially for organizations with many groups or multiple directories, ensuring users are assigned the right access from the start. To get started with this change Go to Atlassian Administration at admin.atlassian.com.\n\tSelect Directory, then Users.\n\tSelect Invite users.\n\tIn the Add to groups field, search for and sel",
+  "announced_date": "2026-05-18",
+  "rollout_start_date": "2026-05-18",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-18",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
+  "history": [
+    {
+      "date": "2026-05-18",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026"
+    }
+  ]
+}

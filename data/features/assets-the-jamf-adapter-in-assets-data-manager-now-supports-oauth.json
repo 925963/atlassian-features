@@ -1,0 +1,19 @@
+{
+  "id": "assets-the-jamf-adapter-in-assets-data-manager-now-supports-oauth",
+  "title": "The Jamf Adapter in Assets Data Manager now supports OAuth",
+  "product": "Assets",
+  "status": "rolling_out_new",
+  "description": "The Data Manager Jamf Adapter lets you bring data directly from Jamf into Assets Data Manager. It now includes support for both OAuth and Basic authentication methods.",
+  "announced_date": "2026-05-18",
+  "rollout_start_date": "2026-05-18",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-18",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
+  "history": [
+    {
+      "date": "2026-05-18",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026"
+    }
+  ]
+}

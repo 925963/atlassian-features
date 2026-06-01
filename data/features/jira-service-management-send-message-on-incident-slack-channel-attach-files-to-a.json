@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-send-message-on-incident-slack-channel-attach-files-to-a",
+  "title": "Send message on incident Slack channel: Attach files to automation messages",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "You can now attach up to 10 files (totaling 4MB) to messages sent using the \"Send message on incident Slack channel\" automation action in Jira Service Management. This helps responders access runbooks, checklists, and supporting materials directly in Slack, reducing context switching and speeding up incident response. Go to Project settings in Jira Service Management.\n\tSelect Automation and edit or create a rule using the Send message on incident Slack channel action.\n\tSave the rule configuratio",
+  "announced_date": "2026-05-18",
+  "rollout_start_date": "2026-05-18",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-18",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
+  "history": [
+    {
+      "date": "2026-05-18",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026"
+    }
+  ]
+}

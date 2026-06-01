@@ -2,18 +2,23 @@
   "id": "confluence-native-embeds-support-for-pages-whiteboards-and-more",
   "title": "Native embeds: Support for pages, whiteboards, and more",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "You can now use native embeds to display from your Confluence pages, whiteboards, databases, and slides in the confluence editor. This update replaces our existing smart card embed functionality, making it easier to integrate and interact with native Atlassian content without leaving your workspace. To get started with this change: Open a Confluence page with an open editor.\n\tPaste a link from a supported app or use the slash command to insert an embed.\n\tInteract with the embedded content direct",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
   "rollout_end_date": null,
-  "last_seen_week": "2026-05-11",
+  "last_seen_week": "2026-05-18",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
     {
       "date": "2026-05-11",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    },
+    {
+      "date": "2026-05-18",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026"
     }
   ]
 }

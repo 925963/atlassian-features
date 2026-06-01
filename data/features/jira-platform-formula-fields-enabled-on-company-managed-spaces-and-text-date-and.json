@@ -2,18 +2,23 @@
   "id": "jira-platform-formula-fields-enabled-on-company-managed-spaces-and-text-date-and",
   "title": "Formula fields: Enabled on company-managed spaces and text, date, and duration supported as output types",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Jira formula fields are now available in company-managed spaces. Jira formula fields support text, date, and duration outputs, enabling complex calculations across your work. You can search and sort by formula field values using Jira Query Language (JQL) to organize and prioritize your work items. These features are available in both company-managed and team-managed spaces. Create a formula field",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
   "rollout_end_date": null,
-  "last_seen_week": "2026-05-11",
+  "last_seen_week": "2026-05-18",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
     {
       "date": "2026-05-11",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    },
+    {
+      "date": "2026-05-18",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026"
     }
   ]
 }

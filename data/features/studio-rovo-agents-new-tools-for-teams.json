@@ -2,18 +2,23 @@
   "id": "studio-rovo-agents-new-tools-for-teams",
   "title": "Rovo agents: New tools for Teams",
   "product": "Studio",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Rovo agents can now use tools to access and interact with information from Teams. This improvement allows your agents to provide more context-aware responses and perform actions related to your organization's structure and objectives within Atlassian apps. Go to Atlassian Studio.\n\tSelect the Agents tab.\n\tChoose an existing agent or select Create agent.\n\tIn the agent configuration, go to the Tools section.\n\tSelect the tools for Teams to enable them for your agent.",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
   "rollout_end_date": null,
-  "last_seen_week": "2026-05-11",
+  "last_seen_week": "2026-05-18",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
     {
       "date": "2026-05-11",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026"
+    },
+    {
+      "date": "2026-05-18",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026"
     }
   ]
 }
