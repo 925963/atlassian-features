@@ -1,0 +1,19 @@
+{
+  "id": "jira-product-discovery-activate-apps-faster-from-the-template-picker",
+  "title": "Activate apps faster from the template picker",
+  "product": "Jira Product Discovery",
+  "status": "rolling_out_new",
+  "description": "App admins of Atlassian organizations that have only Jira apps can now activate Jira Service Management and Jira Product Discovery directly from the template picker. This simplifies the setup by combining app activation and project creation into a single step, helping you start using new features faster. To view this change: Open the Jira template picker.\n\tSelect a Jira Service Management or Jira Product Discovery template.\n\tReview the template preview and app overview on the new setup page.\n\tSe",
+  "announced_date": "2026-05-25",
+  "rollout_start_date": "2026-05-25",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-25",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026",
+  "history": [
+    {
+      "date": "2026-05-25",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026"
+    }
+  ]
+}

@@ -2,18 +2,23 @@
   "id": "jira-service-management-show-live-chat-only-when-agents-are-available",
   "title": "Show live chat only when agents are available",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Customers now only see live chat when agents are available to respond, so they won't start a conversation if no one is available to assist. Admins can control visibility by linking a team to a space and choosing when live chat should appear. Go to your space and open Space settings.\n\tUnder Channels & self service, select Live chat.\n\tUnder Assign a team, link a team to the space. This is required to use availability settings.\n\tChoose when live chat should appear to customers.\n\tSelect Save.",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
   "rollout_end_date": null,
-  "last_seen_week": "2026-05-18",
+  "last_seen_week": "2026-05-25",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
     {
       "date": "2026-05-18",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026"
+    },
+    {
+      "date": "2026-05-25",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "confluence-voting-design-refresh",
   "title": "Voting: Design refresh",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and make decisions faster with a refreshed voting experience on Confluence whiteboards. We’ve updated the design and flow to make it easier for your team to cast votes and see results during brainstorms and planning sessions. To get started with this change Open a whiteboard in Confluence.\n\tSelect the Voting icon from the toolbar.\n\tChoose an existing vote or select Create vote to start a new session.",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-05-18",
   "last_seen_week": "2026-05-18",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-05-18",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026"
+    },
+    {
+      "date": "2026-05-25",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

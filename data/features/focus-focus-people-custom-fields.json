@@ -2,11 +2,11 @@
   "id": "focus-focus-people-custom-fields",
   "title": "Focus: People custom fields",
   "product": "Focus",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Atlassian Focus now supports single-select and multi-select people custom fields for focus areas and change proposals. This update allows you to track and manage specific individuals or teams directly within your strategic work, providing greater flexibility to align Focus with your organization's unique business processes and reporting needs. Ensure you have Focus admin permissions.\n\tGo to Focus admin settings, then Configurations, and select Custom fields.\n\tCreate a new custom field definition",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-05-18",
   "last_seen_week": "2026-05-18",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-05-18",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026"
+    },
+    {
+      "date": "2026-05-25",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

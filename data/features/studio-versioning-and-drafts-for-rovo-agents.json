@@ -1,0 +1,19 @@
+{
+  "id": "studio-versioning-and-drafts-for-rovo-agents",
+  "title": "Versioning and drafts for Rovo agents",
+  "product": "Studio",
+  "status": "rolling_out_new",
+  "description": "Rovo agents now support versioning and drafts, allowing you to safely iterate on your agents without disrupting users. You can now prepare changes in a draft state, test them, and publish new versions only when they are ready. This update brings higher confidence to agent maintenance by ensuring that only one version is active at a time while you work on improvements in the background. To get started with this change: In your agent configuration, go to Details, then select Version History.\n\tSele",
+  "announced_date": "2026-05-25",
+  "rollout_start_date": "2026-05-25",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-25",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026",
+  "history": [
+    {
+      "date": "2026-05-25",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026"
+    }
+  ]
+}

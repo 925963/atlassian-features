@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-visual-improvements-to-jira-and-confluence-smart-links",
+  "title": "Visual improvements to Jira and Confluence Smart Links",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "",
+  "announced_date": "2026-05-25",
+  "rollout_start_date": "2026-05-25",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-25",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026",
+  "history": [
+    {
+      "date": "2026-05-25",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026"
+    }
+  ]
+}

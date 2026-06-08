@@ -1,0 +1,19 @@
+{
+  "id": "rovo-access-rovo-skills-from-the-slash-menu",
+  "title": "Access Rovo skills from the slash menu",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "Atlassian Rovo skills are now available directly in the editor's slash menu in Jira and Confluence. This update makes it easier to find and use AI assistance while you work, allowing you to quickly select a skill to help with tasks like summarizing content or drafting updates. Open the editor in Jira or Confluence.\n\tType / to open the slash menu.\n\tSelect a skill from the AI category or search for a specific skill by name.\n\tReview the pre-filled prompt in the Rovo inline chat, add any additional ",
+  "announced_date": "2026-05-25",
+  "rollout_start_date": "2026-05-25",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-05-25",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026",
+  "history": [
+    {
+      "date": "2026-05-25",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026"
+    }
+  ]
+}

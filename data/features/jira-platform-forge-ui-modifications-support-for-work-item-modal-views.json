@@ -2,11 +2,11 @@
   "id": "jira-platform-forge-ui-modifications-support-for-work-item-modal-views",
   "title": "Forge UI modifications: support for work item modal views",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Forge apps that use UI modifications now work consistently when you open a work item (referred to as an issue in the API) in a modal through Forge apps in Jira Cloud and Jira Service Management (agent view). Previously, these modifications were not applied to modals triggered by apps. This change ensures that your UI modifications — such as hiding fields, setting values, or making fields read-only — apply correctly regardless of how you open the work item. To get started with this change: Naviga",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-05-18",
   "last_seen_week": "2026-05-18",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-05-18",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026"
+    },
+    {
+      "date": "2026-05-25",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }
