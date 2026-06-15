@@ -1,0 +1,19 @@
+{
+  "id": "trello-source-preview-for-quick-capture",
+  "title": "Source preview for quick capture",
+  "product": "Trello",
+  "status": "rolling_out_new",
+  "description": "Trello now includes a source preview in the quick capture experience. This change allows you to see the original source of a captured item directly on the cardback, helping you maintain context and verify information without leaving your current view. For sources created from full pages or links, users will see a smartlink. To get started with this change: Open a work item that was created using quick capture.\n\tSelect the work item to open the cardback.\n\tLocate the Source section to view the pre",
+  "announced_date": "2026-06-01",
+  "rollout_start_date": "2026-06-01",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-01",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
+  "history": [
+    {
+      "date": "2026-06-01",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026"
+    }
+  ]
+}

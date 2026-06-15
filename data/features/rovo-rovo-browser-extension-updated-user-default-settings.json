@@ -2,11 +2,11 @@
   "id": "rovo-rovo-browser-extension-updated-user-default-settings",
   "title": "Rovo browser extension: Updated user default settings",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "The Rovo browser extension now ships with updated settings to give you a more options and a cleaner and less-cluttered experience. Open a new tab to see the Rovo extension's home page.\n\tSelect the Settings (gear) icon in the top navigation bar.",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-05-25",
   "last_seen_week": "2026-05-25",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-05-25",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026"
+    },
+    {
+      "date": "2026-06-01",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,18 +2,23 @@
   "id": "jira-platform-custom-request-statuses-for-help-seekers",
   "title": "Custom request statuses for help seekers",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "released",
   "description": "Admins can now mask internal workflow statuses and display customer-friendly labels to help seekers on the request page. This ensures that while your team uses precise technical statuses to track work, customers see simplified, professional updates that are easy to understand. Go to your Customer Experience\n\tSelect Form, then choose the form you want to edit.\n\tLocate the Customer status section to view your internal workflow statuses.\n\tMap each internal status to a custom external label or use t",
   "announced_date": "2026-05-25",
   "rollout_start_date": "2026-05-25",
   "rollout_end_date": null,
-  "last_seen_week": "2026-05-25",
+  "last_seen_week": "2026-06-01",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026",
   "history": [
     {
       "date": "2026-05-25",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026"
+    },
+    {
+      "date": "2026-06-01",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026"
     }
   ]
 }

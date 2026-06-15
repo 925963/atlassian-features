@@ -2,12 +2,12 @@
   "id": "rovo-draft-a-comment-with-rovo-chat",
   "title": "Draft a comment with Rovo Chat",
   "product": "Rovo",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Drafting comments in Confluence is now easier with a new quick action in Rovo Chat. When you open the Chat side panel, you can select a predefined prompt to help you compose and refine your page comments. To get started with this change Open a page in Confluence.\n\tSelect Rovo Chat from the sidebar.\n\tSelect Draft a comment from the suggested actions.\n\tFollow the prompts to describe what you want to say.",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
   "rollout_end_date": "2026-05-18",
-  "last_seen_week": "2026-05-18",
+  "last_seen_week": "2026-06-01",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-05-25",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-01",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026"
     }
   ]
 }

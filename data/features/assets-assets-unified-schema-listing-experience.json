@@ -2,11 +2,11 @@
   "id": "assets-assets-unified-schema-listing-experience",
   "title": "Assets: Unified schema listing experience",
   "product": "Assets",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "To get started with this change Select Assets from the App switcher in the top navigation bar.\n\tSelect Schemas from the Assets side navigation\n\tYou should now see the new unified Schema list experience with the new table design.",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
-  "rollout_end_date": "2026-05-11",
+  "rollout_end_date": "2026-05-25",
   "last_seen_week": "2026-05-25",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
@@ -24,6 +24,11 @@
       "date": "2026-05-25",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026"
+    },
+    {
+      "date": "2026-06-01",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }
