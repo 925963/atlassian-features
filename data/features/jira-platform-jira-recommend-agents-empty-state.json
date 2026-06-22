@@ -2,12 +2,12 @@
   "id": "jira-platform-jira-recommend-agents-empty-state",
   "title": "Jira recommend agents empty state",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time by discovering and assigning Rovo agents to your work items more easily. Jira now displays an empty state in the agent section when no agents are assigned, making it clear that you can use agents to help progress your work. To get started with this change Open a work item in Jira.\n\tLocate the Agents section in the work item details.\n\tIf no agents are assigned, you'll see the new empty state.\n\tSelect the agent picker to browse and assign a Rovo agent to your work item.",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
   "rollout_end_date": "2026-05-25",
-  "last_seen_week": "2026-05-25",
+  "last_seen_week": "2026-06-08",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-06-01",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-risk-assessment-ai-powered-insights-for-change-managemen",
+  "title": "Risk assessment: AI-powered insights for change management",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Quickly assess change risk from Rovo or directly within Jira Service Management. This update introduces an explicit Rovo command to trigger AI-powered risk assessment on demand, alongside the existing in-product risk panel. AI scans change details, history, and related context to generate a risk level and suggest mitigation steps, helping teams make faster, more consistent decisions. To get started with this change: In Jira Service Management, open any change request within your service project.",
+  "announced_date": "2026-06-08",
+  "rollout_start_date": "2026-06-08",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
+  "history": [
+    {
+      "date": "2026-06-08",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    }
+  ]
+}

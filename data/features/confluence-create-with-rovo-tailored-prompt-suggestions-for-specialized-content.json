@@ -2,18 +2,23 @@
   "id": "confluence-create-with-rovo-tailored-prompt-suggestions-for-specialized-content",
   "title": "Create with Rovo: Tailored prompt suggestions for specialized content",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Create with Rovo now provides autocomplete suggestions that are specific to the type of content you’re creating in Confluence. When you select a content type like a whiteboard or slides, Rovo filters its suggestions to match that specific surface, helping you quickly refine your intent and generate higher-quality results. Go to the Create menu in Confluence.\n\tSelect Create with Rovo.\n\tSelect a specialized content type, such as Whiteboard, Slides, Database, or Live Doc.\n\tStart typing in the promp",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
   "rollout_end_date": null,
-  "last_seen_week": "2026-06-01",
+  "last_seen_week": "2026-06-08",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
     {
       "date": "2026-06-01",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
     }
   ]
 }

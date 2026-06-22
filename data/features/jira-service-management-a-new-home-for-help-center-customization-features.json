@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-a-new-home-for-help-center-customization-features",
+  "title": "A new home for help center customization features",
+  "product": "Jira Service Management",
+  "status": "released",
+  "description": "Quickly access customization options for your help center. All customization features related to the help center are have now moved under the Customize button in the top navigation. From there, you can manage announcements, add login page messages, customize the look and feel, manage topics and portals, and edit the layout of your help center.",
+  "announced_date": "2026-06-08",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
+  "history": [
+    {
+      "date": "2026-06-08",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    }
+  ]
+}

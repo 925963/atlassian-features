@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-increased-timeout-for-forge-jql-functions",
+  "title": "Increased timeout for Forge JQL functions",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Forge JQL functions in Jira can now run for longer before timing out. We’ve increased the execution timeout from 25 seconds to 55 seconds, allowing your custom functions more time to complete complex searches and data processing. Open your Jira app.\n\tGo to the search bar and select Advanced issue search.\n\tEnter a JQL query that uses a Forge-powered function.\n\tRun the search to see the improved performance for long-running functions.",
+  "announced_date": "2026-06-08",
+  "rollout_start_date": "2026-06-08",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
+  "history": [
+    {
+      "date": "2026-06-08",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    }
+  ]
+}

@@ -2,12 +2,12 @@
   "id": "goals-see-the-big-picture-with-goal-rollups",
   "title": "See the big picture with goal rollups",
   "product": "Goals",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Teams with deep hierarchies or cascading OKRs can now get a more accurate view of their progress. By rolling up progress from sub-goals, you ensure that every level of your hierarchy reflects the actual work being done, giving leaders better visibility into overall success. To get started with this change: Go to a goal\n\tSelect the Settings icon next to the progress field.\n\tChoose Sub-goals from the rollup type options.\n\tSelect Save to update the progress calculation.",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
   "rollout_end_date": "2026-05-25",
-  "last_seen_week": "2026-05-25",
+  "last_seen_week": "2026-06-08",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-06-01",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
     }
   ]
 }

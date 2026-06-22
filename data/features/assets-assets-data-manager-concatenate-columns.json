@@ -2,11 +2,11 @@
   "id": "assets-assets-data-manager-concatenate-columns",
   "title": "Assets Data Manager: Concatenate columns",
   "product": "Assets",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Modify your imported data in Jira Service Management by combining values from two columns into one. This new transform function in Assets Data Manager helps you build composite keys or more meaningful labels using a transform function. To get started with this change: Go to your service project and select Assets.\n\tSelect Data Manager, then choose the import you want to edit.\n\tSelect Transform, then choose Concatenate two columns from the list of functions.\n\tSelect the two columns you want to com",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
-  "rollout_end_date": "2026-05-18",
+  "rollout_end_date": "2026-06-01",
   "last_seen_week": "2026-06-01",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-06-01",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

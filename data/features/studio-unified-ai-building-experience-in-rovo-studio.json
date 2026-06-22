@@ -2,11 +2,11 @@
   "id": "studio-unified-ai-building-experience-in-rovo-studio",
   "title": "Unified AI building experience in Rovo Studio",
   "product": "Studio",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Rovo Studio is a unified building space where you can compose, customize, and control all your AI-powered workflows in one place. The latest version of Studio allows your team to create agentic automations and build custom apps without writing any code. More about what you can build in Studio If you’ve already been using Studio open beta, you don’t need to do anything. You’ve automatically been transitioned to the new version of Studio. More on access to Studio in your organization\n\tOrganization",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
-  "rollout_end_date": "2026-05-18",
+  "rollout_end_date": "2026-06-01",
   "last_seen_week": "2026-06-01",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-06-01",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

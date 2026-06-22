@@ -2,12 +2,12 @@
   "id": "jira-service-management-service-registry-is-now-powered-by-assets",
   "title": "Service registry is now powered by Assets",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We've updated the services experience in Jira Service Management to provide a more flexible and extensible way to manage your service catalog. We’ve moved services to a new backend powered by Assets. This allows you to add custom attributes, set granular permissions, and create custom object types for your services. This change helps you maintain a single source of truth for all your services and their relationships across your organization. To get started with this change: Go to the Operations ",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
   "rollout_end_date": "2026-05-25",
-  "last_seen_week": "2026-05-25",
+  "last_seen_week": "2026-06-08",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-06-01",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-08",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
     }
   ]
 }

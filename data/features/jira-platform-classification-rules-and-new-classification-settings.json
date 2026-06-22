@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-classification-rules-and-new-classification-settings",
+  "title": "Classification rules and new classification settings",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now configure classification rules to automatically apply data classification levels to content in Jira and Confluence based on detected sensitive data. Using detections from Guard Detect — including custom detections — admins assign classification levels to detections and apply them across their organization, to both new and existing content objects. New settings give admins control over whether whether users can update content object classifications, and whether users c",
+  "announced_date": "2026-06-08",
+  "rollout_start_date": "2026-06-08",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
+  "history": [
+    {
+      "date": "2026-06-08",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    }
+  ]
+}

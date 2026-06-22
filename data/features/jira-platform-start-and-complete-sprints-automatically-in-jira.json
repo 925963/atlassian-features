@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-start-and-complete-sprints-automatically-in-jira",
+  "title": "Start and complete sprints automatically in Jira",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Save time and keep your team on track by scheduling sprints to start and complete automatically in Jira. To get started with this change: Go to your scrum board and select the Backlog.\n\tFind the sprint you want to automate and select More actions (...), then select Edit sprint.\n\tSelect Automatically start and complete sprint.\n\tSet your preferred Start date and End date.\n\tChoose whether open work items should move to the backlog, a new sprint, or to an existing sprint on completion.\n\tSelect Save.",
+  "announced_date": "2026-06-08",
+  "rollout_start_date": "2026-06-08",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
+  "history": [
+    {
+      "date": "2026-06-08",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    }
+  ]
+}

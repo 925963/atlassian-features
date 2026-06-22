@@ -1,0 +1,19 @@
+{
+  "id": "loom-loom-public-beta-connect-calendars-for-your-workspace",
+  "title": "Loom: Public Beta Connect calendars for your workspace",
+  "product": "Loom",
+  "status": "coming_soon",
+  "description": "Workspace admins in Loom can now connect calendars for their entire workspace and set a recording default for users. This change helps teams automate their meeting recording workflows and ensures consistency across the app. To get started with this change Log in to your Loom workspace.\n\tGo to Settings, then Workspace settings.\n\tSelect Calendar connect to link your calendar.\n\tChoose your preferred recording default for all users in the workspace.",
+  "announced_date": "2026-06-08",
+  "rollout_start_date": null,
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-08",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
+  "history": [
+    {
+      "date": "2026-06-08",
+      "status": "coming_soon",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    }
+  ]
+}
