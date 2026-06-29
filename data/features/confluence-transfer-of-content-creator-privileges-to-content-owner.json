@@ -2,12 +2,12 @@
   "id": "confluence-transfer-of-content-creator-privileges-to-content-owner",
   "title": "Transfer of content creator privileges to content owner",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "released",
   "description": "Implicit content creator permissions and privileges — including archiving and managing restrictions — now belong to the content owner rather than the original creator. Transferring ownership also transfers these privileges, giving admins greater control over content governance. Go to a content item where you are the owner but not the original creator.\n\tHere, you can:\n\t\n\t\tUpdate content restrictions.\n\t\tArchive the content item.",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
   "rollout_end_date": null,
-  "last_seen_week": "2026-06-08",
+  "last_seen_week": "2026-06-15",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-06-08",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026"
     }
   ]
 }

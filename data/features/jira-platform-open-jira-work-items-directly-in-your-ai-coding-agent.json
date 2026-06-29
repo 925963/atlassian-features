@@ -2,11 +2,11 @@
   "id": "jira-platform-open-jira-work-items-directly-in-your-ai-coding-agent",
   "title": "Open Jira work items directly in your AI coding agent",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Hand off any work item to Cursor, Claude Code, GitHub Copilot, or other agentic tools, with full context, in one click. You can now launch your preferred AI coding agent directly from a Jira work item. Jira automatically assembles the relevant context, including the summary and description, into a ready-to-go prompt, so your agent can start working immediately without manual copy-paste. Supported tools: • Desktop apps: Cursor, GitHub Copilot, OpenAI Codex, VS Code • Terminal & CLIs: Claude Code,",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
-  "rollout_end_date": "2026-05-25",
+  "rollout_end_date": "2026-06-08",
   "last_seen_week": "2026-06-08",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-06-08",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

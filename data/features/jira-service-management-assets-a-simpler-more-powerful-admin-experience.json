@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-assets-a-simpler-more-powerful-admin-experience",
+  "title": "Assets: A simpler, more powerful admin experience",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "We’ve updated the admin experience for Assets in Jira Service Management to make setting up and managing your data sources easier, faster, and more intuitive. This new admin experience ensures a consistent look and feel with the Atlassian apps you already use. We’ve also updated several key terms to be more descriptive of their function, helping you navigate your asset data with less friction.",
+  "announced_date": "2026-06-15",
+  "rollout_start_date": "2026-06-15",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-15",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
+  "history": [
+    {
+      "date": "2026-06-15",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026"
+    }
+  ]
+}

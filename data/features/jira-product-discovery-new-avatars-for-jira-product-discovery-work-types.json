@@ -2,11 +2,11 @@
   "id": "jira-product-discovery-new-avatars-for-jira-product-discovery-work-types",
   "title": "New avatars for Jira Product Discovery work types",
   "product": "Jira Product Discovery",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Jira Product Discovery now features updated avatars for work types in space templates. These new avatars help you better distinguish between different types of work, making it easier to organize and manage your ideas. To get started with this change: Go to your space in Jira Product Discovery.\n\tSelect Space settings from the sidebar.\n\tNavigate to Work types to see the updated avatars for your existing work types.\n\tWhen creating a new space, the updated avatars will be automatically applied to th",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
-  "rollout_end_date": "2026-05-25",
+  "rollout_end_date": "2026-06-08",
   "last_seen_week": "2026-06-08",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-06-08",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

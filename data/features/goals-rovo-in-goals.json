@@ -2,18 +2,23 @@
   "id": "goals-rovo-in-goals",
   "title": "Rovo in Goals",
   "product": "Goals",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Access Rovo directly from your goals to get instant help while you create, manage, and track strategic priorities. This update adds a floating Rovo button to the Goals app, bringing AI-powered insights and search capabilities right to your workflow. To get started: Select Goals from the app swithcer.\n\tSelect the floating Rovo button in the bottom right-hand corner of your screen.\n\tSelect a prompt to ask questions about your goals or the ones you are following.",
   "announced_date": "2026-06-08",
   "rollout_start_date": "2026-06-08",
   "rollout_end_date": null,
-  "last_seen_week": "2026-06-08",
+  "last_seen_week": "2026-06-15",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
   "history": [
     {
       "date": "2026-06-08",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026"
     }
   ]
 }

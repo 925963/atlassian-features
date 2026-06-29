@@ -2,12 +2,12 @@
   "id": "jira-platform-ai-suggested-labels-for-work-item-creation",
   "title": "AI-suggested labels for work item creation",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time and reduce repetitive tasks in Jira with AI-suggested labels. When you create a work item, Atlassian Intelligence analyzes your project's historical field-usage patterns to suggest contextually relevant label values. These suggestions help you capture work quickly and accurately while maintaining full control over your data. Select Create in the top navigation bar to open the create work item dialog.\n\tSelect the Labels field to open the dropdown.\n\tReview the suggested values, which are",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
   "rollout_end_date": "2026-06-01",
-  "last_seen_week": "2026-06-01",
+  "last_seen_week": "2026-06-15",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-06-08",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026"
     }
   ]
 }

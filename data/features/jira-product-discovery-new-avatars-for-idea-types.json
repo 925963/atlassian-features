@@ -2,11 +2,11 @@
   "id": "jira-product-discovery-new-avatars-for-idea-types",
   "title": "New avatars for idea types",
   "product": "Jira Product Discovery",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Jira Product Discovery now features a new set of avatars for idea types. This update provides a fresh look for your ideas and ensures a more consistent visual experience across the app. To see or edit the new icons, go to your Jira Product Discovery space and select Space settings, then Types and workflows.",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-06-08",
   "last_seen_week": "2026-06-08",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-06-08",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

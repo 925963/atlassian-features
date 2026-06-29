@@ -2,12 +2,12 @@
   "id": "jira-product-discovery-deprecation-notice-text-operators-and-required-properties",
   "title": "Deprecation notice: text operators (, !) and required properties on JQL interval date fields",
   "product": "Jira Product Discovery",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira Product Discovery is deprecating the CONTAINS () and NOT CONTAINS (!) operators when used with interval date fields in JQL queries. In parallel, we're introducing startDate and endDate properties to allow filtering by a specific date within the interval. These properties are now required when querying interval date fields. Queries using deprecated operators or missing the required properties will stop working after September 10, 2026. Review your saved JQLs and automations for any use of  o",
   "announced_date": "2026-05-25",
   "rollout_start_date": "2026-05-25",
   "rollout_end_date": "2026-06-01",
-  "last_seen_week": "2026-06-01",
+  "last_seen_week": "2026-06-15",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-06-08",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026"
     }
   ]
 }

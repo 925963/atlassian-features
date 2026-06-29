@@ -2,11 +2,11 @@
   "id": "loom-connect-your-account-to-atlassian",
   "title": "Connect your account to Atlassian",
   "product": "Loom",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We're introducing a new Connect your account to Atlassian page to help legacy users who sign in with Apple and chose to hide their email addresses. This change ensures a smooth transition as these accounts are migrated to be Atlassian managed, allowing users to reconcile their credentials and maintain access to their content. Sign in to Loom using your Apple account.\n\tOn the Connect your account to Atlassian page, select Connect with Atlassian.\n\tAuthenticate with Apple again using your Atlassian",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-06-08",
   "last_seen_week": "2026-06-08",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-06-08",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    },
+    {
+      "date": "2026-06-15",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

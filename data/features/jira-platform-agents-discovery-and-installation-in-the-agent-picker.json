@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-agents-discovery-and-installation-in-the-agent-picker",
+  "title": "Agents: Discovery and installation in the agent picker",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Save time and streamline your workflow by discovering and installing coding agents directly from the agent picker in Jira. This update helps you find the right tools for your development tasks without leaving your current context. Open the agent picker in Jira.\n\tSelect the Explore coding agents footer link to open the Browse agents modal.\n\tSelect an agent to install it and start using it in your work.",
+  "announced_date": "2026-06-15",
+  "rollout_start_date": "2026-06-15",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-15",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
+  "history": [
+    {
+      "date": "2026-06-15",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026"
+    }
+  ]
+}
