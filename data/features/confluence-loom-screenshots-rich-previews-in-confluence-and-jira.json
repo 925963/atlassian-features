@@ -2,11 +2,11 @@
   "id": "confluence-loom-screenshots-rich-previews-in-confluence-and-jira",
   "title": "Loom screenshots: Rich previews in Confluence and Jira",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Loom screenshot links pasted into Confluence or Jira now render as rich Smart Link previews instead of plain text URLs. This improvement provides immediate visual context and brings screenshot links to parity with Loom video links. Copy a link to a Loom screenshot.\n\tPaste the link into a Confluence page or Jira work item.\n\tSelect the link to switch between Inline, Card, and Embed views.",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
-  "rollout_end_date": "2026-06-01",
+  "rollout_end_date": "2026-06-15",
   "last_seen_week": "2026-06-15",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-06-15",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

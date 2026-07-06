@@ -1,0 +1,19 @@
+{
+  "id": "confluence-modernized-home-feed-and-empty-states",
+  "title": "Modernized home feed and empty states",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Confluence now features a modernized home feed tab bar to provide a more polished and intuitive experience. These improvements help you navigate your work more efficiently and find what you need without being slowed down by outdated interfaces. Go to the Home page in Confluence.\n\tView your updated For you feed to see the modernized layout and improved imagery.",
+  "announced_date": "2026-06-22",
+  "rollout_start_date": "2026-06-22",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-22",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
+  "history": [
+    {
+      "date": "2026-06-22",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
+    }
+  ]
+}

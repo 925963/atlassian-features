@@ -2,11 +2,11 @@
   "id": "jira-product-discovery-request-access-to-edit-views-and-ideas",
   "title": "Request access to edit views and ideas",
   "product": "Jira Product Discovery",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Jira Product Discovery users can now request edit permissions directly from the view header. This change allows people with view-only access to easily ask for the permissions they need to contribute to ideas and manage views, reducing friction and helping teams collaborate more effectively. Open a space in Jira Product Discovery where you have view-only access.\n\tSelect Request access in the view header.\n\tWait for an admin to review and approve your request.",
   "announced_date": "2026-06-08",
   "rollout_start_date": "2026-06-08",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-06-15",
   "last_seen_week": "2026-06-15",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-06-15",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

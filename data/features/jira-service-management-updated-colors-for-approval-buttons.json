@@ -2,12 +2,12 @@
   "id": "jira-service-management-updated-colors-for-approval-buttons",
   "title": "Updated colors for approval buttons",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "The Approve button in the Jira Service Management approval panel is now primary blue instead of green. This update aligns the panel with the Atlassian design system, providing a more consistent and familiar experience when you manage approvals across Atlassian apps. To view this change: Open a request in Jira Service Management that requires your approval.\n\tIn the work item view, locate the Approvals section.\n\tSelect the new blue Approve button or the Decline button to complete your action.",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
   "rollout_end_date": "2026-06-08",
-  "last_seen_week": "2026-06-08",
+  "last_seen_week": "2026-06-22",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-06-15",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
     }
   ]
 }

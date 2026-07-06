@@ -2,11 +2,11 @@
   "id": "bitbucket-marking-an-individual-file-as-viewed-moves-you-to-the-next-file",
   "title": "Marking an individual file as viewed moves you to the next file",
   "product": "Bitbucket",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "Now when you mark an individual files as Viewed by selecting the associated checkbox, you are automatically moved to the next file that needs to be viewed. Note: This feature is only available when you have your global diff view settings set to load files individually.",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-06-15",
   "last_seen_week": "2026-06-15",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-06-15",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

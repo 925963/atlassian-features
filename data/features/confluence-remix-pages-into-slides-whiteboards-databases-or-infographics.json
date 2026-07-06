@@ -2,18 +2,23 @@
   "id": "confluence-remix-pages-into-slides-whiteboards-databases-or-infographics",
   "title": "Remix pages into slides, whiteboards, databases, or infographics",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Remix an entire Confluence page or live doc into slides, a whiteboard, a database, or an infographic. This capability helps you and your teammates turn a full page worth of content into an additional complimentary format in seconds while keeping the original source context close at hand. Open a Confluence page or live doc while viewing or editing it.\n\tSelect the Remix button from the floating toolbar at the bottom right of your screen.\n\tChoose how you want to remix your content from the Remix me",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
   "rollout_end_date": null,
-  "last_seen_week": "2026-06-15",
+  "last_seen_week": "2026-06-22",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
     {
       "date": "2026-06-15",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
     }
   ]
 }

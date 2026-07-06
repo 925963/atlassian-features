@@ -2,12 +2,12 @@
   "id": "jira-platform-configure-your-filter-panel-with-more-fields-and-saved-filters",
   "title": "Configure your filter panel with more fields and saved filters",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You can now customize your filter panel in Jira to better suit your team's workflow. We’ve added support for more fields in basic mode, including date, select, and people fields. We've integrated your saved filters directly into the filter panel. These changes help you find the work you need faster by keeping your most important filters organized and accessible. To get started with this change Go to your Board or Backlog (software team-managed projects only), or the List view.\n\tSelect Filter to ",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
   "rollout_end_date": "2026-06-08",
-  "last_seen_week": "2026-06-08",
+  "last_seen_week": "2026-06-22",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-06-15",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
     }
   ]
 }

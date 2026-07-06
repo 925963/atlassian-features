@@ -2,11 +2,11 @@
   "id": "jira-service-management-filter-notifications-for-new-hire-events-in-jira-service",
   "title": "Filter notifications for new hire events in Jira Service Management",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organization admins can now filter notifications for Workday new hire events in Jira Service Management. This change allows admins to specify which new hire events trigger notifications, ensuring that only relevant updates are sent to the appropriate teams. To use this feature, you must have Workday integration with Automation set up. To filter notifications for new hire events:",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
-  "rollout_end_date": "2026-06-01",
+  "rollout_end_date": "2026-06-15",
   "last_seen_week": "2026-06-15",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-06-15",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

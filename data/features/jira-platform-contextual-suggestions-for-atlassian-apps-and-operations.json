@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-contextual-suggestions-for-atlassian-apps-and-operations",
+  "title": "Contextual suggestions for Atlassian apps and operations",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Jira now features a redesigned experience for cross-app recommendations and operations. Instead of large banners, you'll see subtle, contextual suggestions within relevant parts of your page to help you discover other Atlassian apps and helpful widgets without interrupting your work. Navigate to any relevant page in Jira where you typically manage work or view project details.\n\tLook for contextual suggestions or small widgets that appear near related content.\n\tSelect a suggestion to explore how ",
+  "announced_date": "2026-06-22",
+  "rollout_start_date": "2026-06-22",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-22",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
+  "history": [
+    {
+      "date": "2026-06-22",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
+    }
+  ]
+}

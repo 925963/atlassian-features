@@ -2,12 +2,12 @@
   "id": "jira-product-discovery-updated-icons-for-idea-types",
   "title": "Updated icons for idea types",
   "product": "Jira Product Discovery",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira Product Discovery now has an updated set of icons for idea types. Admins can assign icons that better reflect the purpose of different types of ideas, making them easier to recognize across views.",
   "announced_date": "2026-05-04",
   "rollout_start_date": "2026-05-04",
   "rollout_end_date": "2026-06-08",
-  "last_seen_week": "2026-06-08",
+  "last_seen_week": "2026-06-22",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-4-to-may-11-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-06-15",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
     }
   ]
 }

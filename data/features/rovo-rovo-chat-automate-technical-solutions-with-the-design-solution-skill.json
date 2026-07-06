@@ -2,12 +2,12 @@
   "id": "rovo-rovo-chat-automate-technical-solutions-with-the-design-solution-skill",
   "title": "Rovo Chat: Automate technical solutions with the design-solution skill",
   "product": "Rovo",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You can now use the design-solution skill in Rovo Chat to transform business requirements into fully realized technical solutions. By describing your needs in natural language, Rovo will architect a solution plan and automatically create the necessary Rovo agents, automation rules, and Forge apps required to solve your business challenge. Open Rovo Chat from your Atlassian app or the Rovo browser extension.\n\tType / in chat to see available skills.\n\tSelect design-solution from the list.\n\tDescribe",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
   "rollout_end_date": "2026-06-08",
-  "last_seen_week": "2026-06-08",
+  "last_seen_week": "2026-06-22",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-06-15",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-22",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
     }
   ]
 }

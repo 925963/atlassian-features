@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-assets-new-transform-functions-for-data-imports",
+  "title": "Assets: New transform functions for data imports",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Clean and normalize your imported data more efficiently in Jira Service Management with two new transform functions in Assets: Trim right by count and Trim right by pattern. These functions allow you to automatically remove unnecessary characters from the end of your data strings during the import process, ensuring your asset information remains consistent and easy to manage. Go to Assets, then select Object classes.\n\tSelect Show data sources for the Object class you need to modify.\n\tSelect the ",
+  "announced_date": "2026-06-22",
+  "rollout_start_date": "2026-06-22",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-22",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
+  "history": [
+    {
+      "date": "2026-06-22",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
+    }
+  ]
+}
