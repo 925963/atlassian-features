@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-private-status-pages-secure-incident-communication",
+  "title": "Private status pages: Secure incident communication",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Jira Service Management now offers private status pages to help you communicate incident updates securely with specific internal or external audiences. Unlike public pages, private status pages require visitors to sign in and be members of an Atlassian identity group linked to the page. This ensures that sensitive system health information is only visible to authorized users, such as internal employees or enterprise partners, without consuming additional agent or portal-user license seats. Go to",
+  "announced_date": "2026-06-29",
+  "rollout_start_date": "2026-06-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
+  "history": [
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    }
+  ]
+}

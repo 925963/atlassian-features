@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-get-a-more-consistent-work-item-view-with-similar-reques",
+  "title": "Get a more consistent work item view with similar requests panel",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "The Similar requests panel in the Jira Service Management work item view now uses a collapsible section design. This update aligns the panel with other sections like Description and Activity, providing agents with a more cohesive and predictable experience when managing requests. To use the similar requests panel: Open any issue in your service project.\n\tLocate the Similar requests panel in the work item view.\n\tSelect the header to expand or collapse the section as needed.",
+  "announced_date": "2026-06-29",
+  "rollout_start_date": "2026-06-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
+  "history": [
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    }
+  ]
+}

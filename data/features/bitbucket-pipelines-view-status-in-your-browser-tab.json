@@ -2,18 +2,23 @@
   "id": "bitbucket-pipelines-view-status-in-your-browser-tab",
   "title": "Pipelines: View status in your browser tab",
   "product": "Bitbucket",
-  "status": "rolling_out_new",
+  "status": "released",
   "description": "Save time by monitoring your Bitbucket pipelines without switching tabs. Bitbucket now displays the real-time status of your pipelines directly in your browser tab using favicons, allowing you to stay informed while working in other apps. Note: Safari is not supported for this feature",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
   "rollout_end_date": null,
-  "last_seen_week": "2026-06-22",
+  "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
     {
       "date": "2026-06-22",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
     }
   ]
 }

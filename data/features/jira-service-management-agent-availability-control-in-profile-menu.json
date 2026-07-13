@@ -2,12 +2,12 @@
   "id": "jira-service-management-agent-availability-control-in-profile-menu",
   "title": "Agent availability control in profile menu",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Manage your availability for work directly from your profile menu in Jira Service Management. This change allows agents to toggle their status between available and unavailable, ensuring that work is only routed to those who are ready to receive it. In Jira Service Management, select your profile avatar in the top navigation bar.\n\tSelect your current availability status from the menu.\n\tSelect a new status, such as Available or Unavailable, to update your availability.",
   "announced_date": "2026-06-08",
   "rollout_start_date": "2026-06-08",
   "rollout_end_date": "2026-06-15",
-  "last_seen_week": "2026-06-15",
+  "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-06-22",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "confluence-expand-element-improvements-for-classic-pages",
   "title": "Expand element improvements for classic pages",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "We're updating how Expand elements work for classic pages in Confluence. These improvements ensure your view of expanded or collapsed content is independent and does not affect other users on the same page. To get started with this change Open any classic page in your Confluence app.\n\tSelect Edit to begin editing.\n\tInsert an Expand element into the page.",
   "announced_date": "2026-03-30",
   "rollout_start_date": "2026-03-30",
   "rollout_end_date": "2026-06-15",
-  "last_seen_week": "2026-06-15",
+  "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026",
   "history": [
     {
@@ -74,6 +74,11 @@
       "date": "2026-06-22",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
     }
   ]
 }

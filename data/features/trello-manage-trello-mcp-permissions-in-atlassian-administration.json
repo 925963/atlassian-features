@@ -2,18 +2,23 @@
   "id": "trello-manage-trello-mcp-permissions-in-atlassian-administration",
   "title": "Manage Trello MCP permissions in Atlassian Administration",
   "product": "Trello",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Connect Trello to an AI assistant to interact with your Trello content using natural language. This update also adds Trello MCP (Model Context Protocol) settings to the Rovo MCP section of Atlassian Administration. These settings are only available with Enterprise plan and MCP access is enabled by default. For step-by-step instructions, visit Atlassian Support. To manage the settings:",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
   "rollout_end_date": null,
-  "last_seen_week": "2026-06-22",
+  "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
     {
       "date": "2026-06-22",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
     }
   ]
 }

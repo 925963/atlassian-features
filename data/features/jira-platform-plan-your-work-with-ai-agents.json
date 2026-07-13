@@ -2,11 +2,11 @@
   "id": "jira-platform-plan-your-work-with-ai-agents",
   "title": "Plan your work with AI agents",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and improve the quality of your agentic work in Jira with planning mode. When you assign or mention an agent on a work item, Rovo now gathers relevant context from across your Atlassian apps and connected third-party apps to help you define clear intent and outcomes. This ensures your agents have the specific information they need to succeed, leading to better results and more efficient execution. Open a work item in Jira.\n\tIn the Agents section, select the Planning mode icon and toggl",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-06-22",
   "last_seen_week": "2026-06-22",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-06-22",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

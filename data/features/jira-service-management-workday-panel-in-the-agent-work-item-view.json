@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-workday-panel-in-the-agent-work-item-view",
+  "title": "Workday panel in the agent work item view",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Agents working on HR service management spaces in Jira Service Management can now view Workday employee data for a reporter directly within the work item. This collapsible panel surfaces essential context, such as work schedules and time-off summaries, helping agents resolve HR requests more efficiently without switching between apps. To view the Workday section: Open a work item in an HR Service Management space.\n\tLocate the Workday section in the right-hand context panel.\n\tSelect the section t",
+  "announced_date": "2026-06-29",
+  "rollout_start_date": "2026-06-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
+  "history": [
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    }
+  ]
+}

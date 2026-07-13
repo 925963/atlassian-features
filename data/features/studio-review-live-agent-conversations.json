@@ -2,11 +2,11 @@
   "id": "studio-review-live-agent-conversations",
   "title": "Review live agent conversations",
   "product": "Studio",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Agent managers can now view full transcripts of real conversations between agents and users in public Slack channels. This update provides visibility into agent performance, allowing admins to troubleshoot issues, monitor compliance, review end user feedback to identify opportunities for agent tuning. Log in to your Atlassian Administration.\n\tNavigate to Studio, then Agents. You’ll need organization admin access.\n\tSelect the agent you want to monitor.\n\tFrom the sidebar, select Conversation Revie",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-06-22",
   "last_seen_week": "2026-06-22",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-06-22",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

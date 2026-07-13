@@ -1,0 +1,19 @@
+{
+  "id": "bitbucket-deprecation-of-forked-repositories-outside-the-parent-workspace",
+  "title": "Deprecation of forked repositories outside the parent workspace",
+  "product": "Bitbucket",
+  "status": "rolling_out_new",
+  "description": "The ability to create new repository forks is now limited to the parent workspace. This change positions Bitbucket Cloud to offer greater product reliability and introduce highly requested enterprise-grade controls like data residency. For more information, see our community post.",
+  "announced_date": "2026-06-29",
+  "rollout_start_date": "2026-06-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
+  "history": [
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    }
+  ]
+}

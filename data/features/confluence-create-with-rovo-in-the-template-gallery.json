@@ -2,11 +2,11 @@
   "id": "confluence-create-with-rovo-in-the-template-gallery",
   "title": "Create with Rovo in the template gallery",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "Save time when starting new projects by using Rovo to generate content directly from the template library in Confluence. This new capability allows you to quickly draft pages and structures based on your specific needs, helping you move from a blank template to a finished page faster than ever. To get started with this change Go to the Confluence template library (/wiki/templates)\n\tSelect the template you want to use.\n\tSelect Create with Rovo button next to the Use template button\n\tFollow the pr",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-06-22",
   "last_seen_week": "2026-06-22",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-06-22",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

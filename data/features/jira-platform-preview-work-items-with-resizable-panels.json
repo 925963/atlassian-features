@@ -2,12 +2,12 @@
   "id": "jira-platform-preview-work-items-with-resizable-panels",
   "title": "Preview work items with resizable panels",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira is replacing the detail view in the List view and Global Search with a resizable preview panel. This change allows you to view and interact with work items in a side panel without losing your place in the list. You can also preview Confluence pages, projects, and goals without opening new browser tabs, helping you move quickly between work items and reduce tab overload. To get started with this change: Go to the All work tab or use Global Search in Jira.\n\tSelect a work item from the list to",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
   "rollout_end_date": "2026-06-15",
-  "last_seen_week": "2026-06-15",
+  "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-06-22",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
     }
   ]
 }

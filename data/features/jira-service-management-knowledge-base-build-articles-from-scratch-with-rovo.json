@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-knowledge-base-build-articles-from-scratch-with-rovo",
+  "title": "Knowledge base: Build articles from scratch with Rovo",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Remove the onboarding friction of setting up a knowledge base in Jira Service Management. This new feature lets you add a knowledge base to your space effortlessly. Atlassian Rovo generates draft articles for you to review and publishes them to a Confluence space, so your customers can start finding answers immediately without agents needing to write articles from scratch. To generate a knowlege based article using Rovo: Go to your service space and select Knowledge base from the sidebar.\n\tClick",
+  "announced_date": "2026-06-29",
+  "rollout_start_date": "2026-06-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
+  "history": [
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    }
+  ]
+}

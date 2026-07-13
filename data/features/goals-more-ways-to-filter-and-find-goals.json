@@ -2,18 +2,23 @@
   "id": "goals-more-ways-to-filter-and-find-goals",
   "title": "More ways to filter and find goals",
   "product": "Goals",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Find and manage goals more efficiently in the Goals directory with four new filters. Filter by Score, Last updated, Target date, and Goal type to quickly identify risks, focus on upcoming deadlines, and remove outdated information from your view. More about this change To start using the filters: Go to the Goal directory.\n\tLocate the filter bar at the top of the directory.\n\tChoose from the new filter options, such as Last updated, Target date, Score, or Goal type, to refine your list.",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
   "rollout_end_date": null,
-  "last_seen_week": "2026-06-22",
+  "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
     {
       "date": "2026-06-22",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026"
+    },
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
     }
   ]
 }

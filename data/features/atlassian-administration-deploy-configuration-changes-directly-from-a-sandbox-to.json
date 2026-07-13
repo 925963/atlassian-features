@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-deploy-configuration-changes-directly-from-a-sandbox-to",
+  "title": "Deploy configuration changes directly from a sandbox to production environment",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Admins can now deploy configuration changes directly from a sandbox to another sandbox or to a production environment. This capability for Jira and Jira Service Management helps admins save time and reduce risk by eliminating the need to manually recreate tested changes, such as workflows and screens, in their production environment. Go to Atlassian Administration, then select Apps.\n\tSelect Sandboxes, then find the Jira sandbox you want to deploy from.\n\tSelect Actions, then select Create a deplo",
+  "announced_date": "2026-06-29",
+  "rollout_start_date": "2026-06-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
+  "history": [
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    }
+  ]
+}

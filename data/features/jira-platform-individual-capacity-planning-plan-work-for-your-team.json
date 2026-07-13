@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-individual-capacity-planning-plan-work-for-your-team",
+  "title": "Individual capacity planning: Plan work for your team",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Plan work more effectively by managing the capacity of individual team members in Jira. This new experience allows you to see each person's availability and workload in one place, helping you balance tasks and prevent burnout across your team. Go to your space in Jira.\n\tSelect the Add tab icon (+) in the horizontal navigation.\n\tSelect the Capacity tab to add it to your navigation.\n\tSelect Capacity to interact with the capacity planner.",
+  "announced_date": "2026-06-29",
+  "rollout_start_date": "2026-06-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
+  "history": [
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    }
+  ]
+}

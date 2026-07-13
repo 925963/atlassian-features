@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-self-service-provisioning-for-customer-managed-keys",
+  "title": "Self-service provisioning for customer-managed keys",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now add Enterprise apps (Jira, Confluence, Jira Service Management) that use customer-managed keys (CMK) encryption directly from Atlassian Administration. If your organization has CMK configured, you can now choose between Atlassian-managed keys or your customer-managed keys while setting up your app. To add a supported app with your encryption policy: Log in to admin.atlassian.com.\n\tSelect your organization.\n\tGo to Apps, then select Atlassian apps.\n\tSelect Add app.\n\tSel",
+  "announced_date": "2026-06-29",
+  "rollout_start_date": "2026-06-29",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-06-29",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
+  "history": [
+    {
+      "date": "2026-06-29",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    }
+  ]
+}
