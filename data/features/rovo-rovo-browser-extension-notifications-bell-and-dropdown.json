@@ -2,11 +2,11 @@
   "id": "rovo-rovo-browser-extension-notifications-bell-and-dropdown",
   "title": "Rovo browser extension: Notifications bell and dropdown",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Stay informed with the new notifications bell and dropdown in the Rovo browser extension. This update allows you to view and manage your notifications directly from the extension's new tab page, ensuring you never miss an important update while you work. To get started with this change Open a new tab in your web browser to access the Rovo browser extension.\n\tSelect the Notifications bell icon in the top navigation.\n\tView your recent updates in the dropdown menu.",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
-  "rollout_end_date": "2026-06-15",
+  "rollout_end_date": "2026-06-29",
   "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
@@ -49,6 +49,11 @@
       "date": "2026-06-29",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "loom-comment-suggestions-for-videos-without-comments",
   "title": "Comment suggestions for videos without comments",
   "product": "Loom",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Loom now displays comment suggestion bubbles on the share page of videos that don't have any comments yet. This change helps viewers quickly engage with your content by providing ready-to-use prompts in the comments section. To get started with this change Open the share page of a video that doesn't have any comments.\n\tGo to the Comments section in the right panel.\n\tSelect one of the suggested comment bubbles to quickly add a comment.",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
-  "rollout_end_date": "2026-06-15",
+  "rollout_end_date": "2026-06-29",
   "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
@@ -69,6 +69,11 @@
       "date": "2026-06-29",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

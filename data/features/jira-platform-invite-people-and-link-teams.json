@@ -2,11 +2,11 @@
   "id": "jira-platform-invite-people-and-link-teams",
   "title": "Invite people and link teams",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Invite teammates to your Jira projects more quickly with a new, prominent button in your project header. Jira now features an Invite people button directly on board and list views, replacing the previous menu-based navigation to help you bring collaborators into your work without searching through settings. To get started with this change: Open a board or list view in any Jira company-managed or team-managed project.\n\tSelect the Invite people icon (a person with a plus sign) in the project heade",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
-  "rollout_end_date": "2026-06-15",
+  "rollout_end_date": "2026-06-29",
   "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
@@ -69,6 +69,11 @@
       "date": "2026-06-29",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

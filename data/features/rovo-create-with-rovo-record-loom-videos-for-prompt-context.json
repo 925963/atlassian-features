@@ -2,11 +2,11 @@
   "id": "rovo-create-with-rovo-record-loom-videos-for-prompt-context",
   "title": "Create with Rovo: Record Loom videos for prompt context",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and provide clearer instructions by recording Loom videos directly within Confluence. When you use Rovo to create content, you can now record your screen to give the AI model more context about what you want to build. To get started with this change Select Create in the Confluence navigation, then select Create with Rovo.\n\tSelect Prompt with Loom video in the prompt box.\n\tRecord your video using the full screen.\n\tReview the dismissable card describing your recording before submitting y",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-06-29",
   "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-06-29",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

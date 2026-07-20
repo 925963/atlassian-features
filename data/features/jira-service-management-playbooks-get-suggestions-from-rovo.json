@@ -2,11 +2,11 @@
   "id": "jira-service-management-playbooks-get-suggestions-from-rovo",
   "title": "Playbooks: Get suggestions from Rovo",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Get playbook suggestions for your Jira Service Management work items with the new Suggest playbook option. Rovo analyzes the work item and suggests relevant playbooks curated by your space admin, or prompts you to contact an admin if none are available. To get started with this change: Open a work item in Jira Service Management.\n\tGo to the Playbooks section.\n\tSelect Suggest playbook to start a chat with the Rovo Ops agent and view any suggested playbooks.",
   "announced_date": "2026-03-30",
   "rollout_start_date": "2026-03-30",
-  "rollout_end_date": "2026-06-15",
+  "rollout_end_date": "2026-06-29",
   "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-mar-30-to-apr-6-2026",
   "history": [
@@ -79,6 +79,11 @@
       "date": "2026-06-29",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

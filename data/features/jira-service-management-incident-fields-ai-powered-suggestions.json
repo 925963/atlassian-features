@@ -2,11 +2,11 @@
   "id": "jira-service-management-incident-fields-ai-powered-suggestions",
   "title": "Incident fields: AI-powered suggestions",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and improve accuracy when managing incidents in Jira Service Management. Rovo now provides AI-powered suggestions for key incident fields, including severity, priority, responder, assignee, and affected services. Open an incident in your service project.\n\tSelect an incident field, such as Severity, Priority, Assignee, Responders or Affected Services.\n\tReview the suggestions provided by Rovo based on the incident description and context.\n\tSelect a suggestion to apply it to the field.",
   "announced_date": "2026-05-25",
   "rollout_start_date": "2026-05-25",
-  "rollout_end_date": "2026-06-15",
+  "rollout_end_date": "2026-06-29",
   "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-06-29",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

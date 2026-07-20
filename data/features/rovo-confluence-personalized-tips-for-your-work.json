@@ -2,18 +2,23 @@
   "id": "rovo-confluence-personalized-tips-for-your-work",
   "title": "Confluence: Personalized tips for your work",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Discover relevant Rovo features in the flow of your work with personalized tip emails. Confluence users on sites with Rovo enabled will now receive short, task-based tips triggered by specific actions, such as creating a page or reading a long document, to help them work more productively with Rovo. To get started with this change: Complete a common task in Confluence, such as creating a page or reading a long document.\n\tIf you're eligible, you'll receive a personalized tip in email from Rovo ap",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
   "rollout_end_date": null,
-  "last_seen_week": "2026-06-29",
+  "last_seen_week": "2026-07-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
     {
       "date": "2026-06-29",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "jira-platform-improved-people-tab-manage-space-access-and-users-from-a-single-lo",
   "title": "Improved people tab: Manage space access and users from a single location",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Manage space access and user controls more efficiently with a restructured people and access settings view. The user list is the primary focal element, and access settings are behind a settings cog for a cleaner workspace while keeping essential controls within reach. For company-managed spaces: Go to your company-managed Jira space, then select the People tab.\n\tSelect the Settings cog to view and manage space access and request settings.",
   "announced_date": "2026-04-20",
   "rollout_start_date": "2026-04-20",
   "rollout_end_date": "2026-06-22",
-  "last_seen_week": "2026-06-22",
+  "last_seen_week": "2026-07-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-20-to-apr-27-2026",
   "history": [
     {
@@ -64,6 +64,11 @@
       "date": "2026-06-29",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
     }
   ]
 }

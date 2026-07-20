@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-manage-delivery-risks-with-jira-delivery-agent",
+  "title": "Manage delivery risks with Jira Delivery Agent",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Jira now includes the Jira Delivery Agent, a Rovo Agent designed to help you manage your work more effectively. This agent reads Jira work, identifies delivery risks early, and turns issue activity into clear, actionable updates. By using the Jira Delivery Agent, you can make more informed decisions and keep your team on track. To use the Jira Delivery Agent: Open Rovo Chat in your Jira space.\n\tSelect the Rovo dropdown menu.\n\tSearch and select the Jira Delivery Agent to begin the analysis of you",
+  "announced_date": "2026-07-06",
+  "rollout_start_date": "2026-07-06",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-06",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
+  "history": [
+    {
+      "date": "2026-07-06",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    }
+  ]
+}

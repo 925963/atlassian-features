@@ -2,11 +2,11 @@
   "id": "bitbucket-quick-search-bitbucket-search-removed-from-legacy-dialog",
   "title": "Quick Search: Bitbucket search removed from legacy dialog",
   "product": "Bitbucket",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "To improve the performance and reliability of search across Atlassian apps, we've removed the Bitbucket search tab from the legacy Quick Search dialog in all apps except Bitbucket. This change helps us streamline the search experience and focus on more modern search capabilities. You can still search for Bitbucket repositories directly within Bitbucket. Open the search dialog in any Atlassian app other than Bitbucket.\n\tNotice that the Bitbucket tab is no longer available in the legacy Quick Sear",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-06-29",
   "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-06-29",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

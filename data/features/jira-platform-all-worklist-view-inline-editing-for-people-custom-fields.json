@@ -2,12 +2,12 @@
   "id": "jira-platform-all-worklist-view-inline-editing-for-people-custom-fields",
   "title": "All work/List view: Inline editing for people custom fields",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You can now edit people fields in the All work/List view of Jira without opening individual work items. Go to your Jira space and select the All work or List view.\n\tHover over a cell in a people field column.\n\tSelect the cell to open the people picker and select a new person.",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
   "rollout_end_date": "2026-06-22",
-  "last_seen_week": "2026-06-22",
+  "last_seen_week": "2026-07-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-06-29",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
     }
   ]
 }

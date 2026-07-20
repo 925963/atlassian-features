@@ -2,11 +2,11 @@
   "id": "atlassian-administration-access-requests-view-existing-apps-to-help-with-approva",
   "title": "Access requests: View existing apps to help with approvals",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organization admins can now see which apps are already in use when reviewing requests to install new apps in Atlassian Administration. This additional context helps admins make more informed decisions about whether to approve or deny a request, reducing the time spent investigating app redundancy. To get started with this change: Go to Atlassian Administration, then select Apps.\n\tSelect User requests, then Access requests.\n\tChoose a pending request to see details in the side panel, and find out ",
   "announced_date": "2026-04-13",
   "rollout_start_date": "2026-04-13",
-  "rollout_end_date": "2026-06-15",
+  "rollout_end_date": "2026-06-29",
   "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-13-to-apr-20-2026",
   "history": [
@@ -69,6 +69,11 @@
       "date": "2026-06-29",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

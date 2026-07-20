@@ -2,11 +2,11 @@
   "id": "focus-risks-collaborate-with-comments",
   "title": "Risks: Collaborate with comments",
   "product": "Focus",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "You can now add and reply to comments on risks in Focus. This update helps your team discuss potential blockers, share mitigation strategies, and stay aligned on risks directly within the app. Open an existing risk in Focus.\n\tEnter your feedback in the Comments section at the bottom of the page.",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-06-29",
   "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-06-29",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

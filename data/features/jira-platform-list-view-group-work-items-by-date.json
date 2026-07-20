@@ -2,11 +2,11 @@
   "id": "jira-platform-list-view-group-work-items-by-date",
   "title": "List view: Group work items by date",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organize your work more effectively in Jira by grouping work items by date and date-time fields in the list view. This update allows you to see your schedule at a glance and manage your team's priorities with better clarity by organizing work based on deadlines and timelines. To get started with this change: Open your project and select the List view.\n\tSelect the Group by menu from the toolbar.\n\tSelect a date field, such as Due date, from the list.",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
-  "rollout_end_date": "2026-06-15",
+  "rollout_end_date": "2026-06-29",
   "last_seen_week": "2026-06-29",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
@@ -44,6 +44,11 @@
       "date": "2026-06-29",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026"
+    },
+    {
+      "date": "2026-07-06",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

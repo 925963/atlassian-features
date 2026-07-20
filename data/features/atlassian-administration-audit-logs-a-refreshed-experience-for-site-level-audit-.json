@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-audit-logs-a-refreshed-experience-for-site-level-audit-",
+  "title": "Audit logs: A refreshed experience for site-level audit logs",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "We've updated the site-level audit log experience in Atlassian Administration to provide a more consistent and intuitive interface. This change introduces a unified design that aligns with other Atlassian apps, making it easier for organization admins to monitor activity across their site. To get started with this change Go to admin.atlassian.com and select your organization.\n\tUnder Apps, navigate to Sites. Go to the site of your choice.\n\tSelect Audit log.\n\tView the updated interface, which now ",
+  "announced_date": "2026-07-06",
+  "rollout_start_date": "2026-07-06",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-06",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
+  "history": [
+    {
+      "date": "2026-07-06",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    }
+  ]
+}
