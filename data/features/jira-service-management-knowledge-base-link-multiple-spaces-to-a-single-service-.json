@@ -2,11 +2,11 @@
   "id": "jira-service-management-knowledge-base-link-multiple-spaces-to-a-single-service-",
   "title": "Knowledge base: Link multiple spaces to a single service space",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Space admins can now link multiple knowledge sources (native Confluence, cross-site Confluence, and third-party sources) to a single Jira Service Management service space. This update allows your team to pull knowledge base articles from various sources, making it easier for your team and help-seekers to find the information they need in one place. Go to your service space and select Space settings.\n\tSelect Knowledge base.\n\tSelect Link space.",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
-  "rollout_end_date": "2026-06-22",
+  "rollout_end_date": "2026-07-06",
   "last_seen_week": "2026-07-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-07-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

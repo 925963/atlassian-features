@@ -2,18 +2,23 @@
   "id": "jira-platform-automation-integrate-with-cursor",
   "title": "Automation: Integrate with Cursor",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Save time and streamline your development workflows by integrating Cursor with automation in Jira. This new action allows you to trigger Cursor tasks directly from your automation rules, helping your team stay focused and productive. To get started with this change Go to Project settings, then Automation.\n\tSelect Create rule or edit an existing rule.\n\tAdd a new action and search for Cursor.\n\tConfigure the action details and select Save.",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-07-06",
+  "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
     {
       "date": "2026-07-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "rovo-generate-and-refine-work-items-from-chat",
   "title": "Generate and refine work items from chat",
   "product": "Rovo",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You can now open a full-screen canvas from Rovo Chat in Jira to describe your goals, add context, and have Rovo suggest a breakdown of work items. Review and refine these items before adding them to your Jira space, making project planning faster and more approachable for all teams. To get started with this change: Open Rovo Chat in Jira.\n\tAsk Rovo to create work items\n\tSelect Preview in Rovo Chat’s response to open the canvas.\n\tReview and edit the suggested work items in the canvas.\n\tAdd the fi",
   "announced_date": "2026-04-27",
   "rollout_start_date": "2026-04-27",
   "rollout_end_date": "2026-06-29",
-  "last_seen_week": "2026-06-29",
+  "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-apr-27-to-may-4-2026",
   "history": [
     {
@@ -64,6 +64,11 @@
       "date": "2026-07-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
     }
   ]
 }

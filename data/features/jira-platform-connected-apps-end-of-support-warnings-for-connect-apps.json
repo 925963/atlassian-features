@@ -2,12 +2,12 @@
   "id": "jira-platform-connected-apps-end-of-support-warnings-for-connect-apps",
   "title": "Connected apps: End-of-support warnings for Connect apps",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Admins and users will now see in-product warnings for apps built on the Connect framework to prepare for its upcoming end-of-support. These notifications in Jira, Confluence, and Atlassian Administration help you identify affected apps and plan your migration to Forge. Go to Atlassian Administration, then select your organization.\n\tSelect Apps, then Connected apps.\n\tLook for warning banners at the top of the page or within specific app details to identify apps requiring action.\n\tFor end users, l",
   "announced_date": "2026-05-25",
   "rollout_start_date": "2026-05-25",
   "rollout_end_date": "2026-06-29",
-  "last_seen_week": "2026-06-29",
+  "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-07-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
     }
   ]
 }

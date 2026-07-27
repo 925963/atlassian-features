@@ -2,11 +2,11 @@
   "id": "jira-service-management-knowledge-base-link-confluence-folders-to-your-service-p",
   "title": "Knowledge base: Link Confluence folders to your service project",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Project admins can now link individual Confluence folders to a Jira Service Management knowledge base. This allows for finer control over the content surfaced to agents and help seekers by linking specific sub-sections of a space rather than the entire space. This feature supports both native Confluence folders and cross-site folders within the same Atlassian organization. Go to your service project and select Space settings, then Knowledge base.\n\tSelect Add knowledge.\n\tSelect site and visibilit",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-07-06",
   "last_seen_week": "2026-07-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-07-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

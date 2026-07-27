@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-issue-search-warnings-for-jql-queries-exceeding-its-supported-limi",
+  "title": "Issue search: Warnings for JQL queries exceeding its supported limit",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Jira now displays a warning banner when a Jira Query Language (JQL) search when it exceeded its supported limit. This helps you identify when a search might not return all expected results due to system limits, allowing you to refine your query for better accuracy. To get started with this change Navigate to the Issues menu in Jira.\n\tSelect Search for issues.\n\tEnter a JQL query in the search bar.\n\tIf the query exceeds its supported limits, a warning banner will appear at the top of the search re",
+  "announced_date": "2026-07-13",
+  "rollout_start_date": "2026-07-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
+  "history": [
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    }
+  ]
+}

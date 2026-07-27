@@ -1,0 +1,19 @@
+{
+  "id": "loom-create-structured-ai-prompts-from-recordings",
+  "title": "Create structured AI prompts from recordings",
+  "product": "Loom",
+  "status": "rolling_out_new",
+  "description": "Loom users can now use Video Prompt mode in the Chrome extension to transform screen recordings into structured, context-rich prompts for AI agents. Loom automatically generates an Action Plan that captures your voice, screen interactions, and tehnical context, making it easier to create Jira work items or provide clear instructions to AI tools like Atlassian Rovo. Record video prompts for AI agents To start using video prompts: Open the Loom Chrome extension and select Video Prompt mode.\n\tRecor",
+  "announced_date": "2026-07-13",
+  "rollout_start_date": "2026-07-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
+  "history": [
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    }
+  ]
+}

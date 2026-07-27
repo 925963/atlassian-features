@@ -1,0 +1,19 @@
+{
+  "id": "jira-product-discovery-data-security-policies-in-jira-product-discovery-control-",
+  "title": "Data security policies in Jira Product Discovery: Control over exports, downloads, and public links",
+  "product": "Jira Product Discovery",
+  "status": "rolling_out_new",
+  "description": "Jira Product Discovery now supports Atlassian Guard data security policies, giving organization admins more control over how project data is shared and accessed. This update helps ensure your organization remains compliant by allowing admins to restrict data exports, attachment downloads, and the creation of public links for your discovery projects. Share discovery project views To get started with this change Go to Atlassian Administration, then select Security.\n\tSelect Data protection, then Da",
+  "announced_date": "2026-07-13",
+  "rollout_start_date": "2026-07-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
+  "history": [
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    }
+  ]
+}

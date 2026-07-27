@@ -1,0 +1,19 @@
+{
+  "id": "assets-assets-increased-limit-for-custom-fields",
+  "title": "Assets: Increased limit for custom fields",
+  "product": "Assets",
+  "status": "rolling_out_new",
+  "description": "The Assets custom field now supports linking up to 200 objects per field on Jira work item screens (create, edit, view, and transition), Jira Service Management portal and forms, and work item history - a 10× increase from the previous limit of 20. On Jira Service Management queues, list view, board and backlog views, and gadgets and dashboards, the limit increases from 20 to 50. The field introduces pagination, search, and multi-select, so you can efficiently browse, filter, and select from lar",
+  "announced_date": "2026-07-13",
+  "rollout_start_date": "2026-07-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
+  "history": [
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    }
+  ]
+}

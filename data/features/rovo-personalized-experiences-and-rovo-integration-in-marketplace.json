@@ -2,11 +2,11 @@
   "id": "rovo-personalized-experiences-and-rovo-integration-in-marketplace",
   "title": "Personalized experiences and Rovo integration in Marketplace",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Atlassian Marketplace is introducing a personalized experiences and Rovo integration to help you discover and install apps more efficiently. This change streamlines the transition between Marketplace touchpoints and your Atlassian apps, ensuring a more consistent and integrated browsing experience. Open your Atlassian app.\n\tSelect the App switcher, then select Marketplace Apps or navigate to Explore more apps to find the link to new experience.\n\tBrowse the Marketplace apps and install new apps d",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-07-06",
   "last_seen_week": "2026-07-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-07-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

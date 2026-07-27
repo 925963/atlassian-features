@@ -2,18 +2,23 @@
   "id": "jira-platform-workflow-editor-old-version-removal",
   "title": "Workflow editor: Old version removal",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We’ve removed access to the old workflow editor in Jira. This change ensures all users have a consistent experience using the updated workflow editor to manage how work moves through its lifecycle. Go to Jira settings, then Work items.\n\tSelect Workflows.\n\tSelect More actions (•••), then Edit on any workflow to open the current workflow editor.",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-07-06",
+  "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
     {
       "date": "2026-07-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
     }
   ]
 }

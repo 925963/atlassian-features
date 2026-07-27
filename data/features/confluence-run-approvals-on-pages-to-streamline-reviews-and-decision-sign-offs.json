@@ -1,0 +1,19 @@
+{
+  "id": "confluence-run-approvals-on-pages-to-streamline-reviews-and-decision-sign-offs",
+  "title": "Run approvals on pages to streamline reviews and decision sign-offs",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "You can run approvals and reviews directly on a Confluence page. This allows you to formalize a review process by assigning specific collaborators to approve a page, giving you a structured way to collaborate on content and keep a clear system of record for decisions and updates. This feature is available for those on a Premium or Enterprise plan. To begin a review process on a page:",
+  "announced_date": "2026-07-13",
+  "rollout_start_date": "2026-07-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
+  "history": [
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    }
+  ]
+}

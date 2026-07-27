@@ -2,12 +2,12 @@
   "id": "confluence-ai-generated-slides-create-presentations-from-your-content",
   "title": "AI-generated slides: Create presentations from your content",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time by using AI to generate presentation slides directly from your content in Confluence. This new feature allows you to transform your content into structured slides, making it easier to share information and collaborate with your team. To get started with this change: Open a page in Confluence.\n\tSelect the Create menu from the top toolbar.\n\tChoose Select slides from the list of options.\n\tReview the generated slides to fit your needs.\n\tRevise the slides using AI-first editing.",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
   "rollout_end_date": "2026-06-29",
-  "last_seen_week": "2026-06-29",
+  "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
     {
@@ -54,6 +54,11 @@
       "date": "2026-07-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "studio-top-and-trending-agents-analytics",
   "title": "Top and trending agents analytics",
   "product": "Studio",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "You can now access a consolidated analytics dashboard in Rovo Agent Studio to see how agents are being used across your organization. This update helps admins identify high-value agents to promote and low-usage agents to clean up, ensuring a high-quality agent catalog for your teams. Go to Rovo Agent Studio.\n\tSelect the Insights dashboard.\n\tView usage metrics, including invocation counts and user engagement.",
   "announced_date": "2026-05-25",
   "rollout_start_date": "2026-05-25",
   "rollout_end_date": "2026-06-29",
-  "last_seen_week": "2026-06-29",
+  "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-07-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
     }
   ]
 }

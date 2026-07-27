@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-select-your-space-when-creating-work-items-in-chat",
+  "title": "Select your space when creating work items in chat",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Stay in your flow and capture work the moment it comes up. The /create-work-items skill in Jira now lets you view and select your space directly in chat so the right work lands in the right place, without switching apps. Open your chat app where Jira is integrated.\n\tUse the /create-work-items skill in your conversation.\n\tSelect the space where you want to create the task using the new space selector.\n\tReview the work items generated and select Create.",
+  "announced_date": "2026-07-13",
+  "rollout_start_date": "2026-07-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
+  "history": [
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    }
+  ]
+}

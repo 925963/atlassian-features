@@ -2,11 +2,11 @@
   "id": "jira-platform-timeline-sort-work-items-by-assignee-status-and-dates",
   "title": "Timeline: Sort work items by assignee, status, and dates",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organize your project timeline in Jira by sorting work items based on the assignee, status, or key dates. This update helps you quickly find specific work and better understand your team's schedule and progress. To get started with this change Open your project in Jira and select Timeline from the left navigation.\n\tSelect the Sort menu at the top of the timeline.\n\tChoose to sort your work items by Assignee, Status, Start date, or Due date.",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
-  "rollout_end_date": "2026-06-22",
+  "rollout_end_date": "2026-07-06",
   "last_seen_week": "2026-07-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-07-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

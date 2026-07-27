@@ -2,11 +2,11 @@
   "id": "studio-studio-refreshed-landing-page-and-universal-create-button",
   "title": "Studio: Refreshed landing page and universal create button",
   "product": "Studio",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Rovo Studio now features a refreshed landing page and a universal create button to help you build agents, apps, and automations more efficiently. These updates provide clearer guidance for new users and streamline the creation process for experienced makers. Go to the Studio landing page.\n\tSelect the Create button to start building with Rovo or to manually create agents and automations.\n\tExplore the new static help content to learn more about Studio capabilities.\n\tUse the refresh controls on the",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
-  "rollout_end_date": "2026-06-22",
+  "rollout_end_date": "2026-07-06",
   "last_seen_week": "2026-07-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
@@ -49,6 +49,11 @@
       "date": "2026-07-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

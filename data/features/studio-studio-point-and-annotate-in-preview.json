@@ -2,18 +2,23 @@
   "id": "studio-studio-point-and-annotate-in-preview",
   "title": "Studio: Point-and-annotate in preview",
   "product": "Studio",
-  "status": "rolling_out_new",
+  "status": "released",
   "description": "Save time when refining your app UI in Studio by using the new point-and-annotate feature. Instead of describing every change in chat, you can now select a specific part of the preview and provide targeted feedback for Rovo to update. Open your app preview in Studio.\n\tSelect the Select element icon.\n\tSelect the part of the UI you want to change.\n\tEnter your feedback in the annotation field and submit it to Rovo.",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-07-06",
+  "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
     {
       "date": "2026-07-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
     }
   ]
 }

@@ -2,18 +2,23 @@
   "id": "confluence-exclude-content-titles-from-urls-for-enhanced-data-privacy",
   "title": "Exclude content titles from URLs for enhanced data privacy",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Confluence admins on Enterprise plans can now choose to hide content titles from the address bar for pages, blogs, and live docs. This security setting helps protect proprietary information by ensuring that titles aren't visible in the URL when links are shared or copied. To exclude content titles from the address bar: Go to Confluence administration, then Settings.\n\tSelect Security, then select Security Configuration.\n\tSelect Exclude content titles from URLs to enable the setting.\n\tSelect Save.",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
   "rollout_end_date": null,
-  "last_seen_week": "2026-07-06",
+  "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
     {
       "date": "2026-07-06",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
     }
   ]
 }

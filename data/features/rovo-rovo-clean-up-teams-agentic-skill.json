@@ -2,11 +2,11 @@
   "id": "rovo-rovo-clean-up-teams-agentic-skill",
   "title": "Rovo: Clean up teams agentic skill",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Keep your organization organized by using Rovo to identify and archive inactive or redundant teams. This new agentic skill in Rovo helps admins maintain a clear and accurate view of their team structure with minimal manual effort. Open Rovo from the app switcher or your Atlassian Home.\n\tType /clean-up-teams to surface the Clean up teams skill. You can also find a nudge in the teams directory to clean up teams, or select More actions (•••) to launch the skill.\n\tFollow the prompts to review and ma",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
-  "rollout_end_date": "2026-06-22",
+  "rollout_end_date": "2026-07-06",
   "last_seen_week": "2026-07-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-07-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

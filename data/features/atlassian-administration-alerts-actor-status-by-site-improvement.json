@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-alerts-actor-status-by-site-improvement",
+  "title": "Alerts: Actor status by site improvement",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Guard Detect now resolves the account status of an actor on an alert against the specific site associated with that alert. If an alert is associated with multiple sites, it will display the actor's status from one of those sites. For org-scoped alerts that aren't tied to a specific site, it will continue to show the status from the Guard Detect site. This change ensures that the suspended status you see for a user reflects their state on the site where the activity occurred, which may not be the",
+  "announced_date": "2026-07-13",
+  "rollout_start_date": "2026-07-13",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-13",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
+  "history": [
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    }
+  ]
+}

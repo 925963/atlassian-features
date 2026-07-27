@@ -2,12 +2,12 @@
   "id": "loom-auto-linking-on-the-loom-desktop-app-for-mac",
   "title": "Auto-linking on the Loom desktop app for Mac",
   "product": "Loom",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "The Loom desktop app for Mac now automatically detects URLs from the tabs you’re recording and adds them directly to your video. This saves you time by removing the need to manually add links, while making it easier for your viewers to dive deeper into the content you're sharing. Open the Loom desktop app on your Mac.\n\tStart a screen recording of a browser tab in a supported browser, such as Chrome, Safari, or Firefox.\n\tFinish your recording and navigate to the video share page.\n\tView the automa",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
   "rollout_end_date": "2026-06-29",
-  "last_seen_week": "2026-06-29",
+  "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-07-06",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "jira-platform-jira-use-your-current-view-as-context-for-rovo-chat",
   "title": "Jira: Use your current view as context for Rovo Chat",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and get more relevant answers by using your current Jira view or selected work items as context for Rovo Chat. Instead of manually copying work item keys, Jira now automatically passes your active view, filter, or selected work items into Rovo Chat to help you summarize work, create insights, or take actions tailored to your current workflow. Open a supported Jira view, such as your All work, Backlog, or List view.\n\tSelect one or more work items to make them the active context for Rovo",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
-  "rollout_end_date": "2026-06-22",
+  "rollout_end_date": "2026-07-06",
   "last_seen_week": "2026-07-06",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
@@ -49,6 +49,11 @@
       "date": "2026-07-06",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026"
+    },
+    {
+      "date": "2026-07-13",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }
