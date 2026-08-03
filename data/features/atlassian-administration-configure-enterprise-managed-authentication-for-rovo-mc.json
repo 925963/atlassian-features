@@ -2,18 +2,23 @@
   "id": "atlassian-administration-configure-enterprise-managed-authentication-for-rovo-mc",
   "title": "Configure enterprise managed authentication for Rovo MCP server",
   "product": "Atlassian Administration",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Enterprise managed authentication lets organization admins centrally manage how users authorize access to Atlassian apps through the Rovo MCP (Model Context Protocol) server. Instead of each user authorizing access individually, you can handle authentication through an identity provider (IdP) like Okta. This ensures your AI connections align with your existing security and access policies. To get started with this change: Review the setup requirements. How to configure enterprise managed authent",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-07-13",
+  "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
     {
       "date": "2026-07-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
     }
   ]
 }

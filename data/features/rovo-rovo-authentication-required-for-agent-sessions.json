@@ -1,0 +1,19 @@
+{
+  "id": "rovo-rovo-authentication-required-for-agent-sessions",
+  "title": "Rovo: Authentication required for agent sessions",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "Rovo agents now show a clear indicator when they need you to log in to a third-party app, like GitHub, to continue. This makes it obvious why an agent has paused, and gets you back to your conversation faster. Open a chat session with an agent in Rovo.\n\tIf the agent needs authentication, look for the message \"Authentication is required to proceed.\"\n\tSelect User settings in the message to go to your account settings.\n\tLog in to the required app.\n\tReturn to the chat and select Connect to continue,",
+  "announced_date": "2026-07-20",
+  "rollout_start_date": "2026-07-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
+  "history": [
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
+    }
+  ]
+}

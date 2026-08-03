@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-new-discovery-components-for-premium-assets-features",
+  "title": "New discovery components for premium Assets features",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "We’re building new navigation components for Dashboards and Data Manager within Assets for customers on Standard plans. These components are designed to lead you to a premium discovery page where you can learn about advanced data management and reporting tools before deciding to start a trial. To interact with these new Assets components: Click the new Dashboards or Data Manager components.\n\tReview the information on the discovery page to see how these premium features work.",
+  "announced_date": "2026-07-20",
+  "rollout_start_date": "2026-07-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
+  "history": [
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
+    }
+  ]
+}

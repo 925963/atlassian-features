@@ -2,18 +2,23 @@
   "id": "bitbucket-multi-branch-ingestion-of-test-reports",
   "title": "Multi-branch ingestion of test reports",
   "product": "Bitbucket",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Branch tracking allows teams to configure which branches Bitbucket Tests collects results from. It has the following two parts: Default branch - Test results are always collected. This is your Git default branch, for example 'main', but can be pointed to any other branch you may want to track. There can only be one default branch. Additional branches - You can also add up to four more branches that you choose from a dropdown menu, so you can track the test results of a total of 5 branches.",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-07-13",
+  "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
     {
       "date": "2026-07-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
     }
   ]
 }

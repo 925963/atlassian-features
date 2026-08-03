@@ -2,12 +2,12 @@
   "id": "talent-custom-alerts-for-talent-sync-updates",
   "title": "Custom alerts for Talent sync updates",
   "product": "Talent",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Stay informed on your workforce data with customizable Talent sync notifications. You can now choose to receive alerts for successes, failures, or only when a sync recovers, ensuring you have the visibility needed to maintain data accuracy without the noise. To manage the notifications: Open the Talent app.\n\tSelect your profile icon, then select Personal settings.\n\tGo to Notification preferences.\n\tIn the Real-time notifications section, select the sync alert types that matter the most to you.\n\tS",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
   "rollout_end_date": "2026-07-06",
-  "last_seen_week": "2026-07-06",
+  "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-07-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
     }
   ]
 }

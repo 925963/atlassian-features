@@ -2,12 +2,12 @@
   "id": "confluence-modernized-access-and-restricted-content-screens",
   "title": "Modernized access and restricted content screens",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You'll now see updated design and functionality of restricted content and access request screens in Confluence. These improvements provide a more modern and intuitive experience, making it easier for you to understand why content is restricted and provide clear actions to request the access you need to stay productive. You can see these changes whenever you come across restricted content or need to request access to a page in Confluence. Navigate to a Confluence page or space where you don't hav",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
   "rollout_end_date": "2026-07-06",
-  "last_seen_week": "2026-07-06",
+  "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-07-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
     }
   ]
 }

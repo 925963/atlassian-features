@@ -2,11 +2,11 @@
   "id": "jira-platform-customize-your-epic-work-type-during-project-creation",
   "title": "Customize your epic work type during project creation",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now rename and customize the icon for the epic work type directly within the project creation wizard in Jira. This update allows you to align your project structure with your team's specific terminology and mental models from the very beginning, ensuring a more intuitive setup experience. To get started with this change Select Create project in Jira.\n\tChoose a template, such as Kanban or Scrum.\n\tIn the project creation wizard, locate the Work types section.\n\tSelect the Epic work type to ",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
-  "rollout_end_date": "2026-06-29",
+  "rollout_end_date": "2026-07-13",
   "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-07-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

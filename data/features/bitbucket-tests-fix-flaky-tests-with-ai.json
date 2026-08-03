@@ -1,0 +1,19 @@
+{
+  "id": "bitbucket-tests-fix-flaky-tests-with-ai",
+  "title": "Tests: Fix flaky tests with AI",
+  "product": "Bitbucket",
+  "status": "rolling_out_new",
+  "description": "Bitbucket Pipelines now supports flaky test remediation using agentic pipelines. This feature in Bitbucket Cloud allows you to automatically diagnose and repair flaky tests with a single action, helping you maintain a reliable CI/CD process and reduce false build failures. To get started with this change: Go to Workspace settings and ensure Agentic pipelines is enabled.\n\tDefine the fix-flaky-test trigger in your bitbucket-pipelines.yml file.\n\tGo to the Tests tab in your repository.\n\tSelect a tes",
+  "announced_date": "2026-07-20",
+  "rollout_start_date": "2026-07-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
+  "history": [
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
+    }
+  ]
+}

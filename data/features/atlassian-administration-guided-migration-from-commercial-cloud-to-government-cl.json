@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-guided-migration-from-commercial-cloud-to-government-cl",
+  "title": "Guided migration from commercial cloud to Government Cloud",
+  "product": "Atlassian Administration",
+  "status": "rolling_out",
+  "description": "Eligible administrators can now use Atlassian Administration to copy data from existing Jira and Confluence sites in commercial cloud to Government Cloud with a guided migration flow. This first release supports full data copy only and provides step-by-step validation to reduce manual effort for government customers. To get started with this change: Log in to Atlassian Administration for Government Cloud.\n\tSelect Data transfer under Data management.\n\tChoose Create transfer plan and select In Atl",
+  "announced_date": "2026-07-20",
+  "rollout_start_date": "2026-07-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
+  "history": [
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
+    }
+  ]
+}

@@ -2,18 +2,23 @@
   "id": "studio-automation-rules-are-now-called-flows",
   "title": "Automation rules are now called flows",
   "product": "Studio",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We've updated our terminology in Atlassian Studio to better reflect how you automate your work. Automation rules are now called flows. This change provides a more intuitive way to describe the end-to-end processes you build to save time and stay organized. To view this change: Open Atlassian Studio and from the navigation on the left, select Automation.\n\tLook for the new Flows label (previously known as Rules).\n\tSelect any existing flow to view or edit its triggers and actions.",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-07-13",
+  "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
     {
       "date": "2026-07-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
     }
   ]
 }

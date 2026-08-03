@@ -2,12 +2,12 @@
   "id": "jira-platform-field-optimization-tools-for-field-schemes",
   "title": "Field optimization tools for field schemes",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira Cloud admins can now access streamlining tools from the field schemes experience in Jira admin settings. These tools optimize field schemes by removing unused fields, creating project-specific schemes, splitting schemes, and provide functionality to download optimization details. To get started with this change: From the top navigation, go to Settings, then Work items.\n\tSelect Field schemes.\n\tSelect the field scheme you want to manage.\n\tUnder Actions, select Optimize to use the streamlining",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
   "rollout_end_date": "2026-07-06",
-  "last_seen_week": "2026-07-06",
+  "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-07-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
     }
   ]
 }

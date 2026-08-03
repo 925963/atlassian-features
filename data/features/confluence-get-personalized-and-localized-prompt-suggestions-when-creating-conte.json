@@ -2,12 +2,12 @@
   "id": "confluence-get-personalized-and-localized-prompt-suggestions-when-creating-conte",
   "title": "Get personalized and localized prompt suggestions when creating content with Rovo in Confluence",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time and get started faster with personalized prompt suggestions in Confluence. Atlassian Rovo now generates prompt tiles that are action-oriented, grounded in your recent activity, and localized to your preferred language. Create new content items with Rovo To get personalized prompt suggestions: Select Create in the top navigation bar of Confluence.\n\tSelect Create with Rovo.\n\tReview the personalized prompt tiles in the staging modal to see suggestions based on your recent work.",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
   "rollout_end_date": "2026-07-06",
-  "last_seen_week": "2026-07-06",
+  "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-07-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
     }
   ]
 }

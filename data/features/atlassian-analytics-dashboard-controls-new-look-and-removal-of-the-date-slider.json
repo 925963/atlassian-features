@@ -2,11 +2,11 @@
   "id": "atlassian-analytics-dashboard-controls-new-look-and-removal-of-the-date-slider",
   "title": "Dashboard controls: New look and removal of the date slider",
   "product": "Atlassian Analytics",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Improve your dashboard experience in Atlassian Analytics with updated controls that are more intuitive and accessible. These changes include a new way to add control titles directly from the control form and the removal of background colors to meet accessibility standards. We're also announcing the upcoming removal of the Date slider control, which will be replaced by the Calendar control to help you filter data more effectively. Open your dashboard in Atlassian Analytics.\n\tSelect the Add contro",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-07-13",
   "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-07-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

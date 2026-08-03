@@ -2,11 +2,11 @@
   "id": "studio-new-trigger-for-project-and-goal-field-changes-in-automation",
   "title": "New trigger for project and goal field changes in automation",
   "product": "Studio",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Automations now includes a Project field value changed trigger and Goal status changed trigger, allowing you to automate workflows based on changes to project and goal fields. This update helps you automate workflows to help teams informed and documentation up to date as project or goal details evolve. To use the new trigger for Projects: In Automations, select Create flow.\n\tSearch for Projects in the trigger picker and select Project field value changed.\n\tChoose the fields you want to monitor, ",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-07-13",
   "last_seen_week": "2026-07-13",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-07-13",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

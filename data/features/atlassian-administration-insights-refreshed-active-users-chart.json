@@ -2,12 +2,12 @@
   "id": "atlassian-administration-insights-refreshed-active-users-chart",
   "title": "Insights: Refreshed Active Users chart",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "The Active Users chart in Atlassian Administration is updated to provide more flexible reporting. Organization admins can now use date and app filters to explore active user trends across their organization more effectively. Go to admin.atlassian.com.\n\tSelect your organization.\n\tGo to Overview.\n\tInteract with the Active Users chart using the new date and app filters.",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
   "rollout_end_date": "2026-07-06",
-  "last_seen_week": "2026-07-06",
+  "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-07-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
     }
   ]
 }

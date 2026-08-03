@@ -2,12 +2,12 @@
   "id": "jira-service-management-comments-performance-reliability-and-look-and-feel-impro",
   "title": "Comments: Performance, reliability, and look-and-feel improvements",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out_new",
   "description": "Jira Service Management (JSM) has improved the way comments are processed to provide a faster and more reliable experience. By updating the underlying technology used to handle comments, we’ve reduced load times and increased the stability of your service projects. We've also modernized the look of JSM comments to make them more consistent with other apps. To see these changes in the UI:",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
   "rollout_end_date": "2026-05-25",
-  "last_seen_week": "2026-05-25",
+  "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-06-01",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
     }
   ]
 }

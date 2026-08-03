@@ -2,18 +2,23 @@
   "id": "jira-platform-deployments-feature-is-moving-to-development-in-jira",
   "title": "Deployments feature is moving to Development in Jira",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "he Deployments in Jira feature will now have a new home within Development in Jira. Starting July 12, 2026, you’ll no longer have separate Deployments page in your software space in Jira, and Development will be the only place to access the deployment features. You can start using Development today, where all deployment features, including your existing app connections and data, are already available. There you’ll also find data from other integrated apps, key metrics, work suggestions, and more",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
   "rollout_end_date": null,
-  "last_seen_week": "2026-07-13",
+  "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
     {
       "date": "2026-07-13",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "confluence-welcome-message-and-sample-prompts-in-rovo-chat",
+  "title": "Welcome message and sample prompts in Rovo Chat",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "New users in Confluence can now get started with Atlassian Rovo more quickly through a personalized welcome message and sample prompt. When new users enter a space, Rovo Chat will automatically open to introduce you to its capabilities and provide a ready-to-use prompt, helping you find information and learn about your organization with a single click. Be a new user who created their account less than 14 days ago.\n\tOpen any space in Confluence other than your personal space.\n\tView the Rovo welco",
+  "announced_date": "2026-07-20",
+  "rollout_start_date": "2026-07-20",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-20",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
+  "history": [
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
+    }
+  ]
+}

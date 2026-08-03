@@ -2,12 +2,12 @@
   "id": "confluence-preserve-contextual-destination-when-adding-content-to-confluence-usi",
   "title": "Preserve contextual destination when adding content to Confluence using Create with Rovo",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time and reduce friction when adding content to Confluence from a contextual entry point. Confluence now automatically detects and applies the original destination, such as a specific page or space, so you don't have to select it again. Launch from Create with Rovo a contextual entry point, such as a specific Confluence page or space.\n\tGenerate your content.\n\tSelect Add to Confluence.\n\tThe content will be added directly to the original destination without prompting you to choose a page or s",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
   "rollout_end_date": "2026-07-06",
-  "last_seen_week": "2026-07-06",
+  "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
     {
@@ -54,6 +54,11 @@
       "date": "2026-07-13",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-20",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
     }
   ]
 }
