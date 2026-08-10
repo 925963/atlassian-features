@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-reorder-starred-items-in-the-sidebar",
+  "title": "Reorder starred items in the sidebar",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "You can now reorder your starred items in the Jira sidebar, making it easier to organize your most-used links for faster access. This update helps you personalize your Jira experience and quickly find what matters most. To get started with this change: Go to your Jira sidebar.\n\tSelect and drag any starred item to your preferred position in the list.",
+  "announced_date": "2026-07-27",
+  "rollout_start_date": "2026-07-27",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
+  "history": [
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    }
+  ]
+}

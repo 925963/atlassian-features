@@ -2,12 +2,12 @@
   "id": "confluence-modernized-empty-states-for-starred-and-recents",
   "title": "Modernized empty states for Starred and Recents",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We’ve updated the empty states for your Starred and Recent pages with new illustrations and clearer guidance. These updates help you find the right path to start creating or discovering content when you don't have any activity yet. To view this change: Open Confluence.\n\tFrom the side navigation bar, select Starred or Recent.\n\tIf you haven't starred any pages or viewed any recently, you'll see the new modernized empty state.",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
   "rollout_end_date": "2026-07-13",
-  "last_seen_week": "2026-07-13",
+  "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-07-20",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
     }
   ]
 }

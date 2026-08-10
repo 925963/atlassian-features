@@ -2,12 +2,12 @@
   "id": "jira-platform-transition-improvements-in-workflow-editor",
   "title": "Transition improvements in workflow editor",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Manage your workflows more efficiently with new transition options and a clearer layout in the workflow editor. These updates help Jira admins save time when creating statuses and provide better visibility into how work moves through a project. To get started with this change: Go to Space settings, then Workflows.\n\tSelect Edit on the workflow you want to update.\n\tSelect Add status to see the new Allow transitions from any status checkbox.\n\tSelect any status on the diagram to view the separated I",
   "announced_date": "2026-06-08",
   "rollout_start_date": "2026-06-08",
   "rollout_end_date": "2026-07-13",
-  "last_seen_week": "2026-07-13",
+  "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-07-20",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
     }
   ]
 }

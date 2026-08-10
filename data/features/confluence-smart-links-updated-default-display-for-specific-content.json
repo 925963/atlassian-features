@@ -1,0 +1,19 @@
+{
+  "id": "confluence-smart-links-updated-default-display-for-specific-content",
+  "title": "Smart links: Updated default display for specific content",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Certain URLs now automatically display as cards or embeds when you insert them into a Confluence page. This update provides a richer, more visual experience for your content by default, while still allowing you to manually change the display type to a URL, inline, card, or embed as needed. Open a Confluence page in the editor.\n\tPaste a supported URL into the page.\n\tObserve the smart link automatically rendering as a card or embed.\n\tTo change the display, select the smart link and choose a differ",
+  "announced_date": "2026-07-27",
+  "rollout_start_date": "2026-07-27",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
+  "history": [
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    }
+  ]
+}

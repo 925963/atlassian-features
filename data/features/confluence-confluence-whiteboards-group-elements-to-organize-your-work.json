@@ -2,11 +2,11 @@
   "id": "confluence-confluence-whiteboards-group-elements-to-organize-your-work",
   "title": "Confluence whiteboards: Group elements to organize your work",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organize your Confluence whiteboards by grouping multiple elements together. This change allows you to move, resize, and duplicate collections of items as a single unit, helping you maintain the structure of your ideas as they evolve. To group and ungroup multiple elements on a whiteboard: Open a whiteboard in Confluence.\n\tSelect multiple elements by dragging a selection box around them or by holding the Shift key on your keyboard when selecting multiple elements.\n\tTo group elements, select Grou",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
-  "rollout_end_date": "2026-07-06",
+  "rollout_end_date": "2026-07-20",
   "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
@@ -59,6 +59,11 @@
       "date": "2026-07-20",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
+    },
+    {
+      "date": "2026-07-27",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

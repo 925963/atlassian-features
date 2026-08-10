@@ -2,11 +2,11 @@
   "id": "confluence-intelligent-ai-suggestions-when-you-paste-content",
   "title": "Intelligent AI suggestions when you paste content",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and improve your content in Confluence with intelligent AI suggestions that appear when you paste text. When you paste content longer than 100 characters, a menu will suggest specific actions to help you polish, remix, or refine your writing using Rovo. Copy text from an internal or external source that is at least 100 characters long.\n\tPaste the content into the Confluence editor.\n\tSelect an action from the menu that appears, such as Add polish, Improve writing, or Ask Rovo.",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
-  "rollout_end_date": "2026-07-06",
+  "rollout_end_date": "2026-07-20",
   "last_seen_week": "2026-07-20",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-07-20",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
+    },
+    {
+      "date": "2026-07-27",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

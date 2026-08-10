@@ -1,0 +1,19 @@
+{
+  "id": "confluence-native-tabs-organize-content-with-ease",
+  "title": "Native tabs: Organize content with ease",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Organize your Confluence docs more effectively with the new native tabs element. This feature allows you to group related information into a single, tabbed view, making it easier for your team to navigate complex content without cluttering the page. To get started with this change Open a Confluence doc in the editor.\n\tType /tabs or select Tabs from the insert menu.\n\tAdd your content into each tab section.\n\tSelect Publish to see your organized content in action.",
+  "announced_date": "2026-07-27",
+  "rollout_start_date": "2026-07-27",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
+  "history": [
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    }
+  ]
+}

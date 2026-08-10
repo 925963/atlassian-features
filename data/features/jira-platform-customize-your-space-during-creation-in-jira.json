@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-customize-your-space-during-creation-in-jira",
+  "title": "Customize your space during creation in Jira",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "You can now customize your space when using the team-managed Kanban template in Jira. Streamline your setup process by pre-configuring work types, setting column names, and adding your teammates to get your team up and running faster. To customize your space: Select Spaces > Create space in the navigation\n\tUnder space templates, select the Kanban template\n\tSelect Customize",
+  "announced_date": "2026-07-27",
+  "rollout_start_date": "2026-07-27",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
+  "history": [
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    }
+  ]
+}

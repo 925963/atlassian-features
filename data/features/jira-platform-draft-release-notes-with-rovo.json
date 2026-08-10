@@ -2,12 +2,12 @@
   "id": "jira-platform-draft-release-notes-with-rovo",
   "title": "Draft release notes with Rovo",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time by using Rovo to draft release notes in Jira. Summarize key changes in your release with AI and communicate value to your customers and stakeholders more efficiently. To get started with this change: Go to your software space and select the Releases tab in the navigation.\n\tSelect the version you want to generate release notes for.\n\tSelect Release notes.\n\tSelect the toggle next to Create with Rovo.\n\tSelect Create with Rovo to open Rovo Chat and review your draft.",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
   "rollout_end_date": "2026-07-13",
-  "last_seen_week": "2026-07-13",
+  "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
     {
@@ -64,6 +64,11 @@
       "date": "2026-07-20",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
     }
   ]
 }

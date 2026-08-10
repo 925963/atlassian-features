@@ -1,0 +1,19 @@
+{
+  "id": "confluence-emoji-picker-refreshed-ui-and-new-atlassian-emojis",
+  "title": "Emoji picker: Refreshed UI and new Atlassian emojis",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "We've updated the emoji picker across Atlassian apps, including Jira, Confluence, and Jira Service Management, to provide a more modern experience. This refresh includes a new set of Atlassian emojis, making it easier for you to express yourself and collaborate with your team. Open any content where you can use emojis, such as a Jira work item or Confluence page.\n\tSelect the emoji icon in the editor toolbar or type a colon (:) to open the emoji picker.\n\tExplore the refreshed interface and select",
+  "announced_date": "2026-07-27",
+  "rollout_start_date": "2026-07-27",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
+  "history": [
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    }
+  ]
+}

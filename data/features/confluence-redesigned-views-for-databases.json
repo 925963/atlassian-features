@@ -2,12 +2,12 @@
   "id": "confluence-redesigned-views-for-databases",
   "title": "Redesigned views for databases",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Configure your database views without losing sight of your data. We’ve replaced full-height side panels with contextual menus for filtering, sorting, grouping, and layout settings. These compact menus appear directly below the toolbar, making it faster and less interruptive to adjust your view while you work. To get started with this change: Open a database in Confluence.\n\tSelect Filter, Sort, Group, or Hide from the toolbar.\n\tInteract with the contextual menu that appears directly below the opt",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
   "rollout_end_date": "2026-07-13",
-  "last_seen_week": "2026-07-13",
+  "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-07-20",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
     }
   ]
 }

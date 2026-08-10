@@ -2,18 +2,23 @@
   "id": "jira-platform-improved-onboarding-for-new-jira-users",
   "title": "Improved onboarding for new Jira users",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "New users joining Jira will now land directly on the For you page instead of landing on an empty page or a generic directory. This change helps new team members quickly find relevant work and get started with their tasks in Jira without needing to navigate through multiple menus. To view this change: Log in to Jira as a new user.\n\tView your personalized For you page.\n\tSelect a task or project from the page to begin working.",
   "announced_date": "2026-07-20",
   "rollout_start_date": "2026-07-20",
   "rollout_end_date": null,
-  "last_seen_week": "2026-07-20",
+  "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
   "history": [
     {
       "date": "2026-07-20",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026"
+    },
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
     }
   ]
 }

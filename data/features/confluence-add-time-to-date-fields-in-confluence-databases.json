@@ -2,12 +2,12 @@
   "id": "confluence-add-time-to-date-fields-in-confluence-databases",
   "title": "Add time to date fields in Confluence databases",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Track time-sensitive data with greater precision by adding time to your date fields. This update allows you to include a specific time component, giving your team more flexibility when managing deadlines or schedules in Confluence databases. You can choose between 12-hour and 24-hour formats. Open a Confluence database and select the Date field you want to update.\n\tSelect the list on the field header, then select Edit field.\n\tTurn on the Include time toggle.\n\tChoose your preferred time format fr",
   "announced_date": "2026-06-08",
   "rollout_start_date": "2026-06-08",
   "rollout_end_date": "2026-07-13",
-  "last_seen_week": "2026-07-13",
+  "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-07-20",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
     }
   ]
 }

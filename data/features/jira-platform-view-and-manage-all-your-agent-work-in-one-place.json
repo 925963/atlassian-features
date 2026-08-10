@@ -2,12 +2,12 @@
   "id": "jira-platform-view-and-manage-all-your-agent-work-in-one-place",
   "title": "View and manage all your agent work in one place",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time and stay organized with My agent sessions, a new view on the For you page in Jira that lets you monitor and manage all your agent work from a single place. See which sessions need your input and take action immediately without having to search through individual work items. To get started with this change: Open Jira.\n\tSelect For you from the navigation menu.\n\tFrom the My agent sessions view, select any session to take action.",
   "announced_date": "2026-06-08",
   "rollout_start_date": "2026-06-08",
   "rollout_end_date": "2026-07-13",
-  "last_seen_week": "2026-07-13",
+  "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-07-20",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
     }
   ]
 }

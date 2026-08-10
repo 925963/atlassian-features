@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-consent-banner-perimeter-property-for-fedramp",
+  "title": "Consent banner: Perimeter property for FedRAMP",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Atlassian browser storage controls now includes a perimeter property for the consent banner. This update allows application developers to specify whether a consent banner applies to commercial or FedRAMP environments, ensuring that users receive the correct consent information based on their environment. Log in to your organization at admin.atlassian.com.\n\tGo to Security, then Consent banner.\n\tSelect the Perimeter property to choose between commercial or FedRAMP.",
+  "announced_date": "2026-07-27",
+  "rollout_start_date": "2026-07-27",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-07-27",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
+  "history": [
+    {
+      "date": "2026-07-27",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    }
+  ]
+}
