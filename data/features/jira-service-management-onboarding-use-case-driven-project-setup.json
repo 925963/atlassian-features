@@ -2,18 +2,23 @@
   "id": "jira-service-management-onboarding-use-case-driven-project-setup",
   "title": "Onboarding: Use-case driven project setup",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "New Jira Service Management users can now get started faster with a simplified onboarding experience that suggests the best project templates for their specific needs. By selecting a team type, such as IT support or HR, users receive tailored template recommendations that reduce setup time and help them realize value from the Jira Service Management app more quickly. To get started with this change Sign up for a new Jira Service Management site.\n\tOn the What kind of work do you do? screen, selec",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-07-27",
+  "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
     {
       "date": "2026-07-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
     }
   ]
 }

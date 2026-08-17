@@ -2,11 +2,11 @@
   "id": "jira-platform-personalized-onboarding-emails-for-new-users",
   "title": "Personalized onboarding emails for new users",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Onboard to Jira with tailored tips delivered straight to your inbox. If you create a work item on your first day, we’ll send you a personalized email the next business day. This email highlights one of your incomplete task and offers up to five smart suggestions to help you add context and make your work more actionable. Open Jira and create a new work item on your first day.\n\tEnsure the work item is incomplete (for example, it's missing a description or hasn't been assigned).\n\tCheck your email ",
   "announced_date": "2026-07-20",
   "rollout_start_date": "2026-07-20",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-07-27",
   "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-07-27",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

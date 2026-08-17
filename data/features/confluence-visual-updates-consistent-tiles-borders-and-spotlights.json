@@ -2,11 +2,11 @@
   "id": "confluence-visual-updates-consistent-tiles-borders-and-spotlights",
   "title": "Visual updates: Consistent tiles, borders, and spotlights",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We’ve updated several visual elements across Confluence to provide a more consistent and modern experience. These changes include migrating various components and spotlights to a standardized tile system, improving how labels are categorized, and updating border styles to align with the Atlassian Design System. To get started with this change: Open any page or space in Confluence.\n\tView your content, including labels, tile-based components, and in-product spotlights, to see the updated styling.\n",
   "announced_date": "2026-07-20",
   "rollout_start_date": "2026-07-20",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-07-27",
   "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-07-27",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

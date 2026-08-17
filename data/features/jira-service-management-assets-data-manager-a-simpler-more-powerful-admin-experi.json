@@ -2,11 +2,11 @@
   "id": "jira-service-management-assets-data-manager-a-simpler-more-powerful-admin-experi",
   "title": "Assets Data Manager: A simpler, more powerful admin experience",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We’ve updated the admin experience for Assets Data Manager in Jira Service Management to make setting up and managing your data sources easier, faster, and more intuitive. This new Data Manager admin experience ensures a consistent look and feel with the Atlassian apps you already use. We’ve also updated several key terms to be more descriptive of their function, helping you navigate your asset data with less friction.",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
-  "rollout_end_date": "2026-07-13",
+  "rollout_end_date": "2026-07-27",
   "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
@@ -34,6 +34,11 @@
       "date": "2026-07-27",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

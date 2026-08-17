@@ -2,11 +2,11 @@
   "id": "jira-platform-switch-to-a-work-item-dialog-from-the-preview-panel",
   "title": "Switch to a work item dialog from the preview panel",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Get a larger view of your work items without leaving your list. You can now open a work item in a dialog directly from the preview panel in List view and global search. From this dialog, you can navigate between work items using arrow buttons or keyboard shortcuts. Open a list view or perform a global search in Jira.\n\tSelect a work item to open it in the preview panel.\n\tSelect the expand button in the preview panel to open the work item in a modal.\n\tUse the navigation arrows within the dialog or",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
-  "rollout_end_date": "2026-07-13",
+  "rollout_end_date": "2026-07-27",
   "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-07-27",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "jira-platform-automation-integrate-with-cursor",
   "title": "Automation: Integrate with Cursor",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and streamline your development workflows by integrating Cursor with automation in Jira. This new action allows you to trigger Cursor tasks directly from your automation rules, helping your team stay focused and productive. To get started with this change Go to your Jira space and select Space settings, then Automation.\n\tSelect Create flow and select a trigger for your automation.\n\tSelect New action, then search for and select Use Cursor in Coding agents action from the list of availab",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
-  "rollout_end_date": "2026-07-13",
+  "rollout_end_date": "2026-07-27",
   "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-07-27",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

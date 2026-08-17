@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-work-item-view-add-existing-statuses-in-team-managed-spaces",
+  "title": "Work item view: Add existing statuses in team-managed spaces",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "In Jira team-managed spaces, you can now search for and select an existing status when adding a status from the Status field in the work item. If the status you need does not exist, you can create a new one. Open a work item in a team-managed Jira space.\n\tIn the Status field, select Add status.\n\tSearch for and select an existing status.\n\tIf you need a new status, enter its name and select Create status.",
+  "announced_date": "2026-08-03",
+  "rollout_start_date": "2026-08-03",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-03",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
+  "history": [
+    {
+      "date": "2026-08-03",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    }
+  ]
+}

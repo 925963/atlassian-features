@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-new-work-item-view-in-beta",
+  "title": "New work item view in beta",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Jira is introducing a refreshed work item experience that provides a clearer layout and more prominent core actions. This update simplifies common tasks and helps you focus on the information that matters most without changing your underlying data or integrations. Admins can enable the new work item view for their site. To enable the new work item experience for your site: In Jira, select Settings in the top navigation.\n\tSelect System under Jira admin settings.\n\tSelect Beta features from the lef",
+  "announced_date": "2026-08-03",
+  "rollout_start_date": "2026-08-03",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-03",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
+  "history": [
+    {
+      "date": "2026-08-03",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    }
+  ]
+}

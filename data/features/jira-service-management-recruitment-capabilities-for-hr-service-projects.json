@@ -2,12 +2,12 @@
   "id": "jira-service-management-recruitment-capabilities-for-hr-service-projects",
   "title": "Recruitment capabilities for HR service projects",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time and streamline your hiring process with new recruitment capabilities in Jira Service Management. When you create a new company-managed space using the HR Service Management template, you can now include dedicated tools for managing candidates and requisitions. These updates provide your HR teams with specialized workflows, queues, and work types to manage the entire recruitment lifecycle in one place. In Jira Service Management, go to Spaces, then select Create space.\n\tSelect the HR Se",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
   "rollout_end_date": "2026-07-20",
-  "last_seen_week": "2026-07-20",
+  "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
     {
@@ -29,6 +29,11 @@
       "date": "2026-07-27",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
     }
   ]
 }

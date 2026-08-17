@@ -2,18 +2,23 @@
   "id": "confluence-app-switcher-collapsed-sections-for-third-party-apps",
   "title": "App switcher: Collapsed sections for third-party apps",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "The app switcher now automatically collapses third-party apps into a single section when you have a large number of them installed. This change helps you find your Atlassian apps more quickly while keeping your workspace organized. In Jira or Confluence, open the app switcher from the top navigation bar.\n\tScroll to the third-party apps section to find the More apps button.\n\tSelect the section to expand and view your third-party apps.",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
   "rollout_end_date": null,
-  "last_seen_week": "2026-07-27",
+  "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
     {
       "date": "2026-07-27",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
     }
   ]
 }

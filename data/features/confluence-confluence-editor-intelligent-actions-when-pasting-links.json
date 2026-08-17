@@ -2,11 +2,11 @@
   "id": "confluence-confluence-editor-intelligent-actions-when-pasting-links",
   "title": "Confluence Editor: Intelligent actions when pasting links",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Confluence now offers intelligent, context-aware actions when you paste links into the editor. When you paste links, a menu will suggest specific actions to help you refine your work, such as summarizing linked content or changing its display. These AI-powered suggestions help you polish your docs and save time by automating common editing tasks directly at the moment of paste. To get started with this change Open a doc in the Confluence editor.\n\tPaste a single URL.\n\tSelect an action from the me",
   "announced_date": "2026-07-20",
   "rollout_start_date": "2026-07-20",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-07-27",
   "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-07-27",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

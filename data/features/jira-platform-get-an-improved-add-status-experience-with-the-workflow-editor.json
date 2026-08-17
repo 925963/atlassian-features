@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-get-an-improved-add-status-experience-with-the-workflow-editor",
+  "title": "Get an improved add status experience with the workflow editor",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "We've refreshed the add status experience in the workflow editor to make creating and choosing statuses clearer. We updated the wording throughout the dialog, and moved the create option into a fixed footer so it's always visible while you scroll. To get started with this change: Edit a workflow.\n\tSelect Add status in the toolbar at the top.\n\tSelect an existing status to add or create a new one.",
+  "announced_date": "2026-08-03",
+  "rollout_start_date": "2026-08-03",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-03",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
+  "history": [
+    {
+      "date": "2026-08-03",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    }
+  ]
+}

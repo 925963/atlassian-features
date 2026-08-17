@@ -2,12 +2,12 @@
   "id": "projects-oauth-20-support-for-goals-and-projects-api",
   "title": "OAuth 2.0 Support for Goals and Projects API",
   "product": "Projects",
-  "status": "rolling_out",
+  "status": "released",
   "description": "You can now authenticate to the Goals and projects APIs through OAuth2.0 (both 2LO and 3LO), instead of relying on personal tokens. For OAuth 2.0 (2LO) apps are created and managed in Atlassian Administration: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Directory > Service accounts.\n\tSelect the service account you want to create a credential for.\n\tSelect Create credentials.\n\tSelect OAuth 2.0, then select Next.\n\tSelect scopes to determine what the A",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
   "rollout_end_date": "2026-07-13",
-  "last_seen_week": "2026-07-27",
+  "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-07-27",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
     }
   ]
 }

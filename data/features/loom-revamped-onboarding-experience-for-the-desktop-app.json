@@ -2,11 +2,11 @@
   "id": "loom-revamped-onboarding-experience-for-the-desktop-app",
   "title": "Revamped onboarding experience for the desktop app",
   "product": "Loom",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "The Loom desktop app now features a revamped onboarding experience to help you get started more quickly. This update provides a clearer introduction to the app's features and layout, ensuring you can begin recording your video with ease. Open the Loom desktop app on your computer.\n\tFollow the on-screen prompts to explore the new onboarding flow.",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
-  "rollout_end_date": "2026-07-13",
+  "rollout_end_date": "2026-07-27",
   "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-07-27",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

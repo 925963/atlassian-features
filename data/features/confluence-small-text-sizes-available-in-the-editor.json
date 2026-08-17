@@ -2,12 +2,12 @@
   "id": "confluence-small-text-sizes-available-in-the-editor",
   "title": "Small text sizes available in the editor",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You can now change your text size to small in the editor across Atlassian apps like Jira and Confluence. This new formatting option helps you fit more information on the screen and create a clear visual hierarchy in your pages and issues. To apply small text size in the editor: Open the editor in your app.\n\tHighlight the text you want to resize.\n\tSelect the Text size menu from the toolbar.\n\tSelect Small.",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
   "rollout_end_date": "2026-07-20",
-  "last_seen_week": "2026-07-20",
+  "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
     {
@@ -64,6 +64,11 @@
       "date": "2026-07-27",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
     }
   ]
 }

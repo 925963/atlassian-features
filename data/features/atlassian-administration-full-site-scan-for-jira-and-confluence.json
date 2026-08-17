@@ -2,12 +2,12 @@
   "id": "atlassian-administration-full-site-scan-for-jira-and-confluence",
   "title": "Full site scan for Jira and Confluence",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Full site scan lets organization admins and Guard Detect scan all Jira and Confluence content to find sensitive data and export results for follow‑up. Full site scan is available to Guard Premium customers and can be launched from the Guard admin experience under the Content scan tab in the header. When you start a content scan, you can select what you’d like to scan. Make sure you’ve set up any custom detections you wish to scan before you start a content scan. In Guard Detect, select Content s",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
   "rollout_end_date": "2026-07-20",
-  "last_seen_week": "2026-07-20",
+  "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
     {
@@ -54,6 +54,11 @@
       "date": "2026-07-27",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
     }
   ]
 }

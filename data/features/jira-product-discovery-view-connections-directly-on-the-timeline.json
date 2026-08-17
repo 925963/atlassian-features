@@ -1,0 +1,19 @@
+{
+  "id": "jira-product-discovery-view-connections-directly-on-the-timeline",
+  "title": "View connections directly on the timeline",
+  "product": "Jira Product Discovery",
+  "status": "rolling_out_new",
+  "description": "Visualize relationships between ideas in-context by displaying connections directly within timeline views. Expand an idea card to view connected ideas as timeline bars, and understand how child initiatives or dependencies align with parent timelines. This update makes timing relationships visible during roadmap conversations without needing to navigate away from the view. To get started with this change: Open a Timeline view in your Jira Product Discovery space. To view this change, you’ll need ",
+  "announced_date": "2026-08-03",
+  "rollout_start_date": "2026-08-03",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-03",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
+  "history": [
+    {
+      "date": "2026-08-03",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    }
+  ]
+}

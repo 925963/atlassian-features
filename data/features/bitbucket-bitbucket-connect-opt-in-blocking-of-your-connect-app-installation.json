@@ -2,11 +2,11 @@
   "id": "bitbucket-bitbucket-connect-opt-in-blocking-of-your-connect-app-installation",
   "title": "Bitbucket Connect: Opt-in blocking of your Connect app installation",
   "product": "Bitbucket",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We have added the ability for you to block your Connect app from further installations by adding the 'blockInstall' flag in your app descriptor. When set to 'true', new installations of your app will fail. When set to 'false' or if the flag is absent from descriptor, new installations of your app will continue to work. Refer to https://developer.atlassian.com/cloud/bitbucket/app-descriptor/ for details.",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
-  "rollout_end_date": "2026-07-13",
+  "rollout_end_date": "2026-07-27",
   "last_seen_week": "2026-07-27",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
@@ -69,6 +69,11 @@
       "date": "2026-07-27",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

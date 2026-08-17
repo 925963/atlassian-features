@@ -2,12 +2,12 @@
   "id": "jira-platform-view-work-item-hierarchy-in-the-timeline",
   "title": "View work item hierarchy in the timeline",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira users can now view and navigate work item hierarchy directly from the timeline when filters are applied. This change introduces a hierarchy flyout that helps you understand the relationship between parent and child work items without losing your place in the timeline. To view the work item hierarchy: Go to the Timeline view in your Jira space.\n\tApply a filter to your work items.\n\tSelect Show hierarchy on an work item row.",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
   "rollout_end_date": "2026-07-20",
-  "last_seen_week": "2026-07-20",
+  "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-07-27",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-03",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
     }
   ]
 }
