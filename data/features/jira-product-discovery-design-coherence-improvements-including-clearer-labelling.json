@@ -2,12 +2,12 @@
   "id": "jira-product-discovery-design-coherence-improvements-including-clearer-labelling",
   "title": "Design coherence improvements including clearer labelling and purposeful motion",
   "product": "Jira Product Discovery",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We’re modernizing the experience across Atlassian apps with UI improvements that make moving between apps, features and pages feel seamless. These updates to labelling, motion and shapes help you and your team get work done in a familiar, predictable way.",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
   "rollout_end_date": "2026-07-27",
-  "last_seen_week": "2026-07-27",
+  "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-08-03",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "jira-platform-streamline-and-manage-custom-fields-options-in-your-site",
   "title": "Streamline and manage custom fields options in your site",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now scan for custom field options that aren't used in any work items or workflows by using tools that optimize your site. These tools let you bulk-disable them in one action, so you can keep each field under the 20,000 option limit. This ensures performance in your space stays predictable as your site grows. Read more about optimizing and reducing unused field options To streamline and manage custom fields in your site:",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
-  "rollout_end_date": "2026-07-20",
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "confluence-modernized-broken-link-and-restricted-access-screens",
   "title": "Modernized broken link and restricted access screens",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We’ve updated the design of broken link and restricted access screens to provide a more modern visual experience. These changes also include clearer guidance when you encounter missing content or access issues, helping you understand the next steps. To view this change: Navigate to a Confluence page that doesn’t exist or a page you don’t have permission to view.\n\tView the updated illustrations, typography, and clearer guidance.",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
-  "rollout_end_date": "2026-07-20",
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

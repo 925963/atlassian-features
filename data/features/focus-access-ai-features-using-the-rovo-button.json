@@ -2,18 +2,23 @@
   "id": "focus-access-ai-features-using-the-rovo-button",
   "title": "Access AI features using the Rovo Button",
   "product": "Focus",
-  "status": "rolling_out_new",
+  "status": "released",
   "description": "The Rovo button is now enabled in Focus. When you open the Rovo button, you'll have full access to AI-powered tools and actions. To start using Rovo in Focus, look for the Rovo button floating on the bottom right of your screen and select it to access Rovo actions and tools.",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-03",
+  "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
     {
       "date": "2026-08-03",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "rovo-rovo-chat-view-shared-links-and-files-in-your-history",
   "title": "Rovo Chat: View shared links and files in your history",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "released",
   "description": "Keep track of the context in your conversations with Rovo Chat. When you view your conversation history, you can now see a list of any links you pasted or files you uploaded during that session. This makes it easier to understand the background of your previous chats and quickly find the resources you shared with Rovo. To get started with this change Open Rovo Chat from your Atlassian app or the Rovo browser extension.\n\tSelect the History icon to view your previous conversations.\n\tChoose a conve",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
   "rollout_end_date": "2026-07-20",
-  "last_seen_week": "2026-08-03",
+  "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
     {
@@ -49,6 +49,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
     }
   ]
 }

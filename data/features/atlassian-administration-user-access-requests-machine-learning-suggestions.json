@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-user-access-requests-machine-learning-suggestions",
+  "title": "User access requests: Machine learning suggestions",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now use machine learning suggestions to help prioritize and manage user access requests in Atlassian Administration. By leveraging a core machine learning model, the app identifies and surfaces requests that are highly likely to be approved, allowing admins to focus on high-signal actions and reduce cognitive load when managing large volumes of requests. Go to Atlassian Administration (admin.atlassian.com).\n\tSelect your organization, then go to Apps, then User access requ",
+  "announced_date": "2026-08-10",
+  "rollout_start_date": "2026-08-10",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-10",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
+  "history": [
+    {
+      "date": "2026-08-10",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    }
+  ]
+}

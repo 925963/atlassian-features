@@ -1,0 +1,19 @@
+{
+  "id": "goals-set-default-access-levels-for-new-goals-and-projects",
+  "title": "Set default access levels for new goals and projects",
+  "product": "Goals",
+  "status": "rolling_out_new",
+  "description": "Site admins and app admins can now set the default access level for every new goal and project. This change allows organizations to choose between an open editing model or a more restricted viewing model by default, ensuring consistent governance across the app without requiring manual updates for each new item. To set the default access levels for goals: In the Goals app, select Settings, then select Goals settings.\n\tSelect the Access and permissions tab.\n\tIn the Default access for new goals me",
+  "announced_date": "2026-08-10",
+  "rollout_start_date": "2026-08-10",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-10",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
+  "history": [
+    {
+      "date": "2026-08-10",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    }
+  ]
+}

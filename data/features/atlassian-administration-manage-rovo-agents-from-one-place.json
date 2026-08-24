@@ -2,11 +2,11 @@
   "id": "atlassian-administration-manage-rovo-agents-from-one-place",
   "title": "Manage Rovo agents from one place",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organization admins can now manage and govern Rovo agents from a central location in Atlassian Administration. This update provides visibility into all agents across your organization and allows you to set default access policies for newly created agents. By centralizing these controls, you can ensure better security and compliance without searching across individual sites. To get started with this change: Log in to Atlassian Administration at admin.atlassian.com.\n\tSelect Rovo, then select Agent",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
-  "rollout_end_date": "2026-07-20",
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

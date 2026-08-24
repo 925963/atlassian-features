@@ -2,12 +2,12 @@
   "id": "jira-platform-work-with-agents-from-your-jira-for-you-page",
   "title": "Work with agents from your Jira For you page",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time and streamline your workflow by delegating tasks to agents directly from the For you page in Jira. You can now invoke agents on work items in your Recommended and Assigned to me tabs without leaving your current view. Additionally, a new Agents need your input section surfaces sessions that require your input or are ready for review, helping you stay on top of delegated work. Go to the For you page in Jira.\n\tHover over a work item in the Recommended or Assigned to me tab.\n\tSelect Work ",
   "announced_date": "2026-06-08",
   "rollout_start_date": "2026-06-08",
   "rollout_end_date": "2026-07-27",
-  "last_seen_week": "2026-07-27",
+  "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
   "history": [
     {
@@ -54,6 +54,11 @@
       "date": "2026-08-03",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
     }
   ]
 }

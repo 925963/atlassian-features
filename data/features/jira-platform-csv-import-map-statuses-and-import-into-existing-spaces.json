@@ -2,11 +2,11 @@
   "id": "jira-platform-csv-import-map-statuses-and-import-into-existing-spaces",
   "title": "CSV import: Map statuses and import into existing spaces",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time when moving data into Jira Cloud by importing CSV files directly into your existing spaces. This update to the CSV importer allows you to add new work items to a space and map status values from your file to existing Jira statuses, ensuring your data aligns with your current workflows. You need to be a system or organization admin to do this. In Jira, go to Settings, then System.\n\tSelect External system import, then CSV.\n\tSelect an existing space from the dropdown menu as your import d",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
-  "rollout_end_date": "2026-07-20",
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

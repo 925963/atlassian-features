@@ -2,12 +2,12 @@
   "id": "jira-platform-view-work-items-with-parent-work-items-from-other-spaces-in-the-li",
   "title": "View work items with parent work items from other spaces in the List view hierarchy",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "This update restores the ability to view work items with parent work items from other spaces when Show hierarchy is enabled in the List view in Jira. Open the List view in any Jira space.\n\tSelect More actions (···) and toggle on Show hierarchy. Work items having parent work items in another spaces should now be visible in the List view.",
   "announced_date": "2026-07-20",
   "rollout_start_date": "2026-07-20",
   "rollout_end_date": "2026-07-27",
-  "last_seen_week": "2026-07-27",
+  "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-03",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
     }
   ]
 }

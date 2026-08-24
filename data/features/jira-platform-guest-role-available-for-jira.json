@@ -2,11 +2,11 @@
   "id": "jira-platform-guest-role-available-for-jira",
   "title": "Guest role available for Jira",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Collaborate with external partners and contractors by inviting them to Jira as guests. The guest role lets you provide restricted access to specific spaces in Jira without consuming a paid seat, helping your team work with external contributors while you maintain security and control. How to invite guests to Jira",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
-  "rollout_end_date": "2026-07-20",
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
@@ -69,6 +69,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

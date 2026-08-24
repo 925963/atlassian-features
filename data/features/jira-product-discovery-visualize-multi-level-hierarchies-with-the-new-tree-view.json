@@ -2,11 +2,11 @@
   "id": "jira-product-discovery-visualize-multi-level-hierarchies-with-the-new-tree-view",
   "title": "Visualize multi-level hierarchies with the new Tree view",
   "product": "Jira Product Discovery",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Jira Product Discovery Premium now includes a Tree view to help you organize ideas into multi-level custom hierarchies. This view type allows you to better understand the relationships between different items and manage complex product roadmaps with ease, including roadmap planning and cross-space idea linking through connection fields. Open your space in Jira Product Discovery.\n\tSelect + Create a view from the sidebar.\n\tChoose Tree view from the list of available view types.\n\tConfigure your hie",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
-  "rollout_end_date": "2026-07-20",
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
@@ -49,6 +49,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

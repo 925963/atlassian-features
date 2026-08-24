@@ -2,11 +2,11 @@
   "id": "jira-platform-streamline-work-item-security-levels-in-your-site",
   "title": "Streamline work item security levels in your site",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "To help you optimze your work item security levels, we've introduced tools that allow you to find and bulk-remove levels that aren't used in any work items. This ensures you stay within the limit of 50 levels per scheme and keeps your site fast and reliable. Discover more about optimizing work item security levels in your space To manage work item security levels in your site:",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
-  "rollout_end_date": "2026-07-20",
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

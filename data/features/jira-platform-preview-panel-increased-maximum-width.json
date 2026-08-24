@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-preview-panel-increased-maximum-width",
+  "title": "Preview panel: Increased maximum width",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "We've increased the maximum width of the preview panel for Jira’s list to help you view more fields and content without having to open the work item in a modal or new tab. This change allows for faster triage and editing while maintaining the context of your list. In Jira, go to the list view.\n\tSelect a work item from the list to open the preview panel.\n\tDrag the edge of the preview panel to expand it to the new maximum width.",
+  "announced_date": "2026-08-10",
+  "rollout_start_date": "2026-08-10",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-10",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
+  "history": [
+    {
+      "date": "2026-08-10",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    }
+  ]
+}

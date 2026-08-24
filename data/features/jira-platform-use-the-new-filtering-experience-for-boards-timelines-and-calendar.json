@@ -2,11 +2,11 @@
   "id": "jira-platform-use-the-new-filtering-experience-for-boards-timelines-and-calendar",
   "title": "Use the new filtering experience for boards, timelines, and calendars",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Filter work items To use the new filtering experience: Open a business board, business timeline, or calendar in Jira.\n\tSelect the Filters menu at the top of the view.\n\tChoose the criteria you want to filter by, such as Assignee, Status, or Priority.\n\tSelect multiple values within a category to refine your results instantly.",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

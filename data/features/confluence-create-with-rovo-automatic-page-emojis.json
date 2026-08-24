@@ -2,12 +2,12 @@
   "id": "confluence-create-with-rovo-automatic-page-emojis",
   "title": "Create with Rovo: Automatic page emojis",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Confluence now automatically suggests and applies a page emoji when you create a page using Create with Rovo. This enhancement uses AI to select a work-appropriate emoji based on your page content, helping you create more polished and visually distinct pages with less effort. In Confluence, select Create in the top navigation bar, then Create with Rovo.\n\tEnter your prompt and generate your page content.\n\tReview the automatically applied emoji in the page title area.\n\tSelect the emoji to change o",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
   "rollout_end_date": "2026-07-27",
-  "last_seen_week": "2026-07-27",
+  "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-08-03",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
     }
   ]
 }

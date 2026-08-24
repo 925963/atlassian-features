@@ -2,11 +2,11 @@
   "id": "jira-platform-preview-work-items-from-the-comments-column-in-list-view",
   "title": "Preview work items from the comments column in list view",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Enjoy a more consistent experience when managing your work for business spaces in Jira. When you select a cell in the Comments column, work items now open in the preview pane to match other views across the app. To view this change: Open your business space in Jira and select List.\n\tLocate the Comments column for any work item.\n\tSelect the comment icon or text in that column to open the preview pane.",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
-  "rollout_end_date": "2026-07-20",
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

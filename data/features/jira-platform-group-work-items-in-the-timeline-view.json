@@ -2,11 +2,11 @@
   "id": "jira-platform-group-work-items-in-the-timeline-view",
   "title": "Group work items in the timeline view",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organize work more effectively by grouping work items on your timeline. You can now group your work by fields like assignee, status, or labels to see who’s working on what and better manage your team’s capacity. This helps you visualize workload at a glance and ensures work is distributed fairly across the team. To group work items: Go to your Jira space and select Timeline from the navigation.\n\tSelect the Group by menu at the top of the timeline.\n\tChoose the field you want to reorganize your wo",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
-  "rollout_end_date": "2026-07-20",
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
@@ -49,6 +49,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

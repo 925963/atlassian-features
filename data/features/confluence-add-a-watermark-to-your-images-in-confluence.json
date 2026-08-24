@@ -2,12 +2,12 @@
   "id": "confluence-add-a-watermark-to-your-images-in-confluence",
   "title": "Add a watermark to your images in Confluence",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Site and space admins can now manage watermarking settings directly within Confluence. This change provides the admins with the necessary controls to manage how watermarks are applied to images, ensuring better oversight of data security and branding across the app. This feature is available to Confluence Enterprise plans. To manage watermark settings: Log in to your Confluence site and choose your space.\n\tSelect the more actions (···) icon next to your space name in the side navigation.\n\tSelect",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
   "rollout_end_date": "2026-07-27",
-  "last_seen_week": "2026-07-27",
+  "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
     {
@@ -74,6 +74,11 @@
       "date": "2026-08-03",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
     }
   ]
 }

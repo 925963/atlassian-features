@@ -2,11 +2,11 @@
   "id": "rovo-rovo-centralized-overview-for-admins",
   "title": "Rovo: Centralized overview for admins",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Atlassian Administration now includes a centralized overview page for Rovo. This new landing experience helps organization admins discover key capabilities, take recommended actions, and explore AI-powered experiences in one place. By providing a clear entry point, the overview page makes it easier to understand Rovo and drive adoption across your organization. Log in to Atlassian Administration at admin.atlassian.com.\n\tSelect your organization.\n\tSelect Rovo overview from the sidebar to view the",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
-  "rollout_end_date": "2026-07-20",
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

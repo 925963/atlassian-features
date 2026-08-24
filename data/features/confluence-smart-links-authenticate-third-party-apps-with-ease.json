@@ -2,12 +2,12 @@
   "id": "confluence-smart-links-authenticate-third-party-apps-with-ease",
   "title": "Smart links: Authenticate third-party apps with ease",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "When you view a page in Confluence that contains links from third-party apps you haven't authenticated yet, a new nudge will prompt you to connect those apps. This helps you see rich previews and live embeds immediately, ensuring you get the full context of the content without having to manually connect each link or switch between different tools. Open a Confluence page that contains unauthenticated third-party links.\n\tLocate the nudge flyout that appears as you scroll through the page.\n\tSelect ",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
   "rollout_end_date": "2026-07-27",
-  "last_seen_week": "2026-07-27",
+  "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
     {
@@ -74,6 +74,11 @@
       "date": "2026-08-03",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
     }
   ]
 }

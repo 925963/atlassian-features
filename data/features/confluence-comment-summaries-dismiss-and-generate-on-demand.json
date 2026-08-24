@@ -2,11 +2,11 @@
   "id": "confluence-comment-summaries-dismiss-and-generate-on-demand",
   "title": "Comment summaries: Dismiss and generate on demand",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Confluence users can now dismiss automatic comment summaries and generate them on demand. This update provides more control over the AI-powered experience in Confluence, allowing you to manage when and how you view summaries in the comment panel. Summarize comments using Atlassian Intelligence To get started with this change Open the comment panel on any Confluence page with multiple comments.\n\tSelect Dismiss on an automatic summary to remove it from your view.\n\tSelect Generate in the comment pa",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-03",
   "last_seen_week": "2026-08-03",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-08-03",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026"
+    },
+    {
+      "date": "2026-08-10",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

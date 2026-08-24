@@ -1,0 +1,19 @@
+{
+  "id": "studio-automation-new-settings-panel-in-the-rule-builder",
+  "title": "Automation: New settings panel in the rule builder",
+  "product": "Studio",
+  "status": "rolling_out_new",
+  "description": "We’ve moved several configuration options in the automation rule builder to a dedicated settings panel. This change helps you manage your automation rules more effectively.. To get started with this change: Open an existing automation rule or create a new one.\n\tSelect the More menu (represented by three dots) in the rule builder.\n\tSelect Settings to open the new panel and manage your rule configuration.",
+  "announced_date": "2026-08-10",
+  "rollout_start_date": "2026-08-10",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-10",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
+  "history": [
+    {
+      "date": "2026-08-10",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    }
+  ]
+}
