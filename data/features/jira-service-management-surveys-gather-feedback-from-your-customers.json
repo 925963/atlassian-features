@@ -2,12 +2,12 @@
   "id": "jira-service-management-surveys-gather-feedback-from-your-customers",
   "title": "Surveys: Gather feedback from your customers",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Surveys in Jira Service Management give you a simple way to listen to people across your organization at key moments, without the need for extra tools. Surveys now lets you categorize surveys by type, control single or multiple response submissions and browse surveys in a filterable table view. Check to see if you have Surveys: If you don’t see Surveys in the navigation on the left in your service space, you’ll need to activate it. You need to be a space admin to activate surveys, in Features.",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
   "rollout_end_date": "2026-08-03",
-  "last_seen_week": "2026-08-03",
+  "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
     {
@@ -74,6 +74,11 @@
       "date": "2026-08-10",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "confluence-reorder-pages-in-the-page-tree-using-keyboard-shortcuts",
   "title": "Reorder pages in the page tree using keyboard shortcuts",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Organizing your content in Confluence just got more accessible. You can now reorder pages in the page tree using keyboard shortcuts, providing a powerful alternative to mouse-based drag and drop. This change ensures that everyone, including keyboard-only users and those using assistive technologies, can easily structure their workspace. To move a page using keyboard shortcuts: Open the Move dialog for your page.\n\tUse your keyboard to navigate to the move up, move down, move out, or move in butto",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
   "rollout_end_date": "2026-08-03",
-  "last_seen_week": "2026-08-03",
+  "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-10",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
     }
   ]
 }

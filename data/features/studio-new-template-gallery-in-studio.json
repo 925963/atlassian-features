@@ -1,0 +1,19 @@
+{
+  "id": "studio-new-template-gallery-in-studio",
+  "title": "New template gallery in Studio",
+  "product": "Studio",
+  "status": "rolling_out_new",
+  "description": "Save time and streamline your workflows with the new templates in Studio for automation flows and agents. This update provides a dedicated space to browse, configure, and enable templates, making it easier to implement powerful AI solutions across your work. Go to the app switcher and select Rovo Studio.\n\tSelect Templates from the sidebar to browse available templates.",
+  "announced_date": "2026-08-17",
+  "rollout_start_date": "2026-08-17",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
+  "history": [
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    }
+  ]
+}

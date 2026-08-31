@@ -2,11 +2,11 @@
   "id": "jira-platform-swimlanes-a-new-way-to-group-work-on-business-boards",
   "title": "Swimlanes: A new way to group work on business boards",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "We're introducing swimlanes to business boards in Jira to help you better visualize and manage your team's work. This change replaces column-based grouping with horizontal swimlanes, allowing you to keep your columns fixed to status while grouping work by other meaningful dimensions, such as assignee, priority, or category. This update makes it easier to track workflow progression and grouping context simultaneously, reducing cognitive load for both team members and managers. Open a business boa",
   "announced_date": "2026-08-10",
   "rollout_start_date": "2026-08-10",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-10",
   "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-08-10",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

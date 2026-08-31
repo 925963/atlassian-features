@@ -2,11 +2,11 @@
   "id": "jira-platform-ability-to-add-agent-to-workflow-transition-on-company-managed-boa",
   "title": "Ability to add agent to workflow transition on Company-managed boards",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and streamline your processes by adding agents directly to your workflow from your board in Jira. This update allows you to integrate automation and AI capabilities into your team's work without leaving your current view, making it easier to manage how work moves from start to finish. To get started with this change Navigate to your board in Jira.\n\tHover the board column and see Add agent icon button, provided if the user has the required permission.\n\tClick on the button and wait for t",
   "announced_date": "2026-06-08",
   "rollout_start_date": "2026-06-08",
-  "rollout_end_date": "2026-07-27",
+  "rollout_end_date": "2026-08-10",
   "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
   "history": [
@@ -59,6 +59,11 @@
       "date": "2026-08-10",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "jira-product-discovery-standardize-views-across-spaces-with-global-views",
   "title": "Standardize views across spaces with global views",
   "product": "Jira Product Discovery",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira admins can now create and manage global views to standardize configurations across multiple Jira Product Discovery spaces. This helps teams enforce processes at scale and ensures a consistent experience by providing pre-configured views that can be automatically added to new spaces. To get started with this change: Go to Settings (the cog icon) in the top navigation bar.\n\tUnder Jira admin settings, select Jira apps, then choose Jira Product Discovery from the sidebar.\n\tSelect Global views t",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
   "rollout_end_date": "2026-08-03",
-  "last_seen_week": "2026-08-03",
+  "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-10",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
     }
   ]
 }

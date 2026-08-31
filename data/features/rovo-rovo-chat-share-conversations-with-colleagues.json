@@ -1,0 +1,19 @@
+{
+  "id": "rovo-rovo-chat-share-conversations-with-colleagues",
+  "title": "Rovo Chat: Share conversations with colleagues",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "Save time and maintain context by sharing your Rovo Chat conversations with others in your organization. Instead of copying text or taking screenshots, you can now generate a secure link to share a specific point in your chat history, allowing colleagues to view the discussion or use it as a starting point for their own work in Atlassian Rovo. To get started with this change Open a conversation in Rovo Chat that you want to share.\n\tSelect the Share chat button.\n\tChoose to create a link for anyon",
+  "announced_date": "2026-08-17",
+  "rollout_start_date": "2026-08-17",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
+  "history": [
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    }
+  ]
+}

@@ -2,11 +2,11 @@
   "id": "atlassian-administration-agent-profiles-apply-default-settings",
   "title": "Agent profiles: Apply default settings",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organization admins can now apply default settings to agent profiles in Atlassian Administration. This change helps admins maintain consistency across their service teams and saves time when setting up new agents. Go to Atlassian Administration, then Rovo.\n\tSelect Agents.\n\tChoose an agent to view their Agent Profile.\n\tFrom the dropdown menu at the top, select Add default access.",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
-  "rollout_end_date": "2026-07-27",
+  "rollout_end_date": "2026-08-10",
   "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-08-10",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

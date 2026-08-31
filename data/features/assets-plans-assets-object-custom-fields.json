@@ -1,0 +1,19 @@
+{
+  "id": "assets-plans-assets-object-custom-fields",
+  "title": "Plans: Assets object custom fields",
+  "product": "Assets",
+  "status": "rolling_out_new",
+  "description": "You can now add Asset Objects custom fields to your plans in Jira. This update allows you to view, edit, group, and filter by Assets values directly on work items within a plan, providing better visibility and control over your Assets during the planning process. Open your plan in Jira.\n\tGo to Plan Settings, then Timeline.\n\tChoose Add field and select the Asset Objects field you want to include.\n\tReturn to the Plan Timeline view.\n\tUse Add Fields dropdown to select your Asset Objects field and ad",
+  "announced_date": "2026-08-17",
+  "rollout_start_date": "2026-08-17",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
+  "history": [
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    }
+  ]
+}

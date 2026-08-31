@@ -2,18 +2,23 @@
   "id": "confluence-a-simpler-way-to-publish-to-confluence",
   "title": "A simpler way to publish to Confluence",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Save time when adding content to Confluence with a simplified publishing flow. We've updated the Add to Confluence dialog to remove the live doc toggle, making it faster and easier to finalize your work. Open the Add to Confluence dialog in your app.\n\tReview your content in the finalize popup.\n\tSelect Publish to add your content to Confluence.",
   "announced_date": "2026-08-10",
   "rollout_start_date": "2026-08-10",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
   "history": [
     {
       "date": "2026-08-10",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
     }
   ]
 }

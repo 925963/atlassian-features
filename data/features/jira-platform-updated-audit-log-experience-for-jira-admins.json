@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-updated-audit-log-experience-for-jira-admins",
+  "title": "Updated audit log experience for Jira admins",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Jira admins can now use an improved audit log to track and troubleshoot changes. This update provides a more consistent experience for managing important events, such as permission changes and configuration updates, helping you maintain better visibility and security. In Jira, select Settings, then System.\n\tFrom the sidebar, select Audit log.",
+  "announced_date": "2026-08-17",
+  "rollout_start_date": "2026-08-17",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
+  "history": [
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    }
+  ]
+}

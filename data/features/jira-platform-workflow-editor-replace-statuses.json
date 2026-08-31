@@ -2,11 +2,11 @@
   "id": "jira-platform-workflow-editor-replace-statuses",
   "title": "Workflow editor: Replace statuses",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time when editing your workflows in Jira by replacing an existing status with another one in a single action. This update allows you to swap statuses without manually editing transitions, helping you maintain your workflow structure while making necessary adjustments. Edit a Jira workflow.\n\tSelect the status you want to replace.\n\tSelect the replace option in the status details panel.\n\tSelect an existing status or create a new one to take its place.\n\tUpdate your workflow and select which sta",
   "announced_date": "2026-07-20",
   "rollout_start_date": "2026-07-20",
-  "rollout_end_date": "2026-07-27",
+  "rollout_end_date": "2026-08-10",
   "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-10",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "jira-service-management-multi-project-queue-view",
   "title": "Multi-project queue view",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "released",
   "description": "We have introduced a new way to view and manage work items across multiple projects in Jira Service Management. This update allows you to see queues from several projects in a single, unified list view, making it easier to track and prioritize work items without switching between projects. To access and use the new multi project queue view: Open Jira Service Management in your Atlassian app.\n\tNavigate to the Views section from the main menu.\n\tSelect the new List option to see work items from mul",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-07-27",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -124,6 +124,11 @@
       "date": "2026-08-10",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
     }
   ]
 }

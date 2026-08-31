@@ -2,12 +2,12 @@
   "id": "jira-platform-upgrade-from-a-standard-to-premium-plan",
   "title": "Upgrade from a Standard to Premium plan",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "released",
   "description": "If you're an admin on a Jira or Jira Service Management Standard plan, you'll now see an Upgrade button. This lets you explore what features are included in a Premium plan and decide if it's the right upgrade for your team.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-07-27",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -124,6 +124,11 @@
       "date": "2026-08-10",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
     }
   ]
 }

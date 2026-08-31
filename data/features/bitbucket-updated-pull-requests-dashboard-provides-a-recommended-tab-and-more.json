@@ -2,11 +2,11 @@
   "id": "bitbucket-updated-pull-requests-dashboard-provides-a-recommended-tab-and-more",
   "title": "Updated pull requests dashboard provides a 'Recommended' tab and more",
   "product": "Bitbucket",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We have updated the 'For you' dashboard on your workspace to help you and your team reduce the time spent finding the pull requests you want or need to work on or review. We moved the Pull requests section to the top of the dashboard, and we added the Recommended tab, as well as the other tabs to help you get to the view you need when you need it.",
   "announced_date": "2026-07-20",
   "rollout_start_date": "2026-07-20",
-  "rollout_end_date": "2026-07-27",
+  "rollout_end_date": "2026-08-10",
   "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-10",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

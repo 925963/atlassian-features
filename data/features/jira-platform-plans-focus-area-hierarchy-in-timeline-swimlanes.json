@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-plans-focus-area-hierarchy-in-timeline-swimlanes",
+  "title": "Plans: Focus Area hierarchy in timeline swimlanes",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "When you group your timeline by Focus Area in Jira, swimlanes now display your Focus Area hierarchy. This update allows you to see the highest-level Focus Area by default and expand it to drill down into work connected to child Focus Areas, matching how they are structured in Focus. This change helps you better visualize and manage work across different levels of your organization within the Jira app. To get started with this change Open your plan in Jira and go to the Timeline view.\n\tSelect the",
+  "announced_date": "2026-08-17",
+  "rollout_start_date": "2026-08-17",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-17",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
+  "history": [
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    }
+  ]
+}

@@ -2,11 +2,11 @@
   "id": "bitbucket-internal-packages-are-available-on-standard-and-premium-plans",
   "title": "Internal packages are available on Standard and Premium plans",
   "product": "Bitbucket",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Internal packages let repository admins make a package readable by every member of a Bitbucket Cloud workspace, without giving them access to the linked repository. Use internal packages to share common packages across a workspace without needing to open the source repository to consumers. Internal packages are read-only for workspace members who don’t have repository access. They can browse, pull, download and install the package, but can’t push, delete or manage it.",
   "announced_date": "2026-07-20",
   "rollout_start_date": "2026-07-20",
-  "rollout_end_date": "2026-07-27",
+  "rollout_end_date": "2026-08-10",
   "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-10",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

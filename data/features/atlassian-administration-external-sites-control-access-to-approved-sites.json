@@ -2,12 +2,12 @@
   "id": "atlassian-administration-external-sites-control-access-to-approved-sites",
   "title": "External sites: Control access to approved sites",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Organization admins can now create an “External sites” policy in Atlassian Administration to limit which Atlassian sites users can access from their corporate network. This security feature helps prevent data exfiltration to unauthorized sites by ensuring users only interact with approved Atlassian apps and sites while on your network. This feature requires a Atlassian Guard Standard or Atlassian Guard Premium subscription. Go to Atlassian Administration. Select your organization if you have mor",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
   "rollout_end_date": "2026-08-03",
-  "last_seen_week": "2026-08-03",
+  "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-08-10",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "goals-default-views-in-the-directory",
   "title": "Default views in the directory",
   "product": "Goals",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time and stay organized by setting a default view for your goals in the Atlassian Goals app. This change allows you to choose the most relevant view for your goals directory, ensuring you see the information you need as soon as you open the app. Create a saved view if you haven’t already.\n\t\n\t\tPro tip: Try saving views by Team, Tag, or Status to keep things organized.\n\t\n\t\n\tNavigate to your preferred Saved view\n\tClick the More actions (⋯) menu\n\tSelect Set as default view To remove a default v",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
   "rollout_end_date": "2026-08-03",
-  "last_seen_week": "2026-08-03",
+  "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-08-10",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
     }
   ]
 }

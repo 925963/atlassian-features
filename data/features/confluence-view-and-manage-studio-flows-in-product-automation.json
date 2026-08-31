@@ -2,12 +2,12 @@
   "id": "confluence-view-and-manage-studio-flows-in-product-automation",
   "title": "View and manage Studio flows in Product Automation",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Manage your automation flows more effectively with the new ability to view Studio flows directly within Product Automation. This update provides a centralized view of your flows, making it easier to track and organize automated processes across your Atlassian apps. Open your Atlassian app and navigate to Product Automation.\n\tSelect the Studio flows tab from the automation list.\n\tReview the list of available flows..",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
   "rollout_end_date": "2026-08-03",
-  "last_seen_week": "2026-08-03",
+  "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-08-10",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
     }
   ]
 }

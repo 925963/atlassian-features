@@ -2,12 +2,12 @@
   "id": "jira-platform-code-feature-is-moving-to-development-in-jira",
   "title": "Code feature is moving to Development in Jira",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "The Code in Jira feature will now have a new home within Development in Jira. Starting July 12, 2026, you’ll no longer have separate Code page in your software space in Jira, and Development will be the only place to access the code features. You can start using Development today, where all code features, including your existing app connections and data, are already available. There you’ll also find data from other integrated apps, key metrics, work suggestions, and more. Find out more about Dev",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
   "rollout_end_date": "2026-08-03",
-  "last_seen_week": "2026-08-03",
+  "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-08-10",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "jira-platform-code-blocks-enhanced-formatting-and-language-detection",
   "title": "Code blocks: Enhanced formatting and language detection",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Code blocks in Jira and Confluence now include several improvements that make technical content easier to write, format, and read. New code blocks can detect supported languages automatically, the language picker now surfaces recently used languages, the floating toolbar includes controls for formatting code and line numbers, wrap setting is now persistent and clicking the code block border selects the whole block for easier editing. Use these improvements while editing code blocks in Jira or Co",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
-  "rollout_end_date": "2026-07-27",
+  "rollout_end_date": "2026-08-10",
   "last_seen_week": "2026-08-10",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
@@ -49,6 +49,11 @@
       "date": "2026-08-10",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "jira-platform-faster-work-item-execution-with-agent-readiness",
   "title": "Faster work item execution with agent readiness",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We’re testing a smarter way to get AI agents working for you even faster. Some people in your organization may be part of an Agent Readiness experiment. This new check reviews your Jira work items to see if they have enough information for your agent to start immediately – skipping the planning phase so you get your results sooner. Assign a work item to an agent as you normally would. If the experiment is active, you’ll see a message: “Rovo is reviewing the work item.”",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
   "rollout_end_date": "2026-08-03",
-  "last_seen_week": "2026-08-03",
+  "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-08-10",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-17",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
     }
   ]
 }
