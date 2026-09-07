@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-reducing-issue-terminology-in-jira",
+  "title": "Reducing ‘issue’ terminology in Jira",
+  "product": "Jira Service Management",
+  "status": "rolling_out",
+  "description": "We’re reducing the use of 'issue' terminology in an effort to simplify our language and better suit all team types.",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}

@@ -2,11 +2,11 @@
   "id": "jira-platform-plans-custom-field-limit-enforcement",
   "title": "Plans: Custom field limit enforcement",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Jira now enforces a limit of 40 custom fields per plan to improve backend performance and ensure a faster loading experience. If your plan already exceeds this limit, you can continue to use and remove existing custom fields, but you won't be able to add new ones until the total count is below 40. Open your plan in Jira.\n\tSelect the More actions (three dots) menu, then choose Plan settings.\n\tSelect the Timeline tab to view and manage your custom fields.",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
-  "rollout_end_date": "2026-08-03",
+  "rollout_end_date": "2026-08-17",
   "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-17",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "rovo-manage-individual-capacity-planning-with-rovo-chat",
   "title": "Manage individual capacity planning with Rovo Chat",
   "product": "Rovo",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "You can now use Rovo to manage your individual capacity planning in Jira. By using Rovo Chat, you can perform actions that directly update your capacity planning experience, helping you stay organized and manage your workload more efficiently. To use to Rovo for capacity planning: Open Rovo from the navigation bar or the sidebar in Jira.\n\tStart a conversation in Rovo chat by entering /manage-capacity-plan.\n\tAsk Rovo to perform actions related to your individual capacity planning, such as updatin",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
   "rollout_end_date": "2026-08-10",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-08-17",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "bitbucket-pipelines-granular-deployment-permissions",
   "title": "Pipelines: Granular deployment permissions",
   "product": "Bitbucket",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Bitbucket Cloud is introducing granular deployment permissions for deployment environments in Bitbucket Pipelines. Repository admins can now control exactly which individual users and workspace groups are allowed to deploy to each environment, helping teams protect sensitive environments like Production while allowing authorized non-admin users to trigger deployments. To get started with this change Go to Repository settings, then Deployments.\n\tSelect the deployment environment you want to manag",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
   "rollout_end_date": "2026-08-10",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-08-17",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

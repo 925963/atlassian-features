@@ -1,0 +1,19 @@
+{
+  "id": "confluence-request-an-edition-upgrade-to-premium",
+  "title": "Request an edition upgrade to Premium",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "End users in Confluence can now request an edition upgrade to Premium from Standard. This gives users a direct way to express interest in advanced features, helping organizations understand demand for Confluence Premium. To get started with this change: Open Confluence as an end user who doesn’t have billing permissions on a Standard edition site.\n\tLook for the Request to try action on locked Premium features, to request an upgrade to Premium in the user interface.\n\tFollow the prompts to submit ",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}

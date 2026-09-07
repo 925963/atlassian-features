@@ -2,11 +2,11 @@
   "id": "atlassian-administration-new-layout-and-detailed-pages-to-manage-connectors",
   "title": "New layout and detailed pages to manage connectors",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organization admins can now manage connectors in Atlassian Administration using a new table layout and dedicated detail pages. These updates help you monitor sync status and configuration details for your teamwork graph and search data. To view this change: Go to Atlassian Administration. Select your organization if you have more than one.\n\tFrom the left navigation, select Apps, then select Connectors.\n\tSelect a connector from the list to view its new detail page.",
   "announced_date": "2026-08-10",
   "rollout_start_date": "2026-08-10",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-17",
   "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-08-17",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

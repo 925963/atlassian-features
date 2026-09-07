@@ -2,12 +2,12 @@
   "id": "atlassian-administration-audit-logs-search-by-authentication-type-and-on-behalf-",
   "title": "Audit logs: Search by authentication type and on behalf of users",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Organization admins can now filter audit logs in Atlassian Administration by authentication type and by actions performed on behalf of other users. This update helps admins more effectively monitor security events and troubleshoot access issues across their Atlassian organization. To filter audit logs: Go to Atlassian Administration. Select your organization if you have more than one.\n\tGo to Security, then Audit log.\n\tUse the new Authentication type and On behalf of filters to refine your search",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
   "rollout_end_date": "2026-08-10",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
     {
@@ -54,6 +54,11 @@
       "date": "2026-08-17",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

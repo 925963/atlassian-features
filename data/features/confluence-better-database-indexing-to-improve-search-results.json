@@ -2,12 +2,12 @@
   "id": "confluence-better-database-indexing-to-improve-search-results",
   "title": "Better database indexing to improve search results",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We're making it easier to find information in Confluence by including the content within databases in search results. Previously, searches only considered database titles, but now, the text inside databases will also be indexed, providing more comprehensive and relevant search results.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-03-09",
   "rollout_end_date": "2026-08-10",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
     {
@@ -129,6 +129,11 @@
       "date": "2026-08-17",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

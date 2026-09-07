@@ -2,12 +2,12 @@
   "id": "jira-product-discovery-see-more-delivery-details-without-leaving-jira-product-di",
   "title": "See more delivery details without leaving Jira Product Discovery",
   "product": "Jira Product Discovery",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "The Delivery tab in Jira Product Discovery now lets you choose which fields to display for linked delivery work items. Add fields such as assignee, sprint, fix versions, due date, story points right alongside the default summary and status columns. Linked items coming from Jira Data Center will not have team field available due to technical limitations. You can also resize columns to fit your workflow. Layout settings are saved per space so your whole team benefits. Learn more about linking idea",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
   "rollout_end_date": "2026-08-10",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
     {
@@ -54,6 +54,11 @@
       "date": "2026-08-17",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

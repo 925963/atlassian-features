@@ -2,12 +2,12 @@
   "id": "jira-platform-assign-multiple-agents-to-workflow-transitions",
   "title": "Assign multiple agents to workflow transitions",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Manage your workflow automation directly from your board by assigning multiple agents to specific column transitions. You can customize each agent’s behavior with optional prompts without ever opening the workflow editor. This gives you more granular control over how work moves through your board, saving you time and increasing your team's automation flexibility. To get started with this change: Go to your board and select the Add agent icon in the column header.\n\tIn the Add agent modal, select ",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
   "rollout_end_date": "2026-08-10",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-17",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

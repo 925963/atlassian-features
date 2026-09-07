@@ -2,11 +2,11 @@
   "id": "jira-product-discovery-publish-your-roadmap-view",
   "title": "Publish your roadmap view",
   "product": "Jira Product Discovery",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Share your product vision more effectively by publishing your roadmap in Jira Product Discovery. This update allows you to create a read-only version of your roadmap that you can share with stakeholders, ensuring everyone stays aligned on the latest plans and priorities without needing access to the app. Open your space in Jira Product Discovery.\n\tSelect the Roadmap view from the sidebar.\n\tSelect Publish to create a shareable link for your roadmap.",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
-  "rollout_end_date": "2026-08-03",
+  "rollout_end_date": "2026-08-17",
   "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-17",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

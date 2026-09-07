@@ -2,11 +2,11 @@
   "id": "jira-service-management-automate-status-page-updates-in-jira-service-management",
   "title": "Automate status page updates in Jira Service Management",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and reduce cognitive load during incidents by automating your external communications. Jira Service Management now includes a native automation action that creates and updates status page incidents directly from your incident workflow. This ensures your stakeholders stay informed in real-time without requiring manual context-switching from responders. To get started with this change: Go to Space settings, then Automation.\n\tCreate a new rule or edit an existing one.\n\tSelect the Send upd",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
-  "rollout_end_date": "2026-08-03",
+  "rollout_end_date": "2026-08-17",
   "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
@@ -54,6 +54,11 @@
       "date": "2026-08-17",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

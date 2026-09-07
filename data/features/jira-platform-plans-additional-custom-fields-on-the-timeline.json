@@ -2,18 +2,23 @@
   "id": "jira-platform-plans-additional-custom-fields-on-the-timeline",
   "title": "Plans: Additional custom fields on the timeline",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Save time and improve visibility by adding more fields to your timeline in Jira. You can now include Updated, Created, Read-only text and Paragraph fields directly on the Plan to keep your team informed without switching views. To get started with this change Open a plan in Jira.\n\tGo to Plan settings, then Timeline.\n\tSelect Add field.\n\tChoose the read-only text or paragraph field you want to add.\n\tSelect Add to see the field on your plan.\n\tGo to the Timeline and select Add Fields to show Read-on",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
     {
       "date": "2026-08-17",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

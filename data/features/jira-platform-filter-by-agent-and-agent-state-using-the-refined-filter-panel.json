@@ -2,12 +2,12 @@
   "id": "jira-platform-filter-by-agent-and-agent-state-using-the-refined-filter-panel",
   "title": "Filter by agent and agent state using the refined filter panel",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira users can now filter work based on assigned agents and their current states. This update to the filter panel helps you manage work items more effectively as you incorporate agentic workflows into your experience. To get started with this change: Open a Board or List view in your space.\n\tSelect Filter.\n\tCreate a new filter using the fields Agent or Agent state.\n\tChoose the agent or agent state you want to filter by.\n\tSelect Apply.",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
   "rollout_end_date": "2026-08-10",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-17",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

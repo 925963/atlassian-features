@@ -2,12 +2,12 @@
   "id": "confluence-hover-to-learn-how-to-use-loom",
   "title": "Hover to learn how to use Loom",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "released",
   "description": "Confluence users can now see a spotlight when hovering over the Loom button in the floating toolbar or inline comments. This brief pop-up explains what Loom does and how to use it, helping you quickly understand how to share your work and add context with video. This change applies to Confluence sites where Loom was auto-provisioned for you. To get started with this change: Go to any Confluence page.\n\tHover over the Loom button in the floating toolbar or within an inline comment.\n\tReview the spo",
   "announced_date": "2026-04-06",
   "rollout_start_date": "2026-04-06",
   "rollout_end_date": "2026-08-03",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/04/atlassian-cloud-changes-apr-6-to-apr-13-2026",
   "history": [
     {
@@ -109,6 +109,11 @@
       "date": "2026-08-17",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

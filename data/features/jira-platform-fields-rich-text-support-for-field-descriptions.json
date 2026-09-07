@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-fields-rich-text-support-for-field-descriptions",
+  "title": "Fields: Rich text support for field descriptions",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Jira admins can now use rich text to create and edit field descriptions in Atlassian Administration. This change allows for better formatting and clearer instructions for users, while also increasing the character limit to 4,000 visible characters (up from 255). In Jira, select the Settings icon in the top navigation.\n\tGo to Work items, then Fields.\n\tSelect Create field or select Edit on an existing field to use the rich text editor for the description.",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}

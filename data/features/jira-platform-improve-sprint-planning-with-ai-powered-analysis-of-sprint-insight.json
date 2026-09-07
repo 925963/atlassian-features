@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-improve-sprint-planning-with-ai-powered-analysis-of-sprint-insight",
+  "title": "Improve sprint planning with AI-powered analysis of sprint insights",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Save time and improve sprint planning in Jira with AI-powered analysis of your sprint insights. The Jira Delivery Agent now summarizes your sprint data, identifies potential risks, and recommends next actions to help your team stay on track. To perform an AI-powered analysis of your sprint: Open your board or backlog in Jira.\n\tSelect the Insights panel.\n\tFind a specific insight, such as Sprint commitment or Work type breakdown.\n\tSelect Analyze to open the Jira Delivery Agent and view the summary",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}

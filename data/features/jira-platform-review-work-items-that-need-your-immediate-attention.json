@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-review-work-items-that-need-your-immediate-attention",
+  "title": "Review work items that need your immediate attention",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "The Recommended tab in Jira now surfaces work items that need your immediate attention, such as items you're blocking, items blocking you, or work that's recently unblocked or stuck. These new signals help you stay on top of work that’s impacting your team's momentum. To view this recommendations: Go to the For you page in Jira.\n\tSelect the Recommended tab.\n\tReview the new cards for work items that are blocking others, blocked by others, recently unblocked, or stuck.\n\tSelect a card to view the w",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}

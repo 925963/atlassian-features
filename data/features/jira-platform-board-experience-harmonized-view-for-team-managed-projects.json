@@ -2,11 +2,11 @@
   "id": "jira-platform-board-experience-harmonized-view-for-team-managed-projects",
   "title": "Board experience: Harmonized view for team-managed projects",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Jira now provides a more consistent board experience for team-managed projects. This update aligns the visual layout and functionality of boards in team-managed projects with those in company-managed projects, making it easier for teams to switch between different project types without losing familiarity. This change helps your team stay focused on work by providing a unified way to track and manage work items across Jira. To get started with this change Open your team-managed project in Jira.\n\t",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
-  "rollout_end_date": "2026-08-03",
+  "rollout_end_date": "2026-08-17",
   "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
@@ -49,6 +49,11 @@
       "date": "2026-08-17",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

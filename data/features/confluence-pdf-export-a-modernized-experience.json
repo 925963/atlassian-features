@@ -2,12 +2,12 @@
   "id": "confluence-pdf-export-a-modernized-experience",
   "title": "PDF Export: A modernized experience",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out_new",
   "description": "We’ve refreshed the PDF export interface to align with the modern Confluence design you use every day. This update replaces legacy UI elements with a polished, contemporary look, ensuring a cohesive and visually consistent experience throughout the export process. Navigate to the Confluence page or live doc you want to export.\n\tSelect the More actions (•••) menu at the top right of the page, then select Export to PDF.\n\tWhen the export is complete, your file will download automatically.\n\tIf the d",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
   "rollout_end_date": "2026-08-03",
-  "last_seen_week": "2026-08-03",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-10",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

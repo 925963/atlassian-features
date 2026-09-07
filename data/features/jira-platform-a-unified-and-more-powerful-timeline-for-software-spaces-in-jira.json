@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-a-unified-and-more-powerful-timeline-for-software-spaces-in-jira",
+  "title": "A unified and more powerful timeline for software spaces in Jira",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "We’re upgrading the Jira timeline to help you plan and track work with more clarity. This update brings a consistent experience, making it easier to manage everything from high-level epics to individual subtasks in one view. You can now view and manage all work items, including subtasks, directly on your timeline. This update also introduces inline editing for key fields and customizable bar colors to help you organize your work visually. To customize your timeline view:",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}

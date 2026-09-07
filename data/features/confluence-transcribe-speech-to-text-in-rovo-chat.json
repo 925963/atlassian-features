@@ -2,11 +2,11 @@
   "id": "confluence-transcribe-speech-to-text-in-rovo-chat",
   "title": "Transcribe speech to text in Rovo Chat",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and capture every detail by using Rovo to transcribe speech to text in Atlassian apps. This feature allows you to quickly convert spoken words into written content, making it easier to interact with Rovo Chat and create content on the go. To get started with this change: Open an Atlassian app, such as Confluence or Jira.\n\tOpen Rovo Chat or select Create with Rovo where you would need to type a prompt.\n\tSelect Start dictation (the microphone icon).\n\tSpeak your prompt and select Finish d",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
-  "rollout_end_date": "2026-08-03",
+  "rollout_end_date": "2026-08-17",
   "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-17",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

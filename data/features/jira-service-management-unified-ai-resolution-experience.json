@@ -2,12 +2,12 @@
   "id": "jira-service-management-unified-ai-resolution-experience",
   "title": "Unified AI resolution experience",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Agents can now access all AI assistance from a single Resolve with Rovo panel in the work item view. This unified experience automatically surfaces the most relevant AI-powered help—like Rovo-generated resolution plans or suggested actions—based on the context of the request. This simplifies workflows and helps agents resolve issues faster without switching between different sections. To view this change: Open a service space in Jira Service Management.\n\tSelect a work item to open the work item ",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
   "rollout_end_date": "2026-08-10",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-17",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "jira-platform-connect-work-items-directly-to-projects",
   "title": "Connect work items directly to projects",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira and the Projects app are now natively integrated. A built-in Project field is now available by default on software and business Jira spaces, making it easier to connect work items to projects and track them across your organization. Go to a software or business space in Jira.\n\tOpen an existing work item or create a new one.\n\tSelect the Project field.\n\tSelect an existing project from the list, or create a new one from the picker.\n\tTo view linked work items, go to the project in the Projects ",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
   "rollout_end_date": "2026-08-10",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-08-17",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

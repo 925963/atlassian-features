@@ -2,12 +2,12 @@
   "id": "confluence-get-rovo-button-nudges-for-audio-briefings-of-pages-and-live-docs",
   "title": "Get Rovo button nudges for audio briefings of pages and live docs",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "When you visit a page or live doc for the first time with an estimated read time of 5 minutes or more, a Rovo button nudge will appear, allowing you to quickly generate and listen to a summary of the content. Read more information about the Rovo button and audio briefings of Confluence content. To get Rovo button nudges for audio briefings:",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
   "rollout_end_date": "2026-08-10",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-17",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "confluence-organize-complex-content-by-nesting-tables-in-panels",
+  "title": "Organize complex content by nesting tables in panels",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Organize your content more effectively in Confluence by nesting tables inside panels. You can now structure complex information within a single visual container, making your docs and tasks easier to read and navigate. To nest tables inside of panels: Open the editor in Confluence.\n\tType /panel or select the panel element from the + button in the toolbar.\n\tInside the panel, type /table or select the Table element to nest it within the panel.",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}

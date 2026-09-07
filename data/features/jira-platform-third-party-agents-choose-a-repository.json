@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-third-party-agents-choose-a-repository",
+  "title": "Third-party agents: Choose a repository",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Save time when using third-party agents in Jira by choosing the specific repository you want the agent to use. By selecting a repository before the agent starts its task on a work item, you ensure the agent has the right context and avoid unnecessary planning steps. Open a work item in Jira.\n\tSelect a third-party agent to perform a task.\n\tSelect the repository you want the agent to work with from the list or type one in.",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}

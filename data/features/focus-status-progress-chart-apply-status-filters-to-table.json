@@ -2,18 +2,23 @@
   "id": "focus-status-progress-chart-apply-status-filters-to-table",
   "title": "Status progress chart: Apply status filters to table",
   "product": "Focus",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "You can now interact with the Status progress chart to apply status filters directly to the table in Focus. This update helps you focus on specific statuses and analyze relevant data more efficiently. Open the Status progress chart in Focus in any focus area.\n\tSelect a status on the chart to filter the table by that status.",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
     {
       "date": "2026-08-17",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

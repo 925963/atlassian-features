@@ -2,11 +2,11 @@
   "id": "loom-improved-admin-overview-dashboard-and-data-exports-for-loom-admins",
   "title": "Improved Admin Overview Dashboard and data exports for Loom Admins",
   "product": "Loom",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organization admins can now access an improved dashboard in Loom to better manage their organization. These updates to the admin overview provide clearer visibility into workspace security, team activity, and license usage, while also enabling faster data exports for large organizations. Log in to your Loom account.\n\tSelect Settings, then Organization.\n\tSelect Overview from the sidebar to view the improved dashboard.",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
-  "rollout_end_date": "2026-08-03",
+  "rollout_end_date": "2026-08-17",
   "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
@@ -49,6 +49,11 @@
       "date": "2026-08-17",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

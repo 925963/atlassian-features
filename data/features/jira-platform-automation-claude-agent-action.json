@@ -2,12 +2,12 @@
   "id": "jira-platform-automation-claude-agent-action",
   "title": "Automation: Claude agent action",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time and streamline your development workflow by using the Claude agent action in Jira Cloud automation. This new action allows you to integrate Claude, a third-party AI agent, directly into your automation rules to perform complex tasks and process information within Jira Cloud. Go to your Jira space and select Space settings, then Automation.\n\tSelect Create flow and select a trigger for your automation.\n\tSelect New action, then search for and select Claude agent action from the list of av",
   "announced_date": "2026-07-20",
   "rollout_start_date": "2026-07-20",
   "rollout_end_date": "2026-08-10",
-  "last_seen_week": "2026-08-10",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-08-17",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

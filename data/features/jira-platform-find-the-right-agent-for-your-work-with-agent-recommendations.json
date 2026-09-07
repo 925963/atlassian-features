@@ -2,18 +2,23 @@
   "id": "jira-platform-find-the-right-agent-for-your-work-with-agent-recommendations",
   "title": "Find the right agent for your work with agent recommendations",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Save time and reduce guesswork with agent recommendations in Jira. We’ve updated the agent picker and browse experience to surface the most relevant agents based on your current task, workflow, and recent activity. These improvements, powered by a new recommendation API, help you quickly identify which agents can best assist with your work items. To find and use the recommended agent: Open a work item in Jira.\n\tSelect Agents at the top of your work item.\n\tReview the Recommended agent at the top ",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
     {
       "date": "2026-08-17",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

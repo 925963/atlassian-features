@@ -2,18 +2,23 @@
   "id": "bitbucket-introducing-step-config-for-agentic-pipelines-setup",
   "title": "Introducing step config for agentic pipelines setup",
   "product": "Bitbucket",
-  "status": "rolling_out_new",
+  "status": "released",
   "description": "Instead of having to continue to rely only on global options, we are introducing a new flexible way to supply step options called 'step-config'. Now, you can simply define a named step config under you can simply define a named step config under step-config within your definitions and reference it within the config for that step. This will supply all options from the defined step config as default options.",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
     {
       "date": "2026-08-17",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

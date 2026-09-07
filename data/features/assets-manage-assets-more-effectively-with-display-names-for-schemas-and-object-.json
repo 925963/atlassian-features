@@ -1,0 +1,19 @@
+{
+  "id": "assets-manage-assets-more-effectively-with-display-names-for-schemas-and-object-",
+  "title": "Manage assets more effectively with display names for schemas and object types",
+  "product": "Assets",
+  "status": "rolling_out_new",
+  "description": "Manage your assets more effectively in Jira Service Management with the introduction of display names for asset entities. You can now set a user-facing Display name for schemas, object types, and attributes, which is separate from the system Name used in APIs and scripts. This change allows you to use human-friendly labels in the UI while maintaining stable, developer-friendly identifiers for integrations. To set a display name: Go to Assets in your Jira Service Management project.\n\tSelect a sch",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}

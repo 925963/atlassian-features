@@ -2,11 +2,11 @@
   "id": "jira-platform-site-optimizer-support-for-new-field-schemes",
   "title": "Site Optimizer: Support for new field schemes",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Jira Cloud admins can now use Site Optimizer to analyze the new field scheme model. This update allows you to identify and manage both legacy field configurations and the new field schemes within your site, helping you streamline your site configuration and prepare for future migrations. Go to Settings in Jira and select System.\n\tGo to Site Optimizer → All reports.\n\tSelect Custom fields and goto Review and optimize to view the analysis of your site schemes.\n\tReview the list of schemes, which now",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
-  "rollout_end_date": "2026-08-03",
+  "rollout_end_date": "2026-08-17",
   "last_seen_week": "2026-08-17",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
@@ -69,6 +69,11 @@
       "date": "2026-08-17",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

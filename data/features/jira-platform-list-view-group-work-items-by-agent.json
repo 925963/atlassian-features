@@ -2,18 +2,23 @@
   "id": "jira-platform-list-view-group-work-items-by-agent",
   "title": "List view: Group work items by agent",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Organize your work more effectively in Jira by grouping work items by agent in the List view. This update allows you to see a structured, at-a-glance view of agent workloads, making it easier to identify, triage, and act on delegated work. Open a list view or perform a global search in Jira.\n\tSelect Group from the view options.\n\tSelect Agent from the dropdown menu to organize your work items.",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
     {
       "date": "2026-08-17",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026"
+    },
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
     }
   ]
 }

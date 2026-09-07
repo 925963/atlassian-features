@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-get-improved-search-reliability-with-circuit-breakers",
+  "title": "Get improved search reliability with circuit breakers",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Jira Service Management now includes circuit breakers for alert and incident search to improve service reliability during high-traffic periods. When the search cluster is unhealthy, affected search requests will fail fast with a service unavailable message instead of causing the entire app to slow down. This ensures that critical functions like alert creation, notifications, and on-call schedules continue to work normally even if search is temporarily degraded. To get started: Navigate to your s",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}

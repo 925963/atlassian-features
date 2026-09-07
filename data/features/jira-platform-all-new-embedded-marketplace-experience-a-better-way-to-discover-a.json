@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-all-new-embedded-marketplace-experience-a-better-way-to-discover-a",
+  "title": "All new embedded Marketplace experience: a better way to discover and consume apps",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Save time and streamline your workflow with an enhanced Marketplace experience in Jira and Confluence. The new information architecture and tile system make it easier to discover apps and find the information you need. Open the Jira or Confluence app.\n\tSelect Apps in the left-side navigation bar.\n\tChoose Explore More apps to explore the new experience.",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-unified-connectivity-integrated-secure-tunnel-setup",
+  "title": "Unified connectivity: Integrated secure tunnel setup",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Admins can now set up secure tunnels for Atlassian Rovo and Teamwork Graph connectors directly within the cloud connector setup wizard. This update to Atlassian Administration simplifies the connection between Data Center and cloud apps by removing the need to manually copy credentials or restart your Data Center instance. By integrating tunnel creation into a single flow, you can securely connect your self-managed data to cloud apps with fewer steps. Connect Jira Data Center to Rovo Connect Con",
+  "announced_date": "2026-08-24",
+  "rollout_start_date": "2026-08-24",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-24",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
+  "history": [
+    {
+      "date": "2026-08-24",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    }
+  ]
+}
