@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-plan-report-links-now-take-you-to-the-plan-timeline",
+  "title": "Plan report links now take you to the plan timeline",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Access live data and the latest updates by opening your plan report links directly in the plan timeline. We’re retiring the static plan report page to ensure you’re always working with the most current information. If a link can't be matched to its original plan, it will open your list of plans instead. Ability to create new plan reports was deprecated in June 2023.",
+  "announced_date": "2026-08-31",
+  "rollout_start_date": "2026-08-31",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-31",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
+  "history": [
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    }
+  ]
+}

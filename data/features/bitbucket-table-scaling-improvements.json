@@ -1,0 +1,19 @@
+{
+  "id": "bitbucket-table-scaling-improvements",
+  "title": "Table scaling improvements",
+  "product": "Bitbucket",
+  "status": "rolling_out_new",
+  "description": "Table scaling features are now available in Confluence, Jira, and Bitbucket. Tables automatically scale to fit narrower viewports. These updates make working with tables faster and more intuitive across Atlassian apps. To get started with this change: Open a table in the editor of Confluence, Jira, or Bitbucket.\n\tResize your browser window to see tables scale automatically.",
+  "announced_date": "2026-08-31",
+  "rollout_start_date": "2026-08-31",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-31",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
+  "history": [
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    }
+  ]
+}

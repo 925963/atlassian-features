@@ -2,11 +2,11 @@
   "id": "customer-service-management-live-chat-connect-with-human-support-agents",
   "title": "Live chat: Connect with human support agents",
   "product": "Customer Service Management",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "Premium and enterprise subscriptions for Customer Service Management (CSM) now include live chat, allowing your customers to connect directly with human support agents through the chat widget. This feature provides a more personalized support experience by enabling real-time conversations when AI-driven assistance isn't enough. Currently in open beta. Go to the Space configuration in your CSM app.\n\tSelect the Features panel.\n\tEnable Chat feature. This will already be on for new spaces.\n\tGo to th",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-08-24",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

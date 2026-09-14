@@ -2,12 +2,12 @@
   "id": "jira-platform-boards-assign-agents-to-columns",
   "title": "Boards: Assign agents to columns",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time by assigning agents to workflow columns directly from your board in Jira. This update allows you to manage agent assignments more quickly in team-managed spaces without leaving your current view. You can also hover over an agent’s avatar to see their details at a glance. Go to your board in a team-managed board in Jira.\n\tHover over a column header to reveal the Add agent icon.\n\tSelect the Add agent icon to open the agent picker.\n\tSelect an agent to assign them to all transitions in tha",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
   "rollout_end_date": "2026-08-17",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
     {
@@ -64,6 +64,11 @@
       "date": "2026-08-24",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

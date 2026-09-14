@@ -2,11 +2,11 @@
   "id": "jira-platform-forge-custom-fields-of-object-type-now-supported-in-bulk-edit",
   "title": "Forge custom fields of Object type now supported in bulk edit",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "This update enhances the Jira Issue bulk-edit experience for Object type Forge Custom Fields. it replaces the existing TextField input field with a forge-app-defined custom edit experience for Object Forge Custom Field. Note: The Forge app developer has to enable the custom edit experience for bulk edit by adding \"issue-bulk-edit\" in the manifest. We will fallback to default TextField experience if the Forge app developer doesn’t enable it. Select the work items you want to update from the List ",
   "announced_date": "2026-05-25",
   "rollout_start_date": "2026-05-25",
-  "rollout_end_date": "2026-08-10",
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026",
   "history": [
@@ -79,6 +79,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

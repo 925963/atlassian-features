@@ -2,12 +2,12 @@
   "id": "jira-platform-turn-tables-and-lists-into-charts-and-diagrams-with-remix",
   "title": "Turn tables and lists into charts and diagrams with Remix",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Understand complex information faster by transforming text, tables, and lists in Jira work item descriptions into instant charts and diagrams. Remix is an AI-powered feature that lets you generate personal visualizations without changing the original content — so you can explore data your way. Open a Jira work item and select the description to enter edit mode.\n\tHover over a table, list, or text block to reveal the element toolbar.\n\tSelect Remix from the element toolbar or the Rovo menu.\n\tChoose",
   "announced_date": "2026-05-18",
   "rollout_start_date": "2026-05-18",
   "rollout_end_date": "2026-08-17",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-18-to-may-25-2026",
   "history": [
     {
@@ -84,6 +84,11 @@
       "date": "2026-08-24",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

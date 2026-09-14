@@ -2,12 +2,12 @@
   "id": "jira-platform-create-jira-spaces-with-rovo",
   "title": "Create Jira Spaces with Rovo",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time and reduce setup effort by using Rovo to configure your new Jira spaces. By providing a simple prompt, Rovo suggests the best space name, key, work types, and statuses based on your team's specific needs and existing context. We're currently experimenting with this feature, so it may not be available to everyone yet. Hover over Spaces in the side navigation, then select Create space \n\tUnder space templates, select Create with Rovo > Get started with a prompt.\n\tEnter a prompt describing",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
   "rollout_end_date": "2026-08-17",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
     {
@@ -54,6 +54,11 @@
       "date": "2026-08-24",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

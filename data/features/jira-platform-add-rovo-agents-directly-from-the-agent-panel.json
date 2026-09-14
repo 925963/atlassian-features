@@ -2,12 +2,12 @@
   "id": "jira-platform-add-rovo-agents-directly-from-the-agent-panel",
   "title": "Add Rovo agents directly from the agent panel",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time when managing work by adding Rovo agents directly from the Agent panel in Jira. You can now access the agent picker and add additional agents to a work item from the panel while other agents are already running. To get started with this change: Open a work item in Jira.\n\tLocate the Agents section.\n\tIf agents are already working on the work item, you will see an Add agent button (+ icon) located in the top-right corner of the Agents section.\n\tSelect Add agent to open the agent picker. I",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
   "rollout_end_date": "2026-08-17",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-08-24",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

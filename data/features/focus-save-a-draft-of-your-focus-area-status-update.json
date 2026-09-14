@@ -1,0 +1,19 @@
+{
+  "id": "focus-save-a-draft-of-your-focus-area-status-update",
+  "title": "Save a draft of your focus area status update",
+  "product": "Focus",
+  "status": "rolling_out_new",
+  "description": "You can now save a working draft of your Focus area status update and pick it up again later, so you can refine your update over time instead of finishing it in one sitting. To save a draft: Open Focus from the app switcher.\n\tSelect a Focus area to write an update for.\n\tSelect Save draft to save the draft update.",
+  "announced_date": "2026-08-31",
+  "rollout_start_date": "2026-08-31",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-31",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
+  "history": [
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    }
+  ]
+}

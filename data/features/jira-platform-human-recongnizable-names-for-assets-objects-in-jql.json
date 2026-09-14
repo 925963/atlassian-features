@@ -2,11 +2,11 @@
   "id": "jira-platform-human-recongnizable-names-for-assets-objects-in-jql",
   "title": "Human-recongnizable names for Assets objects in JQL",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "We've updated Jira Query Language (JQL) so that Assets objects now display as human-readable names instead of Atlassian Resource Identifier (ARI) values. This makes writing and validating JQL faster and easier. To view this change: Open your Jira app and navigate to Filters.\n\tEnter a JQL query that includes Assets object operands.\n\tView the improved results containing the Asset Objects' names.",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-08-24",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

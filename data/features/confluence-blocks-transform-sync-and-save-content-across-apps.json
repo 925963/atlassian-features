@@ -2,11 +2,11 @@
   "id": "confluence-blocks-transform-sync-and-save-content-across-apps",
   "title": "Blocks: Transform, sync, and save content across apps",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Blocks bring faster editing, reusable patterns, and always-in-sync content across apps. This new feature set allows you to create content once and reuse it across Jira and Confluence with live-syncing, ensuring your information is always up to date. You can also quickly transform content types using the new block menu and save polished sections as templates for future use. Open any editor and select the drag handle (⋮⋮) to access new block-level options.\n\tSelect Change format to convert a block ",
   "announced_date": "2026-06-08",
   "rollout_start_date": "2026-06-08",
-  "rollout_end_date": "2026-08-10",
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
   "history": [
@@ -69,6 +69,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "confluence-a-more-tailored-way-to-manage-roles-and-system-operations-in-confluen",
   "title": "A more tailored way to manage roles and system operations in Confluence",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Confluence admins can now disable default roles site-wide and choose which roles power system operations. This change allows you to simplify role selectors by removing unused default roles and gives you more control over how access is automatically assigned for operations like setting the space owner and default guest access. To manage your site's default roles and system operations: Go to Confluence settings, then select Permissions.\n\tSelect Space roles to disable or restore a default role.\n\tSe",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
-  "rollout_end_date": "2026-08-10",
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
@@ -59,6 +59,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

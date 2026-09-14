@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-manage-ai-agents-in-your-list-and-global-search-views",
+  "title": "Manage AI agents in your list and global search views",
+  "product": "Jira platform",
+  "status": "rolling_out",
+  "description": "You can now group work items by agent in the list view and add the Agent sessions field as a column in the list and global search views. See agent workloads at a glance and track delegated work without opening individual work items. To group work items by agent in your list: Go to the list view in Jira.\n\tSelect Group from the view options.\n\tSelect Agent from the dropdown menu to organize your work items.",
+  "announced_date": "2026-08-31",
+  "rollout_start_date": "2026-08-31",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-31",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
+  "history": [
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    }
+  ]
+}

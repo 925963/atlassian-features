@@ -2,18 +2,23 @@
   "id": "loom-improved-account-recovery-for-loom-users-using-apple-private-relay",
   "title": "Improved account recovery for Loom users using Apple Private Relay",
   "product": "Loom",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We’ve improved account recovery for Loom users who use Apple Private Relay and are moving to Atlassian-managed accounts. If an Atlassian account is already connected to another Loom account, we now detect the issue during their next sign in attempt and guide the user through creating a new Atlassian account. This helps prevent sign-in errors and makes it easier to regain access to Loom. No action is needed before the migration. The next time you sign in:",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-24",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
     {
       "date": "2026-08-24",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

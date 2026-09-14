@@ -2,18 +2,23 @@
   "id": "jira-platform-view-triage-agent-recommendations-in-the-next-best-actions-section",
   "title": "View triage agent recommendations in the Next best actions section",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Save time by viewing and actioning triage agent recommendations directly from the Next best actions section in Jira. When the triage agent is configured as part of a transition in your workflow, it automatically suggests field updates that now appear at the top of the work item view for better visibility. To view this change: Open a work item in Jira that has transitioned to a status where the triage agent is configured.\n\tLocate the Next best actions section at the top of the work item view.\n\tRe",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-24",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
     {
       "date": "2026-08-24",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

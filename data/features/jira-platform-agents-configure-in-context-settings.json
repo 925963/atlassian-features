@@ -2,18 +2,23 @@
   "id": "jira-platform-agents-configure-in-context-settings",
   "title": "Agents: Configure in-context settings",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Save time and stay in your workflow by configuring enabled agents directly within the agent install dialog in Jira. This update keeps you in the same dialog after installation — no new windows or tab switches needed — so you can configure, start a session, or configure later without leaving the current context. Open your project in Jira and navigate to the agent marketplace or browse agents.\n\tFind the agent you want to use (e.g., Claude for Jira, Cursor) and click Install.\n\tOnce installation com",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-24",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
     {
       "date": "2026-08-24",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

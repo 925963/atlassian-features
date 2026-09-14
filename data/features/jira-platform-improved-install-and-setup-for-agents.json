@@ -2,11 +2,11 @@
   "id": "jira-platform-improved-install-and-setup-for-agents",
   "title": "Improved install and setup for agents",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Installing and setting up an agent from the Browse agents section in Jira is now clearer and easier. The install flow shows you what's happening as the agent installs, and the steps to configure the agent after install are more guided, so it's simpler to get your agent set up and ready to use. In Jira, go to the Browse agents section.\n\tSelect an agent, then select Install or Request depending on your permissions.\n\tFollow the guided steps to configure the agent after it installs.",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
-  "rollout_end_date": "2026-08-10",
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

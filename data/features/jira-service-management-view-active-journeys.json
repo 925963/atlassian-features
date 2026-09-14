@@ -2,11 +2,11 @@
   "id": "jira-service-management-view-active-journeys",
   "title": "View active journeys",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now view a table of work items that are parents of journeys currently executing in Jira Service Management. This new page helps you track and manage active journeys more efficiently by providing a centralized view of their parent work items. Go to your service space.\n\tSelect Journeys from the space navigation on the left.\n\tSelect the Active tab to view the table of work items.",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
-  "rollout_end_date": "2026-08-10",
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
@@ -49,6 +49,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

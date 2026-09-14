@@ -2,11 +2,11 @@
   "id": "confluence-system-flags-improved-positioning-and-semantic-icons",
   "title": "System flags: Improved positioning and semantic icons",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Confluence system flags now feature improved positioning and more semantically relevant icons to provide a more modern and intuitive experience. These updates ensure that success messages and other system notifications are clearly visible and easy to understand as you work in Confluence. To get started with this change: Perform an action in Confluence that triggers a system notification, such as adding a user or successfully saving a change.\n\tObserve the system flag anchored to the bottom left o",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
-  "rollout_end_date": "2026-08-10",
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
@@ -59,6 +59,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "confluence-resize-dividers-and-panels",
   "title": "Resize dividers and panels",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Adjust the width of dividers and panels to create professional, organized layouts that suit your content. This update gives you more control over your page design, helping you improve visual hierarchy and readability for your team. To resize dividers and panels: Open a page in Confluence.\n\tInsert a divider or a panel.\n\tHover over the element to view the resize handle.\n\tDrag the handle to adjust the width to your preferred size.",
   "announced_date": "2026-07-20",
   "rollout_start_date": "2026-07-20",
-  "rollout_end_date": "2026-08-10",
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

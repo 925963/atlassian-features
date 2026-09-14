@@ -1,0 +1,19 @@
+{
+  "id": "studio-bulk-delete-rovo-agents",
+  "title": "Bulk delete Rovo agents",
+  "product": "Studio",
+  "status": "rolling_out_new",
+  "description": "Manage your Atlassian Rovo agents more efficiently with new bulk actions. Organization admins and Studio admins can select and delete up to 100 agents at once, saving time when performing cleanup in large environments. To bulk delete agents: Go to Studio.\n\tFrom the side navigation bar, select Agents then View all agents.\n\tSelect the checkboxes for the agents you want to delete. You can select up to 100 agents.\n\tSelect Delete from the bulk edit toolbar.\n\tIn the dialog that appears, confirm your a",
+  "announced_date": "2026-08-31",
+  "rollout_start_date": "2026-08-31",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-08-31",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
+  "history": [
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    }
+  ]
+}

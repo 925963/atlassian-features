@@ -2,11 +2,11 @@
   "id": "jira-platform-automation-assign-issues-to-teams-using-custom-fields",
   "title": "Automation: Assign issues to teams using custom fields",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and improve workflow accuracy in Jira by automatically assigning issues to teams based on information in custom fields. You can now use the Assign issue action in the automation rule builder to assign an issue to the team stored in a People custom field, such as an On-call field. To get started with this change Go to Project settings, then Automation.\n\tCreate a new rule or edit an existing one.\n\tAdd the Assign issue/Edit issue/Clone issue/Transition action to your rule.\n\tIn the Assigne",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
-  "rollout_end_date": "2026-08-10",
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

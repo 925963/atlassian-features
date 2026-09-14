@@ -2,18 +2,23 @@
   "id": "jira-platform-plan-work-items-with-rovo",
   "title": "Plan work items with Rovo",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Improve a work item in one click with a new out-of-the-box Rovo agent in Jira. This ready-to-use agent scopes your work item for you. It gathers relevant context, asks a few clarifying questions, and suggests a stronger description you can accept. There's no setup, and no need to pick an agent first: scoping your work is now its own standalone action. Open a work item in Jira.\n\tSelect Plan work item from the Improve work item dropdown, or from the agent empty state.\n\tAnswer the agent's clarifyin",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-24",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
     {
       "date": "2026-08-24",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

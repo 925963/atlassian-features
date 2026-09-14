@@ -2,11 +2,11 @@
   "id": "focus-insights-for-your-focus-areas",
   "title": "Insights for your focus areas",
   "product": "Focus",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Stay ahead of your priorities with AI-powered insights on the For you page. These insights surface critical updates for goals, work items, and positions connected to the focus areas you own or follow. Identify what needs attention without searching through multiple apps. Each insight includes a summary of why it’s appearing and lets you interact directly with Rovo to get more context or take the next step. To view these insights: Go to the For you page in Focus.\n\tLocate the Needs attention secti",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
-  "rollout_end_date": "2026-08-10",
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
@@ -49,6 +49,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

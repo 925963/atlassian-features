@@ -2,12 +2,12 @@
   "id": "focus-manage-funds-with-more-flexibility",
   "title": "Manage funds with more flexibility",
   "product": "Focus",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Unlock financial insights in Focus by comparing benefits and costs with budgets, forecasts, and actuals. You can now enter values directly or import them from financial systems of record using comma-separated values (CSV) files or new public API endpoints. This visibility helps you make more informed investment decisions and reduces manual effort when syncing data. Open the Focus app from the app switcher.\n\tNavigate to the focus area you want to view or modify funds data for.\n\tSelect the Funds t",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
   "rollout_end_date": "2026-08-17",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
     {
@@ -54,6 +54,11 @@
       "date": "2026-08-24",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "jira-platform-plans-connect-and-view-atlas-projects",
   "title": "Plans: Connect and view Atlas projects",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now view Atlas projects associated with work items directly within your plans in Jira. This integration allows you to see which Atlas projects are linked to your work items, helping you align your team's work with broader strategic initiatives without leaving your plan. To get started with this change: Open a plan in Jira.\n\tSelect Fields, then Add a field.\n\tSearch for and select Project to add it to your plan.\n\tSelect an Atlas project lozenge in the field to open the project details in a",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
-  "rollout_end_date": "2026-08-10",
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

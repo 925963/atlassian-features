@@ -2,12 +2,12 @@
   "id": "jira-platform-open-your-work-item-directly-in-claude-code-now-with-native-deep-l",
   "title": "Open your work item directly in Claude Code, now with native deep linking support",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira Cloud now supports native deep linking for Claude from the status button in the work item view. This update improves the transition between Jira and Claude by using supported deep links, replacing the previous command line interface method. Open a work item in Jira Cloud.\n\tSelect the deep linking icon.\n\tSelect Claude Code.\n\tEnter a custom full path to your coding workspace.\n\tSelect Open in Claude Code to experience the work item context being passed to your agent.",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
   "rollout_end_date": "2026-08-17",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-08-24",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

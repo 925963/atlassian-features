@@ -2,12 +2,12 @@
   "id": "atlassian-administration-reset-your-sandbox-to-a-clean-state",
   "title": "Reset your sandbox to a clean state",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You can now reset a sandbox to its original, empty state. This allows you to quickly clear all data and configuration from your sandbox without having to delete and recreate it, saving time when starting new testing cycles or configuration changes. To get started with this change: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Apps, then Sandboxes.\n\tIn the table, find the sandbox you want to reset.\n\tIn the Actions column, select more actions (…) then ",
   "announced_date": "2026-08-10",
   "rollout_start_date": "2026-08-10",
   "rollout_end_date": "2026-08-17",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-24",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

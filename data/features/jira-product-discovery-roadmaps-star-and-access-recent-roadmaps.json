@@ -2,12 +2,12 @@
   "id": "jira-product-discovery-roadmaps-star-and-access-recent-roadmaps",
   "title": "Roadmaps: Star and access recent roadmaps",
   "product": "Jira Product Discovery",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira Product Discovery users can now star their key roadmaps and quickly access recent ones directly from the sidebar. This update helps you stay organized and save time by providing faster navigation to the roadmaps you use most frequently. Open Jira Product Discovery\n\tGo to your roadmap.\n\tRecent opened roadmap will appear in the Recent section.\n\tTo star roadmap select the More actions menu (⋯) next to the roadmap name.\n\tSelect Add to starred to move it to your Starred section, or use the star ",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
   "rollout_end_date": "2026-08-17",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-08-24",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

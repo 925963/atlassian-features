@@ -2,12 +2,12 @@
   "id": "confluence-whiteboards-rotate-objects",
   "title": "Whiteboards: Rotate objects",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "You can now rotate objects in Confluence whiteboards to better organize your ideas and customize your board's layout. This change allows you to adjust the orientation of supported elements, helping you create a more structured and visual workspace that fits your team's needs. Open a whiteboard in Confluence.\n\tSelect a supported object on the board.\n\tHover your mouse near any of the corner resize handles until the rotation cursor appears.\n\tSelect and drag the handle to rotate the object to your d",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
   "rollout_end_date": "2026-08-17",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
     {
@@ -74,6 +74,11 @@
       "date": "2026-08-24",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

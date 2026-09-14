@@ -2,12 +2,12 @@
   "id": "jira-service-management-service-collection-new-feature-discovery-for-standard-pl",
   "title": "Service Collection: New feature discovery for Standard plan trials",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "When you start a Standard plan trial for Service Collection you’ll now receive a feature-focused email and see in-app notifications to help you understand the benefits of your new plan. These updates provide a clear overview of available features and billing information so you can make the most of your trial. Start a Standard plan trial for Service Collection.\n\tCheck your inbox for an email highlighting key features and the benefits of the Standard plan.\n\tLog in to your app to view the trial awa",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
   "rollout_end_date": "2026-08-17",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
     {
@@ -64,6 +64,11 @@
       "date": "2026-08-24",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "id": "atlassian-administration-improvements-to-access-request-management",
   "title": "Improvements to access request management",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We've made improvements to how you handle access requests in Atlassian Administration. Request access emails are now more descriptive, making it easier for admins to understand and act on incoming requests. We've also made it easier to stay on top of pending requests directly from the user list. Log in to your Atlassian organization.\n\tSelect Administration from the app switcher.\n\tGo to the Users section to view pending access requests.",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
-  "rollout_end_date": "2026-08-10",
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

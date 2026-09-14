@@ -2,11 +2,11 @@
   "id": "atlassian-administration-build-automation-rules-with-rovo",
   "title": "Build automation rules with Rovo",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time by using Rovo to generate automation rules in Confluence, Jira, and Atlassian Administration. You can now describe the automation you need in plain language, and Rovo will build the rule for you, making it easier to streamline your workflows without needing to manually configure every step. To view this change in Jira: Open Jira.\n\tNavigate to the space where you want to add the automation rule and select Space settings.\n\tSelect Automation from the sidebar.\n\tSelect Create rule, then sel",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

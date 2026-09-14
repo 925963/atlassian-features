@@ -2,12 +2,12 @@
   "id": "confluence-audio-briefing-listen-to-an-ai-overview-of-a-page-or-live-doc-and-its",
   "title": "Audio briefing: Listen to an AI overview of a page or live doc and its links",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "In just a few minutes you can catch up on long, detailed pages and live docs by listening to a briefing by Rovo. Look for the headphone icon on a Confluence page or live doc. Customize your experience to make your Overview short or long, and change the tone to professional, conversational, or playful.",
   "announced_date": "2025-11-10",
   "rollout_start_date": "2025-11-10",
   "rollout_end_date": "2025-11-10",
-  "last_seen_week": "2025-11-10",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2025/11/atlassian-cloud-changes-nov-10-to-nov-17-2025",
   "history": [
     {
@@ -19,6 +19,11 @@
       "date": "2026-01-19",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }

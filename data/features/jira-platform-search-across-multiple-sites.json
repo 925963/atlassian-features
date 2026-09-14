@@ -2,11 +2,11 @@
   "id": "jira-platform-search-across-multiple-sites",
   "title": "Search across multiple sites",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Find the information you need efficiently by searching across multiple cloud sites at once with Atlassian Rovo. You can now include results from up to 5 connected sites in your search, giving you a comprehensive view of your work regardless of where it's stored. This change is available to users who have access to multiple sites that belong to the same unit. To view this change:",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

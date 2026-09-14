@@ -2,11 +2,11 @@
   "id": "customer-service-management-new-customization-options-for-the-banner",
   "title": "New customization options for the banner",
   "product": "Customer Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Admins can now customize the callout banner on the Customer Service Management support site with new configuration options. These updates allow you to adjust the banner size, background, text color, and alignment to better match your organization's branding. To configure the banner: Log in to Customer Service Management.\n\tSelect Channels, then Support website.\n\tSelect the Edit icon to open the editor.\n\tSelect the Page topper component to view the new configuration options.\n\tSelect your preferred",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-24",
   "last_seen_week": "2026-08-24",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-08-24",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

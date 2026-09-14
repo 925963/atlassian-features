@@ -2,12 +2,12 @@
   "id": "confluence-whiteboards-view-all-contributors-on-sticky-notes",
   "title": "Whiteboards: View all contributors on sticky notes",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Confluence whiteboards now show the names of everyone who has modified a sticky note, rather than just the person who created it. This update helps teams in Confluence track contributions more accurately and understand the full history of ideas during collaborative sessions. To view all contributors on sticky notes in whiteboards: Open a whiteboard in Confluence.\n\tSelect a sticky note with edits from multiple people.\n\tSelect Show author from the sticky note toolbar to see the list of contributor",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
   "rollout_end_date": "2026-08-17",
-  "last_seen_week": "2026-08-17",
+  "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
     {
@@ -64,6 +64,11 @@
       "date": "2026-08-24",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-08-31",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
     }
   ]
 }
