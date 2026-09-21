@@ -2,11 +2,11 @@
   "id": "talent-filter-people-who-have-every-skill-you-selected-with-the-include-all-opti",
   "title": "Filter people who have every skill you selected with the Include all option",
   "product": "Talent",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "In Talent, you can now use Include all when filtering on group fields such as Skills. This returns only those people who have every skill you selected. To use the Include all option: Filter a list by a group field such as Skills in Talent.\n\tAdd more than one skill to the filter.\n\tSelect Include all from the filter operator menu.\n\tReview the list of people who have every selected skill.",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

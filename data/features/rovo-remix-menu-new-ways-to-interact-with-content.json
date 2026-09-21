@@ -1,0 +1,19 @@
+{
+  "id": "rovo-remix-menu-new-ways-to-interact-with-content",
+  "title": "Remix menu: New ways to interact with content",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "Confluence now offers more ways to interact with your content through two new remix menu variants. You can now use an inline dropdown flyout menu for quick actions or access Rovo directly from the remix menu to chat about your work. These updates help you stay in the flow of your work by providing faster access to the tools and information you need. Open any page in Confluence.\n\tHighlight a section of text or select an element to trigger the remix menu.\n\tSelect the dropdown icon to view the new ",
+  "announced_date": "2026-09-07",
+  "rollout_start_date": "2026-09-07",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-07",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
+  "history": [
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    }
+  ]
+}

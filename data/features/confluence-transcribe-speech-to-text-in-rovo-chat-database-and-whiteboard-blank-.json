@@ -2,11 +2,11 @@
   "id": "confluence-transcribe-speech-to-text-in-rovo-chat-database-and-whiteboard-blank-",
   "title": "Transcribe speech to text in Rovo Chat: Database and whiteboard blank object experiences",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Save time and capture every detail by using Rovo to transcribe speech to text in Confluence’s new blank object experience for whiteboards and databases. This feature allows you to quickly convert spoken words into written content, making it easier to interact with Rovo Chat and create content on the go. In Confluence, go to any of your spaces and create a new database or whiteboard.\n\tIn the Rovo Chat prompt that appears, select Start dictation (microphone icon).\n\tSpeak your prompt and select Fin",
   "announced_date": "2026-08-10",
   "rollout_start_date": "2026-08-10",
-  "rollout_end_date": "2026-08-17",
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

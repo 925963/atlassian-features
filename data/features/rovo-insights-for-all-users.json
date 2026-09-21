@@ -2,11 +2,11 @@
   "id": "rovo-insights-for-all-users",
   "title": "Insights for all users",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Rovo now provides insights to all users, not just admins. This change allows everyone in your organization to view analytics and charts about Rovo agent activity, helping teams understand how AI is used to automate tasks and improve productivity. Open Rovo from the top navigation bar.\n\tSelect Agents.\n\tSelect the Insights tab to view activity data.",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
-  "rollout_end_date": "2026-08-17",
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

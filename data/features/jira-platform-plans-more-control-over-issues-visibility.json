@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-plans-more-control-over-issues-visibility",
+  "title": "Plans: More control over issues visibility",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "You can now independently show or hide the parents and children of filtered work items, giving you more flexibility to focus on the work that matters most to your team. To get started with this change: Open your Jira plan timeline.\n\tOpen the filter.\n\tSelect Show parents or Show children to toggle the parent or child visibility of the opt-in work items.",
+  "announced_date": "2026-09-07",
+  "rollout_start_date": "2026-09-07",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-07",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
+  "history": [
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    }
+  ]
+}

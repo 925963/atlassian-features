@@ -2,11 +2,11 @@
   "id": "jira-platform-limits-to-work-type-schemes-and-field-configurations-are-coming-in",
   "title": "Limits to work type schemes and field configurations are coming in 2026",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We recently announced that Jira will limit the number of work types that can be used in a project to improve performance and reliability of large sites starting in February 2026. Work type schemes will be capped at 150 work types per scheme, and field configurations will be capped at 700 fields. In our recent post in the Atlassian Community, we cover what tools are available to help you clean up your sites in preparation for this change.",
   "announced_date": "2026-03-09",
   "rollout_start_date": "2026-07-06",
-  "rollout_end_date": "2026-08-17",
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-9-to-mar-16-2026",
   "history": [
@@ -59,6 +59,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

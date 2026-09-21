@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-agent-sessions-refreshed-card-designs-and-improved-filtering",
+  "title": "Agent sessions: Refreshed card designs and improved filtering",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Save time and stay organized in Jira with the refreshed Agent sessions tab. You can now view development artifacts for Jira coding agents (such as pull request links) directly within coding agent sessions and use improved filtering to find the information you need faster. In Jira, navigate to the For You page.\n\tSelect the Agent sessions tab to view your active and past sessions.\n\tUse the new filter options to narrow down your session list.",
+  "announced_date": "2026-09-07",
+  "rollout_start_date": "2026-09-07",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-07",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
+  "history": [
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    }
+  ]
+}

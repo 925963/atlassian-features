@@ -2,12 +2,12 @@
   "id": "atlassian-administration-application-links-create-links-in-atlassian-administrat",
   "title": "Application links: Create links in Atlassian Administration",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Organization admins can now create application links for Jira Cloud in Atlassian Administration using Cloud Connector. This new creation experience simplifies the setup process by removing the need to manually copy and paste credentials between Atlassian Cloud and Data Center apps. Go to Atlassian Administration.\n\tSelect Settings, then Application links.\n\tSelect Create link and follow the prompts to connect your Jira Cloud site to a Data Center instance using Cloud Connector.",
   "announced_date": "2026-05-25",
   "rollout_start_date": "2026-05-25",
   "rollout_end_date": "2026-08-24",
-  "last_seen_week": "2026-08-24",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-may-25-to-jun-1-2026",
   "history": [
     {
@@ -84,6 +84,11 @@
       "date": "2026-08-31",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

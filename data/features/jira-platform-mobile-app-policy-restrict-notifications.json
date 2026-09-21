@@ -2,12 +2,12 @@
   "id": "jira-platform-mobile-app-policy-restrict-notifications",
   "title": "Mobile app policy: Restrict notifications",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Organization admins can now control how push notifications appear in Atlassian mobile apps to help prevent data leaks. This new restriction in the mobile app policy allows admins to either hide sensitive notification content or block push notifications entirely for Jira, Confluence, and Rovo mobile apps. Go to admin.atlassian.com.\n\tSelect your organization, then go to Security and Mobile app policy.\n\tCreate a new policy or select an existing one.\n\tSelect Restrict notifications and choose your pr",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
   "rollout_end_date": "2026-08-24",
-  "last_seen_week": "2026-08-24",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-08-31",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

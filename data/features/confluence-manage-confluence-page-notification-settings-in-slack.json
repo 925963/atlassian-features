@@ -2,12 +2,12 @@
   "id": "confluence-manage-confluence-page-notification-settings-in-slack",
   "title": "Manage Confluence page notification settings in Slack",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We’re removing the Slack notifications option from the page actions (•••) menu in Confluence. Existing page notifications will keep running, and connected Slack channels will remain connected. You can view and change these settings in Slack. Open the Slack workspace connected to your Confluence site.\n\tOpen the Confluence app in Slack to view or update your page notification settings.",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
   "rollout_end_date": "2026-08-24",
-  "last_seen_week": "2026-08-24",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-31",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

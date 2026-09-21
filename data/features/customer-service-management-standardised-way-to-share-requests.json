@@ -2,12 +2,12 @@
   "id": "customer-service-management-standardised-way-to-share-requests",
   "title": "Standardised way to share requests",
   "product": "Customer Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We’ve standardised the way to share requests across all Customer Service Management projects. Customers can now share a request with another person by entering their email address on the My requests page or by cc’ing them on an email. If the email address doesn’t belong to an existing customer, the person can create an Atlassian account to access the shared request. To share a request: Go to My requests and select the request you want to share.\n\tSelect Share.\n\tEnter the email address of the pers",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
   "rollout_end_date": "2026-08-24",
-  "last_seen_week": "2026-08-24",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-31",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

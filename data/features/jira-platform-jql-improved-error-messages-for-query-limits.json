@@ -2,18 +2,23 @@
   "id": "jira-platform-jql-improved-error-messages-for-query-limits",
   "title": "JQL: Improved error messages for query limits",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We’ve updated how Jira handles large JQL queries to ensure search remains fast and reliable. When a query exceeds specific thresholds for functions like membersOf() or organizationMembers(), Jira now provides a clear error message instead of failing silently or timing out. These changes help you refine your search criteria and maintain optimal app performance. To get started with this change Navigate to the Filters menu in Jira.\n\tSelect Advanced issue search.\n\tEnter a JQL query that uses functio",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
     {
       "date": "2026-08-31",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

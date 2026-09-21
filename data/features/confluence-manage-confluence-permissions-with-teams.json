@@ -2,12 +2,12 @@
   "id": "confluence-manage-confluence-permissions-with-teams",
   "title": "Manage Confluence permissions with teams",
   "product": "Confluence",
-  "status": "released",
+  "status": "rolling_out_new",
   "description": "You can now use teams to manage access to spaces and content, just like you can with users and groups. This makes it easier to keep the right people informed and reduce one-off permission changes. Learn more on assigning teams permissions. To manage permissions for teams:",
   "announced_date": "2026-03-16",
   "rollout_start_date": "2026-03-16",
   "rollout_end_date": "2026-05-18",
-  "last_seen_week": "2026-06-08",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/03/atlassian-cloud-changes-mar-16-to-mar-23-2026",
   "history": [
     {
@@ -74,6 +74,11 @@
       "date": "2026-06-08",
       "status": "released",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

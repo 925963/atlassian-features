@@ -2,18 +2,23 @@
   "id": "jira-platform-jira-add-agent-sessions-to-your-timeline-view",
   "title": "Jira: Add agent sessions to your timeline view",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We’ve added an Agent activity column to the Jira timeline. You can now see when an agent is active on a work item and even start or add agents directly from the timeline row Go to your Jira space and select the Timeline view.\n\tSelect the Columns menu (near the Work column header).\n\tSelect Agent sessions to add the column to your view.\n\tView active agents or add an agent to that work item.",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
     {
       "date": "2026-08-31",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

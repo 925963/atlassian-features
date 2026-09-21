@@ -2,11 +2,11 @@
   "id": "jira-platform-email-option-for-agentic-automations",
   "title": "Email option for agentic automations",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Agentic automations in the Summary view now include a option to receive updates through email when Confluence is not linked. This ensures that Jira Delivery Agent can still deliver responses using emails instead of Confluence reports. To view this change: Open Jira and navigate to the Summary view of your space.\n\tFrom the section that displays the agentic automations banner, select Set up next to any automation.\n\tThis will begin the wizard set up for one of the 3 agentic automations: Delivery he",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-connectors-improved-table-and-tools-for-organization-ad",
+  "title": "Connectors: Improved table and tools for organization admins",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now manage their connectors more efficiently in Atlassian Administration. We’ve revamped the connectors table and introduced new tools to help you filter connectors, see default apps, and other usability improvements. Go to admin.atlassian.com\n\tSelect your organization if you have more than one.\n\tSelect Connectors.\n\tSelect a connector from the list to view its new tools table.",
+  "announced_date": "2026-09-07",
+  "rollout_start_date": "2026-09-07",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-07",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
+  "history": [
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    }
+  ]
+}

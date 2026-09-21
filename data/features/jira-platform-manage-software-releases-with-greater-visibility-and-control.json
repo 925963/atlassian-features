@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-manage-software-releases-with-greater-visibility-and-control",
+  "title": "Manage software releases with greater visibility and control",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Jira is improving the Releases experience so you can find release information more easily, track changes over time, and use stages and approvals that match your release process. To get started Open your software project and select Releases from the sidebar.\n\tUse the controls at the top of the releases table to sort, group, or filter versions.\n\tSelect a version to open its details page.\n\tSelect History to review changes to the version.\n\tSelect Stages to view or add stages and approvals for the ve",
+  "announced_date": "2026-09-07",
+  "rollout_start_date": "2026-09-07",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-07",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
+  "history": [
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    }
+  ]
+}

@@ -2,18 +2,23 @@
   "id": "rovo-save-your-rovo-connectors-as-drafts",
   "title": "Save your Rovo connectors as drafts",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Organization admins can save Rovo connectors as drafts during the configuration process. This makes it simpler to start a connector configuration and come back to it later, where previously you would need to publish it to save. Go to Atlassian Administration.\n\tSelect Rovo from the sidebar.\n\tSelect Connectors.\n\tStart creating a new connector or edit an existing one.\n\tSelect Save as draft to keep your progress without publishing the connector.",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
     {
       "date": "2026-08-31",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

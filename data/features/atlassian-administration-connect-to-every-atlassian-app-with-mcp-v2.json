@@ -2,11 +2,11 @@
   "id": "atlassian-administration-connect-to-every-atlassian-app-with-mcp-v2",
   "title": "Connect to every Atlassian app with MCP v2",
   "product": "Atlassian Administration",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Atlassian Rovo now supports Model Context Protocol (MCP) v2. This update enables you to connect to every Atlassian app through a single, central interface. MCP v2 introduces dozens of new tools across Jira and Confluence while also adding Loom, Goals, Projects, Bitbucket, Focus, Teams and Talent support. To get started with this change, update from Atlassian Rovo MCP v1 to Atlassian Rovo MCP v2.",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

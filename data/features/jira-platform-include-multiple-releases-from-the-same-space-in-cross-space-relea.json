@@ -2,18 +2,23 @@
   "id": "jira-platform-include-multiple-releases-from-the-same-space-in-cross-space-relea",
   "title": "Include multiple releases from the same space in cross-space releases",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Jira Plans users can now include more than one release from the same Jira space in a cross-space release. This update to Jira Plans allows teams that manage multiple workstreams or components within a single space to accurately represent their release trains and coordinate work more effectively. To get started with this change: Open your plan in Jira.\n\tSelect the Releases tab.\n\tSelect Create cross-space release or select an existing one to edit.\n\tIn the Releases picker, use the checkboxes to sel",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
     {
       "date": "2026-08-31",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

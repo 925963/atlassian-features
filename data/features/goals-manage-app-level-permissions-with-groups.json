@@ -2,18 +2,23 @@
   "id": "goals-manage-app-level-permissions-with-groups",
   "title": "Manage app-level permissions with groups",
   "product": "Goals",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "App admins can now use group permissions to control what groups of people can do across Goals and Projects. This update allows you to manage which groups of people can perform actions across the Goals and Project apps as a whole, who can create, who can post updates, who can archive, and who can export, letting you stay in control of permissions at scale. To manage a site's group permissions: Open the app you want to configure (Goals or Projects).\n\tSelect Settings from the top right corner.\n\tDep",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
     {
       "date": "2026-08-31",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

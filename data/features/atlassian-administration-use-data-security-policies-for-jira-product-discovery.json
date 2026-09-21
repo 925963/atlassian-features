@@ -2,12 +2,12 @@
   "id": "atlassian-administration-use-data-security-policies-for-jira-product-discovery",
   "title": "Use data security policies for Jira Product Discovery",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Organization admins can now use data security policies to manage and protect content within Jira Product Discovery. To use data security policies for Jira Product Discovery: Go to Atlassian Administration at admin.atlassian.com.\n\tSelect Security, Data protection, then Data security policy.\n\tSelect an existing draft control or create a new one.\n\tWhen adding override, select your Jira Product Discovery spaces.",
   "announced_date": "2026-07-20",
   "rollout_start_date": "2026-07-20",
   "rollout_end_date": "2026-08-24",
-  "last_seen_week": "2026-08-24",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-20-to-jul-27-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-08-31",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

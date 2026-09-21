@@ -2,11 +2,11 @@
   "id": "confluence-databases-freeze-columns-in-table-layouts",
   "title": "Databases: Freeze columns in table layouts",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Manage large amounts of data more effectively in Confluence by freezing columns in your database table layouts. This update allows you to keep essential information visible while you scroll horizontally through other fields in the app. Open a database in Confluence and select the table layout.\n\tOpen the field header menu for the column you want to freeze.\n\tSelect Freeze up to this column to keep that column and all columns to its left visible while scrolling.\n\tTo restore normal scrolling, open t",
   "announced_date": "2026-08-10",
   "rollout_start_date": "2026-08-10",
-  "rollout_end_date": "2026-08-17",
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

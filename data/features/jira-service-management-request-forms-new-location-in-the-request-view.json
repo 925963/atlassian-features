@@ -2,11 +2,11 @@
   "id": "jira-service-management-request-forms-new-location-in-the-request-view",
   "title": "Request forms: New location in the request view",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We've added an informational message in the Attached forms section of the work item view, as part of moving request forms to the Request details section in Jira Service Management. This message guides you to the new location of request forms in the Request details section. This message will only be shown if there are no other attached forms in the attached forms section. Open a work item in the portal with a request form.\n\tFind the message in the attached forms section if there are no other atta",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

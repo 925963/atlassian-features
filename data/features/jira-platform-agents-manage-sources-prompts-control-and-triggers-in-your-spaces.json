@@ -2,11 +2,11 @@
   "id": "jira-platform-agents-manage-sources-prompts-control-and-triggers-in-your-spaces",
   "title": "Agents: Manage sources, prompts, control and triggers in your spaces",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Jira admins can now manage AI-powered agents directly within their space settings. This new page allows you to view which agents are active in your space, understand their workflow triggers, and configure space-level prompts and controls to ensure AI workflows and responses are tailored to your team's specific context. To get started with this change Open your Jira space.\n\tSelect Space settings from the sidebar.\n\tSelect Agents to view the active agents and their configurations.\n\tAdjust the conte",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

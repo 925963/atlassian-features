@@ -2,18 +2,23 @@
   "id": "confluence-related-content-connect-third-party-apps-to-surface-relevant-work",
   "title": "Related content: Connect third-party apps to surface relevant work",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Confluence users can now discover and connect to third-party apps directly from the Related content section at the bottom of a page. When a page contains links to apps like Google Drive, GitHub, or Miro, Confluence will prompt you to connect that app to automatically surface related files and work. Once connected, Atlassian Intelligence provides personalized recommendations from your third-party apps, helping you find relevant information without leaving Confluence. To get started with this chan",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
     {
       "date": "2026-08-31",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

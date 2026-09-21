@@ -2,11 +2,11 @@
   "id": "goals-set-periodic-metric-targets-for-time-based-tracking-of-goals",
   "title": "Set periodic metric targets for time-based tracking of goals",
   "product": "Goals",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now set periodic metric targets for goals, allowing you to define monthly target values and record actual progress against them. This update helps teams with quarterly or monthly reporting needs by providing period-by-period tracking and variance visualization, ensuring a consistent way to measure health across your organization. This feature is available for Strategy Collection customers. To set periodic metric targets: Navigate to a goal that has at least one metric attached.\n\tSelect M",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

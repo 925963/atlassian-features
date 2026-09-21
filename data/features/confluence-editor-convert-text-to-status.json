@@ -1,0 +1,19 @@
+{
+  "id": "confluence-editor-convert-text-to-status",
+  "title": "Editor: Convert text to status",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Save time in the editor by quickly converting short phrases into a status. When a paragraph or heading has less than or equal to 30 characters of texts, you can now transform it into a status component to highlight important information in your content To get started with this change: Open the editor in Confluence or Jira\n\tType a short phrase of up to 30 characters on a new line.\n\tClick the drag handle next to the text you just typed\n\tChoose the option to turn the text into a Status from the blo",
+  "announced_date": "2026-09-07",
+  "rollout_start_date": "2026-09-07",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-07",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
+  "history": [
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    }
+  ]
+}

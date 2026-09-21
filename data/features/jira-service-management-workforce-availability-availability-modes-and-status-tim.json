@@ -2,18 +2,23 @@
   "id": "jira-service-management-workforce-availability-availability-modes-and-status-tim",
   "title": "Workforce availability: Availability modes and status timers",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Manage your availability more effectively in Jira Service Management with new availability modes and status timers. You can now choose between Auto and Manual modes to control how your status updates based on activity, and set timers to automatically revert your status. These improvements give agents more control over their capacity, helping to prevent missed requests and balance workloads across the team.",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
     {
       "date": "2026-08-31",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

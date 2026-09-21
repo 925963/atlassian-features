@@ -2,18 +2,23 @@
   "id": "jira-platform-bulk-assign-ai-agents-to-work-items",
   "title": "Bulk assign AI agents to work items",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Jira users can now assign an AI agent to multiple work items at once using the bulk actions toolbar. This improvement saves time by allowing you to start sessions for up to 50 work items in a single operation across the List, Global Search, Backlog, and Timeline views. To get started with this change Select up to 50 work items in a supported Jira view, such as the List, Global Search, Backlog, or Timeline.\n\tSelect Add agent from the bulk actions toolbar.\n\tChoose the AI agent you want to assign t",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
     {
       "date": "2026-08-31",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

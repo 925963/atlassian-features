@@ -2,12 +2,12 @@
   "id": "jira-platform-comments-truncation-for-long-text",
   "title": "Comments: Truncation for long text",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira now truncates long comments to help you scan through your work more efficiently. This change keeps your issue view clean and organized by showing only the beginning of lengthy discussions, allowing you to focus on the most relevant information first. Open any issue in Jira that contains a long comment.\n\tSelect See more at the end of the truncated text to view the full comment.\n\tSelect See less to collapse the comment back to its truncated view.",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
   "rollout_end_date": "2026-08-24",
-  "last_seen_week": "2026-08-24",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-08-31",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

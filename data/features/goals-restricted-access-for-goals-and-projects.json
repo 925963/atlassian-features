@@ -2,11 +2,11 @@
   "id": "goals-restricted-access-for-goals-and-projects",
   "title": "Restricted access for goals and projects",
   "product": "Goals",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Manage sensitive information more effectively by restricting access to specific goals and projects. This update allows you to control who can view individual items, ensuring that confidential work remains private while still contributing to your organization's overall progress. Navigate to the goal or project you want to restrict.\n\tSelect the Share button.\n\tChoose the Restricted option from the access settings.\n\tAdd the specific people who should have access to view or edit the item.",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

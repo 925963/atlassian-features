@@ -2,11 +2,11 @@
   "id": "jira-platform-create-agents-directly-from-jira-work-items",
   "title": "Create agents directly from Jira work items",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "You can now create and configure agents without leaving your current work item. Select Create an agent from the Assignee or Agents field, and an agent plan will be drafted based on the work item context — ready for you to review, refine, and activate in seconds. Open a work item in Jira.\n\tIn the Assignee or Agents field, select Create an agent.\n\tAn agent plan is drafted based on the work item context.\n\tReview the suggested name and instructions, then edit if needed.\n\tSelect Create to activate th",
   "announced_date": "2026-06-15",
   "rollout_start_date": "2026-06-15",
-  "rollout_end_date": "2026-08-17",
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-15-to-jun-22-2026",
   "history": [
@@ -69,6 +69,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

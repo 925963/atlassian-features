@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-manage-plan-dependencies-effectively-with-a-redesigned-filter-bar-",
+  "title": "Manage plan dependencies effectively with a redesigned filter bar and responsive controls",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Use the redesigned dependency report filter bar in Jira Plans, with improved accessibility and usability. The standard dataset filters now live in a dedicated popup with a responsive layout. All controls remain visible and operable even at 200% browser zoom, enabling you to manage your plan dependencies more effectively across different screen sizes and zoom levels. To get started: Open your plan in Jira and select the Dependency report tab.\n\tSelect Filters to open the new popup and refine your ",
+  "announced_date": "2026-09-07",
+  "rollout_start_date": "2026-09-07",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-07",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
+  "history": [
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    }
+  ]
+}

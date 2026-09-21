@@ -2,18 +2,23 @@
   "id": "jira-service-management-assets-display-names-for-schemas-object-types-and-attrib",
   "title": "Assets: Display names for schemas, object types, and attributes",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Manage your data more intuitively in Jira Service Management by adding display names to Assets entities. You can now clearly label and recognize schemas, object types, and attributes at a glance, removing the need to guess when identifying specific data structures. To get started with this change Open the Assets app.\n\tSelect the schema, object type, or attribute you want to update.\n\tEnter a descriptive label in the Display name field.\n\tSelect Save to update how the entity appears in the interfac",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
     {
       "date": "2026-08-31",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

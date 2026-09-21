@@ -2,11 +2,11 @@
   "id": "jira-platform-smart-field-suggestions-now-available-in-the-new-jira-issue-creati",
   "title": "Smart field suggestions now available in the new Jira issue creation experience",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Speed up your workflow and reduce manual data entry with intelligent field suggestions in Jira's modernized work item creation dialog. By analyzing your project's historical patterns and similar issues, Jira now surfaces the most relevant values for both standard and custom fields, helping you capture work faster and with greater accuracy. To get started with this change Smart field suggestions are available for Jira Cloud Standard and Premium plans.",
   "announced_date": "2026-08-10",
   "rollout_start_date": "2026-08-10",
-  "rollout_end_date": "2026-08-17",
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

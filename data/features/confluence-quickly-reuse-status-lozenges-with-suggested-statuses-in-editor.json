@@ -1,0 +1,19 @@
+{
+  "id": "confluence-quickly-reuse-status-lozenges-with-suggested-statuses-in-editor",
+  "title": "Quickly reuse status lozenges with suggested statuses in editor",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Save time when adding status lozenges to your pages in Confluence. The status popup now suggests statuses that are already being used on the page, helping you maintain consistency across your content without manual typing. To choose from an already used status from the page: Open a page in the Confluence editor.\n\tType /status or select Status from the insert menu to add a status lozenge.\n\tSelect the status lozenge to open the status popup.\n\tChoose from the suggested statuses already present on y",
+  "announced_date": "2026-09-07",
+  "rollout_start_date": "2026-09-07",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-07",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
+  "history": [
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    }
+  ]
+}

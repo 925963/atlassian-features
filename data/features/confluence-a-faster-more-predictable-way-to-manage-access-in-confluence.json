@@ -2,12 +2,12 @@
   "id": "confluence-a-faster-more-predictable-way-to-manage-access-in-confluence",
   "title": "A faster, more predictable way to manage access in Confluence",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Manage space access using role-based access control. Instead of selecting 14 individual checkboxes for every person, you can now assign a single role to grant the right permissions instantly. This change brings consistency across your spaces and makes it simpler to scale access as your organization grows. To update your site default access for new spaces: Go to Confluence administration.\n\tSelect Space defaults under Permissions.\n\tUpdate the access for any groups in your site's defaults from \"Cus",
   "announced_date": "2026-07-06",
   "rollout_start_date": "2026-07-06",
   "rollout_end_date": "2026-08-24",
-  "last_seen_week": "2026-08-24",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-6-to-jul-13-2026",
   "history": [
     {
@@ -54,6 +54,11 @@
       "date": "2026-08-31",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

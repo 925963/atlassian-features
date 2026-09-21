@@ -2,18 +2,23 @@
   "id": "jira-platform-workload-reports-removal-of-user-and-version-workload-reports",
   "title": "Workload reports: Removal of user and version workload reports",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "We’re removing the User workload report and Version workload report from Jira Cloud to simplify your reporting experience. You can continue to track team capacity and progress using other reporting tools in Jira Cloud, such as the Workload pie chart gadget or capacity planning in the timeline. Go to your Jira space.\n\tSelect Reports from the sidebar.\n\tView the list of available reports to choose an alternative for tracking workload.",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
   "rollout_end_date": null,
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
     {
       "date": "2026-08-31",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
     }
   ]
 }

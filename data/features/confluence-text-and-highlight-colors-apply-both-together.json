@@ -1,0 +1,19 @@
+{
+  "id": "confluence-text-and-highlight-colors-apply-both-together",
+  "title": "Text and highlight colors: Apply both together",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "You can now apply both a text color and a highlight color to the same selection of text in our Confluence and Jira editors. This update allows you to emphasize important information more effectively by combining different formatting options on your pages. The color picker also includes accessibility indicators to help you choose color combinations that are easy for everyone to read. To get started with this change Open a page in Confluence or a work item in Jira.\n\tSelect the text you want to for",
+  "announced_date": "2026-09-07",
+  "rollout_start_date": "2026-09-07",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-07",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
+  "history": [
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    }
+  ]
+}

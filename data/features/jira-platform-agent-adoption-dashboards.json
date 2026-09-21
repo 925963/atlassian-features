@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-agent-adoption-dashboards",
+  "title": "Agent adoption dashboards",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Monitor and improve agent adoption across your team with the new Agents dashboard in Jira. This dashboard provides visibility into how your team uses agents, helping you identify trends and drive consistent engagement to maximize the value of your Atlassian apps. Go to your Jira spsce.\n\tSelect Reports from the space navigation.\n\tSelect Agents from the list of available dashboards.",
+  "announced_date": "2026-09-07",
+  "rollout_start_date": "2026-09-07",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-07",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
+  "history": [
+    {
+      "date": "2026-09-07",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    }
+  ]
+}

@@ -2,11 +2,11 @@
   "id": "rovo-ui-update-manage-rovo-mcp-server-access-from-the-permissions-tab-in-atlassi",
   "title": "UI update: Manage Rovo MCP server access from the Permissions tab in Atlassian Administration",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We’ve updated the interface for managing Atlassian Rovo MCP server access in Atlassian Administration. This visual refresh includes a new user consent screen to improve transparency when modifying access, while ensuring all your existing controls and permissions remain unchanged. Go to Atlassian Administration, then Rovo.\n\tSelect Rovo MCP server, then Permissions.\n\tChoose the user or group you want to modify.\n\tFollow the prompts on the user consent screen to complete the changes.",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
-  "rollout_end_date": "2026-08-17",
+  "rollout_end_date": "2026-08-31",
   "last_seen_week": "2026-08-31",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
@@ -59,6 +59,11 @@
       "date": "2026-08-31",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026"
+    },
+    {
+      "date": "2026-09-07",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }
