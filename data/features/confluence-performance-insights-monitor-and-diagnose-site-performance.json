@@ -1,0 +1,19 @@
+{
+  "id": "confluence-performance-insights-monitor-and-diagnose-site-performance",
+  "title": "Performance Insights: Monitor and diagnose site performance",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Confluence Performance Insights gives admins self-serve visibility into site and content performance. Site admins on Enterprise sites can now monitor load times, identify slow pages, and understand how user network conditions or devices impact the experience in Confluence. This helps teams maintain a healthy site and improve user satisfaction by diagnosing performance issues without needing to contact support. To get started: Go to Confluence administration.\n\tIn the left sidebar, under Monitorin",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

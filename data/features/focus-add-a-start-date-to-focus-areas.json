@@ -1,0 +1,19 @@
+{
+  "id": "focus-add-a-start-date-to-focus-areas",
+  "title": "Add a start date to Focus areas",
+  "product": "Focus",
+  "status": "rolling_out_new",
+  "description": "You can now add an optional start date to focus areas in Atlassian Focus. This helps you communicate when work is planned to begin, providing clearer planning context and ensuring that capacity curves and mid-year plans accurately reflect future work. To add a start date: Open an existing focus area or create a new one.\n\tIn the side panel, select the Start date field.\n\tChoose a date with day, month, or quarter precision.\n\tSelect Save.",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

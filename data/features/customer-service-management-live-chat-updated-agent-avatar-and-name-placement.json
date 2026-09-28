@@ -2,11 +2,11 @@
   "id": "customer-service-management-live-chat-updated-agent-avatar-and-name-placement",
   "title": "Live Chat: Updated agent avatar and name placement",
   "product": "Customer Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We've updated the visual layout of the Live Chat widget in Jira Service Management to improve the chat experience for your customers. When a human agent sends multiple consecutive messages, their avatar and name now appear below the last message in the group instead of above the first one. This refinement creates a cleaner, more deliberate layout that better reflects the intended design and visual hierarchy of the conversation. Open the Live Chat widget from your Help Center, portal, or embedded",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

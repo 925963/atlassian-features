@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-audit-log-filter-by-units-and-unit-admin-access",
+  "title": "Audit log: Filter by units and unit admin access",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now filter audit log events by units in Atlassian Administration. This change also allows unit admins to access the organization-level audit log to view events specific to the units they manage, providing more granular visibility into administrative actions. To get started with this change: Go to Security, then Audit log in Atlassian Administration.\n\tIf you are an organization admin, select the Units filter to view events for specific units.\n\tIf you are a unit admin, navi",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

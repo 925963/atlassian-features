@@ -2,18 +2,23 @@
   "id": "jira-service-management-knowledge-base-link-individual-confluence-pages",
   "title": "Knowledge base: Link individual Confluence pages",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Jira Service Management admins can now link individual Confluence pages and their child pages as knowledge base sources. This update provides finer control over the content surfaced to agents and help-seekers across the Help Center, portal, and work item view. Go to your service space in Jira Service Management, then select Space settings.\n\tSelect Knowledge base.\n\tSelect Add knowledge, then choose a Confluence space.\n\tIn the Specific content menu, select the individual page you want to link.",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

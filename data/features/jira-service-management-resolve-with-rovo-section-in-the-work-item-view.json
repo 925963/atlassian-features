@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-resolve-with-rovo-section-in-the-work-item-view",
+  "title": "Resolve with Rovo section in the work item view",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Jira Service Management now includes an Resolve with Rovo summary section in the work item view to help agents quickly understand the context of a request. This feature uses Atlassian Intelligence to condense long conversations and internal notes into a concise overview. This allows teams to respond to customers faster and resolve requests without reading through every update. It also includes automated resolution suggestions when available. To get started with this change: Open any request in t",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

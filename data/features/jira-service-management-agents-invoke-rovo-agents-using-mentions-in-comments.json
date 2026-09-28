@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-agents-invoke-rovo-agents-using-mentions-in-comments",
+  "title": "Agents: Invoke Rovo agents using @mentions in comments",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Save time and streamline your service desk workflows by invoking Rovo agents directly from the comment box in Jira Service Management. Licensed agents can now trigger AI-powered assistance by typing @ followed by the agent's name in both internal notes and public replies. This update brings feature parity with Jira, allowing your team to leverage AI contextually within tickets to resolve requests faster. Open a ticket in your Jira Service Management service project.\n\tGo to the comment box and se",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

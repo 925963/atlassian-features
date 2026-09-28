@@ -2,18 +2,23 @@
   "id": "jira-platform-view-and-filter-agents-in-the-backlog",
   "title": "View and filter agents in the backlog",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "You can now see which agents are active in your backlog and filter work items by agent. This makes it easier to collaborate and manage work in real-time. To view and filter agents in the backlog: Open your Jira project and select Backlog from the sidebar.\n\tLook for the agent session icon at the right side of the work items, next to the Assignee icon.\n\tTo filter, select Add agent and select an specific agent name to filter the backlog and see only the work items they are currently interacting wit",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

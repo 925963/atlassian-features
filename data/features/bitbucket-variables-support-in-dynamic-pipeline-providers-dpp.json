@@ -2,12 +2,12 @@
   "id": "bitbucket-variables-support-in-dynamic-pipeline-providers-dpp",
   "title": "Variables support in Dynamic Pipeline Providers (DPP)",
   "product": "Bitbucket",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We've introduced support for passing variables to Dynamic Pipeline Providers (DPP) in Bitbucket Pipelines, enabling dynamic configurations that are flexible and adaptable to changes. This allows for easy environment switching, feature toggling, and configuration sharing across projects, reducing maintenance and enhancing efficiency. To get started with this change Here's how you can leverage dynamic pipeline providers (DPP) with variables:",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
     {
@@ -44,6 +44,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

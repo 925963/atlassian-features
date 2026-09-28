@@ -2,18 +2,23 @@
   "id": "jira-platform-jira-entity-limits-enforcement-for-configuration-entities",
   "title": "Jira entity limits: Enforcement for configuration entities",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Jira now enforces limits for configuration entities, including field options, workflows, statuses, components, priorities, versions, security levels, and permission grants, to help maintain app performance and stability. When an entity reaches its maximum threshold, Jira blocks the action and provides guidance on how to optimize your usage. To get started with this change Go to the Jira administration area where you manage the relevant entity.\n\tStart the action you need, such as adding a field o",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

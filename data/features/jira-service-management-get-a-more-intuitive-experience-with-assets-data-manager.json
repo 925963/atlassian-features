@@ -2,11 +2,11 @@
   "id": "jira-service-management-get-a-more-intuitive-experience-with-assets-data-manager",
   "title": "Get a more intuitive experience with Assets Data Manager",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Manage your object schemas and data with greater clarity and ease with an improved, more intuitive, and efficient experience with Assets Data Manager for Jira Service Management. Open your Jira Service Management space.\n\tSelect Assets from the navigation menu.\n\tChoose Object classes to view the updated Data Manager interface.",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

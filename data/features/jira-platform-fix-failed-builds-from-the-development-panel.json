@@ -2,11 +2,11 @@
   "id": "jira-platform-fix-failed-builds-from-the-development-panel",
   "title": "Fix failed builds from the development panel",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Software projects in Jira now include a button in the development panel that allows you to fix failed builds using agents. This update helps you quickly address build issues directly from the work item, saving time and streamlining your development workflow. Open a Jira work item that has a failed build associated with it.\n\tLocate the development panel in the work item.\n\tSelect the button to fix the build using an agent.",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
-  "rollout_end_date": "2026-08-24",
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
@@ -69,6 +69,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

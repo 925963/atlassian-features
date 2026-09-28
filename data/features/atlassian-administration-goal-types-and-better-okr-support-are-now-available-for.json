@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-goal-types-and-better-okr-support-are-now-available-for",
+  "title": "Goal types and better OKR support are now available for the Goals app",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "We're introducing the goal type system to allow for more customizability and better support for popular frameworks like OKRS. This also includes the new \"Success Measure\" (like key results) that can be created from a goal or objective page to track specific outcomes needed to achieve this goal. With new goal types and success measures, you can more accurately represent your organization's goal structure within Atlassian. Read on for more information on goal types, success measures, and how they ",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

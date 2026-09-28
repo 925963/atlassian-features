@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-site-optimizer-new-metrics-for-field-options-and-work-item-securit",
+  "title": "Site optimizer: New metrics for field options and work item security levels",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Jira admins can now monitor usage for field options and work item security levels within the Site optimizer. These new metrics help admins stay within recommended guardrails and maintain optimal app performance by identifying when resource usage reaches or exceeds limits. Log in to Jira with admin access.\n\tSelect Settings, then System, then Site optimizer.\n\tThe Site optimizer will show the resource usage reporting for field options and work item security levels along with other entities' resourc",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-contextual-invitation-emails-for-agents",
+  "title": "Contextual invitation emails for agents",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Jira Service Management now sends more contextual invitation emails to new agents. These updated emails include the name of the person who sent the invitation and the specific project they are being invited to, helping new team members understand why they were invited and what they are joining. To get started with this change: Open your Jira Service Management project.\n\tSelect Project settings, then People.\n\tSelect Add people to invite a new agent to the project.\n\tThe invitee will receive an ema",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

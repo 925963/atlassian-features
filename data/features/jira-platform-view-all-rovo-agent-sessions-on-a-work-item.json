@@ -2,18 +2,23 @@
   "id": "jira-platform-view-all-rovo-agent-sessions-on-a-work-item",
   "title": "View all Rovo agent sessions on a work item",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Get a more complete picture of team activity in Jira by viewing all Rovo agent sessions associated with a work item. Previously, agent sessions were private to the person who started them, but now anyone with access to a work item can see all sessions started by their team, making automated work visible to everyone and accountable. To view this change: Open a work item in Jira where team members are using Rovo agents.\n\tView the agent session cards to see all active sessions started by your team.",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

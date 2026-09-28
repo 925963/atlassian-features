@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-search-for-issues-by-team-hierarchy",
+  "title": "Search for issues by team hierarchy",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Save time and improve visibility into your team's work with the new descendantsOfTeam JQL function in Jira and Jira Service Management. This function allows you to quickly find all work items belonging to a specific team and any of its sub-teams, making it easier to track progress across your entire organization. To get started with this change: In your space select Filters from the sidebar*,* then select Search work items.\n\tEnter a JQL query using the descendantsOfTeam function, for example:\n\t\n",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

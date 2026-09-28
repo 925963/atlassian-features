@@ -2,11 +2,11 @@
   "id": "atlassian-analytics-control-access-to-funds-data-with-focus-as-a-data-source",
   "title": "Control access to funds data with Focus as a data source",
   "product": "Atlassian Analytics",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Admins can now manage the inclusion of funds data when connecting Focus as a data source in Atlassian Analytics. This update provides greater control over sensitive financial information by allowing you to choose whether funds-related views are included in your data source. To get started: Go to the Analytics app.\n\tCreate a new data source or select an existing one to edit.\n\tSelect Focus from the list of available apps.\n\tSelect the Include Funds data checkbox to include funds-related views, or l",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
-  "rollout_end_date": "2026-08-24",
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

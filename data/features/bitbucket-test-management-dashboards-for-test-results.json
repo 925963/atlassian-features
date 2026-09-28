@@ -2,11 +2,11 @@
   "id": "bitbucket-test-management-dashboards-for-test-results",
   "title": "Test management: Dashboards for test results",
   "product": "Bitbucket",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Bitbucket Cloud now includes test management dashboards to help you track and analyze your test results. This change provides a centralized view of your testing data, allowing you to identify trends and improve software quality. Log in to your Bitbucket Cloud workspace.\n\tNavigate to the repository where you want to view test results.\n\tSelect Tests from the sidebar to open the test management dashboard.",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

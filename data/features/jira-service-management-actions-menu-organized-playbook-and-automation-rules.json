@@ -2,12 +2,12 @@
   "id": "jira-service-management-actions-menu-organized-playbook-and-automation-rules",
   "title": "Actions menu: Organized playbook and automation rules",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Responders in Jira Service Management can now see a clear distinction between playbook-step rules and standalone automation rules within the actions menu. This update organizes the menu into two sections, making it easier to choose between guided resolution steps and quick, singular actions. To get started with this change Open any work item, such as an incident, in Jira Service Management.\n\tSelect the Actions menu (lightning bolt icon).\n\tView the categorized sections for playbook actions and au",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
     {
@@ -84,6 +84,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-command-palette-update-custom-select-fields",
+  "title": "Command palette: Update custom select fields",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Update custom select fields directly from the command palette while viewing work items in Jira. This change helps you save time by managing specific details without leaving the work item view or navigating through multiple menus. To get started with this change Open a work item to enter the work item view.\n\tOpen the command palette by pressing command + K (Mac) or Ctrl + K (Windows).\n\tSearch for the name of the custom select field you want to update.\n\tSelect the field from the list of results.\n\t",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

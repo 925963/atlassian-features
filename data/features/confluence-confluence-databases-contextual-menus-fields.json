@@ -1,0 +1,19 @@
+{
+  "id": "confluence-confluence-databases-contextual-menus-fields",
+  "title": "Confluence Databases: Contextual Menus - Fields",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "We redesigned how you configure field settings in Confluence databases to make the experience faster and less interruptive. Instead of using full-height side panels that push your content aside, you can now adjust field names, descriptions, default values, and custom settings through lightweight contextual menus that appear directly at the field header. Manage database fields Open a database in Confluence.\n\tFor a field you want to configure, open the field contextual menu by either:\n\t\n\t\tRight-cl",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

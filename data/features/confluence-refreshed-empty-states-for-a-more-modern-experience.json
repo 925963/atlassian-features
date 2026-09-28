@@ -2,12 +2,12 @@
   "id": "confluence-refreshed-empty-states-for-a-more-modern-experience",
   "title": "Refreshed empty states for a more modern experience",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We've updated the design and layout of empty states on the Confluence Home For you tab to provide a more modern and helpful experience. These changes include a refresh of the Pick up where you left off section and the panels for Following, Popular, and Calendar. We've also tidied up the Announcements tab to reduce clutter and help you focus on your most relevant work. In Confluence, go to Home.\n\tSelect the For you tab.\n\tView the updated designs in the empty state sections.",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
     {
@@ -64,6 +64,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

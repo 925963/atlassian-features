@@ -2,12 +2,12 @@
   "id": "bitbucket-view-billing-details-from-pipelines",
   "title": "View billing details from Pipelines",
   "product": "Bitbucket",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We've created a dedicated billing panel in Pipelines to help you view and manage billing details in one place. To view billing details in Pipelines, navigate to Workspace settings and select Pipeline usage details.",
   "announced_date": "2026-06-29",
   "rollout_start_date": "2026-06-29",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jun-29-to-jul-6-2026",
   "history": [
     {
@@ -64,6 +64,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

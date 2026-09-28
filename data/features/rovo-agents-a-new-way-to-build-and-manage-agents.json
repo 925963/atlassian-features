@@ -2,11 +2,11 @@
   "id": "rovo-agents-a-new-way-to-build-and-manage-agents",
   "title": "Agents: A new way to build and manage agents",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We've introduced a new modal in Atlassian Rovo that simplifies how you create and configure agents. This update provides a more intuitive experience for building agents, helping you automate tasks and surface knowledge across your Atlassian apps more efficiently. Open Rovo from the top navigation bar.\n\tSelect Agents from the side menu.\n\tChoose Create agent to open the new configuration modal.",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

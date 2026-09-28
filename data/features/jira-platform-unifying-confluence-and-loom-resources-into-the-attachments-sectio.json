@@ -2,11 +2,11 @@
   "id": "jira-platform-unifying-confluence-and-loom-resources-into-the-attachments-sectio",
   "title": "Unifying Confluence and Loom resources into the Attachments section",
   "product": "Jira platform",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Jira now brings Confluence pages and Loom videos into one unified Attachments section, making it easier to manage all your resources in one place. This streamlined experience reduces clutter and helps teams collaborate more efficiently by providing quick access to important documents and videos. To use the new Attachments section: Open a Jira work item.\n\tGo to Attachments to view files, Confluence pages, and Loom videos in one place.\n\tSelect + Add to add attachments.\n\tPreview, add, or unlink Con",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
-  "rollout_end_date": "2026-08-24",
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
@@ -99,6 +99,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "jira-product-discovery-add-jira-product-discovery-to-more-sites-from-atlassian-a",
+  "title": "Add Jira Product Discovery to more sites from Atlassian Administration",
+  "product": "Jira Product Discovery",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now add Jira Product Discovery to new or existing sites directly from Atlassian Administration — no need to contact support. Start a trial or add Jira Product Discovery to more sites on your Enterprise plan in just a few steps. Log in to admin.atlassian.com and select your organization.\n\tGo to Apps, then select Atlassian apps.\n\tSelect Add app, then select Jira Product Discovery.\n\tPick an existing site or create a new one.",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

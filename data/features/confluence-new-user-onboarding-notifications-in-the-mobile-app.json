@@ -2,11 +2,11 @@
   "id": "confluence-new-user-onboarding-notifications-in-the-mobile-app",
   "title": "New user onboarding notifications in the mobile app",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "New users of the Confluence mobile app will now receive a series of push notifications during their first five days to help them discover high-value features. These notifications provide direct links to key capabilities like audio briefings, search, and content creation, making it easier to stay productive while away from a laptop. To view and manage notifications: Sign in to the Confluence mobile app for the first time.\n\tEnsure push notifications are enabled for the app in your device settings.",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "jira-platform-link-existing-statuses-to-team-managed-spaces-board-view",
   "title": "Link existing statuses to team-managed spaces board view",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Jira admins and project admins can now link existing workflow statuses to team-managed spaces from within the board view. This change helps organizations standardize workflows and improve reporting across Jira by reusing established statuses instead of creating new ones. To get started with this change Go to your team-managed space board.\n\tEither create a new column from the board, or from the “Configure Columns” option in the board “More actions” menu.\n\tType the name of an existing status to se",
   "announced_date": "2026-08-10",
   "rollout_start_date": "2026-08-10",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

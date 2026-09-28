@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-get-a-recoverable-error-for-jira-data-source-column-schema",
+  "title": "Get a recoverable error for Jira data source column schema",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "Jira now displays a recoverable error message instead of an indefinite loading state when a data source request lacks an available column schema. This improvement helps you understand the issue and provides a way to resolve it by refreshing the data source. Go to a page or dashboard that contains a Jira data source.\n\tIf the data source encounters a missing column schema error, locate the error panel.\n\tSelect Refresh within the error panel to recover the column schema and display your data.",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

@@ -2,11 +2,11 @@
   "id": "bitbucket-deployments-redesigned-dashboard-and-environment-cards",
   "title": "Deployments: Redesigned dashboard and environment cards",
   "product": "Bitbucket",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "The Bitbucket Deployments page has a new look and feel to help you track your software across environments more efficiently. We’ve updated the layout to a three-column view: Test, Staging, and Production, so you can see the status of your environments at a glance. Each environment now features a redesigned card that surfaces essential details like build numbers, commit messages, and the person who authored the commit. We’ve also added page-level filters for author, environment name, and status t",
   "announced_date": "2026-08-03",
   "rollout_start_date": "2026-08-03",
-  "rollout_end_date": "2026-08-24",
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-3-to-aug-10-2026",
   "history": [
@@ -39,6 +39,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "rovo-atlassian-rovo-mcp-manage-capacity-planning-settings",
+  "title": "Atlassian Rovo MCP: Manage capacity planning settings",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "Administrators can now manage how users interact with Individual Capacity planning content through Rovo MCP in Atlassian Administration. This update introduces new controls to specify whether managed users can view, create, or edit their capacity planning data using a Model Context Protocol (MCP) connection. Go to admin.atlassian.com.\n\tSelect your organization if you have more than one.\n\tGo to Settings, then Rovo.\n\tSelect Rovo MCP Server and then Permissions.\n\tUse the read_capacity_planning and ",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

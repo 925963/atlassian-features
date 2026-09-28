@@ -2,11 +2,11 @@
   "id": "jira-service-management-issue-view-collapsible-sections",
   "title": "Issue view: Collapsible sections",
   "product": "Jira Service Management",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Manage information density in Jira Service Management by collapsing and expanding sections in the issue view. This change allows agents to hide less relevant details and focus on the most important work, with their preferences saved across sessions. To get started with this change Open any issue in your service project.\n\tSelect the collapse icon next to a section header, such as Key Details, Attachments, or Linked items, to hide its content.\n\tSelect the icon again to expand the section when you ",
   "announced_date": "2026-06-08",
   "rollout_start_date": "2026-06-08",
-  "rollout_end_date": "2026-08-24",
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-8-to-jun-15-2026",
   "history": [
@@ -79,6 +79,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "customer-service-management-updates-to-customer-notification-email",
+  "title": "Updates to customer notification email",
+  "product": "Customer Service Management",
+  "status": "rolling_out_new",
+  "description": "The From email address on outbound customer notifications will be fixed to the configured Reply To address for the Customer Experience. If you have a custom From address that differs from your Reply To address, this change will affect how your emails appear to customers. This change also includes a fix to the notifications bug. Notifications will now correctly use the settings from the originating Customer Experience settings. A new setting (Notification email address) will be available to contr",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

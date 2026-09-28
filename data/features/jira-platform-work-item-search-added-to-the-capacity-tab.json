@@ -2,18 +2,23 @@
   "id": "jira-platform-work-item-search-added-to-the-capacity-tab",
   "title": "Work item search added to the capacity tab",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "A new search filter in your space’s Capacity tab lets you search by keyword or key to quickly find work item you need. The search works in both the Work and People views. Capacity planning is a Jira Premium and Enterprise feature. Turn it on using these instructions. Go to the Capacity tab.\n\tSelect the search input field above the list of issues.\n\tEnter your search terms to filter the results. The search works for keywords and for issue keys.",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

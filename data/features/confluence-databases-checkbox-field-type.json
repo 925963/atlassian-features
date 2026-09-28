@@ -1,0 +1,19 @@
+{
+  "id": "confluence-databases-checkbox-field-type",
+  "title": "Databases: Checkbox field type",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Confluence Databases now include a native checkbox field type, allowing you to track tasks and statuses more effectively. This new field type in Confluence makes it easier to manage simple yes or no information directly within your database. Manage database fields To get started with this change",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

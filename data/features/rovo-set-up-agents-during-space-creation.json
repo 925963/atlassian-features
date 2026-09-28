@@ -2,18 +2,23 @@
   "id": "rovo-set-up-agents-during-space-creation",
   "title": "Set up agents during space creation",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Save time by setting up agents directly when you create a new Kanban, Scrum or AI Space Create space in Jira if you have Rovo enabled. This update allows you to wire in triage or coding agents during the initial setup flow, ensuring your team can start using automation immediately without needing to configure it later. Enter the space creation flow in Jira.\n\tChoose a template, such as Kanban, Scrum, or AI Space Create and follow the prompts to set up your space.\n\tOn the Set up agents for your wo",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "customer-service-management-sandboxes-customer-service-management-support",
+  "title": "Sandboxes: Customer Service Management support",
+  "product": "Customer Service Management",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now provision and manage Customer Service Management in a sandbox. This allows teams on Premium and Enterprise plans to safely test configurations, workflows, and Atlassian Intelligence capabilities like Rovo and Agent Studio in an isolated environment before applying changes to their production app. Learn about sandboxes Go to Atlassian Administration, then select your organization.\n\tSelect Settings, then Sandboxes.\n\tSelect Create sandbox.\n\tChoose the site you want to cr",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

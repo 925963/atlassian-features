@@ -2,18 +2,23 @@
   "id": "confluence-floating-table-of-contents-navigate-long-pages-with-ease",
   "title": "Floating table of contents: Navigate long pages with ease",
   "product": "Confluence",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Confluence now features a floating table of contents to help you navigate long pages and live docs more efficiently. This persistent navigation tool allows you to jump between sections without scrolling back to an embedded macro, saving time and keeping you oriented within your content. Open a page or blog post in Confluence.\n\tSelect the table of contents button in the right-side object sidebar.\n\tSelect any heading from the outline to scroll directly to that section.",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

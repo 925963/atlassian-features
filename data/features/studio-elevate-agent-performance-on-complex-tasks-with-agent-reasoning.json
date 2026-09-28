@@ -2,11 +2,11 @@
   "id": "studio-elevate-agent-performance-on-complex-tasks-with-agent-reasoning",
   "title": "Elevate agent performance on complex tasks with agent reasoning",
   "product": "Studio",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Unlock a higher tier of agent thinking with Think Deeper in Studio. Think Deeper elevates how your agents reason through complex problems, and now lets you select the specific AI model powering that deeper reasoning. This gives you direct control over the quality and style of agent responses when tasks demand more sophisticated thinking. To get started with this change: Open Rovo and navigate to Studio.\n\tSelect the agent you want to configure or create a new one.\n\tGo to the Reasoning section and",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
-  "rollout_end_date": "2026-08-24",
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

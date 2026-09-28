@@ -1,0 +1,19 @@
+{
+  "id": "goals-goals-structured-fields-for-better-context",
+  "title": "Goals: Structured fields for better context",
+  "product": "Goals",
+  "status": "rolling_out_new",
+  "description": "Capture clearer and more consistent goal context in Atlassian Goals with new structured fields. The Overview tab now includes separate prompts for your goal description, why the goal is important, and how you will measure success. To get started with this change: Open an existing goal and select the Overview tab.\n\tSelect Edit to add content to the new fields.\n\tEnter details into Why is this goal important? and How will you measure success?\n\tSelect Save to update your goal.",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

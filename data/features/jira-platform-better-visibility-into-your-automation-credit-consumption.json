@@ -2,18 +2,23 @@
   "id": "jira-platform-better-visibility-into-your-automation-credit-consumption",
   "title": "Better visibility into your automation credit consumption",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "To help you prepare for upcoming billing changes, we’ve redesigned the Usage tab in Automation. This update gives you more visibility into your usage patterns and helps you identify which automation rules contribute most to your Automation steps and Rovo credits consumption. To view this change: Open your Atlassian app, such as Jira or Confluence.\n\tNavigate to Automation.\n\tSelect the Usage tab to view the refreshed usage dashboard.\n\tReview the Automation usage and Rovo usage cards and the High u",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

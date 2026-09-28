@@ -1,0 +1,19 @@
+{
+  "id": "confluence-database-entry-details-a-fresh-new-look",
+  "title": "Database entry details: A fresh new look",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "We've updated the look of the entry details panel in Confluence databases to provide a more modern and streamlined experience. This redesign makes it easier to view and manage your database information across the standard panel and supported embedded surfaces in Confluence. Open a Confluence database.\n\tSelect an entry or a specific cell within the database.\n\tOpen the entry details panel to see the updated design.",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

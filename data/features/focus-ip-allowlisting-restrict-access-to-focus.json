@@ -1,0 +1,19 @@
+{
+  "id": "focus-ip-allowlisting-restrict-access-to-focus",
+  "title": "IP allowlisting: Restrict access to Focus",
+  "product": "Focus",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now use IP allowlisting to restrict access to Atlassian Focus. By specifying approved IP addresses or ranges in Atlassian Administration, you can ensure that only authorized users can access your Focus site and its data. This security measure applies to both the in-app experience and the external Public API. Go to Atlassian Administration at admin.atlassian.com.\n\tSelect your organization if you have more than one.\n\tSelect Security, then IP allowlists.\n\tSelect Create IP al",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

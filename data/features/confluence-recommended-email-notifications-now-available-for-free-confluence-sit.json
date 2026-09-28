@@ -1,0 +1,19 @@
+{
+  "id": "confluence-recommended-email-notifications-now-available-for-free-confluence-sit",
+  "title": "Recommended email notifications now available for Free Confluence sites",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "We’re now sending recommended email notifications to customers on the Free edition of Confluence. These emails, already available on other editions, help teams stay updated on important activity. To see recommended email notifications in action: Sign in to your Confluence site on a Free edition.\n\tPerform actions that trigger notifications, such as creating or updating content.\n\tCheck your email inbox for the recommended notification.",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

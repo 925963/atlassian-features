@@ -2,18 +2,23 @@
   "id": "jira-platform-modern-jira-boards-in-company-managed-software-spaces",
   "title": "Modern Jira Boards in Company-Managed Software Spaces",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Boards in company-kanaged software spaces now look and behave similar to business boards in Jira. Core functionality remains unaffected and we’ve brought over many new and quality of life improvements to Software boards. Community post: 📣 Upcoming: Modernised Software boards in Jira (Company-Managed spaces)",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

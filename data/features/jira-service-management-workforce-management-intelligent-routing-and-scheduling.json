@@ -2,12 +2,12 @@
   "id": "jira-service-management-workforce-management-intelligent-routing-and-scheduling",
   "title": "Workforce management: Intelligent routing and scheduling",
   "product": "Jira Service Management",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Manage your team’s capacity and automate work assignment with new workforce management features in Jira Service Management. These tools help service teams plan coverage across time zones, track real-time agent availability, and ensure work is automatically routed to the right person based on their current schedule and workload. In Jira Service Management, select Workforce from the navigation sidebar.\n\tSelect Set up workforce management.\n\tComplete the onboarding steps to connect your teams.\n\tSele",
   "announced_date": "2026-06-01",
   "rollout_start_date": "2026-06-01",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-1-to-jun-8-2026",
   "history": [
     {
@@ -84,6 +84,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

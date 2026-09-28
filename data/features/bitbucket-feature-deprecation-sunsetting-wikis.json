@@ -2,11 +2,11 @@
   "id": "bitbucket-feature-deprecation-sunsetting-wikis",
   "title": "Feature deprecation: Sunsetting wikis",
   "product": "Bitbucket",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Wikis have been removed from Bitbucket Cloud. This change removes wiki's entry points from repository navigation and settings. Please refer to our community post for more information. Use Confluence for wiki content to keep planning, documentation, and development connected across Atlassian apps.",
   "announced_date": "2026-08-17",
   "rollout_start_date": "2026-08-17",
-  "rollout_end_date": "2026-08-24",
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-17-to-aug-24-2026",
   "history": [
@@ -29,6 +29,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

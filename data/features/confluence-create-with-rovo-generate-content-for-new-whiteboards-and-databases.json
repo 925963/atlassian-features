@@ -2,12 +2,12 @@
   "id": "confluence-create-with-rovo-generate-content-for-new-whiteboards-and-databases",
   "title": "Create with Rovo: Generate content for new whiteboards and databases",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time when starting new projects by using Rovo to generate content for whiteboards and databases. When you create a new whiteboard or database in Confluence, Rovo provides an inline prompt or modal to help you quickly populate your work with relevant ideas and structures. Create a new whiteboard or database in Confluence.\n\tYou will see a Create with Rovo prompt box, which appears as a popup or side modal on whiteboards, or at the bottom of the screen on databases.\n\tEnter a prompt to describe",
   "announced_date": "2026-08-10",
   "rollout_start_date": "2026-08-10",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

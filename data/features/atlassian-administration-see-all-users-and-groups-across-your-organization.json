@@ -2,12 +2,12 @@
   "id": "atlassian-administration-see-all-users-and-groups-across-your-organization",
   "title": "See all users and groups across your organization",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "We’re improving how you find and manage users and groups in your organization when you have multiple sites. This change applies to customers with the original user management experience only. You’ll find two new pages in Atlassian Administration, under Directory: Users: All users across your organization, including managed accounts if you’re an organization admin.",
   "announced_date": "2026-06-22",
   "rollout_start_date": "2026-06-22",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/06/atlassian-cloud-changes-jun-22-to-jun-29-2026",
   "history": [
     {
@@ -69,6 +69,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

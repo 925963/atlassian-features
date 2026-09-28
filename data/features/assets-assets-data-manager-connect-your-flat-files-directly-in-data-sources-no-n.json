@@ -1,0 +1,19 @@
+{
+  "id": "assets-assets-data-manager-connect-your-flat-files-directly-in-data-sources-no-n",
+  "title": "Assets Data Manager: Connect your flat files directly in data sources - no need for the Data Manager clients",
+  "product": "Assets",
+  "status": "rolling_out_new",
+  "description": "Save time and simplify your cloud-to-cloud migration by importing data into Assets Data Manager directly from files. This new capability allows organization admins to move data between cloud sites using flat files, providing more flexibility and control during the migration process. By using file-based imports, you can ensure your service projects are set up correctly in your new cloud environment without manual data entry. Go to Assets Data Manager and select once of you flat file data sources ",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

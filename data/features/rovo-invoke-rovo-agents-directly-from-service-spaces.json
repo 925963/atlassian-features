@@ -2,18 +2,23 @@
   "id": "rovo-invoke-rovo-agents-directly-from-service-spaces",
   "title": "Invoke Rovo agents directly from service spaces",
   "product": "Rovo",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Service desk agents can now find and invoke Rovo agents directly within Jira Service Management. This update brings the AI agent experience from Jira to service spaces, so you get AI assistance without leaving your work item. Use agents to draft responses, summarise complex requests, or perform specialized tasks where you work. Open any work item in your Jira Service Management space.\n\tSelect the Agents icon in the top-right toolbar to open the agent picker.\n\tSelect an agent from the list to sta",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

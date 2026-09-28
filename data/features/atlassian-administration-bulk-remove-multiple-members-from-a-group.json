@@ -2,12 +2,12 @@
   "id": "atlassian-administration-bulk-remove-multiple-members-from-a-group",
   "title": "Bulk remove multiple members from a group",
   "product": "Atlassian Administration",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Organization admins can now save time by removing up to 200 members from a group at once in Atlassian Administration. This update to the Group Members table allows admins to manage large groups more efficiently without the need to remove members individually. To remove multiple users in bulk Go to admin.atlassian.com.\n\tSelect your organization if you have more than one.\n\tSelect Directory, then Groups.\n\tOpen a group and go to the Members tab.\n\tUse the checkboxes to select the members you want to ",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

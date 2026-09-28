@@ -2,18 +2,23 @@
   "id": "jira-platform-automation-trigger-rules-when-a-project-status-changes",
   "title": "Automation: Trigger rules when a project status changes",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Save time and keep your team informed by automating actions whenever a Project status changes. This new automation trigger allows you to streamline workflows such as sending notifications without manual intervention. To get started with this change Create an automation rule and click Create rule.\n\tUnder Add a trigger, search for and select Project status changed.\n\tSelect the projects you want the automation to run for. Leave this blank to monitor all projects in your instance.\n\tSelect the status",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

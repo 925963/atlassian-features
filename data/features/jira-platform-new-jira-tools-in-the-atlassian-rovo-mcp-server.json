@@ -2,12 +2,12 @@
   "id": "jira-platform-new-jira-tools-in-the-atlassian-rovo-mcp-server",
   "title": "New Jira tools in the Atlassian Rovo MCP Server",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "The Atlassian Rovo MCP Server adds more than 20 new Jira tools. AI agents and MCP clients can now work directly with boards and sprints, attachments, comments, worklogs, change history, users, statuses, dashboards, entity properties, work item watching, and project administration. Connect your MCP client, such as Claude, Cursor, or VS Code, to the Atlassian Rovo MCP Server, then authenticate to your Atlassian site.\n\tConfirm the client is using the current Jira v2 tool set.\n\tAsk the agent to perf",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

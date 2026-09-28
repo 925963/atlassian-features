@@ -2,12 +2,12 @@
   "id": "confluence-slack-user-settings-removal-from-profile-menu",
   "title": "Slack user settings: Removal from profile menu",
   "product": "Confluence",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "The Slack option is being removed from the profile menu in Confluence. Your existing Slack notifications are not affected and will keep being delivered as they are today. To get started with this change Open the Slack workspace connected to your Confluence site.\n\tUse the Confluence app for Slack to view or update your notification preferences.",
   "announced_date": "2026-08-24",
   "rollout_start_date": "2026-08-24",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-24-to-aug-31-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

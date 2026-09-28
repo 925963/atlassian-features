@@ -1,0 +1,19 @@
+{
+  "id": "jira-product-discovery-track-delivery-progress-more-easily-with-improved-visibil",
+  "title": "Track delivery progress more easily with improved visibility and organization for linked work",
+  "product": "Jira Product Discovery",
+  "status": "rolling_out_new",
+  "description": "Track your delivery progress in a more flexible and organized way. The delivery panel in the idea view sidebar now resizes to fit your content and enables you to sort columns, helping you find the linked work you care about faster. We've also reclaimed horizontal space by moving the unlink work item action inline and updated the section label to Delivery Progress to better reflect the status of your work items. To get started with this change: Open an idea in Jira Product Discovery.\n\tSelect the ",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

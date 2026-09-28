@@ -1,0 +1,19 @@
+{
+  "id": "rovo-rovo-bulk-invite-people-from-a-list-or-file",
+  "title": "Rovo: Bulk invite people from a list or file",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "Organization admins can use Rovo to bulk invite people from a written list, Google Sheet, Excel spreadsheet, or CSV file shared in Rovo Chat. The skill can assign invited people to Atlassian apps and groups, helping admins provision access for multiple people more efficiently. To get started with this change Go to Atlassian Administration.\n\tSelect Rovo from the side menu.\n\tIn Rovo Chat, use the admin-bulk-invite skill.\n\tProvide a written list, Google Sheet, Excel spreadsheet, or CSV file with th",
+  "announced_date": "2026-09-14",
+  "rollout_start_date": "2026-09-14",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-14",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
+  "history": [
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    }
+  ]
+}

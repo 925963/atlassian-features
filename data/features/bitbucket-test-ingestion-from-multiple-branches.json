@@ -2,12 +2,12 @@
   "id": "bitbucket-test-ingestion-from-multiple-branches",
   "title": "Test ingestion from multiple branches",
   "product": "Bitbucket",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Bitbucket Cloud now supports test ingestion from up to 5 branches per repository. This change allows you to monitor test results across multiple development streams, rather than being limited to the default branch. By marking a specific branch as the default for test ingestion, you can ensure your primary test data is always prioritized while still capturing results from other critical branches. To get started with this change Go to your repository in Bitbucket Cloud.\n\tSelect Repository settings",
   "announced_date": "2026-07-13",
   "rollout_start_date": "2026-07-13",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/07/atlassian-cloud-changes-jul-13-to-jul-20-2026",
   "history": [
     {
@@ -54,6 +54,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

@@ -2,12 +2,12 @@
   "id": "confluence-enforce-site-level-control-for-anonymous-access",
   "title": "Enforce site-level control for anonymous access",
   "product": "Confluence",
-  "status": "rolling_out",
+  "status": "released",
   "description": "Confluence admins can now permanently enforce site-level control over anonymous access. This ensures that when anonymous access is turned off for your site, space admins can't override it at the space level. This update helps you maintain stronger governance and consistent security across all spaces. This update is available for all paid Confluence Cloud customers on role-based access model. If you aren't using roles yet, visit the Atlassian Cloud Roadmap for details on when roles-based access w",
   "announced_date": "2026-05-11",
   "rollout_start_date": "2026-05-11",
   "rollout_end_date": "2026-08-24",
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/05/atlassian-cloud-changes-may-11-to-may-18-2026",
   "history": [
     {
@@ -99,6 +99,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

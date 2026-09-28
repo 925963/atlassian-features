@@ -2,18 +2,23 @@
   "id": "jira-service-management-storage-limits-automatic-trials-for-service-collection-f",
   "title": "Storage limits: Automatic trials for Service Collection Free plans",
   "product": "Jira Service Management",
-  "status": "rolling_out_new",
+  "status": "rolling_out",
   "description": "Service Collection (Jira Service Management and Customer Service Management) now automatically starts a 14-day trial of the Standard plan for Free plan instances that exceed the 2 GB storage limit. This change helps you maintain your service without interruption while exploring the additional features and increased storage capacity available in the Standard plan. Navigate to Jira settings, then Products.\n\tSelect Storage management under Jira Service Management or Customer Service Management to v",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
   "rollout_end_date": null,
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
     {
       "date": "2026-09-07",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

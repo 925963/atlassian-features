@@ -2,12 +2,12 @@
   "id": "jira-platform-break-down-work-items-with-rovo-in-list-view",
   "title": "Break down work items with Rovo in list view",
   "product": "Jira platform",
-  "status": "rollout_complete",
+  "status": "rolling_out",
   "description": "Save time by using Rovo to break down parent work items into smaller tasks directly from the list view in Jira. This new feature in Jira and Jira business projects allows you to quickly generate child issues using AI-powered suggestions, helping your team stay organized and move faster. To get started with this change Open a Jira or Jira business project and select the List view.\n\tSelect the + icon or the inline child creation area under a parent work item.\n\tSelect the Break down with Rovo call-",
   "announced_date": "2026-08-10",
   "rollout_start_date": "2026-08-10",
   "rollout_end_date": "2026-08-31",
-  "last_seen_week": "2026-08-31",
+  "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-aug-10-to-aug-17-2026",
   "history": [
     {
@@ -34,6 +34,11 @@
       "date": "2026-09-07",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rolling_out",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
     }
   ]
 }

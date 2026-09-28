@@ -2,11 +2,11 @@
   "id": "loom-design-coherence-improvements-including-clearer-labelling-and-purposeful-mo",
   "title": "Design coherence improvements including clearer labelling and purposeful motion",
   "product": "Loom",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "We’re modernizing the experience across Atlassian apps with UI improvements that make moving between apps, features and pages feel seamless. These updates to labelling, motion and shapes help you and your team get work done in a familiar, predictable way.",
   "announced_date": "2026-07-27",
   "rollout_start_date": "2026-07-27",
-  "rollout_end_date": "2026-08-24",
+  "rollout_end_date": "2026-09-07",
   "last_seen_week": "2026-09-07",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/08/atlassian-cloud-changes-jul-27-to-aug-3-2026",
   "history": [
@@ -44,6 +44,11 @@
       "date": "2026-09-07",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026"
+    },
+    {
+      "date": "2026-09-14",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }
