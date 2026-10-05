@@ -1,0 +1,19 @@
+{
+  "id": "confluence-manage-confluence-access-requests-with-new-admin-controls",
+  "title": "Manage Confluence access requests with new admin controls",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Confluence administrators can now turn off built-in space and content access requests. This allows you to route users to your organization's established access request systems, such as Jira Service Management, ensuring a consistent audit trail and reducing administrative burden. To turn off access requests and set up custom messaging: Go to Confluence administration.\n\tSelect Permissions, then select Access requests.\n\tSelect the appropriate tab (Space access requests or Content access requests) t",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-analytics-view-active-users-by-day-week-or-month",
+  "title": "Analytics: View active users by day, week, or month",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now view active users metrics with daily, weekly, and monthly granularities in Atlassian Administration. This update allows you to see more precise trends in user activity by automatically adjusting the chart's breakdown based on your selected date range. To get started with this change: Log in to admin.atlassian.com.\n\tSelect your organization.\n\tGo to Insights, then Analytics.\n\tSelect the User activity tab.\n\tSelect a date range to see metrics at the requested granularity.",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

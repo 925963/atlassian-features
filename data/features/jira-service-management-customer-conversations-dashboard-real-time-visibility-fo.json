@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-customer-conversations-dashboard-real-time-visibility-fo",
+  "title": "Customer Conversations Dashboard: Real-time visibility for chat and voice",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Monitor real-time live chat and voice operations with the new Customer Conversations Dashboard in Jira Customer Service Management. Organization admins and Jira admins can now view live agent availability, active conversation loads, queue wait times, and SLA breaches across all service spaces in a single view. To get started with this change: Select Dashboards from the navigation.\n\tSelect Customer Conversations from the list.\n\tUse the global KPI cards to track real-time availability and wait tim",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "confluence-detached-inline-comments-now-appear-in-the-open-view",
+  "title": "Detached inline comments now appear in the Open view",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "Inline comments in Confluence can become detached from their original text when large sections of page content are rewritten by agents. Previously, these comments were moved to the \"Deleted content\" filter, which often hid active discussions from view. To ensure you don't miss important feedback, detached comments are now categorized as open and will appear in the Open filter of the comments panel. Open a Confluence page that contains inline comments.\n\tSelect the comments icon on the floating to",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

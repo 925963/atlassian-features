@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-data-security-policy-new-atlassian-rovo-mcp-server-cont",
+  "title": "Data security policy: New Atlassian Rovo MCP server control",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now set up the Atlassian Rovo MCP server control in Data Security Policy. Admins can govern how external AI tools read and write Jira and Confluence data using MCP, with org-wide defaults and overrides scoped by Atlassian apps, spaces, and classification levels. It works the same way as existing DSP controls like data export, anonymous access, and public links. To get started: Go to Atlassian Administration. Select your organization if you have more than one.\n\tSelect Secu",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

@@ -2,11 +2,11 @@
   "id": "rovo-connectors-improved-table-and-tools-for-organization-admins",
   "title": "Connectors: Improved table and tools for organization admins",
   "product": "Rovo",
-  "status": "rolling_out",
+  "status": "rollout_complete",
   "description": "Organization admins can now manage their connectors more efficiently in Atlassian Administration. We’ve revamped the connectors table and introduced new tools to help you filter connectors, see default apps, and other usability improvements. Go to admin.atlassian.com\n\tSelect your organization if you have more than one.\n\tSelect Connectors.\n\tSelect a connector from the list to view its new tools table.",
   "announced_date": "2026-09-07",
   "rollout_start_date": "2026-09-07",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-09-14",
   "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-7-to-sep-14-2026",
   "history": [
@@ -19,6 +19,11 @@
       "date": "2026-09-14",
       "status": "rolling_out",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    },
+    {
+      "date": "2026-09-21",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "id": "goals-metric-data-and-chart-improvements",
+  "title": "Metric data and chart improvements",
+  "product": "Goals",
+  "status": "rolling_out_new",
+  "description": "Metric improvements are available for Goals. Users can now add manual metric data outside updates, delete eligible metric values, see metric and target activity history, and enjoy a redesigned metric chart. To review and use metric improvements: Go to the Overview tab of a success measure type goal that has a metric attached.\n\tSelect Add metric data from the metric chart or from the progress field menu to add manual metric data.\n\tOpen Data table from the metric chart’s more actions menu to revie",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

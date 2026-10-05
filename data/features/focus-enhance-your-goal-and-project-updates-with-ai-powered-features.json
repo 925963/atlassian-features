@@ -2,12 +2,12 @@
   "id": "focus-enhance-your-goal-and-project-updates-with-ai-powered-features",
   "title": "Enhance your goal and project updates with AI-powered features",
   "product": "Focus",
-  "status": "rollout_complete",
+  "status": "released",
   "description": "Atlassian goals and projects are getting a few a new features powered by Rovo to help you write your updates. In Projects, Rovo can draft a project update for you based on related Jira work items, pages in Confluence, and other work across Atlassian apps. In both Goals and Projects, you can now have Rovo shorten your update draft.",
   "announced_date": "2026-08-31",
   "rollout_start_date": "2026-08-31",
   "rollout_end_date": "2026-09-07",
-  "last_seen_week": "2026-09-07",
+  "last_seen_week": "2026-09-21",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-aug-31-to-sep-7-2026",
   "history": [
     {
@@ -24,6 +24,11 @@
       "date": "2026-09-14",
       "status": "rollout_complete",
       "note": "Not seen in 4 consecutive weeks"
+    },
+    {
+      "date": "2026-09-21",
+      "status": "released",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
     }
   ]
 }

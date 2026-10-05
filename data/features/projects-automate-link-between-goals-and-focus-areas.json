@@ -1,0 +1,19 @@
+{
+  "id": "projects-automate-link-between-goals-and-focus-areas",
+  "title": "Automate link between goals and focus areas",
+  "product": "Projects",
+  "status": "rolling_out_new",
+  "description": "Automation for Focus now supports linking and unlinking Goals to/from Focus Areas using the existing actions Link work or goals to focus area and Unlink work or goals from focus area. This is an enhancement over existing provider support for Jira and Projects. To get started with this change In an automation rule, plug either of the following actions:\n\t\n\t\tLink work or goals to focus area\n\t\tUnlink work or goals from focus area\n\t\n\t\n\tIn the action configuration:\n\t\n\t\tSet provider to Goals.\n\t\tChoose ",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

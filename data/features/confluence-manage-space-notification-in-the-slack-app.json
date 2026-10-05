@@ -1,0 +1,19 @@
+{
+  "id": "confluence-manage-space-notification-in-the-slack-app",
+  "title": "Manage space notification in the Slack app",
+  "product": "Confluence",
+  "status": "rolling_out_new",
+  "description": "We're removing the Slack Notifications tab from space settings in Confluence Cloud. This change deprecates the user interface while ensuring that your notification delivery remains unaffected. You can continue to manage your space notification settings directly within the Slack app. To manage your space notifications: Open your space in Confluence.\n\tSelect Space settings from the sidebar.\n\tSelect Integrations to view your available app settings.\n\tTo manage your notifications, open the Slack app ",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

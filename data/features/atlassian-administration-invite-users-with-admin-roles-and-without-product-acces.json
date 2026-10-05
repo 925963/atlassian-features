@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-invite-users-with-admin-roles-and-without-product-acces",
+  "title": "Invite users with admin roles and without product access",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now invite people to an Atlassian organization with specific administrative roles, including organization admin, site admin, and unit admin. You can also invite people to your organization without granting them product access or adding them to a group, which helps you manage your directory more effectively. Note that you can only grant administrative access for roles and scopes that you currently have permission to administer within the organization. Go to Atlassian Admin",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

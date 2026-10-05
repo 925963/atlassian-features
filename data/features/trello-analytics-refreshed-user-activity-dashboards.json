@@ -1,0 +1,19 @@
+{
+  "id": "trello-analytics-refreshed-user-activity-dashboards",
+  "title": "Analytics: Refreshed user activity dashboards",
+  "product": "Trello",
+  "status": "rolling_out_new",
+  "description": "Organization admins can now access a modernized User activity experience in Atlassian Administration. We’ve migrated these insights to our new analytics platform to provide more flexible filtering, finer and coarser time-range granularities, and a more consistent interface across Atlassian apps. To get started with this change: Log in to admin.atlassian.com.\n\tSelect your organization.\n\tGo to Insights, then Analytics.\n\tSelect the User activity tab to view the updated dashboards.",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

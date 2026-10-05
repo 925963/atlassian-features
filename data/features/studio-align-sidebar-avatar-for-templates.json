@@ -1,0 +1,19 @@
+{
+  "id": "studio-align-sidebar-avatar-for-templates",
+  "title": "Align sidebar avatar for templates",
+  "product": "Studio",
+  "status": "rolling_out_new",
+  "description": "This update resolves a mismatch between agent avatars in the Rovo Studio sidebar and the agent’s details page for agents created from templates. Avatars will now be consistent across both sources. To get started with this change: Open the Rovo Studio template gallery\n\tCreate an agent from a template\n\tView agent details",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

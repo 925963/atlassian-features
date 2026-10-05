@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-a-unified-way-to-add-apps",
+  "title": "A unified way to add apps",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "We've updated the way you add apps in Atlassian Administration to provide a more consistent and streamlined experience. By unifying the add app flow, you'll now see a single, shared process for all apps, including a consolidated view for Terms of Service and security disclosures. Log in to admin.atlassian.com.\n\tSelect your organization.\n\tGo to Apps → Atlassian apps and select Add app.\n\tSelect the app and sites you would like to add and complete the setup",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-update-status-names-and-categories-in-workflow-editor-with-rovo",
+  "title": "Update status names and categories in workflow editor with Rovo",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "You can now update status names and categories in the workflow editor using Rovo. Previously, the skill would remove and replace a status instead of updating it. The new update status action also notifies you if other workflows are using that status, helping you manage changes to your workflow more effectively. To update status names and categories using Rovo: Open the workflow editor in Jira.\n\tSelect the Rovo icon to open the Manage Jira workflows skill.\n\tEnter a prompt to update a status name ",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

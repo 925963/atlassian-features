@@ -1,0 +1,19 @@
+{
+  "id": "rovo-guided-knowledge-base-setup",
+  "title": "Guided knowledge base setup",
+  "product": "Rovo",
+  "status": "rolling_out_new",
+  "description": "A guided knowledge base setup workflow in Jira Service Management helps admins connect Confluence or supported third-party sources, check permissions and plan eligibility, and complete authorization. It also separates basic Rovo eligibility for third-party connectors from the Rovo-powered Create with Rovo path. To set up a knowledge base source: Review the permission guidance shown for the source path.\n\tChoose Confluence or a supported third-party source.\n\tFor Confluence, select the tenant and s",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

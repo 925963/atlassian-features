@@ -2,11 +2,11 @@
   "id": "jira-platform-navigate-work-items-with-arrow-keys-in-the-preview-panel",
   "title": "Navigate work items with arrow keys in the preview panel",
   "product": "Jira platform",
-  "status": "rolling_out_new",
+  "status": "rollout_complete",
   "description": "Save time in Jira by using new arrow navigation in the preview panel. You can now step through work items in the list view and global search without having to return to selecting work items through your list, making it easier to review multiple items quickly. To view this change: Open a list of work items in the List view or through a global search.\n\tSelect a work item to open the preview panel.\n\tSelect the up or down arrows in the preview panel to move to the next or previous work item in your ",
   "announced_date": "2026-09-14",
   "rollout_start_date": "2026-09-14",
-  "rollout_end_date": null,
+  "rollout_end_date": "2026-09-14",
   "last_seen_week": "2026-09-14",
   "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026",
   "history": [
@@ -14,6 +14,11 @@
       "date": "2026-09-14",
       "status": "rolling_out_new",
       "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-14-to-sep-21-2026"
+    },
+    {
+      "date": "2026-09-21",
+      "status": "rollout_complete",
+      "note": "Not seen in 4 consecutive weeks"
     }
   ]
 }

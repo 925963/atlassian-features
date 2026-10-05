@@ -1,0 +1,19 @@
+{
+  "id": "atlassian-administration-api-token-authentication-for-mcp-servers",
+  "title": "API token authentication for MCP servers",
+  "product": "Atlassian Administration",
+  "status": "rolling_out_new",
+  "description": "Organization admins can register supported gallery MCP servers in Atlassian Administration using a customer-supplied API token. Access is protected by server-level role-based access control, so admins can control which people or groups can discover and use the server’s tools. To set up API token authentication for MCP servers: Go to Atlassian Administration. Select your organization if you have more than one.\n\tFrom the left sidebar, select Apps, then select Sites, and select your site.\n\tIn Site ",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

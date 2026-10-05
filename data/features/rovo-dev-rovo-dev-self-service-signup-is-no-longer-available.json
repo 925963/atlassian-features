@@ -1,0 +1,19 @@
+{
+  "id": "rovo-dev-rovo-dev-self-service-signup-is-no-longer-available",
+  "title": "Rovo Dev self-service signup is no longer available",
+  "product": "Rovo Dev",
+  "status": "rolling_out_new",
+  "description": "Self-service signup for Rovo Dev has been removed from https://www.atlassian.com/ and Atlassian Administration. New customers must now contact sales to request the app, while existing customers retain all current access and billing functionality. New customers interested in Rovo Dev should visit the marketing or pricing pages on https://www.atlassian.com/ and select Contact sales.",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

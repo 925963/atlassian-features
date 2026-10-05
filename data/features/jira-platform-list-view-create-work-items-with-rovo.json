@@ -1,0 +1,19 @@
+{
+  "id": "jira-platform-list-view-create-work-items-with-rovo",
+  "title": "List view: Create work items with Rovo",
+  "product": "Jira platform",
+  "status": "rolling_out_new",
+  "description": "We've updated the empty state in the list view for Jira Software and business projects to help you get started faster. If your site has Atlassian Rovo enabled, you'll now see a Rovo-first landing state when a list is empty. This change allows you to quickly generate multiple work items using Rovo or use an enhanced inline creation form with AI-powered suggestions, making it easier to populate your project and organize your work. Navigate to a Jira Software or business project that has Atlassian ",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}

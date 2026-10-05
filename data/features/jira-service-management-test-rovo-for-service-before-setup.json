@@ -1,0 +1,19 @@
+{
+  "id": "jira-service-management-test-rovo-for-service-before-setup",
+  "title": "Test Rovo for Service before setup",
+  "product": "Jira Service Management",
+  "status": "rolling_out_new",
+  "description": "Jira Service Management space admins can now test-drive draft Rovo for Service agents against their service desk knowledge base in an interactive chat sidebar before going live. The enhanced onboarding flow provides full visibility and control through demo walkthroughs for unconfigured service desks, transparent setup reviews (including knowledge base status, portal surfaces, and skills), and seamless one-click publishing to Studio. To test Rovo for Service before setup: Go to AI Agents or Porta",
+  "announced_date": "2026-09-21",
+  "rollout_start_date": "2026-09-21",
+  "rollout_end_date": null,
+  "last_seen_week": "2026-09-21",
+  "source_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026",
+  "history": [
+    {
+      "date": "2026-09-21",
+      "status": "rolling_out_new",
+      "week_url": "https://confluence.atlassian.com/cloud/blog/2026/09/atlassian-cloud-changes-sep-21-to-sep-28-2026"
+    }
+  ]
+}
